@@ -1,0 +1,503 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>一中骄傲 | 百四春秋忆孟邻：绍兴走出的教育巨擘蒋梦麟--校友动态-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_390/Index.aspx">校友会资讯</a></li>
+<li class="li2 last on"><a href="/Shaoxingyizhong/Category_391/Index.aspx">校友动态</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="noData">暂无资料</li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_3/Index.aspx" target="_self">百年芳华</a>&gt;
+    <a href="/Shaoxingyizhong/Category_389/Index.aspx" target="_self">校友之家</a>&gt;
+    <a href="/Shaoxingyizhong/Category_391/Index.aspx" target="_self">校友动态</a></div>
+                    <h3>校友动态</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">一中骄傲 | 百四春秋忆孟邻：绍兴走出的教育巨擘蒋梦麟</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年01月23日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22694"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:22694},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=22694";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <h1 style="margin-top:0;margin-right:0;margin-bottom:14px;margin-left:0;text-indent:0;padding:0 0 0 0 ;background:rgb(255,255,255)">
+</h1><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 25px;background: rgb(255, 255, 255)"><strong><span style=";font-family:宋体;font-size:16px">编者按</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:31px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 2px;font-size: 16px"><span style="font-family:Arial">蒋梦麟（</span>1886－1964），原名梦熊，字兆贤，号孟邻，浙江余姚人。1897－1899年就读于绍郡中西学堂（我校前身），为蔡元培学生。中国近现代著名教育家。1908年赴美留学，次年入加州大学，先习农学，后转学教育，随后赴纽约哥伦比亚大学研究院，师从美国著名哲学家、教育家杜威。1917年获教育学博士学位后归国。曾三度代理北大校长，1930年后正式任北大校长，凡十五年。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:31px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 2px;font-size: 16px"> </span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:31px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 2px;font-size: 16px"> </span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">今日是</span>2026年1月20日，恰逢中国近现代教育家蒋梦麟先生140周年诞辰。这位从浙江绍兴走出的学人，以其毕生心力在中国教育史上镌刻下不可磨灭的印记。时光回溯，我们仿佛能看见那个从绍兴一中前身——绍郡中西学堂走出的少年，如何一步步成长为执掌中国最高学府、影响一代教育格局的大家。</span><span style=";font-family:宋体;font-size:16px">
+</span><strong><span style=";font-family:宋体;font-size:16px">绍兴根脉：一校双星耀北大</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">在绍兴教育史上，有一处特别值得铭记的所在：绍兴一中</span>(绍郡中西学堂)。这所创办于1897年的新式学堂，竟先后走出了两位北京大学校长——蔡元培与蒋梦麟。这种巧合背后，实则是绍兴深厚文化底蕴与开放进取精神碰撞的必然。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">蒋梦麟在绍兴一中</span>(原绍郡中西学堂)求学时期，正值晚清社会剧变、新旧思想交锋之际。学堂“中西并重”的办学理念，为他日后“取中国之国粹，调和世界近世之精神”的教育思想埋下了种子。在这里，他既接受了传统经典熏陶，又接触了西方科学知识，这种双重文化滋养，塑造了他兼容并蓄的学术视野。</span><span style=";font-family:宋体;font-size:16px">
+</span><strong><span style=";font-family:宋体;font-size:16px">负笈西洋：从伯克利到哥伦比亚</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">从中秀才到赴美留学，蒋梦麟的人生轨迹折射出近代中国知识分子寻求救国之路的典型路径。</span>1912年，他于加州大学伯克利分校获得教育学学士学位，随后进入哥伦比亚大学研究院，师从美国实用主义哲学大师杜威。这段留学经历不仅让他获得了哲学及教育学博士学位，更深刻影响了他的教育理念。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">在杜威门下，蒋梦麟系统学习了实用主义教育思想，但他并未全盘照搬西方理论，而是始终思考如何将其与中国实际相结合。这种</span><span style="font-family:Arial">“调和”意识，成为他一生教育实践的主线。他曾在回忆中写道：“吾人若视教育为增进文明之方法，则当自中外文明之比较入手。”</span></span></p><p><span style=";font-family:宋体;font-size:16px">
+</span><span style=";font-family:宋体;font-size:16px">
+</span><strong><span style=";font-family:宋体;font-size:16px">执掌北大：最长校长的坚守与革新</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">1930年至1945年，蒋梦麟担任北京大学校长，成为北大历史上任职时间最长的校长。这一时期，中国社会动荡不安，抗日战争全面爆发，北大先后南迁至长沙、昆明，与清华大学、南开大学合组西南联合大学。在极端困难条件下，蒋梦麟秉持“整饬纪律，发展群治，以补本校之不足”的理念，维系了中国高等教育的命脉。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">在北大，他推行了一系列改革：加强学科建设，推进学术研究，注重培养学生的</span><span style="font-family:Arial">“科学之精神”与“社会之自觉”。他主张大学教育不应仅是知识传授，更要培养学生的独立思考能力与社会责任感。这种教育理念，在抗战时期的特殊环境下，更显其深远意义。</span></span><span style=";font-family:宋体;font-size:16px">
+</span><strong><span style=";font-family:宋体;font-size:16px">教育理念：中西调和的文化自觉</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">蒋梦麟教育思想的核心在于</span><span style="font-family:Arial">“调和”二字。面对中西文化碰撞，他既反对全盘西化，也拒绝固步自封，而是主张“取中国之国粹，调和世界近世之精神”。他认为教育的根本任务是“定标准，立问题”——既要确立价值标准，又要培养学生发现和解决问题的能力。</span></span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">这种</span><span style="font-family:Arial">“调和”不是简单的折中，而是基于深刻文化自觉的创造性转化。在《西潮》《新潮》等著作中，他详细阐述了对中西文化的比较与思考，主张教育应当培养既能扎根中国土壤、又能面向世界的现代公民。他强调“科学之精神”与“社会之自觉”并重，既注重理性思维培养，又强调社会责任感塑造。</span></span></p><p><span style=";font-family:宋体;font-size:16px">
+</span><strong><span style=";font-family:宋体;font-size:16px">两岸分隔：晚年的思考与牵挂</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">1949年，蒋梦麟随国民政府赴台，从此与大陆相隔。在台湾，他继续关注教育发展，撰写回忆录与教育论著。1964年6月19日，蒋梦麟在台北逝世，结束了他从绍兴到北京再到台北的传奇人生。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">尽管身处海峡对岸，蒋梦麟晚年的思考始终未离开中国教育的前途。他的自传体作品《西潮》，以平实而深邃的笔触，记录了一个中国知识分子在时代巨变中的观察与思考，成为研究中国近现代教育史不可或缺的重要文献。</span><span style=";font-family:宋体;font-size:16px">
+</span><strong><span style=";font-family:宋体;font-size:16px">精神遗产：跨越时空的教育之光</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">今天，当我们纪念蒋梦麟先生</span>140周年诞辰，不仅是在缅怀一位杰出教育家，更是在重新审视他所代表的那种文化立场与教育理想。在全球化深入发展的当下，如何“取中国之国粹，调和世界近世之精神”，仍然是摆在中国教育面前的重要课题。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">绍兴一中校园里，或许仍有年轻学子走过当年蒋梦麟求学时的旧址。从这座江南古城走出的教育思想，历经百年沉淀，依然闪耀着智慧的光芒。蒋梦麟先生的一生告诉我们：真正的教育革新，从来不是简单的抛弃或模仿，而是在深刻理解自身传统的基础上，以开放胸怀吸收人类文明精华，培养能够担当民族复兴大任的现代人才。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 0;font-size: 16px">百四春秋如逝水，教育薪火永相传。在今日这个特殊的日子，我们纪念蒋梦麟，不仅是为了一位绍兴的骄傲、北大的功臣，更是为了那份超越时代的中西文化调和智慧，那种立足本土、面向世界的教育情怀。这份精神遗产，值得每一代教育工作者珍视与传承。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;background:rgb(255,255,255)"><span style="font-family: 微软雅黑;letter-spacing: 1px;font-size: 17px"> </span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:right;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 0;font-size: 16px">王卫列（绍兴一中校友会会长）</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:0;padding:0 0 0 0 ;text-align:right;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">  2026年1月20日</span></p><p><span style=";font-family:Calibri;font-size:14px"> <img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/1/202601230846250529.jpg" style="max-width: 100%; " title="202601230846250529.jpg" /></span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22641.aspx" target="_self" title="标题：绍兴一中关于130周年校庆筹备征集校史资料和实物的公告&#xD;点击数：0&#xD;发表时间：26年01月05日">绍兴一中关于130周年校庆筹备征集校史资料和实物的公告</a>[ 01-05 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/22700.aspx" target="_self" title="标题：爱在一中｜陈宇峰、林姗姗校友伉俪捐赠130万元设立“恺正基金”&#xD;点击数：0&#xD;发表时间：26年01月23日">爱在一中｜陈宇峰、林姗姗校友伉俪捐赠130万元设立“恺正基金”</a>[ 01-23 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

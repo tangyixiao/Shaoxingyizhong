@@ -1,0 +1,496 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>每周一学（2026年4月6日-4月12日）树立和践行正确政绩观--学习专栏-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Shaoxingyizhong/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Shaoxingyizhong/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Shaoxingyizhong/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Shaoxingyizhong/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Shaoxingyizhong/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23163.aspx" target="_blank" title="标题：每周一学（2026年5月4日-5月10日）着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全&#xD;点击数：20&#xD;发表时间：2026年05月07日">每周一学（2026年5月4日-5月10日）着力提高防范应对自然…</a><span class="dateRight">[05-07]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    <a href="/Shaoxingyizhong/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Shaoxingyizhong/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+                    <h3>学习专栏</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">每周一学（2026年4月6日-4月12日）树立和践行正确政绩观</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年04月07日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22993"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:22993},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=22993";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="font-family: 等线;font-size: 16pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 等线;font-size: 16pt;margin: 0;padding: 0;"><strong>树立和践行正确政绩观※</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">习近平</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>一</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　我们讲宗旨，讲了很多话，但说到底还是为人民服务这句话。我们党就是为人民服务的。中央的考虑，是要为人民做事。各级干部也不能眼睛总是向上。任何事情都要向上看看，向下看看。要经常问问自己，我们是不是在忙着与党的根本宗旨毫不相关的事情？有没有一心一意在为老百姓做事情？是不是在围绕党和国家中心任务而工作？古时候讲，食君之禄，忠君之事。现在就是要服务人民。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2012年12月29日、30日在河北省阜平县考察扶贫开发工作时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　概括起来说，好干部要做到信念坚定、为民服务、勤政务实、敢于担当、清正廉洁。信念坚定，党的干部必须坚定共产主义远大理想，真诚信仰马克思主义，矢志不渝为中国特色社会主义而奋斗，坚持党的基本理论、基本路线、基本纲领、基本经验、基本要求不动摇。为民服务，党的干部必须做人民公仆，忠诚于人民，以人民忧乐为忧乐，以人民甘苦为甘苦，全心全意为人民服务。勤政务实，党的干部必须勤勉敬业、求真务实、真抓实干、精益求精，创造出经得起实践、人民、历史检验的实绩。敢于担当，党的干部必须坚持原则、认真负责，面对大是大非敢于亮剑，面对矛盾敢于迎难而上，面对危机敢于挺身而出，面对失误敢于承担责任，面对歪风邪气敢于坚决斗争。清正廉洁，党的干部必须敬畏权力、管好权力、慎用权力，守住自己的政治生命，保持拒腐蚀、永不沾的政治本色。这些说起来大家都明白，但要真正做到就不那么容易了。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2013年6月28日在全国组织工作会议上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>三</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　衡量党性强弱的根本尺子是公、私二字。有的领导干部为了捞资本、谋升迁，不惜动用人力物力财力，大搞“形象工程”、“政绩工程”；有的领导干部任人唯亲、任人唯利，甚至搞顺我者昌、逆我者亡；有的领导干部以权谋私、贪赃枉法，为自己和小团体谋取私利，甚至到了欲壑难填、蛇欲吞象的地步，其中的动因不就是一个“私”字吗？有人说，现在不要讲“大公无私”了，因为干部的合理合法利益也要承认，应该是“大公有私”。这是一个谬论！干部合理合法的利益当然要承认，也要保障，但这同私心、私利、私欲不是同一个概念，不能混为一谈。作为党的干部，就是要全心全意为人民服务，就是要诚心诚意为党和人民事业奋斗，就是要讲大公无私、公私分明、先公后私、公而忘私。如果连这一点都不讲了，我们党还是中国工人阶级先锋队吗？还是中国人民和中华民族先锋队吗？作为共产党员，作为党的干部，只有一心为公，事事出于公心，才能有正确的是非观、义利观、权力观、事业观，才能把群众装在心里，才能坦荡做人、谨慎用权，才能光明正大、堂堂正正。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2013年9月23日—25日在参加河北省委常委班子专题民主生活会时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>四</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　人民是国家的主人，干部是人民的公仆。公仆公仆，一要为公，不能有私心；二要为仆，不能有官气。公仆对人民负责，天经地义。这种关系不能颠倒。任何党员、干部，只有为人民服务的责任和义务，没有当官做老爷的权力。对这个问题，我们要进一步向广大党员、干部讲清楚，而且要经常讲、反复讲。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2014年8月27日在听取兰考县和河南省党的群众路线教育实践活动情况汇报时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>五</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　在县委书记这个岗位上，很多人都想干一番事业，这种想法和干劲是必须有的。我当年到了正定，看到老百姓生活比较贫困、经济社会发展水平比较落后的情形，心里很着急，的确有一股激情、一种志向，想尽快改变这种面貌。但是，干事创业一定要树立正确政绩观，做到“民之所好好之，民之所恶恶之”。要求真务实、真抓实干，做工作自觉从人民利益出发，决不能为了树立个人形象，搞华而不实、劳民伤财的“形象工程”、“政绩工程”。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2015年1月12日在中央党校县委书记研修班学员座谈会上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>六</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　功成不必在我并不是消极、怠政、不作为，而是要牢固树立正确政绩观，既要做让老百姓看得见、摸得着、得实惠的实事，也要做为后人作铺垫、打基础、利长远的好事，既要做显功，也要做潜功，不计较个人功名，追求人民群众的好口碑、历史沉淀之后真正的评价。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2018年3月8日在参加十三届全国人大一次会议山东代表团审议时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>七</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　考核干部要经常化、制度化、全覆盖，既把功夫下在平时，全方位、多渠道了解干部，又注重了解干部在完成急难险重任务、处理复杂问题、应对重大考验中的表现，既在小事上察德辨才，更在大事上看德识才。要强化分类考核，对资源禀赋、基础水平、发展阶段、主体功能区定位不同的地区在考核内容上要区别对待。对主要领导干部和班子成员、不同岗位的领导干部也应有不同的考核要求，不能搞“上下一般粗”、“左右一个样”。“近水知鱼性，近山识鸟音。”我讲过，要近距离接触干部，看干部对重大问题的思考、对群众的感情、对待名利的态度、为人处世方式、处理复杂问题能力。干部业绩在实践，干部声名在民间。要带上“望远镜”、“显微镜”，对干部近距离接触、多角度考察；多到基层干部群众中、多在乡语口碑中了解干部，使选出来的干部组织放心、群众满意、干部服气。要把研究人和研究事结合起来，避免从抽象到抽象，凭感觉下结论。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2018年7月3日在全国组织工作会议上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>八</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　干部干事创业要树立正确政绩观，有功成不必在我的精神境界、功成必定有我的历史担当，发扬钉钉子精神，脚踏实地干。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2019年3月1日在2019年春季学期中央党校〈国家行政学院〉中青年干部培训班开班式上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>九</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　要践行新时期好干部标准，不做政治麻木、办事糊涂的昏官，不做饱食终日、无所用心的懒官，不做推诿扯皮、不思进取的庸官，不做以权谋私、蜕化变质的贪官。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2019年7月9日在中央和国家机关党的建设工作会议上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　要树立正确政绩观，处理好稳和进、立和破、虚和实、标和本、近和远的关系，坚持底线思维，强化风险意识，自觉把新发展理念贯穿到经济社会发展全过程。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2020年1月21日在云南考察时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 11pt;margin: 0;padding: 0;"><img src="\UploadFiles\dw\2026\4\202604071402105324.Jpeg" style="width: 5.768055in; height: 3.848611in" alt="202604071402107423.Jpeg" /></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　2026年3月23日，中共中央总书记、国家主席、中央军委主席习近平在河北雄安新区考察，并主持召开深入推进雄安新区高质量建设和发展座谈会。这是23日下午，习近平主持召开深入推进雄安新区高质量建设和发展座谈会并发表重要讲话。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十一</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　中国共产党把为民办事、为民造福作为最重要的政绩，把为老百姓办了多少好事实事作为检验政绩的重要标准。党员、干部特别是领导干部要清醒认识到，自己手中的权力、所处的岗位，是党和人民赋予的，是为党和人民做事用的，只能用来为民谋利。各级领导干部要树立正确的权力观、政绩观、事业观，不慕虚荣，不务虚功，不图虚名，切实做到为官一任、造福一方。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2020年5月22日在参加十三届全国人大三次会议内蒙古代表团审议时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十二</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　各地区要根据自身条件和可能，既全面贯彻新发展理念，又抓住短板弱项来重点推进，不能脱离实际硬干，更不要为了出政绩不顾条件什么都想干，最后什么也干不成。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2021年1月28日在十九届中央政治局第二十七次集体学习时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十三</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　共产党的干部要坚持当“老百姓的官”，把自己也当成老百姓，不要做官当老爷，在这一点上，年轻干部从一开始就要想清楚，而且要终身牢记。年轻干部无论是立身处世还是从政干事，首先要解决好“我是谁、为了谁、依靠谁”的问题，不断追求“我将无我，不负人民”的精神境界。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2021年3月1日在2021年春季学期中央党校〈国家行政学院〉中青年干部培训班开班式上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十四</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　形式主义、官僚主义是党和国家事业发展的大敌。要从领导干部特别是主要领导干部抓起，树立正确政绩观，尊重客观实际和群众需求，强化系统思维和科学谋划，多做为民造福的实事好事，杜绝装样子、搞花架子、盲目铺摊子。要落实干部考核、工作检查相关制度，科学评价干部政绩，促进干部更好担当作为。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2022年1月18日在十九届中央纪委六次全会上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十五</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　树立和践行正确政绩观，起决定性作用的是党性。只有党性坚强、摒弃私心杂念，才能保证政绩观不出偏差。现在，一些领导干部做事动机并不那么纯正，把干事和个人名利捆绑在一起。有的为了获取升迁资本，重显绩轻潜绩、重面子轻里子，好大喜功、急功近利。有的为了迎合上级、讨领导欢心，热衷于打造领导“可视范围”内的项目工程，不怕群众不满意、就怕领导不注意。有的为了给自己留名、替自己立碑，喜欢“做秀”而不是“做事”，热衷于“造势一时”而不是“造福一方”。有的有了一点成绩，就伸手向组织要回报，如果三五年没有动静就觉得组织上亏待了他。大家一定要牢记创造业绩的目的是为人民谋利益，真正把心思和精力放在为党和人民干事创业上。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　共产党人必须牢记，为民造福是最大政绩。我们谋划推进工作，一定要坚持全心全意为人民服务的根本宗旨，坚持以人民为中心的发展思想，坚持发展为了人民、发展依靠人民、发展成果由人民共享，把好事实事做到群众心坎上。什么是好事实事，要从群众切身需要来考量，不能主观臆断，不能简单化、片面化。当年，我在地方工作时，针对一些干部片面追求经济增长而忽视群众实际需求的情况专门强调：必须明确好事实事的概念，扶持经济发展，帮助群众富裕起来是好事实事；弘扬社会正气，打击“害群之马”，丰富群众业余生活，创造良好社会环境，也是好事实事；解决群众衣食住行之苦、生老病死之需，是好事实事；甚至远处僻土深山的群众买不到灯泡、肥皂之类针头线脑的小事，得到我们的关心解决，也是好事实事。我就是要告诉大家：哪里有人民需要，哪里就能做出好事实事，哪里就能创造业绩；业绩好不好，要看群众实际感受，由群众来评判。当时我还强调：有些事情是不是好事实事，不能只看群众眼前的需求，还要看是否会有后遗症，是否会“解决一个问题，留下十个遗憾”。我讲的这些观点，现在也是适用的。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2022年3月1日在2022年春季学期中央党校〈国家行政学院〉中青年干部培训班开班式上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十六</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　完善干部考核评价体系，引导干部树立和践行正确政绩观，推动干部能上能下、能进能出，形成能者上、优者奖、庸者下、劣者汰的良好局面。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2022年10月16日在中国共产党第二十次全国代表大会上的报告）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十七</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　任何时候我们都不能走那种急就章、竭泽而渔、唯GDP的道路。这就是为什么要树牢新发展理念。树立正确的政绩观也就在这里，功成不必在我、功成必定有我。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2023年3月5日在参加十四届全国人大一次会议江苏代表团审议时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十八</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　各级领导班子要牢记党和人民嘱托，发扬“功成不必在我、功成必定有我”的精神，坚持一张蓝图绘到底，对已有的部署和规划，只要是科学的、切合新的实践要求的、符合人民群众愿望的，就要坚持，一茬接着一茬干，防止换届后容易出现的政绩冲动、盲目蛮干、大干快上以及“换赛道”、“留痕迹”等现象。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2023年4月3日在学习贯彻习近平新时代中国特色社会主义思想主题教育工作会议上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>十九</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　树牢造福人民的政绩观，坚持以人民为中心的发展思想，坚持高质量发展，不搞贪大求洋、盲目蛮干、哗众取宠；坚持出实招求实效，不搞华而不实、投机取巧、数据造假；坚持打基础利长远，不搞急功近利、竭泽而渔、劳民伤财。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2023年7月7日在江苏考察时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　领导干部要树牢造福人民的政绩观。我们共产党人干事业、创政绩，为的是造福人民，不是为了个人升迁得失。中央政治局的同志要带头坚持以人民为中心的发展思想，坚持高质量发展，反对贪大求洋、盲目蛮干；坚持出实招求实效，反对华而不实、数据造假；坚持打基础利长远，反对竭泽而渔、劳民伤财。高质量发展是全面建设社会主义现代化国家的首要任务，坚持高质量发展要成为领导干部政绩观的重要内容。要完善推动高质量发展的政绩考核评价办法，发挥好指挥棒作用，推动各级领导班子认真践行正确政绩观，切实形成正确工作导向。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2023年12月21日、22日在中央政治局学习贯彻习近平新时代中国特色社会主义思想主题教育专题民主生活会上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十一</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　衡量干部业绩好不好，关键要看老百姓口碑好不好。各级领导干部要向谷文昌同志学习，树牢正确政绩观，为官一任、造福一方，真抓实干、久久为功，把丰碑立在人民群众心中。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2024年10月15日在福建考察时的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十二</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　着力纠治政绩观偏差。完善高质量发展考核体系和干部政绩考核评价体系。对违规招商引资、搞地方保护、新官不理旧账等行为，及时批评纠正，对性质恶劣的严肃追究责任。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2025年7月1日在二十届中央财经委员会第六次会议上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十三</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　要树立和践行正确政绩观。政绩既体现在抓发展上，也体现在惠民生、保稳定上；既体现在即期见效的显绩上，也体现在打基础、增后劲、利长远的潜绩上；既体现在解决现实矛盾上，也体现在解决历史遗留问题上。要教育引导各级领导干部坚持为人民出政绩、以实干出政绩，自觉按规律办事，不在追求政绩上搞急功近利、弄虚作假、盲目蛮干那一套，杜绝新官不理旧账和“形象工程”、“政绩工程”。要完善差异化考核评价体系，提高考核的针对性和科学性，让考核指挥棒真正管用。当前，正在按照党的二十届四中全会《建议》编制国家和地方“十五五”规划及专项规划。要加强统筹，精简优化交叉重复、缺乏实效的规划编制任务，防止规划过多过滥。所有规划都要实事求是，追求实实在在、没有水分的增长，推动高质量、可持续的发展。对于脱离实际急躁冒进、层层加码、乱铺摊子的，要严肃问责。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2025年12月10日在中央经济工作会议上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十四</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　各级领导干部要从实现党的使命任务出发，树立和践行正确政绩观，看自己的思想和行动有没有偏离共产主义远大理想和中国特色社会主义共同理想，有没有背离全心全意为人民服务根本宗旨，有没有游离党的路线方针政策和党中央重大决策部署，有没有脱离国情和本地区本部门实际，以功成不必在我、功成必定有我的精神境界，心无旁骛推进中国式现代化。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2026年1月12日在二十届中央纪委五次全会上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十五</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　树立和践行正确政绩观。政绩观问题是一个根本性问题，关乎立党为公、执政为民。正确政绩观要求我们坚持从实际出发、按规律办事，通过科学决策和实干苦干，创造经得起实践和历史检验、真正造福人民、得到群众公认的业绩。错误政绩观则是从个人或小团体利益出发，心浮气躁、急功近利、弄虚作假、盲目蛮干，搞“形象工程”、“政绩工程”，留下包袱和隐患，引起人民群众强烈不满。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2026年1月20日在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十六</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　要引导党员干部特别是领导干部坚持为人民出政绩、以实干出政绩，自觉在追求政绩上杜绝标新立异、好大喜功、花拳绣腿、劳民伤财、新官不理旧账那一套。同时，要完善差异化考核评价体系，提高考评针对性和科学性，防止出现“数字出官、官出数字”的恶性循环。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2026年1月20日在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;"><strong>二十七</strong></span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　树立和践行正确政绩观讲了多年、抓了多年，取得一些成效。但从巡视、督查和查办案件的情况看，政绩观方面仍然存在不少突出问题，需要长期不断地抓。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　今年是“十五五”开局之年，地方各级领导班子将陆续换届，通过学习教育推动各级领导班子和领导干部树立和践行正确政绩观，十分重要，很有必要。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　《关于在全党开展树立和践行正确政绩观学习教育的通知》，对学习教育的目标要求、工作安排、组织领导等作了明确部署。中央党的建设工作领导小组要在党中央领导下，抓好统筹协调，精心组织实施，督促各级党组织把学习教育作为今年党的建设的重要任务，确保取得实效。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　第一，认认真真、扎扎实实提高思想认识。我们党是立党为公、执政为民的党，是全心全意为人民服务的党，只有不断以良好政绩推动党和国家事业发展、造福人民，才能践行好党的宗旨，也才能完成好党的历史使命。党的十八大以来，我反复强调要完整准确全面贯彻新发展理念、着力推动高质量发展，要把这个要求一级一级落实下去，没有正确政绩观是做不到的。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　大量事实表明，政绩观偏差和错位，会浪费资源、助长形式主义、滋生不正之风和腐败现象，最终劳民伤财，破坏党群干群关系，影响领导班子和领导干部在人民群众心目中的形象，如果放任下去，就会动摇党的执政根基，危害十分严重。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　全党同志特别是各级领导干部要从理论上和实践上深刻认识政绩观对党和国家事业发展的重要性，特别是要对照正反两方面典型，深刻汲取经验教训，提高党性觉悟，以对党和人民高度负责的态度，增强树立和践行正确政绩观的思想自觉和行动自觉。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　第二，认认真真、扎扎实实整改突出问题。要把正确政绩观树起来、践行好，必须坚持目标导向和问题导向相结合，切实解决政绩观突出问题。这次学习教育，要紧扣贯彻“立党为公、为民造福、科学决策、真抓实干”总要求，一体推进学查改，把问题查清、找准，精准务实抓整改。要列出问题清单，对标对表、精准画像，能改即改、立行立改，对历史形成、一时难以完全解决的问题制定切实可行的计划和方案，盯住不放，锲而不舍整改到位。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　摆问题、查根源、拿处方，要上下联动。要从领导机关和领导干部抓起、改起，主要领导干部要带好头、作表率，一级做给一级看、一级带着一级改。要坚持实事求是，是什么问题就解决什么问题、有多少问题就解决多少问题、问题该用什么方法解决就用什么方法解决，不能笼而统之提要求、“一锅煮”。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　解决问题必须下真功、使实劲，不能虚以应对走过场。要见事见人、责任到人，敢于动真碰硬，坚持抓典型抓现行抓通报，对发现的违规违纪违法问题及时通报、查处，并加强警示教育和以案促改。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　第三，认认真真、扎扎实实立好制度规矩。政绩观问题，与权力任性滥用关联度很高，必须把权力关进制度的笼子。要从这次学习教育查改的问题中发现制度漏洞、短板、弱项，切实把制度规矩补齐立好，把什么能干、什么不能干、为了谁干、应当怎样干搞得清清楚楚，并且配套完善问责办法，让制度硬起来，充分发挥引导激励、规范约束作用。考察干部，要看是不是老老实实践行正确政绩观，把既有能力又忠诚老实的人用起来，对投机取巧、四面圆滑、八面玲珑的人决不能用。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　领导职位越高，政绩观出问题所产生的危害越大。要严格执行民主集中制，完善领导班子议事决策规则，防止和克服新官不理旧账、急功近利、弄虚作假、盲目蛮干、违背群众意愿不切实际决策、搞“形象工程”和“政绩工程”、政策规划“翻烧饼”、违规新增地方政府隐性债务等问题。要加强对“一把手”的监督，防止“一把手”任性用权、搞朝令夕改。要完善政绩考核评价体系，发挥好考核“指挥棒”作用。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　要用好正反两方面典型。正面典型要找准，经得起检验，加强宣传，不要刻意包装。反面典型要区分不同层面和类别，梳理存在的问题和表现，有针对性加以分析，真正发挥警示作用。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（2026年2月5日关于在全党开展树立和践行正确政绩观学习教育的指示）</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">　　※这是习近平总书记2012年12月至2026年2月期间有关树立和践行正确政绩观重要论述的节录。</span></p><p style="font-family: 等线;font-size: 11pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;"><span style="font-family: 等线;font-size: 11pt;margin: 0;padding: 0;">（来源：求是）</span></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22962.aspx" target="_self" title="标题：每周一学（2026年3月30日-4月5日）习近平在参加首都义务植树活动&#xD;点击数：20&#xD;发表时间：26年03月31日">每周一学（2026年3月30日-4月5日）习近平在参加首都义务植树活动</a>[ 03-31 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/23048.aspx" target="_self" title="标题：每周一学（2026年4月13日-4月19日）全民国家安全教育日&#xD;点击数：16&#xD;发表时间：26年04月15日">每周一学（2026年4月13日-4月19日）全民国家安全教育日</a>[ 04-15 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

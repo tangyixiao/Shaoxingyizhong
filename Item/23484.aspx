@@ -1,0 +1,507 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>绍兴市教育教学研究院绍兴市教育技术中心关于开展2026年绍兴市教育教学改革创新（教育技术）比赛的通知--教科室-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_26/Index.aspx">教学处</a></li>
+<li class="li3 on"><a href="/Shaoxingyizhong/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Shaoxingyizhong/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Shaoxingyizhong/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Shaoxingyizhong/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Shaoxingyizhong/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Shaoxingyizhong/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Shaoxingyizhong/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Shaoxingyizhong/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Shaoxingyizhong/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Shaoxingyizhong/Category_35/Index.aspx">高三</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23506.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：67&#xD;发表时间：2026年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单…</a><span class="dateRight">[08-18]</span></li><li><a href="/Shaoxingyizhong/Item/23505.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励人员名单及结果公示&#xD;点击数：128&#xD;发表时间：2026年08月15日">关于2026年“名师激励”岗位考核激励人员名单及结果公示</a><span class="dateRight">[08-15]</span></li><li><a href="/Shaoxingyizhong/Item/23488.aspx" target="_blank" title="标题：2026 年全市高中学校教师学科综合素养比武方案（转发）&#xD;点击数：167&#xD;发表时间：2026年07月07日">2026 年全市高中学校教师学科综合素养比武方案（转发）</a><span class="dateRight">[07-07]</span></li><li><a href="/Shaoxingyizhong/Item/23477.aspx" target="_blank" title="标题：关于配合完成教育部“县域普通高中振兴行动计划”线上问卷调查工作的通知&#xD;点击数：120&#xD;发表时间：2026年07月06日">关于配合完成教育部“县域普通高中振兴行动计划”线上问…</a><span class="dateRight">[07-06]</span></li><li><a href="/Shaoxingyizhong/Item/23035.aspx" target="_blank" title="标题：物理组外出参加培训活动的通知&#xD;点击数：121&#xD;发表时间：2026年04月14日">物理组外出参加培训活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Shaoxingyizhong/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23030.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：139&#xD;发表时间：2026年04月14日">英语教研活动通知</a><span class="dateRight">[04-14]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Shaoxingyizhong/Category_36/Index.aspx" target="_self">教科室</a></div>
+                    <h3>教科室</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">绍兴市教育教学研究院绍兴市教育技术中心关于开展2026年绍兴市教育教学改革创新（教育技术）比赛的通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年07月07日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=23484"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23484},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23484";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="margin-top:7px;margin-right:9px;margin-left:4px;line-height:139%"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">各区、县</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">市</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">教研室</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">教师发展中心、教育研究中心</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">、教育</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">技术中心，市直各学校：</span></p><p style="margin-top:1px;margin-left:4px;text-indent:44px;text-align:justify;text-justify:inter-ideograph;line-height:140%"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"><span style="font-family:仿宋">根据《浙江省教育技术中心关于开展</span>2026年浙江省教育信</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">息化研究课题申报工作的通知》《浙江省教育技术中心关于开展</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">第二届全省教育信息化研究优秀成果奖评选工作的通知》《浙江</span><span style="font-family: 仿宋;font-size: 21px">  </span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"><span style="font-family:仿宋">省教育技术中心关于组织参加</span>2026年全国师生数字素养提升实</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">践活动</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">第三十届教师活动</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">的函》文件精神，为深入落实</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">教育数字化战略</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">行动部署，持续推进信息技术与各学科教育教学深度</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 21px">融合，全面提升全市中小学教师数字素养、信息化教育科研能</span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 21px">力，</span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">统筹规范全市教育技术课题立项申报、课题研究成果鉴定、教育</span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">技术论文征集三项常态化教科研赛事工作，经研究，决定组织开</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">展2026年绍兴市教育教学改革创新</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">（</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">教育技术</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">）</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">比赛。</span></p><p style="margin-top:0;margin-right:6px;text-indent:45px;text-align:justify;text-justify:inter-ideograph;line-height:137%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">本文件为赛事总体框架通知，各项赛事具体申报时间、材料</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">报送规范、评审细则、表格模板等内容将另行下发专项通知，请</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">各单位同步关注后续配套文件。现将总体安排明确如下：</span></p><p style="margin-top:1px;margin-left:46px"><strong><span style="font-family: 黑体;letter-spacing: 1px;font-size: 20px">一、项目类别</span></strong></p><p style="margin-top:16px;text-indent:45px;line-height:129%"><span style="font-family: 仿宋;line-height: 129%;letter-spacing: -1px;font-size: 22px">本次赛事下设三大平行分项活动，同步统筹组织、分类</span><span style="font-family: 仿宋;line-height: 129%;letter-spacing: -2px;font-size: 22px">实施、</span><span style="font-family: 仿宋;line-height: 129%;font-size: 22px"> </span><span style="font-family: 仿宋;line-height: 129%;letter-spacing: -1px;font-size: 22px">分级评审，分别为：</span></p><p style="margin-top:4px;margin-left:53px"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（一）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">全市教育技术</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">信息化</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">课题立项申</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">报；</span></p><p style="margin-top:14px;margin-left:53px"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（二）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">全市教育技术</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">信息化</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">课题研究成果鉴定；</span></p><p style="margin-top:12px;margin-left:53px"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（三）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">全市教育技术论文征集。</span></p><p style="margin-top:13px;margin-left:45px"><span style="font-family: 黑体;letter-spacing: 1px;font-size: 20px">二、各分项赛事总体说明</span></p><p style="margin-top:14px;margin-left:53px"><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">（一）</span><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">全市教育技术</span><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">（</span><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">信息化</span><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">）</span><strong><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">课题立项申报</span></strong></p><p style="margin-top:12px;margin-left:45px"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">1. 申报类别及研究周期</span></p><p style="margin-top:14px;margin-right:10px;text-indent:53px;line-height:125%"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"><span style="font-family:仿宋">（</span><span style="font-family:仿宋">1）</span></span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"><span style="font-family:仿宋">重点课题：研究周期</span>2年。聚焦已有</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">成熟研究基础，</span><span style="font-family: 仿宋;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">在区域教育信息化建设领域具备重大理论价值、实践推广价值的</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">研究项目；此前承担省、市级教育信息化课题并顺利结题的申报</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">人</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">，在</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">同等条件下优先立项。</span></p><p style="margin-top:16px;margin-right:11px;text-indent:53px;line-height:114%"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"><span style="font-family:仿宋">（</span><span style="font-family:仿宋">2）</span></span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"><span style="font-family:仿宋">专项课题：研究周期</span>1年。面向基础教育数字化课堂</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">教学、校园信息化管理、师生数字素养培育等常规实践类研究</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">项目</span><span style="font-family: 仿宋; font-size: 21px; letter-spacing: -2px;">。</span></p><p style="margin-top:14px;margin-right:4px;text-indent:54px;text-align:justify;text-justify:inter-ideograph;line-height:139%"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"><span style="font-family:仿宋">（</span><span style="font-family:仿宋">3）</span></span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"><span style="font-family:仿宋">教育装备与实验教学单列课题：研究周期</span>1年。围绕</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">学科教室、综合实践场馆建设运维、中小学创新实验教学、信息</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">化教学装备应用等方向开展研究。</span></p><p style="margin-left:43px"><span style="font-family: 'Times New Roman';letter-spacing: 0;font-size: 21px">2.</span><span style="font-family: 'Times New Roman';letter-spacing: 2px;font-size: 21px">  </span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">申报对象</span></p><p style="margin-top:15px;margin-right:3px;text-indent:43px;line-height:133%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">全市从事基础教育信息化实践、教育装备建设管理、学科实</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">验教学、综合实践场馆建设应用研究的单位及在</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">职教职工。</span></p><p style="margin-top:3px;margin-left:43px"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">3.</span><span style="font-family: 仿宋;letter-spacing: 2px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">时间总体安排</span></p><p style="margin-top:14px;margin-left:43px"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"><span style="font-family:仿宋">集中申报时段：</span>12月<span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);">（2026年12月4日前按要求将申报材料交至校教科室沈初见老师处）</span>；市级评审结果公示：次年3月。</span></p><p style="margin-top:12px;margin-left:43px"><span style="font-family: 'Times New Roman';letter-spacing: 1px;font-size: 21px">4.  </span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">区域申报名额分配</span></p><p style="margin-top:14px;text-indent:43px;line-height:133%"><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">区县</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">（</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">市</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">）</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">申报名额分配：重点课题、单列课题每区县</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">（</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">市</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 0;font-size: 22px">）</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 1px;font-size: 22px"> </span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 2px;font-size: 22px"><span style="font-family:仿宋">各</span>2项；专项课题诸暨12项、新昌8项，</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 1px;font-size: 22px">其余区县</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 1px;font-size: 22px">（</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 1px;font-size: 22px">市</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 1px;font-size: 22px">）</span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: 1px;font-size: 22px"><span style="font-family:仿宋">各</span>10</span><span style="font-family: 仿宋;line-height: 133%;font-size: 22px"> </span><span style="font-family: 仿宋;line-height: 133%;letter-spacing: -1px;font-size: 22px">项。最终名额结合上年度课题立项情况酌情增减。</span></p><p style="margin-top:14px;text-indent:43px;line-height:133%"><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">市直学校基础申报额度为重点课题1项、专</span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">项课题2项、单</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">列课题1项。</span></p><p style="margin-top:3px;margin-right:4px;text-indent:43px;text-align:justify;text-justify:inter-ideograph;line-height:137%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">名额管理规则：三类课题名额独立分配，类别间指标不得相</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">互调剂；申报数量未达到对应类别限额，视为自动放弃该类别申</span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 21px">报指标。</span></p><p style="margin-top:2px;margin-left:43px"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">5. 赛事实施流程</span></p><p style="margin-top:13px;margin-right:3px;text-indent:43px;line-height:134%"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">各区、县</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">市</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">教育技术中心统筹辖区申报材料，对照分配</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">名额择优筛选后统一上报；市直学校材料直接报送市教</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">育技术中</span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">心。市教育技术中心组织专家开展集中评审，确定市级立项课题</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;"> </span><span style="font-family: 仿宋; letter-spacing: -1px; font-size: 21px;">名单，对优质项目择优遴选，推荐申报省级教育信息化研究课</span><span style="font-family: 仿宋; letter-spacing: -1px; font-size: 21px;">题。</span></p><p style="margin-top:0;margin-left:54px"><strong><span style="font-family: 楷体;letter-spacing: 1px;font-size: 22px">（二）</span></strong><strong><span style="font-family: 楷体;letter-spacing: 1px;font-size: 22px">全市教育技术</span></strong><strong><span style="font-family: 楷体;letter-spacing: 1px;font-size: 22px">（</span></strong><strong><span style="font-family: 楷体;letter-spacing: 1px;font-size: 22px">信息化</span></strong><strong><span style="font-family: 楷体;letter-spacing: 1px;font-size: 22px">）</span></strong><span style="font-family: 楷体;letter-spacing: 1px;font-size: 22px">课题研究成果</span><span style="font-family: 楷体;letter-spacing: 1px;font-size: 22px">鉴定</span></p><p style="margin-top:11px;margin-left:43px"><span style="font-family: 'Times New Roman';letter-spacing: -1px;font-size: 23px">1.   </span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 23px">鉴定范围</span></p><p style="margin-top:13px;text-indent:43px;line-height:137%"><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"><span style="font-family:仿宋">结题时间区间为</span>2025年3月1日—2026年6月1日的省级、</span><span style="font-family: 仿宋;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">市级教育技术</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">信息化</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">课题</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px">含重点、专项、教育装备单列课</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">  </span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">题</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">研究成果，申报人为课题负责人及核心研究成员。</span></p><p style="margin-top:0;margin-left:43px"><span style="font-family: 'Times New Roman';letter-spacing: -1px;font-size: 23px">2.</span><span style="font-family: 'Times New Roman';letter-spacing: 2px;font-size: 23px">  </span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 23px">时间总体安排</span></p><p style="margin-top:13px;margin-left:43px"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"><span style="font-family:仿宋">成果申报时段：</span>10月<span style="color: rgb(255, 0, 0); font-family: 仿宋; font-size: 21px; background-color: rgb(255, 255, 255);">（2026年10月9日前按要求将申报材料交至校教科室沈初见老师处）</span>；评审结果公示：12月。</span></p><p style="margin-top:11px;margin-left:43px"><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 23px">3.</span><span style="font-family: 仿宋;letter-spacing: -2px;font-size: 23px"> </span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 23px">有效成果类型</span></p><p style="margin-top:14px;margin-right:9px;text-indent:43px;line-height:137%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">可申报成果包含四类：研究报告、已公开发表科研论文、正</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">式出版专著、被教育行政或业务管理部门采纳的咨询报告</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">。申报</span><span style="font-family: 仿宋;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">人仅可选取其中一类成果参与评选；丛书、系列论文、各类教材</span><span style="font-family: 仿宋;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">等成果不予受理参评。</span></p><p style="margin-top:2px;margin-left:43px"><span style="font-family: 'Times New Roman';letter-spacing: 0;font-size: 21px">4.   </span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">实施流程</span></p><p style="margin-top:13px;margin-right:9px;text-indent:54px;line-height:115%"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"><span style="font-family:仿宋">（</span><span style="font-family:仿宋">1）</span></span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">市级初审：采用线上材料评审方式，专家依据成果材</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 21px">料完成首轮筛选；</span></p><p style="margin-top:14px;margin-right:3px;text-indent:54px;line-height:127%"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px"><span style="font-family:仿宋">（</span><span style="font-family:仿宋">2）</span></span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">市级终审：采用现场答辩形式，入围人员需现场阐述</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">课题研究背景、实施路径、实践成效，同步完成专家现场答辩。</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">评审专家组结合现场综合表现评定获奖等第；入围人员无故缺席</span><span style="font-family: 仿宋;letter-spacing: 1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">现场终评的，直接取消本次评奖资格；</span></p><p><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">     （3）</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">结果公示与成果推广：终审结束后统一公示获奖名单，</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 0px; font-size: 21px;"> </span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">优秀课题成果将组织全市展示、专题培训等推广活动。</span>
+</p><p style="margin-top:0;margin-left:51px"><span style="font-family: 楷体;letter-spacing: 1px;font-size: 21px">（三）</span><span style="font-family: 楷体;letter-spacing: 1px;font-size: 21px">全市教育技术论文征集</span></p><p style="margin-top:12px;margin-left:41px"><span style="font-family: 'Times New Roman';letter-spacing: -1px;font-size: 23px">1.   </span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 23px">活动主题</span></p><p style="margin-top:13px;margin-left:41px"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">智能时代的教育发展与治理</span></p><p style="margin-top:13px;margin-left:41px"><span style="font-family: 'Times New Roman';letter-spacing: 0;font-size: 21px">2.</span><span style="font-family: 'Times New Roman';letter-spacing: 2px;font-size: 21px">  </span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">参赛对象</span></p><p style="margin-top:14px;margin-left:41px"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">各级各类学校教师、教育技术工作者。</span></p><p style="margin-top:11px;margin-left:41px"><span style="font-family: 'Times New Roman';letter-spacing: -1px;font-size: 23px">3.</span><span style="font-family: 'Times New Roman';letter-spacing: 1px;font-size: 23px">  </span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 23px">时间总体安排</span></p><p style="margin-top:13px;margin-left:41px"><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px; color: rgb(255, 0, 0);">线上集中申报时段：7月</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">；市级评审结果公示：11月。</span></p><p style="margin-top:13px;margin-left:41px"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">4.</span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 21px"> </span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">论文征集范围</span></p><p style="margin-top:13px;margin-right:4px;text-indent:41px;line-height:135%"><span style="font-family: 仿宋;line-height: 135%;letter-spacing: -1px;font-size: 22px">选题范围与当年全国师生数字素养提升实践活动教师论文</span><span style="font-family: 仿宋;line-height: 135%;letter-spacing: 0;font-size: 22px">  </span><span style="font-family: 仿宋;line-height: 135%;letter-spacing: -1px;font-size: 22px">要求保持一致，重点围绕教育数字化、人工智能赋能教学、数字</span><span style="font-family: 仿宋;line-height: 135%;letter-spacing: 0;font-size: 22px"> </span><span style="font-family: 仿宋;line-height: 135%;letter-spacing: -1px;font-size: 22px">资源应用、实验教学创新、智慧校园建设等方向开展实践研究。</span></p><p style="margin-top:1px;margin-left:41px"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">5. 名额推荐规则</span></p><p style="margin-top:13px;margin-right:9px;text-indent:41px;line-height:139%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">论文线上投稿平台无申报数量限制；中央电化教育馆统一</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">汇总</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">全市全部投稿作品后，市教育技术中心依</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">据省教技中心下达</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">的推荐</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">总量，结合各区县投稿总量划定区域推荐名额。</span></p><p style="margin-top:0;margin-left:41px"><span style="font-family: 'Times New Roman';letter-spacing: 0;font-size: 21px">6.</span><span style="font-family: 'Times New Roman';letter-spacing: 2px;font-size: 21px">  </span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">推荐与评审流程</span></p><p style="margin-top:0;margin-left:41px"><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">（1）</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">各区、县</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">（</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">市</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">）</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">教育技术中心对照分配</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">的推荐</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">名额，</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">完成</span><span style="text-indent: 51px; font-family: 仿宋; letter-spacing: -1px; font-size: 21px;">辖区内论文初选推荐；</span></p><p style="margin-top:0;margin-left:41px"><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">（2）</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">市级组织专家评审，分设一、二、三等奖若干</span><span style="font-family: 仿宋; letter-spacing: 1px; font-size: 21px;">。</span></p><p style="line-height:126%"><span style="font-family: Arial;font-size: 14px">           </span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">（3）</span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">获评</span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">的优秀论文</span><span style="font-family: 仿宋; letter-spacing: 0px; font-size: 21px;">择优推送至省级参与全省统一评审。</span></p><p style="margin-top:13px;margin-right:1px;margin-left:1px;text-indent:43px;line-height:143%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">未在指定官方平台完成线上完整投稿的论文，一律不纳入</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">本次</span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 21px">评审范围。</span></p><p style="margin-top:0;margin-left:45px"><span style="font-family: 黑体;letter-spacing: 1px;font-size: 20px">三、总体工作要求</span></p><p style="margin-top:15px;margin-left:53px"><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">（一）</span><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">坚守原创诚信底线</span></p><p style="margin-top:13px;margin-left:1px;text-indent:43px;text-align:justify;text-justify:inter-ideograph;line-height:140%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">所有申报课题、论文、结题成果均须为申报人原创成果，</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">严格</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">杜绝抄袭、代写、侵权、数据造假等弄虚作假行为。一经查实</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">违规，立即取消参评、立项资格，并予以全市通报。</span></p><p style="margin-top:0;margin-left:53px"><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">（二）</span><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">严格规范材料报送</span></p><p style="margin-top:13px;margin-right:0;margin-left:1px;text-indent:43px;text-align:justify;text-justify:inter-ideograph;line-height:139%"><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">三项分项赛事均实行属地汇总报送机制：各区、县</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">（</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">市</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">）</span><span style="font-family: 仿宋;letter-spacing: 0;font-size: 21px">以</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">区域为单位统一汇总、加盖公章后集中上报；市直学校以校为</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">单位</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">单独报送，不接受教师个人零散申报材料。各单位务必严格</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">遵照</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">后续专项通知中的材料格式、命名规范、报送时限执行。</span></p><p style="margin-top:1px;margin-left:53px"><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">（三）</span><span style="font-family: 楷体;letter-spacing: 2px;font-size: 21px">强化成果转化导向</span></p><p style="margin-top:13px;margin-right:1px;margin-left:1px;text-indent:43px;text-align:justify;text-justify:inter-ideograph;line-height:136%"><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">市级评审遴选出的优秀论文、立项课题、获奖结题成果，将</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">择优推荐参加省级对应赛事。同时依托全市教研、教技平台开展</span><span style="font-family: 仿宋;letter-spacing: -0;font-size: 21px">成果展示、专题培训，充分发挥赛事以研促教、以评促改的辐射</span><span style="font-family: 仿宋;letter-spacing: -1px;font-size: 21px">带动作用。</span></p><p style="margin-top:4px;margin-left:45px"><span style="font-family: 黑体;letter-spacing: 1px;font-size: 20px">四</span><span style="font-family: 黑体;letter-spacing: -4px;font-size: 20px"> </span><span style="font-family: 黑体;letter-spacing: 1px;font-size: 20px">、其他事项说明</span></p><p style="margin-top:13px;margin-right:0;margin-left:1px;text-indent:52px;line-height:140%"><span style="font-family: 仿宋;line-height: 140%;letter-spacing: 1px;font-size: 21px">（一）</span><span style="font-family: 仿宋;line-height: 140%;letter-spacing: 1px;font-size: 21px">市直学校不单独进行市直评比，统一参与全市</span><span style="font-family: 仿宋;line-height: 140%;letter-spacing: 1px;font-size: 21px">评审</span><span style="font-family: 仿宋;line-height: 140%;letter-spacing: -2px;font-size: 21px">。</span></p><p style="margin-top:13px;margin-right:0;margin-left:1px;text-indent:52px;line-height:140%"><font face="仿宋"><span style="font-size: 21px; letter-spacing: -2px;"> </span></font><span style="font-family: Arial; letter-spacing: 0px; font-size: 14px;">（二）</span><span style="font-family: Arial; letter-spacing: 0px; font-size: 14px;">联系人：杨扬老师，联系电话：0575-85730573</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/23483.aspx" target="_self" title="标题：关于开展2025学年学科团队考核工作的通知&#xD;点击数：80&#xD;发表时间：26年07月07日">关于开展2025学年学科团队考核工作的通知</a>[ 07-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/23486.aspx" target="_self" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市精品数字教育资源开发活动大赛的通知&#xD;点击数：68&#xD;发表时间：26年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市精品数字教育资…</a>[ 07-07 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

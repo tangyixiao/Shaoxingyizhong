@@ -1,0 +1,507 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>转发2026年绍兴市教育专项研究论文补充通知--德育处-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Shaoxingyizhong/Category_36/Index.aspx">教科室</a></li>
+<li class="li4 on"><a href="/Shaoxingyizhong/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Shaoxingyizhong/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Shaoxingyizhong/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Shaoxingyizhong/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Shaoxingyizhong/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Shaoxingyizhong/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Shaoxingyizhong/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Shaoxingyizhong/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Shaoxingyizhong/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Shaoxingyizhong/Category_35/Index.aspx">高三</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Shaoxingyizhong/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Shaoxingyizhong/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Shaoxingyizhong/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Shaoxingyizhong/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Shaoxingyizhong/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Shaoxingyizhong/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">转发2026年绍兴市教育专项研究论文补充通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年03月10日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22830"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:22830},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=22830";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align: center;"><strong><span style="font-family: 宋体; font-size: 24px;">关于<span style="font-family: Calibri;">2026</span>年绍兴市中小学班主任工作专项案例评审的补充通知</span></strong></p><p style="text-indent:42px"><span style="font-family: 宋体; font-size: 20px;">根据《<span style="font-family: Calibri;">2026</span>年绍兴市教学活动比赛办法》（<span style="font-family: Calibri;">2026</span>年<span style="font-family: Calibri;">2</span>号）文件相关要求，自<span style="font-family: Calibri;">2026</span>年起在全市范围内进行中小学班主任案例评审。现将有关事项补充通知如下：</span></p><p><span style="font-family: 宋体; font-size: 20px;">一、征集对象</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">绍兴市普通中小学（含职校）。</span></p><p><span style="font-family: 宋体; font-size: 20px;">二、案例主要内容</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">案例必须是班主任教育教学实践中的亲身经历，案例不是工作介绍，而是反映具体问题、事件、人物和过程，以及形成的结果和反思。既可以是在班主任实践中成功地发现问题、解决问题、塑造典型的事件，以供同行学习、借鉴和感悟；也可以是在带班实践中遇到的困惑、干扰、压力甚至危机事件，已经解决的或者尚待解决的问题，以求得专家学者或同行们在理论指导、法律咨询、危机干预、方法策略等方面的帮助，起到答疑解惑、合作研究、资源共享的效果。</span></p><p><span style="font-size: 20px;"><span style="font-family: 宋体;">三、本届案例主题：</span><strong><span style="font-family: 宋体;">生命教育</span></strong><strong><span style="font-family: 宋体;"></span></strong><strong><span style="font-family: 宋体;"></span></strong></span></p><p><span style="font-family: 宋体; font-size: 20px;">四、案例撰写要求</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">1.</span>案例格式：分成<span style="font-size: 20px; font-family: Calibri;">3</span>个部分——案例呈现、案例思考、工作现场</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">【案例呈现】</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">1</span>）案例及背景：案例呈现及背景介绍，<span style="font-size: 20px; font-family: Calibri;">1200</span>字以内。</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">2</span>）原因及分析：突出案例解决的问题，难在哪里？或成功在哪里？案例解决的疑难是案例价值的灵魂所在，在案例中要非常明确的表达出来，没有疑难就没有必要写案例。</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">【案例思考】</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">1</span>）提问的角度：从案例本身的角度提问（对案例中的系列问题展开提问，从与案例相关人员的角度展开提问）</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">2</span>）提问的角度：从案例以外的角度（延伸性问题）</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">3</span>）思考题的数量与类型：从案例本身的角度（<span style="font-size: 20px; font-family: Calibri;">3</span>个）<span style="font-size: 20px; font-family: Calibri;">+</span>从案例以外的角度（<span style="font-size: 20px; font-family: Calibri;">2</span>个）</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">【工作现场】</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">1</span>）根据案例本身进行分析：做法合理或不合理，好或不好，好在哪里？或者，不好在哪里？（是什么）结合相关理论或自己的认识与经验角度，谈为什么好或不好（为什么）；有没有其他更好的解决方法或建议（可以基于经验、或者基于理论）（怎么办）</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">2</span>）解决策略：针对这个案例的问题，做为班主任，你是怎么做的。可以有正确的解决方案与结果，也可以没正确的解决方案与结果，也可以是错误的解决方案与结果，但是都能引起人的思考。</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">（<span style="font-size: 20px; font-family: Calibri;">3</span>）延伸性分析：即从案例中延伸出对一类问题的分析或看法。</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">2.</span>标题：题目应该比较简洁、或者能反映案例的主要思想，或者能抓住案例中的关键字词，不宜过长，一般不加副标题。</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">3.</span>字数：一般不超过<span style="font-size: 20px; font-family: Calibri;">6000</span>字，超过<span style="font-size: 20px; font-family: Calibri;">8000</span>字或以课题报告、调研报告形式撰写的不予评奖。</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">4.</span>具体格式：用<span style="font-size: 20px; font-family: Calibri;">word</span>文档<span style="font-size: 20px; font-family: Calibri;">A4</span>纸打印，一式<span style="font-size: 20px; font-family: Calibri;">4</span>份（其中<span style="font-size: 20px; font-family: Calibri;">1</span>份在文章标题下行注明作者单位、姓名、联系电话，其余<span style="font-size: 20px; font-family: Calibri;">3</span>份隐去上述内容），正文中不得出现作者姓名、单位、联系电话、所在地区等信息。正文字体为小<span style="font-size: 20px; font-family: Calibri;">4</span>号宋体。参赛论文作者署名不得多于<span style="font-size: 20px; font-family: Calibri;">2</span>人。</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">5.</span>查重要求：凡参加评审的，须提交查重报告，并填写《绍兴市教育教学论文比赛承诺书》</span></p><p><span style="font-family: 宋体; font-size: 20px;">五、案例征集推荐名额分配见《<span style="font-size: 20px; font-family: Calibri;">2026</span>年绍兴市教学活动比赛办法》</span></p><p><span style="font-family: 宋体; font-size: 20px;">六、样稿《治愈一场心灵感冒》</span></p><p style=";text-align:justify;text-justify:inter-ideograph"><span style="font-family: 宋体; font-size: 20px;"> </span></p><p style="text-indent:28px;text-align:center;line-height:150%"><span style="font-family: 宋体; line-height: 150%; font-size: 20px;">治愈一场心灵感冒</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">【案例呈现】</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">叮</span><span style="font-family: 宋体;">！</span><span style="font-family: 宋体;">一声突兀的消息提示音吵醒了我</span><span style="font-family: 宋体;">。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">我打开手机</span><span style="font-family: 宋体;">，</span><span style="font-family: 宋体;">时间显示凌晨</span><span style="font-family: Calibri;">2</span><span style="font-family: 宋体;"><span style="font-family: 宋体;">点</span><span style="font-family: Calibri;">10</span><span style="font-family: 宋体;">分</span></span><span style="font-family: 宋体;">。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">我有些烦躁</span><span style="font-family: 宋体;">，</span><span style="font-family: 宋体;">点开消息</span><span style="font-family: 宋体;">，</span><span style="font-family: 宋体;">发现是我班同学小范发来的</span><span style="font-family: 宋体;">，</span><span style="font-family: 宋体;">手机屏幕上赫然写着一句话</span><span style="font-family: 宋体;">：</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 楷体; font-size: 20px;">“活着真没意思，还不如跳下去，死了，一了百了。”</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px; font-family: 宋体;">看到这触目惊心的文字，我的头脑一下子从混沌中清醒了过来。脑子里闪过无数问号：小范，他现在怎么样了？他遇到了什么情况？他这样说是为了赌气，还是已经做了最后的决定？</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">我第一时间拨通了小范父亲的电话，告知他这一紧急情况，请他确认小范人身安全。几分钟后，他告诉我小范还在家中，房门紧闭，但人是安全的。听到这个消息，我才长舒一口气</span><span style="font-family: 宋体;">。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">小范并不是一名“普通”的学生。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">刚入学时的小范，安静、有礼貌，上课专注，作业完成得很认真。课后会来办公室问问题，也会与我闲聊几句，有时还与我开开玩笑。那时我觉得他就是一个阳光、青春、活泼的大男孩。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">学期初，他以身体不适为由请假在家。开始我并未多想——高中阶段，学生因肠胃炎、发烧请假并不罕见。但一周过去了，两周过去了，请假理由却越来越模糊，“还是不太舒服”“再观察几天”。我开始警觉，多次向家长询问具体情况。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">在我的反复追问下，家长终于说出了实情：原来，小范是一名抑郁症患者，初中时曾因心理问题休学一年，后来在医生的治疗下逐渐好转，复学后考上了高中。然而，某天，小范突然拒绝来学校上课，甚至把自己锁在房间里不出来，也不愿意和家里人说话。心理医生判定他的情绪出现波动，建议暂时居家休养。谁知，病假一请再请，小范根本没勇气走出家门，直至我询问为止。小范母亲在电话那头满是疲惫与无助地说：“老师，我们真的很怕刺激到他，可也怕他一直这样下去。”</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">安抚好家长后，我第一时间将小范的情况告知年级领导和学校心理室备案。随后，我开始调查，这一次，小范是出于什么原因，不愿意来学校上课呢？</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">我私下找了两个平时与小范关系比较要好的同学询问，都说没有什么异常，他在班级里的人缘不错。我又与任课老师联系，得知小范在学习上的表现也都一如既往。家长也表示，家里人都很关心他，不敢“惹”他。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">所幸小范还愿意在线上与我聊聊天。于是，我旁敲侧击地询问他的心事，我跟他说“同学们都在等你回来”，他只告诉我“学校没意思”“懒得来”。我告诉他“你已经走过最难的阶段了”“现在只是暂时的低谷”，他却说“随便”“无所谓”。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">家长发现他愿意与我聊天，渐渐把希望寄托在我身上。“老师，他挺听您的话的，您能不能多跟他聊聊，劝劝他？”</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">每次听到这句话，我心里都沉甸甸的，却又无法拒绝。作为班主任，我觉得自己“应该做点什么”，甚至隐隐觉得，如果我再多努力一点，也许就能把他“拉回来”。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">可现实并没有如我期待的那样发展。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">我没有等来复学的小范，却在半夜，收到了“厌世”的消息。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">恐惧之外，我的内心还涌起强烈的无力感。</span></p><p style="text-indent:28px;line-height:21px"><span style="font-family: 宋体; font-size: 20px;">我反复问自己：明明我那么努力地鼓励他，为什么他还是不能振作起来？难道是我不够真诚吗？难道我付出还不够吗？</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px; font-family: 宋体;">联想起同事曾善意劝我：“这样的孩子，得交给专业人士，咱们搞不定。”我开始迷茫……</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">作为小范的班主任，我真的可以撒手不管吗？</span></p><p style="line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">【案例思考】</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">1.</span><span style="font-size: 20px; font-family: 宋体;">收到小范</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">厌世</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">留言，</span><span style="font-family: 宋体; font-size: 20px;">我</span><span style="font-size: 20px; font-family: 宋体;">的</span><span style="font-family: 宋体; font-size: 20px;">做法</span><span style="font-size: 20px; font-family: 宋体;">是否正确？为什么？</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">2.</span>家长初期为什么隐瞒抑郁症病史？如果家长一味隐瞒， 我该怎么做？</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">3.</span><span style="font-size: 20px; font-family: 宋体;">面对小范的复发，</span><span style="font-family: 宋体; font-size: 20px;">我</span><span style="font-size: 20px; font-family: 宋体;">如何开展后续工作？</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">4.</span><span style="font-size: 20px; font-family: 宋体;">面对家长的过度期待和要求，</span><span style="font-family: 宋体; font-size: 20px;">我</span><span style="font-size: 20px; font-family: 宋体;">该怎么</span><span style="font-family: 宋体; font-size: 20px;">正确</span><span style="font-size: 20px; font-family: 宋体;">应对？</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">5.</span><span style="font-size: 20px; font-family: 宋体;">在帮助学生度过心理危机时，</span><span style="font-family: 宋体; font-size: 20px;">我</span><span style="font-size: 20px; font-family: 宋体;">如何把握</span><span style="font-family: 宋体; font-size: 20px;">教育的</span><span style="font-size: 20px; font-family: 宋体;">边界和尺度？</span></span></p><p style="line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">【工作现场】</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: Calibri;">1.</span></strong><strong><span style="font-size: 20px; font-family: 宋体;">收到小范</span></strong><strong><span style="font-family: 宋体; font-size: 14px;">“</span></strong><strong><span style="font-size: 20px; font-family: 宋体;">厌世</span></strong><strong><span style="font-family: 宋体; font-size: 14px;">”</span></strong><strong><span style="font-size: 20px; font-family: 宋体;">留言，我的做法是否正确？为什么？</span></strong><strong><span style="font-size: 20px; font-family: 宋体;"></span></strong></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">凌晨两点收到小范那条</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">厌世</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">留言时，我立即联系家长确认人身安全的做法，从危机干预的角度看是必要且正确的。教育部《中小学心理危机干预指导手册》明确指出，当学生表达明确的自我伤害意图时，第一要务是确保其人身安全。我的即时反应遵循了</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">生命第一</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">的基本原则。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">然而，回顾整个处理过程，我也发现了可以改进之处。在联系家长确认安全后，我其实应该立即启动学校的心理危机干预预案</span><span style="font-size: 20px; font-family: Calibri;">——</span><span style="font-size: 20px; font-family: 宋体;">联系学校心理教师或</span></span><span style="font-family: 宋体; font-size: 20px;">相关</span><span style="font-size: 20px; font-family: 宋体;">领导，反馈小范的情况，建立特殊心理学生备忘录，实现</span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">多方联动。班主任独自应对心理危机事件，不仅专业能力有限，也承担了过重的责任压力。心理学家卡尔</span><span style="font-size: 20px;">·</span><span style="font-size: 20px; font-family: 宋体;">罗杰斯曾说：</span></span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">真正的帮助不是给予答案，而是提供一种安全的关系。</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">我的及时响应</span><span style="font-family: 宋体; font-size: 20px;">虽然</span><span style="font-size: 20px; font-family: 宋体;">为学生提供了暂时的安全感，但后续确实需要更系统的专业支持。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">更值得反思的是，在小范长期请假期间，我虽然与他保持线上联系，但未能及早识别出危机升级的信号。抑郁症患者的</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">求助</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">有时是隐晦的，那句</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">活着真没意思</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">可能已经是他多次内心挣扎后的呼救。作为班主任，我需要学习更多识别心理危机信号的知识，建立更完善的预警机制。</span><span style="font-family: 宋体; font-size: 20px;">近年来，有关心理健康的培训与讲座已经逐步推广深入教师群体，但心理危机的识别与化解是一项复杂而专业的挑战，要真正落实到班主任日常管理工作中，仍需要我们不断学习与反思</span><span style="font-family: 宋体; font-size: 20px;">。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: Calibri;">2.</span></strong><strong><span style="font-size: 20px; font-family: 宋体;">家长初期为什么隐瞒抑郁症病史？如果家长一味隐瞒，我该怎么做？</span></strong><strong><span style="font-size: 20px; font-family: 宋体;"></span></strong></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">小范家长</span><span style="font-family: 宋体; font-size: 20px;">并非第一个选择向老师隐瞒</span><span style="font-size: 20px; font-family: 宋体;">孩子抑郁症病史</span><span style="font-family: 宋体; font-size: 20px;">的家长</span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">，《中国国民心理健康发展报告》显示，超过</span><span style="font-family: Calibri; font-size: 20px;">60%</span><span style="font-size: 20px; font-family: 宋体;">的家长在孩子出现心理问题时，首先选择隐瞒而非寻求帮助。这种隐瞒虽出于保护，却可能延误最佳干预时机。这背后</span></span><span style="font-family: 宋体; font-size: 20px;">也</span><span style="font-size: 20px; font-family: 宋体;">反映了当前社会对心理问题的普遍</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">污名化</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">认知。家长可能担心孩子被贴上标签、受到区别对待，或者担心学校因此降低对孩子的期望。更深的层面，这往往源于家长自身的</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">病耻感</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: Calibri;">——</span><span style="font-size: 20px; font-family: 宋体;">他们将孩子的心理问题视为家庭的</span></span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">失败</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">或</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">缺陷</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">。有些家长甚至不愿意承认孩子得了抑郁症，认为只是“学业压力大”，过一段时间就好了。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">小范确诊抑郁症，与原生家庭的破裂有很大的关联。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">经过多次沟通与了解后我才得知，小范的亲生父母早已离异，现在与他一起生活的妈妈其实是他的继母，这一关键信息，无论是孩子还是家长</span><span style="font-family: 宋体; font-size: 14px;">，<span style="font-family: 宋体; font-size: 20px;">都心照不宣地隐瞒了班主任</span></span><span style="font-size: 20px; font-family: 宋体;">。初中时，小范与亲生母亲一起生活，但他的亲生母亲心理状况也十分糟糕，并将这种负面情绪带到了小范的身上，常向他灌输</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">他的爸爸和继母是坏人，只有妈妈才是跟他最亲的人</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">这样的观念。这种情绪对于正值青春期的小范来说无疑是一种巨大的刺激，让他感到十分痛苦。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">为了减少亲生母亲对小范的影响，小范的父亲随后将他接到身边照顾。特殊的家庭经历导致他多次转学，难以建立稳定的友谊，没有固定的同伴。这无疑也加重了他内心的敏感与抑郁。进入高中前，小范已经需要通服用抗抑郁药物来维持心理状态的稳定。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">这样的家庭隐私，若非小范状态越来越差，需要学校、老师、家长多方帮助关照，家长自然也不愿意主动向班主任提起。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">家长一味隐瞒，</span><span style="font-family: 宋体; font-size: 20px;">往往是因为对孩子心理健康问题的严重性认识不够，同时又缺乏对班主任的信任</span><span style="font-family: 宋体; font-size: 14px;">。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">因此，想要真正帮助到小范，首先要与家长</span><span style="font-family: 宋体;">建立信任关系。我通过多次温和而持续的关心，让家长感受到我是真心为孩子着想，而非简单完成工作。当我发现小范请假异常时，没有直接质问，而是表达关心：</span><span style="font-family: 宋体;">“</span><span style="font-family: 宋体;">我注意到小范连续请假，很担心他的身体状况，</span><span style="font-family: 宋体;">他最近还好吗</span><span style="font-family: 宋体;">？</span><span style="font-family: 宋体;">”或许，你永远不知道真正有效的对话是在哪一次，但有时放下解决问题的急切心情，反而可以收获家长的信任，更好地处理家校关系。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">让家长意识到及时干预心理危机的重要性也是必不可少的。这一方面，我请求了心理专任老师的帮助，我们一起前往小范家里进行了一次家访，既让小范感受到学校对他的关心，也让家长认识到孩子的情况十分严重。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">当然</span><span style="font-family: 宋体;">，如果家长仍坚持隐瞒，</span><span style="font-family: 宋体;">我们在工作中也会尊重他们的选择。对于特殊心理的学生，班主任可以通过日常行为的观察与记录，结合学校的心理健康筛查机制，进行摸排与评估。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">学生出现心理危机，往往会有一些规律性表现。从日常生活的角度，学生会在睡眠、饮食、运动方面存在一定困难，比如失眠、厌食、不想参与体育锻炼；当然，也有可能出现完全相反的情况，如嗜睡、暴饮暴食、难以专注等。总之，他的日常生活会出现较为极端的改变，这些都是心理危机反馈给生理系统的一些信号。从学校生活的角度，学生会出现较为明显持续的厌学情绪，具体表现为注意力无法集中、阅读障碍甚至人群恐慌，无法融入群体生活，维持正常的人际交往。从情绪层面，学生表现出对任何事物都提不起兴趣，觉得生活没意思，经常没有理由地流泪，严重时甚至想要结束自己的生命。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 宋体; font-size: 20px;">需要注意的是，学生的心理危机在最初表现得和一般的情绪问题并无二致，往往无法迅速区分，班主任不能随意判定一个孩子爆发了心理危机，应该在结合过去经历、进行充分的家校沟通和专业人士的帮助下，做出客观的判定。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: Calibri;">3.</span></strong><strong><span style="font-size: 20px; font-family: 宋体;">面对小范的复发，我如何开展后续工作？</span></strong><strong><span style="font-size: 20px; font-family: 宋体;"></span></strong></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">根据乔伊纳的人际心理理论，</span><span style="font-family: 宋体; font-size: 20px;">人类</span><span style="font-size: 20px; font-family: 宋体;">之所以产生厌世轻生的念头，是源于受挫的归属感和知觉到的累赘感的叠加</span><span style="font-family: 宋体; font-size: 14px;">。<span style="font-family: 宋体; font-size: 20px;">比如小范，正是因为</span></span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">无法在家庭和学校找到自己的归属感，因而内心十分煎熬。这属于自我认知模糊而产生的焦虑</span><span style="font-size: 20px; font-family: Calibri;">——</span><span style="font-size: 20px; font-family: 宋体;">他不知道自己在这个家的定位是什么，也找不到精神寄托，似乎他的亲人都抛弃了他</span></span><span style="font-family: 宋体; font-size: 14px;">。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">跟家长商量过后，我们决定共同打好这一场旷日持久的</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">团队战</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">。由心理老师牵头，提供专业咨询，进行焦虑疏导；家长可以借鉴</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">体育疗法</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">的思路，带着小范参加户外活动，同时增进亲子感情；而我作为班主任，则帮助小范进行</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">角色建设</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">，帮助他找到自我定位，找回信心。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">去小范家的</span><span style="font-family: 宋体;">家访并没有实现我心中的目标，我有些懊恼，更有些不甘心。临走的时候，我往小范的房间里塞了一张纸条：</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: 楷体; font-size: 20px;">“现在你的心灵感冒了，等到时间过去，它会慢慢痊愈。所以不必有给爸爸妈妈添麻烦的负疚感。他们愿意一直陪着你，等你痊愈。老师也一直在，别着急，好好休息。”</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">从那以后，小范言语间的厌世情绪少了很多</span><span style="font-family: 宋体; font-size: 14px;">，</span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">只是对于学校，他仍然闭口不谈，看得出来，他的情绪依然比较消沉。我要怎么让他重拾生活信心呢？翻看着小范的心理档案，上面记录着我与他每一次谈话的主要内容。我发现小范有一个十分突出的爱好</span><span style="font-size: 20px; font-family: Calibri;">——</span><span style="font-size: 20px; font-family: 宋体;">唱歌！他曾参加过校园歌手大赛，还取得了二等奖的好成绩，他还说过，将来他想去传媒学院学习声乐。</span></span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">我突然有了思路，兴趣是最好的朋友，也许通过唱歌，他能够感受到自我的价值。只是，我该以什么样的方式让他唱歌呢？我需要一个契机。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">直到那一天，转机出现了。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">学校要举办一场歌咏比赛，我立马想到了小范，他就是最合适的人选。可是，他会愿意参与学校的活动吗？我用很为难的语气，请他来救场，我说：</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">小范，你可以去参加比赛吗？老师觉得只有你的实力可以代表我们班。</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">本以为小范会拒绝我，没想到他同意了！不过，他提出了一个要求</span><span style="font-size: 20px; font-family: Calibri;">——</span><span style="font-size: 20px; font-family: 宋体;">只唱歌，不回教室上课。</span></span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">我自然答应了他的条件，只要他愿意出门，就是一个很了不起的开始。幸运的是，凭借出色的表现，小范的作品《我爱你，中国》获得了一等奖！我把这个消息告诉了他，并感谢他为班级荣誉做的贡献，他很激动，那天我们聊了很多关于唱歌的事情。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">从那以后，我便抓住各种机会让小范唱歌：学校</span><span style="font-family: 宋体; font-size: 20px;">有</span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">致敬抗疫英雄的微视频比赛，我请他唱配乐；班级舞台剧表演，我让他以歌声的形式参与其中</span><span style="font-size: 20px; font-family: Calibri;">……</span><span style="font-size: 20px; font-family: 宋体;">慢慢地，他走出了房门，有时会去练歌房唱歌，有时跟父母去公园散步。</span></span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">小范就这样在家休息了三个月。某次聊天中，他提到自己有一点完美主义倾向，知道自己给父母带去了伤害，觉得很对不起父母，也很对不起我，可是他也不知道该怎么办，似乎已经在错误的道路上越走越远。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">我意识到这是他在向我求助。便建议他用文字的方式跟父母说出心里话。其实，说完这番话之后我并不确定他是否会接纳，因为以往的那么多次劝解都以失败告终。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">某一天，小范的继母发来一张聊天记录截图，里面是小范给他们夫妻写的一段长文，大意是希望爸爸妈妈能够原谅他的不懂事，他会努力回归正常生活，希望爸爸妈妈能够支持他。看到这段文字，我终于放下心来。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">又过了一个月，小范用微信给我发了四个字</span>:</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">我回来了。</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-family: Calibri; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">他还向我询问作业，打算在家温习新课，为之后的复学做准备。至此我十分确信，小范战胜了自己，重新站了起来</span><span style="font-size: 20px; font-family: Calibri;">——</span><span style="font-size: 20px; font-family: 宋体;">他真是一个了不起的孩子。</span></span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">苏霍姆林斯基说过，教育的本质在于唤醒孩子内心没有被开发的能量。对于小范来说，他需要一个精神寄托，让他找到自己的价值所在，从而打败焦虑。而这个寄托，不是老师和家长强加的，恰恰蕴藏在他自己身上。那便是他对唱歌的热爱与坚持，以及他那颗不愿放弃自己的心。只是这颗心，需要各方力量团结起来，共同唤醒。作为班主任，应该找准自己在共育团队中的位置，扮演好自己的角色，及时抓住那双求救的手，把孩子从无助中拉出来。</span></p><p style="text-indent: 28px;line-height: 21px"><strong style="font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">4.</span></strong><strong style=""><span style="font-size: 20px; font-family: 宋体;">面对家长的过度期待和要求，</span><span style="font-family: 宋体; font-size: 20px;">我</span></strong><strong style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">该</span></strong><strong style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">怎么</span></strong><span style="font-size: 20px;"><strong style="font-size: 20px;"><span style="font-family: 宋体;">正确</span></strong></span><strong style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">应对？</span></strong><strong style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;"></span></strong></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">家长发现自己无用时，一定最先把希望寄托在班主任身上，因为，班主任是孩子在学校的责任人，对孩子有教育的义务。但我们也要明确，</span><span style="font-family: 宋体;">教师不是救世主</span><span style="font-family: 宋体;">。《</span><span style="font-family: 宋体;">英国教师心理健康指南</span><span style="font-family: 宋体;">》</span><span style="font-family: 宋体;">指出：</span><span style="font-family: 宋体;">“</span><span style="font-family: 宋体;">教师不是救世主，明确边界不是冷漠，而是为了更持久地提供帮助。</span><span style="font-family: 宋体;">”</span><span style="font-family: 宋体;">小范的案例让我深刻反思班主任在心理危机干预中的角色定位。教育是爱的事业，但爱需要智慧，更需要边界</span><span style="font-family: 宋体;">。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">《家庭教育促进法》指出：</span><span style="font-family: 宋体; font-size: 20px;">“</span><span style="font-size: 20px; font-family: 宋体;">法律明确父母是家庭教育的第一责任人。学校可以配合，但家庭的陪伴、医生的治疗才是康复的核心。</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">作为老师，我很难干涉学生家庭的内部事务，也无法还小范一个理想家庭。对于家长所提出的要求，</span><span style="font-family: 宋体; font-size: 20px;">我不该、也不能</span><span style="font-size: 20px; font-family: 宋体;">有求必应。因为老师并不能代替父母行使所有的职能，青少年对亲人的感情需求，老师是无法给予的。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;">当学生陷入心理危机时，班主任总是希望能够帮助他尽快从抑郁情绪中走出来，有时会在行动上操之过急。家长也常将希望寄托在老师身上，盼望通过老师的劝说解决问题，这种心态容易导致家校关系的错位，从而进一步加重学生的情绪问题。因此，教师在这一过程中需明确自身角色定位，教师应当作为学校支持系统中的一员陪伴在学生旁边，而非家庭支持系统中的调解员。</span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: Calibri;">5.</span></strong><strong><span style="font-size: 20px; font-family: 宋体;">在帮助学生度过心理危机时，我如何把握教育的边界和尺度？</span></strong><strong><span style="font-size: 20px; font-family: 宋体;"></span></strong></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">结合小范的事例，我认为班主任在此类事件中应该扮演好</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">观察者</span><span style="font-family: 宋体; font-size: 14px;">”“</span><span style="font-size: 20px; font-family: 宋体;">学习者</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">和</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">陪伴者</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">的角色。一方面，保持适当的心理距离，观察学生的情绪变化和问题所在，同时仔细观察他的家庭环境，这样才能发现学生心理问题产生的原因。但要注意的是，不可过分干涉学生的家务事，企图包揽一切，这会使家长回避自身应承担的责任，也会使家庭关系复杂化。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">另一方面，要做一个</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">学习者</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">，班主任若非心理学专业出身，是无法自如应对此类事件的。因此必要的时候，要向专业的人求助和学习。在与小范相处的过程中，我请教了学校的心理老师，同时也利用网络资源了解抑郁症的相关知识，还体验了相关专家团队的心理沙龙。从这些活动中，我逐步尝试用更合适的方式去帮助小范，最终也取得了一定效果。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">当然，最重要的是要做一个</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">陪伴者</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">，不要越俎代庖去做家长和心理医生该做的事情，也不用执着于让学生快乐起来。抑郁症的反面是活力，而非快乐。像小范这样严重的抑郁情绪，首要目标是让他重返规律生活，产生求生意志。对此，最好的方式就是陪伴，用一种看似</span><span style="font-family: 宋体; font-size: 14px;">“</span><span style="font-size: 20px; font-family: 宋体;">无力</span><span style="font-family: 宋体; font-size: 14px;">”</span><span style="font-size: 20px; font-family: 宋体;">的方式给学生力量，有时候胜过千言万语。小范时不时会在微信上给我发一些生活琐事，我会以朋友的口吻回复他，但不多言其他，不加重他的心理包袱。通过这种日常的沟通，尽可能让他与外界建立多层次、较稳定的连接，感受到陪伴的力量。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-size: 20px;"><span style="font-family: 宋体;">通过小范的经历，</span><span style="font-family: 宋体;">我学会了接纳教育的局限性。有些学生的心理问题复杂而深重，学校支持只是康复系统的一部分。即使我们尽了最大努力，康复过程仍可能有反复。这需要班主任有心理弹性，能够在不完美中持续提供支持。日本教育家佐藤学曾说：</span><span style="font-family: 宋体;">“</span><span style="font-family: 宋体;">教育不是注满一桶水，而是点燃一把火。</span><span style="font-family: 宋体;">”</span><span style="font-family: 宋体;">我的角色是守护那簇火苗，即使微弱也不放弃，但不必要求它立即燃成烈焰。</span><span style="font-family: 宋体;">未来小范仍然有可能再次爆发心理危机，但我们不能放弃每一次的努力与陪伴。</span></span></p><p style="text-indent: 28px;line-height: 21px"><span style="font-family: Calibri; font-size: 20px;"><span style="font-size: 20px; font-family: 宋体;">教育最深的尊严，也许就在于这种有边界的陪伴</span>——<span style="font-size: 20px; font-family: 宋体;">不越俎代庖，不虚假承诺，只是在专业与情感的平衡中，给予恰如其分的支持。而这，正是班主任在心理危机干预中最核心的智慧与艺术。</span></span></p><p>
+</p><p><span style="font-size: 20px;">附件：</span><img src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" style="vertical-align: middle; margin-right: 2px;" /><a href="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603101510147946.pdf" target="_self" title="关于2026年绍兴市中小学班主任工作专项案例评审的补充通知.pdf">关于2026年绍兴市中小学班主任工作专项案例评审的补充通知.pdf</a></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22829.aspx" target="_self" title="标题：3.9班级一日考核&#xD;点击数：45&#xD;发表时间：26年03月10日">3.9班级一日考核</a>[ 03-10 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/22837.aspx" target="_self" title="标题：3.10班级一日考核&#xD;点击数：39&#xD;发表时间：26年03月11日">3.10班级一日考核</a>[ 03-11 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

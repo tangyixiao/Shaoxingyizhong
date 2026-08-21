@@ -1,0 +1,540 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>关于高三学生获奖情况、自评报告、综合素质终评等级录入的通知--德育处-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Shaoxingyizhong/Category_36/Index.aspx">教科室</a></li>
+<li class="li4 on"><a href="/Shaoxingyizhong/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Shaoxingyizhong/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Shaoxingyizhong/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Shaoxingyizhong/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Shaoxingyizhong/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Shaoxingyizhong/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Shaoxingyizhong/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Shaoxingyizhong/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Shaoxingyizhong/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Shaoxingyizhong/Category_35/Index.aspx">高三</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Shaoxingyizhong/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Shaoxingyizhong/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Shaoxingyizhong/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Shaoxingyizhong/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Shaoxingyizhong/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Shaoxingyizhong/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">关于高三学生获奖情况、自评报告、综合素质终评等级录入的通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年01月12日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22633"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:22633},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=22633";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><span style="font-family: 等线; font-size: 20px;">高三年级学生、各班主任、各项目等第主要负责老师：</span></p><p style="text-indent:28px"><span style="font-size: 20px;"><span style="font-family: 等线;">  结合本学期实际情况，学校现进行高三学生高中获奖情况、自评报告的录入；各班主任、各项目等第主要负责老师做好相关综合素质终评等级的考评，</span><strong><span style="font-family: 等线; color: rgb(255, 0, 0);">请务必按照各时间节点按时完成</span></strong><strong><span style="font-family: 等线; color: rgb(255, 0, 0);">，</span></strong><strong><span style="font-family: 等线; color: rgb(255, 0, 0);">否</span></strong><strong><span style="font-family: 等线; color: rgb(255, 0, 0);">则</span></strong><strong><span style="font-family: 等线; color: rgb(255, 0, 0);">省系统无法导入</span></strong><strong><span style="font-family: 等线; color: rgb(255, 0, 0);">。</span></strong><strong><span style="font-family: 等线; color: rgb(255, 0, 0);"></span></strong></span></p><table><tbody><tr style="height:12px" class="firstRow"><td width="177" valign="top" style="padding: 0px 7px; border-width: 1px; border-color: windowtext; background: rgb(255, 255, 255); word-break: break-all; border-style: solid;"><p><span style="font-size: 20px;"><strong><span style="font-family: 等线; font-size: 20px;">时间</span></strong><strong><span style="font-family: 等线; font-size: 14px;"></span></strong></span></p></td><td width="392" valign="top" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-size: 20px;"><strong><span style="font-family: 等线;">考评步骤</span></strong><strong><span style="font-family: 等线;"></span></strong><strong><span style="font-family: 等线;"></span></strong></span></p></td></tr><tr style="height:33px"><td width="177" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-family: 等线; font-size: 20px;">1月12日—1月18日</span></p><p><span style="font-family: 等线; font-size: 20px;">（学生完成）</span></p><p><span style="font-family: 等线; font-size: 20px;"> </span></p></td><td width="392" valign="top" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-size: 20px;"><span style="font-family: 等线;">1.学生以</span><strong><span style="font-family: 等线;">班级为单位</span></strong><span style="font-family: 等线;">填写《（xx班）获奖情况导入模板（非学科竞赛类）》和《（XX班）获奖情况导入模板（学科竞赛类）》两张表。</span><strong><span style="font-family: 等线;">符合两个白名单的奖项均可填写，</span></strong><strong><span style="font-family: 等线;">白名单中的比赛获奖填学科竞赛类</span></strong><span style="font-family: 等线;">，其他填非学科竞赛类</span></span></p><p><span style="font-size: 20px;"><span style="font-family: 等线;">2.每位学生录入的获奖信息</span><strong><span style="font-family: 等线;">两张表合计不超过6条</span></strong><span style="font-family: 等线;">。</span></span></p><p><span style="font-size: 20px;"><span style="font-family: 等线;">3.具体填写要求见表内提醒。</span><strong><span style="font-family: 等线;">请按要求规范填写</span></strong><span style="font-family: 等线;">。</span></span></p></td></tr><tr style="height:90px"><td width="177" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p><span style="font-family: 等线; font-size: 20px;">1月18日前</span></p><p><span style="font-family: 等线; font-size: 20px;">（学生完成）</span></p><p><span style="font-family: 等线; font-size: 20px;"> </span></p><p><span style="font-family: 等线; font-size: 20px;"> </span></p></td><td width="392" valign="top" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-size: 20px;"><strong><span style="font-family: 等线;">学生自我评述报告。</span></strong><span style="font-family: 等线;">每位学生写一篇150字以上、500字以内的自我总结，上传到</span><strong><span style="text-decoration: underline; font-family: 等线;">浙江省普通高中学生综合素质评价管理系统</span></strong><span style="text-decoration: underline; font-family: 等线;">。</span><strong><span style="text-decoration: underline; font-family: 等线;">截止时间1月1</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">8</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">日</span></strong><span style="text-decoration: underline; font-family: 等线;">。</span><span style="font-family: 等线;">登录操作方法见</span><strong><span style="text-decoration: underline; font-family: 等线;">附件《浙江省普通高中学生综合素质评价管理平台使用指南》。</span></strong><strong><span style="text-decoration: underline; font-family: 等线;"></span></strong><strong><span style="text-decoration: underline; font-family: 等线;"></span></strong></span></p></td></tr><tr style="height:59px"><td width="177" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p><span style="font-family: 等线; font-size: 20px;">1月19日—1月21日</span></p><p><span style="font-family: 等线; font-size: 20px;">（班主任或班级审核）</span></p></td><td width="392" valign="top" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-size: 20px;"><span style="font-family: 等线;">班主任或班级综合素质评价工作小组对学生自评内容进行</span><strong><span style="font-family: 等线;">审核</span></strong><strong><span style="font-family: 等线;">。</span></strong><strong><span style="font-family: 等线;"></span></strong><strong><span style="font-family: 等线;"></span></strong></span></p></td></tr><tr style="height:34px"><td width="177" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p><span style="font-family: 等线; font-size: 20px;">1月21日前</span></p><p><span style="font-family: 等线; font-size: 20px;">（各项目考评等第主要负责老师完成）</span></p></td><td width="392" valign="top" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-size: 20px;"><strong><span style="font-family: 等线;">各项目考核等第主要负责人审核、考评</span></strong><span style="font-family: 等线;">（艺术素养和运动健康等第由各班美术和体育老师负责，</span><strong><span style="text-decoration: underline; font-family: 等线;">等第结果</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">在1月21日前钉钉传给</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">德育处诸佳英老师</span></strong><span style="font-family: 等线;">）。</span></span></p></td></tr><tr style="height:22px"><td width="177" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p><span style="font-family: 等线; font-size: 20px;">1月23日前 </span></p><p><span style="font-family: 等线; font-size: 20px;">（班主任完成）</span></p></td><td width="392" valign="top" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-size: 20px;"><span style="font-family: 等线;">班主任完成</span><strong><span style="font-family: 等线;">品德表现和创新实践等第</span></strong><strong><span style="font-family: 等线;">考评，结果</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">在1月23日前钉钉</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">传给</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">德育处诸佳英</span></strong><strong><span style="text-decoration: underline; font-family: 等线;">老师</span></strong><span style="text-decoration: underline; font-family: 等线;">。</span></span></p></td></tr><tr style="height:44px"><td width="177" valign="top" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p><span style="font-family: 等线; font-size: 20px;">1月26日—1月31日</span></p></td><td width="392" valign="top" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-size: 20px;"><strong><span style="font-family: 等线;">处室审核、公示</span></strong><span style="font-family: 等线;">考核结果。</span></span></p></td></tr></tbody></table><p><span style="font-size: 20px;"><strong><span style="font-family: 等线; font-size: 14px;"> </span></strong><strong><span style="font-family: 等线; font-size: 14px;"></span></strong></span></p><p><span style="font-size: 20px;"><strong><span style="font-family: 等线;">附：绍兴</span></strong><strong><span style="font-family: 等线;">一中学生综合素质考核<span style="font-family: 等线;">实</span>施办法</span></strong><strong><span style="font-family: 等线;"></span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;">学生综合素质考核结果反映了学生一学期来在综合素质方面的表现，也是学生高校自主招生推荐的重要依据，考核结果受到各方面关注。为公平、公正、规范地做好此项工作，特别修订以下考核办法：</span></p><p><span style="font-family: 等线; font-size: 20px;">1.考核程序：</span></p><p><span style="font-family: 等线; font-size: 20px;">（1）学生自评（获奖信息录入）；</span></p><p><span style="font-family: 等线; font-size: 20px;">（2）各项目考评等第主要负责人考评审核；</span></p><p><span style="font-family: 等线; font-size: 20px;">（3）德育处、团委等相关处室审核；</span></p><p><span style="font-family: 等线; font-size: 20px;">（4） 公示考核结果。</span></p><p><span style="font-size: 20px;"><span style="font-family: 等线;">2.评价等级比例划分：</span><strong><span style="font-family: 等线;">（最终数字以四舍五入计入）</span></strong><strong><span style="font-family: 等线;"></span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;">评价结果分三等，用A、B、C表示，分别代表“优秀”、“好”、“尚需努力”。其中：</span></p><p style="text-indent:28px"><span style="font-size: 20px; font-family: 等线;">根据省教育厅和市教育局文件，要求做好高三学生综合素养终评等级，等级评价依据学生综合素质情况及班主任或相关责任人考评。评价结果分三等，用A、B、C表示，分别代表“优秀”“好”“尚需</span><span style="font-size: 20px; font-family: 等线;">努</span><span style="font-size: 20px; font-family: 等线;">力”。</span><span style="font-size: 20px; font-family: 等线;">C等比例不超过5%。</span></p><p style="text-indent:28px"><span style="font-size: 20px;"><strong><span style="font-family: 等线; font-size: 14px;"> </span></strong></span></p><p style="text-indent:28px"><span style="font-size: 20px;"><strong><span style="font-family: 等线; font-size: 14px;"> </span></strong></span></p><table><tbody><tr style="height:23px" class="firstRow"><td width="537" valign="bottom" colspan="8" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);"><p><span style="font-family: 等线; font-size: 20px;">品德表现、创新实践类A等各班人数</span></p><p><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: 等线;">（A等按普通班2</span></strong><strong><span style="font-family: 等线; font-size: 14px;">2</span></strong><strong><span style="font-family: 等线; font-size: 14px;">%，素养班35%计算，四舍五入）</span></strong></span></p></td></tr><tr style="height:18px"><td width="67" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255); word-break: break-all;"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">班级</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">学籍人数</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">A等人数</span></p></td><td width="35" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="60" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">班级</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">学籍人数</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">A等人数</span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">301</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">46</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">16 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">309</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">51</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11 </span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">302</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">42</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">9 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">310</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">50</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11 </span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">303</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">41</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">9 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">311</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">52</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11 </span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">304</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">42</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">9 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">312</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">50</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11 </span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">305</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">40</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">14 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">313</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">53</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">12 </span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">306</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">40</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">14 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">314</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">53</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">12 </span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">307</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">43</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">15 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-style: solid; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">315</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">51</span></p></td><td width="75" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11 </span></p></td><td width="42" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: rgb(0, 0, 0); border-style: solid; border-right-color: initial; border-top-color: initial; border-bottom-color: rgb(0, 0, 0); background: rgb(255, 255, 255);">
+</td></tr><tr style="height:18px"><td valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: initial; background: rgb(255, 255, 255);"><p style="text-align:center"><span style="font-family: 宋体; font-size: 20px;">308</span></p></td><td width="94" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: initial; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">51</span></p></td><td width="72" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: rgb(0, 0, 0); border-top-color: initial; border-bottom-color: initial; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11 </span></p></td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="75" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="42" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td></tr></tbody></table><p><span style="font-family: 等线; font-size: 20px;"> </span></p><table><tbody><tr style="height:23px" class="firstRow"><td width="550" valign="bottom" colspan="7" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255); word-break: break-all;"><p><span style="font-family: 等线; font-size: 20px;">艺术素养、运动健康类A等各班人数</span></p><p><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: 等线;">（A等按普通班、素养班26%计算，四舍五入）</span></strong></span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-color: windowtext; background: rgb(255, 255, 255); word-break: break-all; border-style: solid;"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 等线; font-size: 20px;">班级</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 等线; font-size: 20px;">学籍人数</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 等线; font-size: 20px;">A等人数</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-color: windowtext; background: rgb(255, 255, 255); border-style: solid;"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 等线; font-size: 20px;">班级</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 等线; font-size: 20px;">学籍人数</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: windowtext; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 等线; font-size: 20px;">A等人数</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">301</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">46</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">12</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">309</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">49</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">13</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">302</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">42</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">310</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">47</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">12</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">303</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">41</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">311</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">51</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">13</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">304</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">42</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">312</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">48</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">12</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">305</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">40</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">10</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">313</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">50</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">13</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">306</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">40</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">10</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">314</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">50</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">13</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">307</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">43</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">11</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">315</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">49</span></p></td><td width="102" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">13</span></p></td></tr><tr style="height:18px"><td width="59" valign="center" style="padding: 0px 7px; border-width: 1px; border-left-color: windowtext; border-right-color: windowtext; border-style: solid; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">308</span></p></td><td width="114" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">51</span></p></td><td width="89" valign="center" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-left-color: initial; border-right-color: windowtext; border-top-color: initial; border-bottom-color: windowtext; background: rgb(255, 255, 255);"><p style=";text-align:center;vertical-align:middle"><span style="font-family: 宋体; font-size: 20px;">13</span></p></td><td width="15" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="59" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="114" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td><td width="102" valign="bottom" style="padding: 0px 7px; border-width: 1px; border-style: solid; border-color: initial; background: rgb(255, 255, 255);">
+</td></tr></tbody></table><p><span style="font-family: 等线; font-size: 20px;"> 一、等级评价内容</span></p><p><span style="font-family: 等线; font-size: 20px;">1、品德表现：</span></p><p><span style="font-family: 等线; font-size: 20px;">以班级为单位，高中阶段总考评等第根据平时在校表现，表现突出的可认定为A等。具体学生名单由班主任老师确定。</span></p><p><span style="font-family: 等线; font-size: 20px;">2、运动健康：</span></p><p><span style="font-family: 等线; font-size: 20px;">在修完相应的课程，获得相应的学分的基础上，根据平时上课表现或在校级及以上各类体育比赛中的获奖情况，表现突出的可认定为A等。具体学生名单由体育老师确定。</span></p><p><span style="font-family: 等线; font-size: 20px;">3、艺术素养：</span></p><p><span style="font-family: 等线; font-size: 20px;">在修完相应的课程，获得相应的学分的基础上，根据平时上课表现或在校级及以上各类艺术活动中的获奖情况，表现突出的可认定为A等。具体学生名单由音、美老师确定。</span></p><p><span style="font-family: 等线; font-size: 20px;">4、创新实践：</span></p><p><span style="font-family: 等线; font-size: 20px;">在参加相关探究活动或社区、社会实践活动中表现较突出的可认定为A等。具体学生名单由本班学生、考核小组及班主任提名，德育处、团委也可以向班级推荐优秀人员此类推荐名额不占用班级优秀名额。</span></p><p><span style="font-size: 20px;"><strong><span style="text-decoration: underline; font-size: 20px; font-family: 等线;">注：如出国或长期请假的不能评为A等。</span></strong></span></p><p><span style="font-size: 20px;"><strong><span style="text-decoration: underline; font-family: 等线; font-size: 14px;"> </span></strong></span></p><p><span style="font-size: 20px;"><strong><span style="text-decoration: underline; font-size: 20px; font-family: 等线;">注意：各班考评时有下列行为的学生，当学期品德表现不能被评为“A”：</span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;">（1）故意损坏公物；</span></p><p><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: 等线;">（2）早恋倾向；</span></strong></span></p><p><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: 等线;">（3）考试作弊；</span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;">（4）沉迷于电子游戏；</span></p><p><span style="font-family: 等线; font-size: 20px;">（5）受过学校处分尚未撤消；</span></p><p><span style="font-family: 等线; font-size: 20px;">（6）一学期3次以上违反住校生纪律；</span></p><p><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: 等线;">（7）未经德育处审批同意私自带手机；</span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;">（8）违规使用自修教室；</span></p><p><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: 等线;">（9）一学期无故不跑操3次及其以上；</span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;">（10）仪容仪表不符合《中学生日常行为规范》；</span></p><p><span style="font-size: 20px;"><strong><span style="font-size: 20px; font-family: 等线;">（11）一学期迟到次数5次以上（含5次）；</span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;">（12）一学期3次以上不规范穿着校服（含3次）；</span></p><p><span style="font-family: 等线; font-size: 20px;">（13）文明习惯、素养有明显欠缺；不文明就餐，有浪费粮食的行为；</span></p><p><span style="font-family: 等线; font-size: 20px;">（14）处理同学矛盾，有过激不当行为；</span></p><p><span style="font-family: 等线; font-size: 20px;">（15）无故不参加学校集体活动，各项校级比赛（如军体运动会、校运会）；</span></p><p><span style="font-family: 等线; font-size: 20px;">以上违规情况德育处和各班主任根据学生综合素质评价记录对照执行。</span></p><p><span style="font-size: 20px;"><strong><span style="font-family: 等线;">附件：</span></strong><strong><span style="font-family: 等线;"></span></strong></span></p><p><span style="font-family: 等线; font-size: 20px;"></span></p><p style="line-height: 16px;"><img style="vertical-align: middle; margin-right: 2px;" src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_xls.gif" /><a href="/Shaoxingyizhong/UploadFiles/xwzx/2026/1/202601121015469042.xls" target="_self" title="（xx班）获奖情况导入模板（非学科竞赛类）.xls" style="font-size: 20px; text-decoration: underline;"><span style="font-size: 20px;">（xx班）获奖情况导入模板（非学科竞赛类）.xls</span></a></p><p><span style="font-family: 等线; font-size: 20px;"></span></p><p style="line-height: 16px;"><img style="vertical-align: middle; margin-right: 2px;" src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_xls.gif" /><a href="/Shaoxingyizhong/UploadFiles/xwzx/2026/1/202601121016336403.xls" target="_self" title="（xx班）获奖情况导入模板（学科竞赛类）.xls" style="font-size: 20px; text-decoration: underline;"><span style="font-size: 20px;">（xx班）获奖情况导入模板（学科竞赛类）.xls</span></a></p><p style="line-height: 16px;"><img style="vertical-align: middle; margin-right: 2px;" src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_doc.gif" /><a href="/Shaoxingyizhong/UploadFiles/xwzx/2026/1/202601121017123487.docx" target="_self" title="2022-2025学年面向中小学生的全国性竞赛活动名单.docx" style="font-size: 20px; text-decoration: underline;"><span style="font-size: 20px;">2022-2025学年面向中小学生的全国性竞赛活动名单.docx</span></a></p><p style="line-height: 16px;"><img style="vertical-align: middle; margin-right: 2px;" src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_doc.gif" /><a href="/Shaoxingyizhong/UploadFiles/xwzx/2026/1/202601121018385523.doc" target="_self" title="2025-2028学年面向中小学生的全国性竞赛活动名单.doc" style="font-size: 20px; text-decoration: underline;"><span style="font-size: 20px;">2025-2028学年面向中小学生的全国性竞赛活动名单.doc</span></a></p><p style="line-height: 16px;"><img src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_doc.gif" style="vertical-align: middle; margin-right: 2px;" /><a href="/Shaoxingyizhong/UploadFiles/xwzx/2026/1/202601121015074210.doc" target="_self" title="2026届省平台登录指南.doc" style="font-size: 20px;">2026届省平台登录指南.doc</a></p><p><span style="font-size: 20px;"><strong><span style="font-family: 等线;"></span></strong><strong><span style="font-family: 等线;"></span></strong></span>
+</p><p><span style="font-family: 等线; font-size: 20px;"> </span></p><p style="text-indent:420px"><span style="font-family: 等线; font-size: 20px;">德育处、团委</span></p><p style="text-indent:406px"><span style="font-family: 等线; font-size: 20px;">2026</span><span style="font-family: 等线; font-size: 14px;"><span style="font-size: 20px; font-family: 等线;">年1月</span><span style="font-family: 等线; font-size: 20px;">12日</span></span></p><p style="text-align: center;">
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22632.aspx" target="_self" title="标题：寻物启事（地铁卡/饭卡）&#xD;点击数：47&#xD;发表时间：26年01月12日">寻物启事（地铁卡/饭卡）</a>[ 01-12 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/22634.aspx" target="_self" title="标题：大扫除通知&#xD;点击数：42&#xD;发表时间：26年01月12日">大扫除通知</a>[ 01-12 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

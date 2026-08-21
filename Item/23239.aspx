@@ -1,0 +1,496 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>中国共产党发展党员工作细则--学习专栏-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Shaoxingyizhong/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Shaoxingyizhong/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Shaoxingyizhong/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Shaoxingyizhong/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Shaoxingyizhong/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23163.aspx" target="_blank" title="标题：每周一学（2026年5月4日-5月10日）着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全&#xD;点击数：20&#xD;发表时间：2026年05月07日">每周一学（2026年5月4日-5月10日）着力提高防范应对自然…</a><span class="dateRight">[05-07]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    <a href="/Shaoxingyizhong/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Shaoxingyizhong/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+                    <h3>学习专栏</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">中国共产党发展党员工作细则</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年05月19日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=23239"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23239},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23239";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align:center"><strong><span style="font-size:21px;line-height:115%">中国共产党发展党员工作细则</span></strong></p><p style="text-align:center">（2014年5月8日中共中央政治局常委会会议审议批准<strong>　</strong>2014年5月28日中共中央办公厅发布<strong>　</strong>2026年4月2日中共中央政治局常委会会议修订<strong>　</strong>2026年5月11日中共中央办公厅发布）</p><p>　<strong>　第一章　总则</strong></p><p>　　第一条　为了规范和加强发展党员工作，提高新发展的党员质量，保持党的先进性和纯洁性，根据《中国共产党章程》和有关党内法规，制定本细则。</p><p>　　第二条　中国共产党党员是中国工人阶级的有共产主义觉悟的先锋战士。党的基层组织应当把吸收具有马克思主义信仰、共产主义觉悟和中国特色社会主义信念，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，自觉践行社会主义核心价值观的先进分子入党，作为一项经常性重要工作。</p><p>　　第三条　发展党员工作坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻习近平新时代中国特色社会主义思想，贯彻党的基本理论、基本路线、基本方略，贯彻新时代党的建设总要求，贯彻全面从严治党战略方针，按照控制总量、优化结构、提高质量、发挥作用的总要求，坚持党章规定的党员标准，始终把政治标准放在首位，严格程序、严格把关、严肃纪律，发展政治品质纯洁的党员；坚持综合平衡、分类指导，有领导、有计划地进行；坚持入党自愿原则和个别吸收原则，成熟一个，发展一个。</p><p>　　禁止突击发展，反对“关门主义”。</p><p><strong>　　第二章　入党积极分子的确定和培养教育</strong></p><p>　　第四条　党组织应当通过宣传党的政治主张和深入细致的思想政治工作，提高党外群众对党的认识，增进对党的感情，不断扩大入党积极分子队伍。</p><p>　　第五条　年满十八岁的中国工人、农民、军人、知识分子和其他社会阶层的先进分子，承认党的纲领和章程，愿意参加党的一个组织并在其中积极工作、执行党的决议和按期交纳党费的，可以申请加入中国共产党。</p><p>　　第六条　入党申请人应当向工作、学习所在单位党组织提出入党申请，工作、学习单位未建立党组织的，应当向工作、学习单位所在地党组织，单位主管部门党组织或者居住地党组织提出入党申请；没有工作、学习单位的，应当向居住地党组织提出入党申请。</p><p>　　流动人员还可以向流动党员党组织提出入党申请。</p><p>　　第七条　党组织收到入党申请书后，应当在一个月内派人同入党申请人谈话，了解学习工作经历、对党的认识、入党动机、遵纪守法以及家庭情况等基本情况，并向其介绍党的基本知识、党员的标准和条件。</p><p>　　第八条　在入党申请人中确定入党积极分子，应当采取党员推荐、群团组织推优等方式产生人选，由党支部委员会会议（不设党支部委员会的由党支部党员大会，下同）研究决定后，报上级党委备案。</p><p>　　第九条　党组织应当指定一至两名正式党员作入党积极分子的培养联系人。培养联系人由经过一定时间党内生活的锻炼、能够用党员标准严格要求自己、先锋模范作用发挥比较好、善于做思想政治工作、责任心强的党员担任，主要任务是：</p><p>　　（一）向入党积极分子介绍和阐释共产党人的信仰信念，介绍党的基本知识，引导其深入学习领会习近平新时代中国特色社会主义思想；</p><p>　　（二）经常谈心谈话，了解入党积极分子的政治觉悟、道德品质、现实表现和家庭情况等，做好培养教育工作，引导入党积极分子端正入党动机；</p><p>　　（三）及时向党支部汇报入党积极分子情况，在《入党积极分子培养考察登记表》上认真填写自己的意见；</p><p>　　（四）向党支部提出能否将入党积极分子列为发展对象的意见。</p><p>　　对因工作岗位发生变动无法正常履行职责，以及其他原因不适宜担任培养联系人的，党组织应当及时予以调整。</p><p>　　第十条　党组织应当采取吸收入党积极分子听党课、参加党内有关活动，给他们分配一定的社会工作以及集中培训等方法，对入党积极分子进行马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社会主义思想教育，党的路线、方针、政策和党章、党的基本知识教育，党的历史和优良传统、作风教育，党的纪律教育，社会主义核心价值观教育，使他们懂得党的性质、纲领、宗旨、组织原则和纪律，懂得党员的义务和权利，帮助他们端正入党动机，确立为共产主义事业奋斗终身的信念。</p><p>　　第十一条　党支部每半年对入党积极分子进行一次考察。县级党委组织部门和基层党委每年对入党积极分子队伍状况作一次分析。针对存在的问题，采取改进措施。</p><p>　　第十二条　入党积极分子工作、学习所在单位或者居住地发生变动，应当及时报告原单位或者居住地党组织。原单位或者居住地党组织应当及时将入党申请书、《入党积极分子培养考察登记表》等材料转交现单位或者居住地党组织。现单位或者居住地党组织应当对有关材料进行认真审查，并接续做好培养教育工作。培养教育时间可以连续计算。</p><p>　<strong>　第三章　发展对象的确定和考察</strong></p><p>　　第十三条　对经过一年以上培养教育和考察、基本具备党员条件的入党积极分子，在听取党小组、培养联系人、党员和群众等意见的基础上，党支部委员会会议研究讨论并报上级党委同意拟列为发展对象的，在工作、学习单位或者居住地进行公示，公示期不少于五个工作日。拟列为发展对象的流动人员，应当在流出地和流入地同时公示。公示结果不影响发展入党的，可以列为发展对象。</p><p>　　第十四条　发展对象应当有两名正式党员作入党介绍人。入党介绍人一般由培养联系人担任，也可以由党组织指定。</p><p>　　受警告、严重警告、撤销党内职务处分在影响期内的党员，不宜作入党介绍人。受留党察看处分、尚未恢复党员权利的党员，不能作入党介绍人。</p><p>　　第十五条　入党介绍人的主要任务是：</p><p>　　（一）向发展对象解释党的纲领、章程，说明党员的条件、义务和权利；</p><p>　　（二）认真了解发展对象的入党动机、政治觉悟、道德品质、学习工作经历、现实表现等情况，如实向党组织汇报；</p><p>　　（三）指导发展对象填写《中国共产党入党志愿书》，并认真填写自己的意见；</p><p>　　（四）向党支部党员大会负责地介绍发展对象的情况；</p><p>　　（五）发展对象批准为预备党员后，继续对其进行教育帮助，在《预备党员教育考察登记表》上认真填写自己的意见。</p><p>　　第十六条　党组织必须对发展对象进行政治审查，深入了解其入党动机、政治素质和现实表现等情况。</p><p>　　政治审查的主要内容是：坚定马克思主义信仰、共产主义觉悟和中国特色社会主义信念的情况；深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”的现实表现；对党的理论和路线、方针、政策的态度；政治历史和在重大政治斗争、急难险重任务中的表现；遵纪守法和遵守社会公德、家庭美德以及网络行为表现的情况；家庭主要成员和重要社会关系的政治情况。</p><p>　　政治审查的基本方法是：同本人谈话、查阅有关档案材料、找有关单位和人员了解情况以及必要的函调或者外调。在听取本人介绍和查阅有关材料后，情况清楚的可以不函调或者外调。对流动人员中的发展对象进行政治审查时，还应当征求其户籍所在地和居住地基层党组织的意见。</p><p>　　政治审查时，基层党委根据需要听取有关部门的意见，县级党委组织部门和执纪执法等相关部门建立政审联审制度。</p><p>　　政治审查必须严肃认真、实事求是，注重本人的一贯表现。审查情况应当形成结论性材料。</p><p>　　凡是未经政治审查或者政治审查不合格的，不能发展入党。</p><p>　　第十七条　基层党委或者县级党委组织部门应当对发展对象进行短期集中培训，一般采取线下方式，根据需要也可以采取视频方式。培训时间一般不少于三天或者不少于二十四个学时。培训时主要学习习近平新时代中国特色社会主义思想，学习党章和有关党内法规，学习党的历史。中央组织部组织编写的《入党教材》，可以作为学习辅导材料。</p><p>　　除个别特殊情况外，未经培训的，不能发展入党。</p><p><strong>　　第四章　预备党员的接收</strong></p><p>　　第十八条　党支部委员会应当对发展对象进行严格审查，经集体讨论认为合格后，报具有审批权限的基层党委预审。</p><p>　　基层党委对发展对象的条件、培养教育情况等进行审查。审查结果以书面形式通知党支部，并向审查合格的发展对象发放《中国共产党入党志愿书》。</p><p>　　发展对象未来三个月内将离开工作、学习单位的，一般不办理接收预备党员的手续。</p><p>　　第十九条　经基层党委预审合格的发展对象，应当在一个月内提交党支部党员大会讨论。</p><p>　　召开讨论接收预备党员的党支部党员大会，实际到会有表决权的党员人数必须超过应到会有表决权的党员人数的半数。</p><p>　　第二十条　党支部党员大会讨论接收预备党员的主要程序是：</p><p>　　（一）发展对象汇报对党的认识、入党动机、本人履历、家庭主要成员和重要社会关系情况，以及需向党组织说明的问题。</p><p>　　（二）入党介绍人介绍发展对象有关情况，并对其能否入党表明意见。</p><p>　　（三）党支部委员会报告对发展对象的审查情况。</p><p>　　（四）与会党员对发展对象能否入党进行充分讨论，并采取无记名投票方式进行表决。赞成人数超过应到会有表决权的党员人数的半数，才能通过接收预备党员的决议。因故不能到会的有表决权的党员，在党支部党员大会召开前正式向党支部提出书面意见的，应当统计在票数内。</p><p>　　党支部党员大会讨论两个以上的发展对象入党时，必须逐个讨论和表决。</p><p>　　第二十一条　党支部应当及时将党员大会决议写入《中国共产党入党志愿书》，连同本人入党申请书、《入党积极分子培养考察登记表》、政治审查材料等，一并报上级党委（工委，下同）审批。</p><p>　　党支部党员大会决议主要包括：发展对象的主要表现；应到会和实际到会有表决权的党员人数；表决结果；通过决议的日期；党支部书记签名。</p><p>　　第二十二条　预备党员必须由党委审批。</p><p>　　乡镇（街道）党委所属的基层党委，不能审批预备党员，但应当对党支部党员大会通过接收的预备党员进行审议。</p><p>　　党总支不能审批预备党员，但应当对党支部党员大会通过接收的预备党员进行审议。</p><p>　　除另有规定外，临时党组织不能接收、审批预备党员。</p><p>　　党组不能审批预备党员，但应当按照党章和有关规定讨论和决定发展党员重要事项。</p><p>　　第二十三条　党委审批前，应当指派党委委员或者组织员同发展对象谈话，作进一步的了解，并帮助发展对象提高对党的认识。谈话人应当将谈话情况和自己对发展对象能否入党的意见，如实填写在《中国共产党入党志愿书》上，并向党委汇报。</p><p>　　第二十四条　党委审批预备党员，必须集体讨论和表决。</p><p>　　党委主要审议发展对象是否具备党员条件、入党手续是否完备。发展对象符合党员条件、入党手续完备的，批准其为预备党员。党委审批意见写入《中国共产党入党志愿书》，注明预备期的起止时间，并通知报批的党支部。党支部应当及时通知本人并在党员大会上宣布。对未被批准入党的，应当通知党支部和本人，做好思想工作。</p><p>　　党委会审批两个以上的发展对象入党时，应当逐个审议和表决。</p><p>　　第二十五条　党委对党支部上报的接收预备党员的决议，应当在三个月内审批，并报上级党委组织部门备案。如遇特殊情况可以适当延长审批时间，但不得超过六个月。</p><p>　　第二十六条　在特殊情况下，党的中央和省（自治区、直辖市）委员会可以直接接收党员。</p><p>　　第二十七条　对在中国特色社会主义事业中为党和人民利益英勇献身，事迹突出，在一定范围内有较大影响，生前一贯表现良好并曾向党组织提出过入党要求的人员，可以追认为党员。</p><p>　　追认党员必须严格掌握，由所在单位党组织讨论决定后，经上级党委审查，报省一级党委批准。</p><p><strong>　　第五章　预备党员的教育、考察和转正</strong></p><p>　　第二十八条　党组织应当及时将上级党委批准的预备党员编入党支部和党小组，对预备党员继续进行教育和考察。</p><p>　　第二十九条　预备党员必须面向党旗进行入党宣誓。入党宣誓仪式，一般在批复同意接收预备党员后的一个月内，由基层党委或者党支部（党总支）组织进行。</p><p>　　县级以上党委可以在“七一”、国庆等重大纪念日组织集中宣誓。</p><p>　　第三十条　党组织应当通过党的组织生活、听取本人汇报、个别谈心、集中培训、实践锻炼、志愿服务等方式，对预备党员进行教育和考察，引导其不断提高政治觉悟，自觉用党员标准严格要求自己，在生产、工作、学习和社会生活中起先锋模范作用。</p><p>　　第三十一条　预备党员的预备期为一年。预备期从党支部党员大会通过其为预备党员之日算起。</p><p>　　预备党员预备期满，党支部应当及时讨论其能否转为正式党员。认真履行党员义务、具备党员条件的，应当按期转为正式党员；需要继续考察和教育的，可以延长一次预备期，延长时间不能少于半年，最长不超过一年；不履行党员义务、不具备党员条件的，应当取消其预备党员资格。</p><p>　　预备党员违犯党纪，情节较轻，可以保留预备党员资格的，应当对其进行批评教育或者延长预备期；情节较重的，应当取消其预备党员资格。</p><p>　　预备党员转为正式党员、延长预备期或者取消预备党员资格，应当经党支部党员大会讨论通过和上级党组织批准。</p><p>　　第三十二条　预备党员转正的手续是：本人向党支部提出书面转正申请；党支部征求党小组、党员和群众的意见；党支部委员会审查；党支部党员大会讨论、表决通过；报上级党委审批。</p><p>　　讨论预备党员转正的党支部党员大会，对到会人数、赞成人数等要求与讨论接收预备党员的党支部党员大会相同。</p><p>　　第三十三条　党委对党支部上报的预备党员转正的决议，应当在三个月内审批。审批结果应当及时通知党支部。党支部书记应当同本人谈话，并将审批结果在党员大会上宣布。</p><p>　　党员的党龄，从预备期满转为正式党员之日算起。</p><p>　　第三十四条　预备期未满的预备党员工作、学习所在单位或者居住地发生变动，应当及时报告原所在党组织。原所在党组织应当及时将对其培养教育和考察的情况，认真负责地介绍给接收预备党员的党组织。</p><p>　　党组织应当对转入的预备党员的入党材料进行严格审查，对无法认定的预备党员，报县级以上党委组织部门批准，不予承认。</p><p>　　第三十五条　基层党组织对转入的预备党员，在其预备期满时，如认为有必要，可以推迟讨论其转正问题，推迟时间不超过六个月。转为正式党员的，其转正时间自预备期满之日算起。</p><p>　　第三十六条　预备党员转正后，党支部应当及时将其《中国共产党入党志愿书》、入党申请书、《入党积极分子培养考察登记表》、政治审查材料、《预备党员教育考察登记表》、转正申请书等，交党委存入本人人事档案。无人事档案的，建立党员档案，由所在党委或者县级党委组织部门保存。</p><p>　　有条件的地方和单位，实行党员档案电子化管理。</p><p><strong>　　第六章　发展党员工作的领导和纪律</strong></p><p>　　第三十七条　各级党委应当把发展党员工作列入重要议事日程，纳入党建工作责任制，作为党委（党组）书记抓基层党建工作述职评议考核、巡视巡察和党务公开的重要内容。对发展党员工作情况，各级地方党委要加强日常督促检查，及时发现和解决存在的问题。</p><p>　　注重从青年和产业工人、农民、知识分子中发展党员，重视在生产、工作第一线发展党员，做好在新兴领域中发展党员工作，优化党员队伍结构。对具备发展党员条件但长期不做发展党员工作的基层党组织，上级党委应当加强指导和督促检查，必要时对其进行组织整顿。</p><p>　　第三十八条　各级党委组织部门每年应当向同级党委和上级党委组织部门报告发展党员工作情况和发展党员工作计划，如实反映带有倾向性的问题和对违反规定发展党员的查处情况。</p><p>　　第三十九条　乡镇、街道、国有企业、高等学校等基层党委，按照规定配备一定数量的专兼职组织员。县级以上党委及其组织部门应当重视对组织员的选拔、配备和培训，加强业务指导和管理，充分发挥他们在发展党员工作中的作用。</p><p>　　第四十条　各级党委及其组织部门应当加强对流动党员党组织发展党员工作的领导和指导。具备发展党员条件的流动党员党组织，按照规定做好确定和培养教育入党积极分子、确定和考察发展对象以及预备党员的接收和转正等工作；尚不具备发展党员条件的，做好入党申请人的教育引导、入党积极分子的培养教育等工作，并及时向有关党组织介绍情况、转交相关材料。</p><p>　　第四十一条　各级党组织对发展党员工作中出现的违规违纪问题和不正之风，应当严肃查处。</p><p>　　对存在不坚持标准、不履行或者违反规定程序和培养考察失职、审查把关不严，采取弄虚作假或者其他手段把不符合党员条件的人发展为党员，为非党员出具党员身份证明等问题的党组织及相关责任人，以及不如实向党组织报告有关情况，篡改、伪造个人档案资料，隐瞒入党前严重错误的人员，应当依据《中国共产党纪律处分条例》和有关规定作出处理。</p><p>　　对发展党员工作中的违规违纪典型案例，应当及时通报。对违反规定吸收入党的，应当综合分析研判，不符合党员条件的，一律不予承认党员身份，并在党支部党员大会上公布。</p><p>　　第四十二条　《中国共产党入党志愿书》的式样由中央组织部负责制定，省级党委组织部门按照式样统一印制，并严格管理。</p><p>　　《入党积极分子培养考察登记表》、《预备党员教育考察登记表》的式样由中央组织部负责制定，其印制、管理等由省级党委组织部门作出安排。</p><p><strong>　　第七章　附则</strong></p><p>　　第四十三条　本细则由中央组织部负责解释。</p><p>　　第四十四条　本细则自发布之日起施行。</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/23180.aspx" target="_self" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：26年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基…</a>[ 05-11 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/23272.aspx" target="_self" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：26年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创…</a>[ 05-25 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>
