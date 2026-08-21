@@ -6,7 +6,7 @@
 	管理登录
 </title><link href="../Admin/Common/Login.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="../Admin/JS/softkeyboard.js"></script>
-    <script type="text/javascript" src="/js/jquery.pack.js"></script>
+    <script type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
     <script type="text/javascript">
     <!--
     if(self!=top){top.location=self.location;} 
@@ -25,7 +25,7 @@
     }
     // -->
     </script>
-<script type="text/javascript" src="/Js/jQuery.pack.js"></script></head>
+<script type="text/javascript" src="/Shaoxingyizhong/Js/jQuery.pack.js"></script></head>
 <body id="loginbody">
     <form name="Login" method="post" action="login.aspx" onsubmit="javascript:return WebForm_OnSubmit();" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'IbtnEnter')" id="Login" enctype="multipart/form-data">
 <div>
@@ -52,11 +52,11 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/Shaoxingyizhong/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
 
 
-<script src="/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
-<script src="/WebResource.axd?d=kHm64kc06RB_fWVtj0mw7S8DKkZyw8H2SKURSlB9gZmbHysHBZgQZcVKdmTAhStBitl3v-YftiuhMmVt0&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/Shaoxingyizhong/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/Shaoxingyizhong/WebResource.axd?d=kHm64kc06RB_fWVtj0mw7S8DKkZyw8H2SKURSlB9gZmbHysHBZgQZcVKdmTAhStBitl3v-YftiuhMmVt0&amp;t=634604712479085897" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 function WebForm_OnSubmit() {
@@ -105,7 +105,7 @@ return true;
                     </ul>
                 </div>
             </div>
-            <a href="/" target="_blank" title="网站首页">
+            <a href="/Shaoxingyizhong/" target="_blank" title="网站首页">
                 <img src="../Admin/Images/LoginImages/admin_text.gif" width="186" border="0" height="10"
                     alt="Powered by PowerEasy&reg;" /></a>
             <div class="clearbox">
