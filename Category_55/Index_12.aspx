@@ -6,9 +6,9 @@
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
     <title>学习专栏-绍兴市第一中学</title>
-    <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
-    <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -26,10 +26,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -39,12 +39,12 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <body>
     <div id="top">
 	<div class="siteWidth">
-		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -54,10 +54,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div id="header">
     <div class="siteWidth">
 			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
-					<a href="/"><img src="/Template/Default/Skin/erms/img/logo.png" /></a>
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/User/index.aspx">登录</a>|<a href="/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -126,167 +126,167 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Category_22/Index.aspx">工作安排</a></h4>
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
 </li>
 <li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Category_23/Index.aspx">校长专栏</a></h4>
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
 </li>
 <li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Category_24/Index.aspx">校务公开</a></h4>
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
 				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Category_112/Index.aspx">建校史略</a></h4>
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
 </li>
 <li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Category_113/Index.aspx">昔日校园</a></h4>
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
 </li>
 <li class="li2" id="liID376">
   <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
 </li>
 <li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
 </li>
 <li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Category_45/Index.aspx">管理团队</a></h4>
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
 </li>
 <li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Category_49/Index.aspx">—中校歌</a></h4>
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
 </li>
 <li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Category_41/Index.aspx">校园风光</a></h4>
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
 </li>
 <li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Category_10/Index.aspx">奖教奖学</a></h4>
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
 </li>
 <li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Category_42/Index.aspx">学校荣誉</a></h4>
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
 </li>
 <li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+			</ul></li><li class="li1 hasUl1 on1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
 				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Category_54/Index.aspx">清廉学校</a></h4>
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
 </li>
 <li class="li2 on2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Category_55/Index.aspx">学习专栏</a></h4>
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
 </li>
 <li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Category_56/Index.aspx">先锋故事</a></h4>
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
 </li>
 <li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Category_58/Index.aspx">课余党校</a></h4>
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
 </li>
 <li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
 <li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Category_71/Index.aspx">名师工作室</a></h4>
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
 				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Category_381/Index.aspx">家校合力</a></h4>
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
 </li>
 <li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Category_386/Index.aspx">德育活动</a></h4>
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
 </li>
 <li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Category_102/Index.aspx">博雅讲座</a></h4>
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
 </li>
 <li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
 <li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Category_73/Index.aspx">数学竞赛</a></h4>
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
 </li>
 <li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Category_74/Index.aspx">物理竞赛</a></h4>
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
 </li>
 <li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
 <li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Category_373/Index.aspx">天文竞赛</a></h4>
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
 </li>
 <li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
 </li>
 <li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Category_387/Index.aspx">教科动态</a></h4>
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
 </li>
 <li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
 </li>
 <li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Category_100/Index.aspx">社团风采</a></h4>
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
 </li>
 <li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Category_103/Index.aspx">艺术教育</a></h4>
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
 </li>
 <li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Category_105/Index.aspx">校园安全</a></h4>
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
 </li>
 <li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Category_368/Index.aspx">实践学分</a></h4>
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
 </li>
 <li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Category_369/Index.aspx">饮水思源</a></h4>
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
 </li>
 <li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Category_388/Index.aspx">志愿活动</a></h4>
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
 </li>
 <li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Category_382/Index.aspx">校园活动</a></h4>
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
 </li>
 			</ul></li></ul><script type="text/javascript">
 			jQuery(function($){
@@ -350,16 +350,16 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_50/Index.aspx">党建引领</a></h3>
+        <h3><a href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_53/Index.aspx">组织架构</a></li>
-<li class="li2"><a href="/Category_54/Index.aspx">清廉学校</a></li>
-<li class="li3 on"><a href="/Category_55/Index.aspx">学习专栏</a></li>
-<li class="li4"><a href="/Category_56/Index.aspx">先锋故事</a></li>
-<li class="li5"><a href="/Category_58/Index.aspx">课余党校</a></li>
-<li class="li6 last"><a href="/Category_60/Index.aspx">党建网站</a></li>
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,7 +374,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Item/23163.aspx" target="_blank" title="标题：每周一学（2026年5月4日-5月10日）着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全&#xD;点击数：20&#xD;发表时间：2026年05月07日">每周一学（2026年5月4日-5月10日）着力提高防范应对自然…</a><span class="dateRight">[05-07]</span></li>
+            <li class="first"><a href="/Shaoxingyizhong/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Shaoxingyizhong/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Shaoxingyizhong/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Shaoxingyizhong/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Shaoxingyizhong/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Shaoxingyizhong/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23163.aspx" target="_blank" title="标题：每周一学（2026年5月4日-5月10日）着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全&#xD;点击数：20&#xD;发表时间：2026年05月07日">每周一学（2026年5月4日-5月10日）着力提高防范应对自然…</a><span class="dateRight">[05-07]</span></li>
           
 		</ul>
 	</div>
@@ -399,7 +399,7 @@ function GetUserInfo1(response){
     </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
    <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
    <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
+   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/Shaoxingyizhong/search.aspx?searchtype=2&ModelId=1'" />--></label>
     <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
     <script language="javascript" type="text/javascript">
     function OnSearchCheckAndSubmit2(){
@@ -421,18 +421,18 @@ function GetUserInfo1(response){
 </div>
 
                 <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
     
     
-    <a href="/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
-    <a href="/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+    <a href="/Shaoxingyizhong/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Shaoxingyizhong/Category_55/Index.aspx" target="_self">学习专栏</a></div>
                     <h3>学习专栏</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2021-05-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13544.aspx" target="_self" title="标题：“习总书记始终大力支持民营经济健康发展” ——习近平在浙江（三十四）&#xD;点击数：36&#xD;发表时间：2021年05月19日">“习总书记始终大力支持民营经济健康发展” ——习近平在浙江（三十四）</a></li><li><span class="date">2021-05-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13543.aspx" target="_self" title="标题：“习书记鼓励浙商发展‘地瓜经济’” ——习近平在浙江（三十三）&#xD;点击数：35&#xD;发表时间：2021年05月18日">“习书记鼓励浙商发展‘地瓜经济’” ——习近平在浙江（三十三）</a></li><li><span class="date">2021-05-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13542.aspx" target="_self" title="标题：“习书记对浙江国企改革作出了开创性贡献” ——习近平在浙江（三十二）&#xD;点击数：35&#xD;发表时间：2021年05月17日">“习书记对浙江国企改革作出了开创性贡献” ——习近平在浙江（三十二）</a></li><li><span class="date">2021-05-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13541.aspx" target="_self" title="标题：“习书记指点我怎样当好县长” ——习近平在浙江 （三十一）&#xD;点击数：29&#xD;发表时间：2021年05月15日">“习书记指点我怎样当好县长” ——习近平在浙江 （三十一）</a></li><li><span class="date">2021-05-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13540.aspx" target="_self" title="标题：“习近平同志的‘两山论’是在安吉提出来的，其科学性也在安吉得到充分证明” ——习近平在浙江（三十）&#xD;点击数：24&#xD;发表时间：2021年05月14日">“习近平同志的‘两山论’是在安吉提出来的，其科学性也在安吉得到充分证明” ——习近平在浙江（…</a></li><li class="split"></li><li><span class="date">2021-05-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13539.aspx" target="_self" title="标题：“习书记在浙江工作时就提出了与‘八项规定’类似的要求” ——习近平在浙江（二十九）&#xD;点击数：26&#xD;发表时间：2021年05月13日">“习书记在浙江工作时就提出了与‘八项规定’类似的要求” ——习近平在浙江（二十九）</a></li><li><span class="date">2021-05-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13538.aspx" target="_self" title="标题：“习书记在浙江的领导实践具有鲜明特点” ——习近平在浙江（二十八）&#xD;点击数：24&#xD;发表时间：2021年05月12日">“习书记在浙江的领导实践具有鲜明特点” ——习近平在浙江（二十八）</a></li><li><span class="date">2021-05-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13537.aspx" target="_self" title="标题：“习书记在浙江期间对办公厅工作提出28字要求” ——习近平在浙江（二十七）&#xD;点击数：13&#xD;发表时间：2021年05月11日">“习书记在浙江期间对办公厅工作提出28字要求” ——习近平在浙江（二十七）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13415.aspx" target="_self" title="标题：“习书记善于运用督促检查推动决策落实” ——习近平在浙江（二十六）&#xD;点击数：52&#xD;发表时间：2021年05月10日">“习书记善于运用督促检查推动决策落实” ——习近平在浙江（二十六）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13414.aspx" target="_self" title="标题：“习书记提出浙江党建工作的‘八八战略’” ——习近平在浙江（二十五）&#xD;点击数：42&#xD;发表时间：2021年05月10日">“习书记提出浙江党建工作的‘八八战略’” ——习近平在浙江（二十五）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13413.aspx" target="_self" title="标题：“习近平同志坚持用创新的思路和办法抓‘三农’工作” ——习近平在浙江（二十四）&#xD;点击数：49&#xD;发表时间：2021年05月10日">“习近平同志坚持用创新的思路和办法抓‘三农’工作” ——习近平在浙江（二十四）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13412.aspx" target="_self" title="标题：“习书记通过发展海洋经济拓宽了浙江发展的视野和格局” ——习近平在浙江（二十三）&#xD;点击数：35&#xD;发表时间：2021年05月10日">“习书记通过发展海洋经济拓宽了浙江发展的视野和格局” ——习近平在浙江（二十三）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13411.aspx" target="_self" title="标题：“‘八八战略’充分展现了习书记极强的统揽全局和理论概括能力” ——习近平在浙江（二十二）&#xD;点击数：61&#xD;发表时间：2021年05月10日">“‘八八战略’充分展现了习书记极强的统揽全局和理论概括能力” ——习近平在浙江（二十二）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13410.aspx" target="_self" title="标题：“习书记在发展理念层面站得很高、看得很远” ——习近平在浙江（二十一）&#xD;点击数：49&#xD;发表时间：2021年05月10日">“习书记在发展理念层面站得很高、看得很远” ——习近平在浙江（二十一）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13409.aspx" target="_self" title="标题：“习书记以惊人的速度进入角色，大刀阔斧地开局” ——习近平在浙江（二十）&#xD;点击数：46&#xD;发表时间：2021年05月10日">“习书记以惊人的速度进入角色，大刀阔斧地开局” ——习近平在浙江（二十）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13408.aspx" target="_self" title="标题：“习书记把外事工作当作浙江对外开放的重要抓手” ——习近平在浙江（十九）&#xD;点击数：60&#xD;发表时间：2021年05月10日">“习书记把外事工作当作浙江对外开放的重要抓手” ——习近平在浙江（十九）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13407.aspx" target="_self" title="标题：“习书记主政那五年是浙江文化建设大步跨越迈入前列的五年” ——习近平在浙江（十八）&#xD;点击数：28&#xD;发表时间：2021年05月10日">“习书记主政那五年是浙江文化建设大步跨越迈入前列的五年” ——习近平在浙江（十八）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13406.aspx" target="_self" title="标题：“习书记在浙江大力度推进科技强省建设” ——习近平在浙江（十七）&#xD;点击数：53&#xD;发表时间：2021年05月10日">“习书记在浙江大力度推进科技强省建设” ——习近平在浙江（十七）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13405.aspx" target="_self" title="标题：“习书记做到了‘公生明，严生威’” ——习近平在浙江（十六）&#xD;点击数：47&#xD;发表时间：2021年05月10日">“习书记做到了‘公生明，严生威’” ——习近平在浙江（十六）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13404.aspx" target="_self" title="标题：“习近平同志高度重视发挥人大的作用” ——习近平在浙江（十五）&#xD;点击数：38&#xD;发表时间：2021年05月10日">“习近平同志高度重视发挥人大的作用” ——习近平在浙江（十五）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13403.aspx" target="_self" title="标题：“习书记的‘八八战略’是在调研中逐渐形成并不断完善的” ——习近平在浙江（十四）&#xD;点击数：30&#xD;发表时间：2021年05月10日">“习书记的‘八八战略’是在调研中逐渐形成并不断完善的” ——习近平在浙江（十四）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13402.aspx" target="_self" title="标题：“‘八八战略’与‘干在实处、走在前列’是习书记主政浙江的总抓手和总要求” ——习近平在浙江（十三）&#xD;点击数：27&#xD;发表时间：2021年05月10日">“‘八八战略’与‘干在实处、走在前列’是习书记主政浙江的总抓手和总要求” ——习近平在浙江（…</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13401.aspx" target="_self" title="标题：“习近平同志的‘两山论’是非常了不起的思想创造” ——习近平在浙江（十二）&#xD;点击数：39&#xD;发表时间：2021年05月10日">“习近平同志的‘两山论’是非常了不起的思想创造” ——习近平在浙江（十二）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13400.aspx" target="_self" title="标题：“习书记指导绍兴谱写新时期的‘胆剑篇’” ——习近平在浙江（十一）&#xD;点击数：36&#xD;发表时间：2021年05月10日">“习书记指导绍兴谱写新时期的‘胆剑篇’” ——习近平在浙江（十一）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13399.aspx" target="_self" title="标题：“习书记提出欠发达地区要努力实现跨越式发展” ——习近平在浙江（十）&#xD;点击数：39&#xD;发表时间：2021年05月10日">“习书记提出欠发达地区要努力实现跨越式发展” ——习近平在浙江（十）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13398.aspx" target="_self" title="标题：习书记平时最牵挂的是基层，最惦记的是百姓”——习近平在浙江（九）&#xD;点击数：25&#xD;发表时间：2021年05月10日">习书记平时最牵挂的是基层，最惦记的是百姓”——习近平在浙江（九）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13397.aspx" target="_self" title="标题：“习书记想问题作决策无不体现着辩证思维”——习近平在浙江（八）&#xD;点击数：43&#xD;发表时间：2021年05月10日">“习书记想问题作决策无不体现着辩证思维”——习近平在浙江（八）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13396.aspx" target="_self" title="标题：“习书记为民主党派参政议政提供了广阔平台和宽松条件” ——习近平在浙江（七）&#xD;点击数：35&#xD;发表时间：2021年05月10日">“习书记为民主党派参政议政提供了广阔平台和宽松条件” ——习近平在浙江（七）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13395.aspx" target="_self" title="标题：“习书记为推进浙江国防军事建设的理论与实践创新作出巨大贡献” ——习近平在浙江（六）&#xD;点击数：26&#xD;发表时间：2021年05月10日">“习书记为推进浙江国防军事建设的理论与实践创新作出巨大贡献” ——习近平在浙江（六）</a></li><li><span class="date">2021-04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13292.aspx" target="_self" title="标题：党史教育铭初心 坚定信仰铸党魂  ——记我校4月份主题党日活动&#xD;点击数：59&#xD;发表时间：2021年04月29日">党史教育铭初心 坚定信仰铸党魂  ——记我校4月份主题党日活动</a></li><li class="split"></li><li><span class="date">2021-04-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13199.aspx" target="_self" title="标题：党史教育|强化人民性，学史践初心——绍兴一中组织开展党史学习专题讲座&#xD;点击数：54&#xD;发表时间：2021年04月20日">党史教育|强化人民性，学史践初心——绍兴一中组织开展党史学习专题讲座</a></li><li><span class="date">2021-04-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13390.aspx" target="_self" title="标题：“习近平同志既重视战略谋划又强调狠抓落实”（下） ——习近平在浙江（五）&#xD;点击数：38&#xD;发表时间：2021年04月15日">“习近平同志既重视战略谋划又强调狠抓落实”（下） ——习近平在浙江（五）</a></li><li><span class="date">2021-04-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13171.aspx" target="_self" title="标题：中共绍兴市第一中学委员会关于开展庆祝中国共产党成立100周年系列活动的通知&#xD;点击数：26&#xD;发表时间：2021年04月13日">中共绍兴市第一中学委员会关于开展庆祝中国共产党成立100周年系列活动的通知</a></li><li><span class="date">2021-04-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13381.aspx" target="_self" title="标题：习近平的创新思维方法在浙江的探索与实践&#xD;点击数：27&#xD;发表时间：2021年04月13日">习近平的创新思维方法在浙江的探索与实践</a></li><li class="last"><span class="date">2021-04-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13146.aspx" target="_self" title="标题：【2021年4月学习材料】&#xD;点击数：118&#xD;发表时间：2021年04月10日">【2021年4月学习材料】</a></li>
+            <li class="first"><span class="date">2021-05-19</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13544.aspx" target="_self" title="标题：“习总书记始终大力支持民营经济健康发展” ——习近平在浙江（三十四）&#xD;点击数：36&#xD;发表时间：2021年05月19日">“习总书记始终大力支持民营经济健康发展” ——习近平在浙江（三十四）</a></li><li><span class="date">2021-05-18</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13543.aspx" target="_self" title="标题：“习书记鼓励浙商发展‘地瓜经济’” ——习近平在浙江（三十三）&#xD;点击数：35&#xD;发表时间：2021年05月18日">“习书记鼓励浙商发展‘地瓜经济’” ——习近平在浙江（三十三）</a></li><li><span class="date">2021-05-17</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13542.aspx" target="_self" title="标题：“习书记对浙江国企改革作出了开创性贡献” ——习近平在浙江（三十二）&#xD;点击数：35&#xD;发表时间：2021年05月17日">“习书记对浙江国企改革作出了开创性贡献” ——习近平在浙江（三十二）</a></li><li><span class="date">2021-05-15</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13541.aspx" target="_self" title="标题：“习书记指点我怎样当好县长” ——习近平在浙江 （三十一）&#xD;点击数：29&#xD;发表时间：2021年05月15日">“习书记指点我怎样当好县长” ——习近平在浙江 （三十一）</a></li><li><span class="date">2021-05-14</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13540.aspx" target="_self" title="标题：“习近平同志的‘两山论’是在安吉提出来的，其科学性也在安吉得到充分证明” ——习近平在浙江（三十）&#xD;点击数：24&#xD;发表时间：2021年05月14日">“习近平同志的‘两山论’是在安吉提出来的，其科学性也在安吉得到充分证明” ——习近平在浙江（…</a></li><li class="split"></li><li><span class="date">2021-05-13</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13539.aspx" target="_self" title="标题：“习书记在浙江工作时就提出了与‘八项规定’类似的要求” ——习近平在浙江（二十九）&#xD;点击数：26&#xD;发表时间：2021年05月13日">“习书记在浙江工作时就提出了与‘八项规定’类似的要求” ——习近平在浙江（二十九）</a></li><li><span class="date">2021-05-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13538.aspx" target="_self" title="标题：“习书记在浙江的领导实践具有鲜明特点” ——习近平在浙江（二十八）&#xD;点击数：24&#xD;发表时间：2021年05月12日">“习书记在浙江的领导实践具有鲜明特点” ——习近平在浙江（二十八）</a></li><li><span class="date">2021-05-11</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13537.aspx" target="_self" title="标题：“习书记在浙江期间对办公厅工作提出28字要求” ——习近平在浙江（二十七）&#xD;点击数：13&#xD;发表时间：2021年05月11日">“习书记在浙江期间对办公厅工作提出28字要求” ——习近平在浙江（二十七）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13415.aspx" target="_self" title="标题：“习书记善于运用督促检查推动决策落实” ——习近平在浙江（二十六）&#xD;点击数：52&#xD;发表时间：2021年05月10日">“习书记善于运用督促检查推动决策落实” ——习近平在浙江（二十六）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13414.aspx" target="_self" title="标题：“习书记提出浙江党建工作的‘八八战略’” ——习近平在浙江（二十五）&#xD;点击数：42&#xD;发表时间：2021年05月10日">“习书记提出浙江党建工作的‘八八战略’” ——习近平在浙江（二十五）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13413.aspx" target="_self" title="标题：“习近平同志坚持用创新的思路和办法抓‘三农’工作” ——习近平在浙江（二十四）&#xD;点击数：49&#xD;发表时间：2021年05月10日">“习近平同志坚持用创新的思路和办法抓‘三农’工作” ——习近平在浙江（二十四）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13412.aspx" target="_self" title="标题：“习书记通过发展海洋经济拓宽了浙江发展的视野和格局” ——习近平在浙江（二十三）&#xD;点击数：35&#xD;发表时间：2021年05月10日">“习书记通过发展海洋经济拓宽了浙江发展的视野和格局” ——习近平在浙江（二十三）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13411.aspx" target="_self" title="标题：“‘八八战略’充分展现了习书记极强的统揽全局和理论概括能力” ——习近平在浙江（二十二）&#xD;点击数：61&#xD;发表时间：2021年05月10日">“‘八八战略’充分展现了习书记极强的统揽全局和理论概括能力” ——习近平在浙江（二十二）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13410.aspx" target="_self" title="标题：“习书记在发展理念层面站得很高、看得很远” ——习近平在浙江（二十一）&#xD;点击数：49&#xD;发表时间：2021年05月10日">“习书记在发展理念层面站得很高、看得很远” ——习近平在浙江（二十一）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13409.aspx" target="_self" title="标题：“习书记以惊人的速度进入角色，大刀阔斧地开局” ——习近平在浙江（二十）&#xD;点击数：46&#xD;发表时间：2021年05月10日">“习书记以惊人的速度进入角色，大刀阔斧地开局” ——习近平在浙江（二十）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13408.aspx" target="_self" title="标题：“习书记把外事工作当作浙江对外开放的重要抓手” ——习近平在浙江（十九）&#xD;点击数：60&#xD;发表时间：2021年05月10日">“习书记把外事工作当作浙江对外开放的重要抓手” ——习近平在浙江（十九）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13407.aspx" target="_self" title="标题：“习书记主政那五年是浙江文化建设大步跨越迈入前列的五年” ——习近平在浙江（十八）&#xD;点击数：28&#xD;发表时间：2021年05月10日">“习书记主政那五年是浙江文化建设大步跨越迈入前列的五年” ——习近平在浙江（十八）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13406.aspx" target="_self" title="标题：“习书记在浙江大力度推进科技强省建设” ——习近平在浙江（十七）&#xD;点击数：53&#xD;发表时间：2021年05月10日">“习书记在浙江大力度推进科技强省建设” ——习近平在浙江（十七）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13405.aspx" target="_self" title="标题：“习书记做到了‘公生明，严生威’” ——习近平在浙江（十六）&#xD;点击数：47&#xD;发表时间：2021年05月10日">“习书记做到了‘公生明，严生威’” ——习近平在浙江（十六）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13404.aspx" target="_self" title="标题：“习近平同志高度重视发挥人大的作用” ——习近平在浙江（十五）&#xD;点击数：38&#xD;发表时间：2021年05月10日">“习近平同志高度重视发挥人大的作用” ——习近平在浙江（十五）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13403.aspx" target="_self" title="标题：“习书记的‘八八战略’是在调研中逐渐形成并不断完善的” ——习近平在浙江（十四）&#xD;点击数：30&#xD;发表时间：2021年05月10日">“习书记的‘八八战略’是在调研中逐渐形成并不断完善的” ——习近平在浙江（十四）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13402.aspx" target="_self" title="标题：“‘八八战略’与‘干在实处、走在前列’是习书记主政浙江的总抓手和总要求” ——习近平在浙江（十三）&#xD;点击数：27&#xD;发表时间：2021年05月10日">“‘八八战略’与‘干在实处、走在前列’是习书记主政浙江的总抓手和总要求” ——习近平在浙江（…</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13401.aspx" target="_self" title="标题：“习近平同志的‘两山论’是非常了不起的思想创造” ——习近平在浙江（十二）&#xD;点击数：39&#xD;发表时间：2021年05月10日">“习近平同志的‘两山论’是非常了不起的思想创造” ——习近平在浙江（十二）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13400.aspx" target="_self" title="标题：“习书记指导绍兴谱写新时期的‘胆剑篇’” ——习近平在浙江（十一）&#xD;点击数：36&#xD;发表时间：2021年05月10日">“习书记指导绍兴谱写新时期的‘胆剑篇’” ——习近平在浙江（十一）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13399.aspx" target="_self" title="标题：“习书记提出欠发达地区要努力实现跨越式发展” ——习近平在浙江（十）&#xD;点击数：39&#xD;发表时间：2021年05月10日">“习书记提出欠发达地区要努力实现跨越式发展” ——习近平在浙江（十）</a></li><li class="split"></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13398.aspx" target="_self" title="标题：习书记平时最牵挂的是基层，最惦记的是百姓”——习近平在浙江（九）&#xD;点击数：25&#xD;发表时间：2021年05月10日">习书记平时最牵挂的是基层，最惦记的是百姓”——习近平在浙江（九）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13397.aspx" target="_self" title="标题：“习书记想问题作决策无不体现着辩证思维”——习近平在浙江（八）&#xD;点击数：43&#xD;发表时间：2021年05月10日">“习书记想问题作决策无不体现着辩证思维”——习近平在浙江（八）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13396.aspx" target="_self" title="标题：“习书记为民主党派参政议政提供了广阔平台和宽松条件” ——习近平在浙江（七）&#xD;点击数：35&#xD;发表时间：2021年05月10日">“习书记为民主党派参政议政提供了广阔平台和宽松条件” ——习近平在浙江（七）</a></li><li><span class="date">2021-05-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13395.aspx" target="_self" title="标题：“习书记为推进浙江国防军事建设的理论与实践创新作出巨大贡献” ——习近平在浙江（六）&#xD;点击数：26&#xD;发表时间：2021年05月10日">“习书记为推进浙江国防军事建设的理论与实践创新作出巨大贡献” ——习近平在浙江（六）</a></li><li><span class="date">2021-04-29</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13292.aspx" target="_self" title="标题：党史教育铭初心 坚定信仰铸党魂  ——记我校4月份主题党日活动&#xD;点击数：59&#xD;发表时间：2021年04月29日">党史教育铭初心 坚定信仰铸党魂  ——记我校4月份主题党日活动</a></li><li class="split"></li><li><span class="date">2021-04-20</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13199.aspx" target="_self" title="标题：党史教育|强化人民性，学史践初心——绍兴一中组织开展党史学习专题讲座&#xD;点击数：54&#xD;发表时间：2021年04月20日">党史教育|强化人民性，学史践初心——绍兴一中组织开展党史学习专题讲座</a></li><li><span class="date">2021-04-15</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13390.aspx" target="_self" title="标题：“习近平同志既重视战略谋划又强调狠抓落实”（下） ——习近平在浙江（五）&#xD;点击数：38&#xD;发表时间：2021年04月15日">“习近平同志既重视战略谋划又强调狠抓落实”（下） ——习近平在浙江（五）</a></li><li><span class="date">2021-04-13</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13171.aspx" target="_self" title="标题：中共绍兴市第一中学委员会关于开展庆祝中国共产党成立100周年系列活动的通知&#xD;点击数：26&#xD;发表时间：2021年04月13日">中共绍兴市第一中学委员会关于开展庆祝中国共产党成立100周年系列活动的通知</a></li><li><span class="date">2021-04-13</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13381.aspx" target="_self" title="标题：习近平的创新思维方法在浙江的探索与实践&#xD;点击数：27&#xD;发表时间：2021年04月13日">习近平的创新思维方法在浙江的探索与实践</a></li><li class="last"><span class="date">2021-04-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/13146.aspx" target="_self" title="标题：【2021年4月学习材料】&#xD;点击数：118&#xD;发表时间：2021年04月10日">【2021年4月学习材料】</a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
@@ -455,25 +455,25 @@ function GetUserInfo1(response){
 <div id="footer">
   <div class="siteWidth">
 
-      <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
-      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
 
-      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Template/Default/Skin/erms/img/blue.png" /></a>
-      <img class="wx" src="/Template/Default/Skin/erms/img/weixin.png" />
-      <img class="xcxewm" src="/Template/Default/Skin/erms/img/xcxewm.png" />
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
   </div>  
 </div>
 <!-- footer E -->
