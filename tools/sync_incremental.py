@@ -14,7 +14,7 @@ from typing import Iterable
 
 
 MANIFEST_FIELDS = ("path", "size", "sha256", "release_asset")
-YEAR_RE = re.compile(r"(?:19|20)\d{2}")
+YEAR_RE = re.compile(r"^(?P<year>(?:19|20)\d{2})(?:\d{4}|$)")
 
 
 def is_selected_attachment(path: Path, min_year: int, include_prefix: str | None = None) -> bool:
@@ -26,7 +26,12 @@ def is_selected_attachment(path: Path, min_year: int, include_prefix: str | None
         normalized == include_prefix or normalized.startswith(include_prefix.rstrip("/") + "/")
     ):
         return False
-    return any(int(match.group(0)) >= min_year for match in YEAR_RE.finditer(normalized))
+    for component in normalized.split("/"):
+        stem = component.rsplit(".", 1)[0]
+        match = YEAR_RE.match(stem)
+        if match and int(match.group("year")) >= min_year:
+            return True
+    return False
 
 
 def assign_shards(entries: Iterable[tuple[str, int]], max_bytes: int) -> list[list[str]]:
