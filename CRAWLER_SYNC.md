@@ -2,7 +2,7 @@
 
 `a.py` 运行在能访问 `10.176.17.2` 的内网机器上，GitHub Actions 无法直接访问这个地址。因此同步分为两段：
 
-1. `a.py` 重新发现页面并下载到 `内网备份`。每个文件先计算 SHA-256，内容没有变化就保留原文件，变化时才原子替换。
+1. `a.py` 检查首页、分类页等枝干节点，并根据 `Item/数字.aspx` 的编号水位线只抓取新叶子节点。默认以 GitHub 仓库中最大的 Item 编号为基准，再回溯 20 个编号，避免少量临近旧页面漏更新。每个文件先计算 SHA-256，内容没有变化就保留原文件，变化时才原子替换。
 2. `tools/publish_crawl.py` 比较爬虫目录和仓库目录，只复制内容变化的非图片文件，然后自动 commit 和 push。`UploadFiles`、图片、爬虫状态和日志不会进入 Git。
 3. push 后，GitHub Pages Action 自动把 `.aspx` 页面转换为 `.html` 并部署。
 
@@ -15,12 +15,18 @@ cd /home/tangyixiao/Projects/Shaoxingyizhong
 python3 tools/update_from_intranet.py
 ```
 
-它会运行相邻目录的 `/home/tangyixiao/Projects/a.py`，然后同步 `/home/tangyixiao/Projects/内网备份` 并推送到 `origin`。
+它会运行相邻目录的 `/home/tangyixiao/Projects/a.py`，自动读取仓库中最大的 Item 编号，然后只检查新编号及其前 20 个页面；随后同步 `/home/tangyixiao/Projects/内网备份` 并推送到 `origin`。
 
 如果上一次爬取被中断，可以继续未完成的队列：
 
 ```bash
 python3 tools/update_from_intranet.py --resume
+```
+
+只有在确实需要重新遍历全部历史页面时才使用完整模式：
+
+```bash
+python3 tools/update_from_intranet.py --full-crawl
 ```
 
 也可以覆盖站点地址：
