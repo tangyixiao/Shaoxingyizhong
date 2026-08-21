@@ -19,6 +19,13 @@ class IncrementalSyncTests(unittest.TestCase):
         self.assertFalse(
             is_selected_attachment(Path("UploadFiles/dw/2026/notice.zip"), 2026, "UploadFiles/xwzx")
         )
+        self.assertFalse(
+            is_selected_attachment(
+                Path("UploadFiles/xwzx/2021/1/202101271452073454.Jpeg"),
+                2026,
+                "UploadFiles/xwzx",
+            )
+        )
 
     def test_assign_shards_is_deterministic_and_respects_limit(self):
         entries = [("UploadFiles/a.bin", 6), ("UploadFiles/b.bin", 4), ("UploadFiles/c.bin", 7)]
