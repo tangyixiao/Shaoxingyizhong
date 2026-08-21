@@ -26,6 +26,22 @@ def latest_published_item_id() -> int:
     return latest
 
 
+def build_recent_branch_seed(min_item_id: int) -> Path:
+    """Index local category pages and keep only branches containing new Items."""
+    item_pattern = re.compile(r"/Item/(\d+)\.aspx", re.IGNORECASE)
+    branches: set[str] = set()
+    if CRAWL_OUTPUT.exists():
+        for page in CRAWL_OUTPUT.glob("Category_*/*.aspx"):
+            text = page.read_text(encoding="utf-8", errors="ignore")
+            if any(int(item_id) > min_item_id for item_id in item_pattern.findall(text)):
+                branches.add("/" + page.relative_to(CRAWL_OUTPUT).as_posix())
+    INCREMENTAL_STATE.mkdir(parents=True, exist_ok=True)
+    seed_file = INCREMENTAL_STATE / "recent_branches.txt"
+    seed_file.write_text("\n".join(sorted(branches)) + "\n", encoding="utf-8")
+    print(f"recent_branch_seeds={len(branches)} threshold={min_item_id}")
+    return seed_file
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--resume", action="store_true", help="从 a.py 上次中断的位置继续")
@@ -41,11 +57,15 @@ def main() -> int:
     crawler_args = [sys.executable, str(CRAWLER)]
     crawler_args.extend(["--state-dir", str(INCREMENTAL_STATE)])
     if not args.full_crawl:
+        min_item_id = latest_published_item_id()
+        seed_file = build_recent_branch_seed(min_item_id)
         crawler_args.extend([
             "--item-min-id",
-            str(latest_published_item_id()),
+            str(min_item_id),
             "--item-lookback",
             str(max(0, args.item_lookback)),
+            "--seed-file",
+            str(seed_file),
         ])
     if args.resume:
         crawler_args.append("--resume")
@@ -60,6 +80,8 @@ def main() -> int:
         str(CRAWL_OUTPUT),
         "--repo",
         str(REPO_ROOT),
+        "--visited-file",
+        str(INCREMENTAL_STATE / "visited.json"),
         "--commit",
         "--push",
         "--message",

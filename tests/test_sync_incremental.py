@@ -4,7 +4,7 @@ from pathlib import Path
 
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
 from tools.build_pages import build_site
-from tools.publish_crawl import sync_crawl
+from tools.publish_crawl import sync_crawl, sync_crawl_paths
 
 
 class IncrementalSyncTests(unittest.TestCase):
@@ -93,6 +93,19 @@ class IncrementalSyncTests(unittest.TestCase):
             self.assertTrue((repo / "Item" / "2.aspx").exists())
             self.assertFalse((repo / "UploadFiles" / "x.zip").exists())
             self.assertFalse((repo / "images" / "logo.png").exists())
+
+    def test_publish_crawl_can_limit_to_visited_urls(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            (source / "Item").mkdir(parents=True)
+            (source / "Item" / "1.aspx").write_text("one", encoding="utf-8")
+            (source / "Item" / "2.aspx").write_text("two", encoding="utf-8")
+            changed = sync_crawl_paths(source, repo, ["http://example.test/Item/1.aspx"])
+            self.assertEqual(changed, ["Item/1.aspx"])
+            self.assertTrue((repo / "Item" / "1.aspx").exists())
+            self.assertFalse((repo / "Item" / "2.aspx").exists())
 
 
 if __name__ == "__main__":
