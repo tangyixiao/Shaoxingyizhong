@@ -38,7 +38,7 @@ b.r5{margin: 0 1px; padding:0 1px;}
 <ul>
 	<li>缺少参数！</li>
 </ul>
-<p><a href="/Shaoxingyizhong/Default.aspx"></a></p>
+<p><a href="/Shaoxingyizhong/Default.html"></a></p>
 </div>
 <b class="rbottom">
 <b class="r5"><b></b></b>
