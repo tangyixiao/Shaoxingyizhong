@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23535.aspx" target="_blank" title="标题：原高一研学的红船明信片认领通知&#xD;点击数：57&#xD;发表时间：2026年08月21日">原高一研学的红船明信片认领通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：29&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：17&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23538.aspx" target="_blank" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：15&#xD;发表时间：2026年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急…</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li>
+            <li class="first"><a href="/Item/23535.aspx" target="_blank" title="标题：原高一研学的红船明信片认领通知&#xD;点击数：57&#xD;发表时间：2026年08月21日">原高一研学的红船明信片认领通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：32&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：19&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23538.aspx" target="_blank" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：16&#xD;发表时间：2026年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急…</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23538.aspx" target="_self" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：15&#xD;发表时间：26年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23538.aspx" target="_self" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：16&#xD;发表时间：26年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a>[ 08-21 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
