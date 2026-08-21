@@ -1,0 +1,44 @@
+import tempfile
+import unittest
+from pathlib import Path
+
+from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
+
+
+class IncrementalSyncTests(unittest.TestCase):
+    def test_selects_only_2026_or_newer_attachment_paths(self):
+        self.assertTrue(is_selected_attachment(Path("UploadFiles/xwzx/2026/notice.zip"), 2026))
+        self.assertTrue(is_selected_attachment(Path("UploadFiles/20270101/new.pdf"), 2026))
+        self.assertFalse(is_selected_attachment(Path("UploadFiles/xwzx/2025/notice.zip"), 2026))
+        self.assertFalse(is_selected_attachment(Path("UploadFiles/old/notice.zip"), 2026))
+
+    def test_can_limit_selection_to_xwzx_2026_or_newer(self):
+        self.assertTrue(
+            is_selected_attachment(Path("UploadFiles/xwzx/2026/notice.zip"), 2026, "UploadFiles/xwzx")
+        )
+        self.assertFalse(
+            is_selected_attachment(Path("UploadFiles/dw/2026/notice.zip"), 2026, "UploadFiles/xwzx")
+        )
+
+    def test_assign_shards_is_deterministic_and_respects_limit(self):
+        entries = [("UploadFiles/a.bin", 6), ("UploadFiles/b.bin", 4), ("UploadFiles/c.bin", 7)]
+        self.assertEqual(
+            assign_shards(entries, 9),
+            [["UploadFiles/a.bin"], ["UploadFiles/b.bin"], ["UploadFiles/c.bin"]],
+        )
+
+    def test_load_manifest_reads_tab_separated_metadata(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            manifest = Path(tmp) / "manifest.tsv"
+            manifest.write_text(
+                "path\tsize\tsha256\trelease_asset\n"
+                "UploadFiles/x.bin\t3\tabc\tarchive-2026-part-001.tar.gz\n",
+                encoding="utf-8",
+            )
+            loaded = load_manifest(manifest)
+            self.assertEqual(loaded["UploadFiles/x.bin"]["sha256"], "abc")
+            self.assertEqual(loaded["UploadFiles/x.bin"]["release_asset"], "archive-2026-part-001.tar.gz")
+
+
+if __name__ == "__main__":
+    unittest.main()

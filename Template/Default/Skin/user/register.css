@@ -1,0 +1,97 @@
+﻿body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, table, th, td { margin: 0; padding: 0; }
+body { background: none repeat scroll 0 0 #FFFFFF; }
+img { border: medium none; }
+.wrapper { margin: 0 auto; padding: 0; width: 960px; }
+.mtop10 { margin-top: 10px; }
+fieldset { border: none; background: none; }
+legend { display: none; }
+.reg_flow { margin: 0px auto; width: 800px; border: 1px solid #ddd; border-top: none; padding-bottom: 30px; overflow: hidden; }
+.reg_input { padding-left: 130px; clear: both; margin: 10px 0px; height: auto !important; min-height: 24px; height: 24px; }
+.reg_input .tdbg, .reg_input .tdbgleft { background: none; }
+#logo img { height: 58px; overflow: hidden; padding-top: 15px; }
+#TRRegion { height: 80px !important; position: relative; overflow: hidden; }
+#Region_UpnlRegion { height: 80px; position: absolute; top: -12px; left: 130px; }
+#Region_UpnlRegion .tdbgleft { line-height: 24px; }
+#Region_DropProvince { margin: 2px }
+input.inputxt { height: 20px !important; line-height: 20px !important; }
+.reg_input label { float: left; width: 130px; margin-left: -130px; text-align: right; padding-top: 4px; font-size: 14px; }
+.reg_input input { padding: 5px 2px 5px 5px; height: 12px; line-height: 12px !important; border: 1px solid #9C9C9C; width: 200px; float: left; }
+.reg_contant { height: auto !important; min-height: 400px; height: 400px; }
+
+/*********必填信息************/
+#CheckUserName2 { width: 120px; height: 24px; padding: 4px 10px 11px 5px; font-size: 12px; text-align: center; margin-left: 10px; }
+.reg_input div { line-height: 21px; height: 21px; margin-top: 5px; }
+.reg_input div.d_err { color: #ff0000; }
+.reg_input input.input_onFocus { }
+#InterMessageUserName.d_on { }
+#CheckUserNameMessage.d_ok { float: left; width: 200px; clear: right; }
+
+/*********选填信息************/
+#TableRegisterSelect div { clear: both; }
+#TrVcodeRegister input { width: 75px; }
+#TrVcodeRegister img { margin-left: 5px; margin-top: 2px; display: block; width: 69px; height: 20px; float: left; display: inline; }
+#TRSwicthSelectFill { height: 33px; line-height: 33px; padding-left: 65px; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; background: #f9f9f9; }
+#TableRegisterMust { padding-top: 15px; }
+#TableRegisterMust div { clear: both; }
+
+/************可设置信息****************/
+.reg_input_ext { padding-left: 130px; clear: both; margin: 10px 0px; height: auto !important; min-height: 24px; height: 24px; }
+.reg_input_ext label { float: left; width: 130px; margin-left: -130px; text-align: right; padding-top: 4px; font-size: 14px; }
+.reg_input_ext .tdbg, .reg_input_ext .tdbgleft { background: none; }
+.reg_input_ext div input.inputxt, div input.input_onFocus { padding: 5px 2px 5px 5px; height: 12px; line-height: 12px !important; border: 1px solid #9C9C9C; width: 200px; float: left; }
+.reg_input_ext input.input_onFocus { }
+.reg_input_ext div.d_err { color: #ff0000; }
+.reg_input_ext span[style="color: Red;"] { display: none; }
+.add_model_content_radiobutton label { float: none; font-weight: normal; margin: 0 8px 0 0; padding: 0; text-align: right; width: 130px; }
+.add_model_content_radiobutton input[type="text"] { float: none; font-weight: normal; margin: 0 8px 0 0; padding: 0; text-align: right; width: 130px; }
+
+/********注册协议********/
+#PnlRegStep2 textarea { padding: 10px; line-height: 180%; }
+#TRSign textarea { margin-left: 0px; }
+.ok_info { color: #cc0000; }
+.ok_info, .reg_improve { text-align: left; padding-left: 130px; height: 32px; line-height: 32px; clear: both; }
+.agree { height: 26px; line-height: 26px; margin: 10px 0px; text-align: left; padding-left: 115px; }
+.agree input { height: 32px; line-height: 32px; width: 171px; display: inline-block; background: url(images/register_agree.gif) no-repeat left center; border: none; margin: 0px 15px; font-size: 14px; color: #fff; font-weight: bold; cursor: pointer; }
+
+/*********注册页顶部**********/
+#header { height: 90px; overflow: hidden; background: none; }
+#logo { margin-left: 80px; padding-top: 15px; display: inline; }
+.top_tool { float: right; width: 400px; text-align: right; margin-right: 80px; display: inline; height: 24px; line-height: 24px; margin-top: 50px; *margin-top: 0px; }
+.top_tool a { padding: 4px; color: #000; }
+.top_tool a:hover { color: #cc0000; text-decoration: underline; }
+.reg_sitepath, .registercheck { height: 41px; line-height: 41px; padding-left: 15px; border-bottom: 1px solid #ddd; text-indent: -9999em; background: url(images/backgrounds.gif) no-repeat left -679px; }
+.registercheck { background: url(images/backgrounds.gif) no-repeat left -822px; }
+.user_line { height: 20px; line-height: 20px; background: url(images/register_line.gif) repeat-x left center; margin: 0px 20px; }
+.service { margin-top: 15px; color: #444444; height: 32px; line-height: 32px; text-align: center; }
+
+/********忘记密码*********/
+.forget_password { background: url(images/backgrounds.gif) no-repeat left -631px; }
+.password_list { width: 450px; margin: 0 auto; padding: 10px 0px; padding-top: 25px; }
+.password_list h1 { height: 31px; line-height: 31px; font-family: "微软雅黑"; font-size: 18px; font-weight: normal; height: 27px; line-height: 27px; }
+.password_list ul { padding-top: 15px }
+.password_list li { height: 31px; line-height: 31px; padding-left: 130px; overflow: hidden; position: relative; }
+.password_list li.Validatecode span#ValrValidateCode { padding-left: 80px; }
+.password_list li  label { width: 130px; margin-left: -130px; height: 24px; line-height: 24px; text-align: right; font-size: 14px; float: left; }
+.password_list li span { padding-left: 5px; }
+.password_list li input { float: left; }
+.password_list li.push_button { padding-left: 95px; margin-top: 10px; }
+.password_list li.push_button input { width: 98px; height: 22px; display: inline-block; background: url(images/backgrounds.gif) no-repeat  -862px -65px; border: none; cursor: pointer; }
+.password_list li.password_area input { height: 15px; margin-top: 5px; }
+.password_list li.password_area span label { margin-left: 0px; padding-left: 0px; width: 100px; text-align: left; }
+.password_list li img { margin-left: 10px; margin-bottom: 5px; vertical-align: middle; }
+
+/********注册认证*********/
+.registercheck_list { width: 450px; margin: 0 auto; padding: 10px 0px; padding-top: 25px; }
+.registercheck_list h1 { height: 31px; line-height: 31px; font-family: "微软雅黑"; font-size: 18px; font-weight: normal; height: 27px; line-height: 27px; }
+.registercheck_list ul { padding-top: 15px }
+.registercheck_list li { height: 31px; line-height: 31px; padding-left: 130px; overflow: hidden; position: relative; }
+.registercheck_list li  label { width: 130px; margin-left: -130px; height: 24px; line-height: 24px; text-align: right; font-size: 14px; float: left; }
+.registercheck_list li span { padding-left: 5px; }
+.registercheck_list li input { float: left; }
+.registercheck_list li.push_button { padding-left: 95px; margin-top: 10px; }
+.registercheck_list li.push_button input { width: 98px; height: 22px; display: inline-block; background: url(images/backgrounds.gif) no-repeat  -862px -65px; border: none; cursor: pointer; }
+#footer { background: none; border: none; height: 115px; margin-top: 10px; }
+.copyright { color: #444444; font-family: Arial; line-height: 180%; padding-top: 10px; text-align: center; }
+.clear, .clear_all { clear: both; }
+span.add_model_content_radiobuttonlist label, label.add_model_content_radiobutton, table.add_model_content_radiobuttonlist label, span.add_model_content_radiobutton label { float: none; width: 130px; margin: 0 8px 0 0; text-align: right; font-weight: normal; padding: 0; }
+#LabelStrongPwd{padding-left:20px;display: inline-block;width: 400px;color: #909090;line-height: 20px;}
