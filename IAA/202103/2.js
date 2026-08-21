@@ -1,4 +1,4 @@
-function ObjectAD() {
+﻿function ObjectAD() {
   /* Define Variables*/
   this.ADID        = 0;
   this.ADType      = 0;
@@ -18,7 +18,12 @@ function ObjectAD() {
   this.OverdueDate = "";
 }
 
-function CoupletZoneAD(_id) {
+function FloatZoneAD(_id) {
+  /* Define Constants */
+  this.vmin        = 2;
+  this.vmax        = 5;
+  this.vr          = 2;
+
   /* Define Common Variables*/
   this.ID          = _id;
   this.ZoneID      = 0;
@@ -26,68 +31,61 @@ function CoupletZoneAD(_id) {
   this.ZoneWidth   = 0;
   this.ZoneHeight  = 0;
   this.ShowType    = 1;
-  this.DivNameLeft = "";
-  this.DivLeft     = null;
-  this.DivNameRight= "";
-  this.DivRight    = null;
+  this.DivName     = "";
+  this.Div         = null;
 
   /* Define Unique Variables*/
+  this.LocalityType= 1;
+  this.FloatType   = 1;
   this.Left        = 0;
   this.Top         = 0;
-  this.Delta       = 0.15;
+  this.Delay       = 50;
   this.ShowCloseAD = false;
   this.CloseFontColor = "#FFFFFF";
 
+  this.Width       = 1;
+  this.Height      = 1;
+  this.vx          = this.vmin+this.vmax*Math.random();
+  this.vy          = this.vmin+this.vmax*Math.random();
+  this.timer       = null;
+
+  this.step        = 1;
+  this.xin         = true;
+  this.yin         = true;
+
   /* Define Objects */
   this.AllAD       = new Array();
-  this.ShowLeftAD  = null;
-  this.ShowRightAD = null;
+  this.ShowAD      = null;
 
   /* Define Functions */
-  this.AddAD         = CoupletZoneAD_AddAD;
-  this.GetShowAD     = CoupletZoneAD_GetShowAD;
-  this.Show          = CoupletZoneAD_Show;
-  this.Move          = CoupletZoneAD_Move;
-  this.GetRight      = CoupletZoneAD_GetRight;
-  this.GetRandomNum  = CoupletZoneAD_GetRandomNum;
-  this.WriteAD       = CoupletZoneAD_WriteAD;
-  this.GetMove       = CoupletZoneAD_GetMove;
+  this.AddAD       = FloatZoneAD_AddAD;
+  this.GetShowAD   = FloatZoneAD_GetShowAD;
+  this.Show        = FloatZoneAD_Show;
+  this.Float       = FloatZoneAD_Float;
+  this.Pause       = FloatZoneAD_Pause;
+  this.Resume      = FloatZoneAD_Resume;
+  this.GetRight    = FloatZoneAD_GetRight;
+  this.GetTail     = FloatZoneAD_GetTail;
 }
 
-function CoupletZoneAD_AddAD(_AD) {
+function FloatZoneAD_AddAD(_AD) {
   var date = new Date();
   var getdate = date.getFullYear() + "/" + (date.getMonth() + 1) + "/" + date.getDate();
   var today = new Date(getdate);
   var overdueDate = new Date(_AD.OverdueDate);
-  if(today <= overdueDate)
-  {
+  if(today <= overdueDate) {
     this.AllAD[this.AllAD.length] = _AD;
   }
 }
 
-function CoupletZoneAD_GetShowAD() {
-  if (this.ShowType >1) {
-    if(this.AllAD.length <= 1){
-      this.ShowLeftAD = this.AllAD[0];
-    }
-    else{
-      this.ShowLeftAD = this.AllAD[0];
-      this.ShowRightAD = this.AllAD[1];
-    }
+function FloatZoneAD_GetShowAD() {
+  if (this.ShowType > 1) {
+    this.ShowAD = this.AllAD[0];
     return;
   }
-  if(this.AllAD.length <= 1){
-    this.ShowLeftAD = this.AllAD[this.GetRandomNum()];
-  }
-  else{
-    this.ShowLeftAD = this.AllAD[this.GetRandomNum()];
-    this.ShowRightAD = this.AllAD[this.GetRandomNum()];
-  }
-}
-
-function CoupletZoneAD_GetRandomNum(){
+  var num = this.AllAD.length;
   var sum = 0;
-  for (var i = 0; i < this.AllAD.length; i++) {
+  for (var i = 0; i < num; i++) {
     sum = sum + this.AllAD[i].Priority;
   }
   if (sum <= 0) {return ;}
@@ -99,88 +97,116 @@ function CoupletZoneAD_GetRandomNum(){
     if (j >= rndNum) {break;}
     i++;
   }
-  return i;
+  this.ShowAD = this.AllAD[i];
 }
 
-function CoupletZoneAD_Show() {
+function FloatZoneAD_Show() {
   if (!this.AllAD) {
     return;
   } else {
     this.GetShowAD();
   }
-  if (this.ShowLeftAD == null){
-    return false;
-  }
-  else{
-    this.DivNameLeft = "MoveZoneAD_Div" + this.ZoneID+"_left";
-    this.DivNameRight = "MoveZoneAD_Div" + this.ZoneID+"_right";
-    this.WriteAD(this.ShowLeftAD,this.DivNameLeft,this.Left);
-    this.DivLeft = document.getElementById(this.DivNameLeft);
-    if(this.AllAD.length <= 1){
-      this.WriteAD(this.ShowLeftAD,this.DivNameRight,this.GetRight());
-    }
-    else{
-      this.WriteAD(this.ShowRightAD,this.DivNameRight,this.GetRight());
-      if(this.ShowRightAD.CountView){
-        document.write("<script src='" + this.ShowRightAD.InstallDir + this.ShowRightAD.ADDIR + "/ADCount.aspx?Action=View&ADID=" + this.ShowRightAD.ADID + "'></script>")
-      }
-    }
-    if(this.ShowLeftAD.CountView){
-      document.write("<script src='" + this.ShowLeftAD.InstallDir + this.ShowLeftAD.ADDIR + "/ADCount.aspx?Action=View&ADID=" + this.ShowLeftAD.ADID + "'></script>")
-    }
-    this.DivRight = document.getElementById(this.DivNameRight);
-  }
-  setInterval(this.ID + ".Move()", 10);
-}
 
-function CoupletZoneAD_WriteAD(ShowAD,DivName,Left){
-  if (!ShowAD.ImgWidth) ShowAD.ImgWidth = this.ZoneWidth
-  if (!ShowAD.ImgHeight) ShowAD.ImgHeight = this.ZoneHeight
-  if (ShowAD.ADDIR=="") ShowAD.ADDIR = "AD"
-  document.write("<div id='" + DivName + "' style='position:absolute; z-index:1; width:" + this.ZoneWidth + "px;height:" + this.ZoneHeight + "px;left:" + Left + "px;top:" + this.Top + "px'>" + AD_Content(ShowAD) + "");
+  if (this.ShowAD == null) return false;
+  this.DivName = "FloatZoneAD_Div" + this.ZoneID;
+  if (!this.ShowAD.ImgWidth) this.ShowAD.ImgWidth = this.ZoneWidth
+  if (!this.ShowAD.ImgHeight) this.ShowAD.ImgHeight = this.ZoneHeight
+  if (this.ShowAD.ADDIR=="") this.ShowAD.ADDIR = "AD"
+  if (this.LocalityType==2) {
+    this.Top = this.GetTail();
+  } else if (this.LocalityType==3) {
+    this.Left = this.GetRight();
+  } else if (this.LocalityType==4) {
+    this.Left = this.GetRight();
+    this.Top = this.GetTail();
+  }
+  document.write("<div id='" + this.DivName + "' onMouseOver='" + this.ID+".Pause()' onMouseOut='" + this.ID+".Resume()' style='position:absolute; z-index:1; width:" + this.ZoneWidth + "px; height:" + this.ZoneHeight + "px; left:" + this.Left + "px;top:" + this.Top + "px'>" + AD_Content(this.ShowAD) + "");
   if(this.ShowCloseAD){
-      document.write("<div style='position: absolute;right: 0px;bottom: 0px;'><span onclick='AD_CloseDL(\"" + DivName + "\");' style='cursor: pointer;font-size:12px;color:" + this.CloseFontColor + ";text-decoration:none;'>关闭</span></div>");
+      document.write("<div style='position: absolute;right: 0px;bottom: 0px;'><span onclick='AD_CloseDL(\"" + this.DivName + "\");' style='cursor: pointer;font-size:12px;color:" + this.CloseFontColor + ";text-decoration:none;'>关闭</span></div>");
   }
   document.write("</div>");
+  if (this.ShowAD.CountView) {
+    document.write ("<script src='" + this.ShowAD.InstallDir + this.ShowAD.ADDIR + "/ADCount.aspx?Action=View&ADID=" + this.ShowAD.ADID + "'></script>")
+  }
+  this.Width = (this.ShowAD.ImgWidth)?this.ShowAD.ImgWidth:this.ZoneWidth
+  this.Height = (this.ShowAD.ImgHeight)?this.ShowAD.ImgHeight:this.ZoneHeight
+  this.Div = document.getElementById(this.DivName);
+  this.Float();
 }
 
-function CoupletZoneAD_GetRight(){
+function FloatZoneAD_GetRight(){
   if (window.innerWidth) {
     return window.innerWidth-16 - this.Left - this.ZoneWidth;
-  }else{
+  } else {
     return document.documentElement.clientWidth - this.Left - this.ZoneWidth;
   }
 }
 
-function CoupletZoneAD_Move() {
-  if(document.all)  {
-    pageX=window.document.documentElement.scrollLeft;
-    pageY=window.document.documentElement.scrollTop;
-  }
-  else {
-    pageX=window.pageXOffset;
-    pageY=window.pageYOffset;
-  }
-  if(this.DivLeft != null){
-    this.GetMove(pageX,pageY,this.DivLeft,this.Left);
-  }
-  if(this.DivRight != null){
-    this.GetMove(pageX,pageY,this.DivRight,this.GetRight());
+function FloatZoneAD_GetTail(){
+  if (window.innerWidth) {
+    return window.innerHeight - this.Top - this.ZoneHeight;
+  } else {
+    return document.documentElement.clientHeight - this.Top - this.ZoneHeight;
   }
 }
 
-function CoupletZoneAD_GetMove(pageX,pageY,Div,Left){
-  if (Div.offsetLeft != (pageX + Left)) {
-    var dx = (pageX + Left - Div.offsetLeft) * this.Delta;
-    dx = (dx > 0 ? 1 :  - 1) * Math.ceil(Math.abs(dx));
-    Div.style.left = Div.offsetLeft + dx + "px";
+function FloatZoneAD_Float() {
+  if(document.all) {
+    pageX=window.document.documentElement.scrollLeft;
+    pageW=window.document.documentElement.offsetWidth-22;
+    pageY=window.document.documentElement.scrollTop;
+    pageH=window.document.documentElement.offsetHeight-4;       
+  } 
+  else {
+    pageX=window.pageXOffset;
+    pageW=window.innerWidth-22;
+    pageY=window.pageYOffset;
+    pageH=window.innerHeight-4;
   }
-  if (Div.offsetTop != (pageY + this.Top)) {
-    var dy = (pageY + this.Top - Div.offsetTop) * this.Delta;
-    dy = (dy > 0 ? 1 :  - 1) * Math.ceil(Math.abs(dy));
-    Div.style.top = Div.offsetTop + dy + "px";
+  if (this.FloatType==1) {
+    this.Left=this.Left+this.vx;
+    this.Top=this.Top+this.vy;
+    this.vx+=this.vr*(Math.random()-0.5);
+    this.vy+=this.vr*(Math.random()-0.5);
+    if(this.vx>(this.vmax+this.vmin))this.vx=(this.vmax+this.vmin)*2-this.vx;
+    if(this.vx<(-this.vmax-this.vmin))this.vx=(-this.vmax-this.vmin)*2-this.vx;
+    if(this.vy>(this.vmax+this.vmin))this.vy=(this.vmax+this.vmin)*2-this.vy;
+    if(this.vy<(-this.vmax-this.vmin))this.vy=(-this.vmax-this.vmin)*2-this.vy;
+    if(this.Left<=pageX){this.Left=pageX;this.vx=this.vmin+this.vmax*Math.random();}
+    if(this.Left>=pageX+pageW-this.Width){this.Left=pageX+pageW-this.Width;this.vx=-this.vmin-this.vmax*Math.random();}
+    if(this.Top<=pageY){this.Top=pageY;this.vy=this.vmin+this.vmax*Math.random();}
+    if(this.Top>=pageY+pageH-this.Height){this.Top=pageY+pageH-this.Height;this.vy=-this.vmin-this.vmax*Math.random();}
+    this.Delay=80;
+  } else if (this.FloatType==2) {
+    this.Left+=this.step*(this.xin?1:-1);
+    this.Top+=this.step*(this.yin?1:-1);
+    if(this.Left<=pageX){this.xin=true;this.Left<=pageX} 
+    if(this.Left>=pageX+pageW-this.Width){this.xin=false;this.Left=pageX+pageW-this.Width} 
+    if(this.Top<=pageY){this.yin=true;this.Top=pageY} 
+    if(this.Top>=pageY+pageH-this.Height){this.yin=false;this.Top=pageY+pageH-this.Height}
+    this.Delay=15;
+  } else if (this.FloatType==3) {
+    this.Top+=this.step*(this.yin?1:-1);
+    if(this.Top<=pageY){this.yin=true;this.Top=pageY} 
+    if(this.Top>=pageY+pageH-this.Height){this.yin=false;this.Top=pageY+pageH-this.Height}
+    this.Delay=15;
+  } else if (this.FloatType==4) {
+    this.Left+=this.step*(this.xin?1:-1);
+    if(this.Left<=pageX){this.xin=true;this.Left<=pageX} 
+    if(this.Left>=pageX+pageW-this.Width){this.xin=false;this.Left=pageX+pageW-this.Width} 
+    this.Delay=15;
   }
-  Div.style.display = '';
+  this.Div.style.left=this.Left + "px";
+  this.Div.style.top =this.Top + "px";
+  this.Div.timer=setTimeout(this.ID+".Float()",this.Delay);
+}
+
+function FloatZoneAD_Pause() {
+  if(this.Div.timer!=null){clearTimeout(this.Div.timer)}
+}
+
+function FloatZoneAD_Resume() {
+  this.Float();
 }
 
 function AD_CloseDL(d){
@@ -236,8 +262,9 @@ function AD_Content(o) {
   } else if (o.ADType == 3 || o.ADType == 4) {
     str = o.ADIntro
   } else if (o.ADType == 5) {
-    str = "<iframe id='" + "AD_" + o.ADID + "' marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no width=100% height=100% src='" + o.ADIntro + "'>wait</iframe>";
+    str = "<iframe id='" + "AD_" + o.ADID + "' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' width='100%' height='100%' src='" + o.ADIntro + "'>wait</iframe>";
   }
   return str;
-}var ZoneAD_4=new CoupletZoneAD("ZoneAD_4");var objAD = new ObjectAD();
-objAD.ADID= 4;objAD.ADType= 1;objAD.ADName= "党史教育";objAD.ImgUrl= "/UploadFiles/UploadADPic/202104081110394263.jpg";objAD.ImgWidth       = 80;objAD.ImgHeight      = 320;objAD.FlashWmode     = 0;objAD.ADIntro ="";objAD.LinkUrl        = "http://10.176.17.2/Category_55/Index.aspx";objAD.LinkTarget     = 1;objAD.LinkAlt        = "党史教育";objAD.Priority       = 1;objAD.CountView      = false;objAD.CountClick     = false;objAD.OverdueDate    = "2021/07/17";objAD.InstallDir     = "/";objAD.ADDIR= "IAA";ZoneAD_4.AddAD(objAD);ZoneAD_4.ZoneID=4;ZoneAD_4.ZoneWidth=80;ZoneAD_4.ZoneHeight=320;ZoneAD_4.ShowType=1;ZoneAD_4.Left=15;ZoneAD_4.Top=180;ZoneAD_4.Delta=0.015;ZoneAD_4.ShowCloseAD=true;ZoneAD_4.CloseFontColor="#8B4726";ZoneAD_4.Show();
+}
+var ZoneAD_2=new FloatZoneAD("ZoneAD_2");var objAD = new ObjectAD();
+objAD.ADID= 6;objAD.ADType= 1;objAD.ADName= "二十大学习专栏";objAD.ImgUrl= "/UploadFiles/UploadADPic/202211031109162011.png";objAD.ImgWidth       = 281;objAD.ImgHeight      = 141;objAD.FlashWmode     = 0;objAD.ADIntro ="学习践行党的二十大精神";objAD.LinkUrl        = "http://10.176.17.2/Category_374/Index.aspx";objAD.LinkTarget     = 0;objAD.LinkAlt        = "学习践行党的二十大精神";objAD.Priority       = 1;objAD.CountView      = false;objAD.CountClick     = false;objAD.OverdueDate    = "2022/12/31";objAD.InstallDir     = "/";objAD.ADDIR= "IAA";ZoneAD_2.AddAD(objAD);ZoneAD_2.ZoneID=2;ZoneAD_2.ZoneWidth=300;ZoneAD_2.ZoneHeight=100;ZoneAD_2.ShowType=1;ZoneAD_2.FloatType= 2;ZoneAD_2.Left= 100;ZoneAD_2.Top= 100;ZoneAD_2.ShowCloseAD=true;ZoneAD_2.CloseFontColor="#FFFFFF";ZoneAD_2.LocalityType = 1;ZoneAD_2.Show();

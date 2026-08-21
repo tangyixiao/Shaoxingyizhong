@@ -1,4 +1,4 @@
-//js后可带参数，show_date.js?type=1。当type=1时只显示日期和星期
+﻿//js后可带参数，show_date.js?type=1。当type=1时只显示日期和星期
 var GetParameter = function () {
     var map = new Array();
     var tgs = document.getElementsByTagName('script');

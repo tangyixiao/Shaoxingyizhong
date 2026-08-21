@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 
 /* 通用信息列表DOT */
 .infoList{ text-align:left;}
@@ -138,5 +138,4 @@
 .page a:hover {border:1px solid #046abb; text-decoration:none; color:#046abb;}
 .page .current{ background:#046abb; border:1px solid #046abb; color:#fff !important;}
 .page select{height: 18px;line-height: 18px;padding:0 8px;background:#fff;border:0;border:none;vertical-align:middle;}
-
 

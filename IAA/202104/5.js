@@ -1,4 +1,4 @@
-function ObjectAD() {
+﻿function ObjectAD() {
   /* Define Variables*/
   this.ADID        = 0;
   this.ADType      = 0;

@@ -4,8 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content='绍兴市第一中学' name="Keywords" />
     <meta content='绍兴市第一中学' name="Description" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/user/login.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+    <link href="/Template/Default/Skin/user/login.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/js/jquery.pack.js"></script>
     
 <title>
 	会员登录-会员中心
@@ -15,11 +15,11 @@
     <div id="header">
     <div class="wrapper">
         <div id="logo">
-            <a href="/Shaoxingyizhong/">
-                <img src="/Shaoxingyizhong/Template/Default/Skin/user/images/register_login_logo.gif" alt="绍兴市第一中学" /></a>
+            <a href="/">
+                <img src="/Template/Default/Skin/user/images/register_login_logo.gif" alt="绍兴市第一中学" /></a>
         </div>
         <div class="top_tool">
-            <a href="/Shaoxingyizhong/" title="返回首页">返回首页</a><a href="/Shaoxingyizhong/User/login.aspx" title="会员登录">会员登录</a><a href="/Shaoxingyizhong/User/Register.aspx" title="会员注册">会员注册</a></div>
+            <a href="/" title="返回首页">返回首页</a><a href="/User/login.aspx" title="会员登录">会员登录</a><a href="/User/Register.aspx" title="会员注册">会员注册</a></div>
         <div class="clear">
         </div>
     </div>
@@ -32,7 +32,7 @@
 <input type="hidden" name="__REFRESH_FIELD" id="__REFRESH_FIELD" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="75tCA81UkwRHaYVmN/3LjuxshoMSx3CQEIllNpAkP1kBp6GAchbS36JQa7pJJRLGLZpT6sAv4FO+VCFF2x38QQQEL8XMFtkkWG+jcfJF7aNgIZKVeFs4Xq+7AdgwABiNFHzU+olLxNNcvB+7sF8puClixmCOPXNaz9xG+Tphie5PWmFpBYjV7uzsMQ0=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="1VYabeEb89LA0Sgf3YOKjmrWCfZwlvEUd++J61Di65r3wdfBwwvzn4lYvFV3H0QqwkMxIQq3xsAsrqQdcc7XB2Ejm8mtncR1S9s7ujXIkPGTKhxI3ySGbraxoyOzgtCsgHwNavL57idSJdQkHyVK384+D2FQn+ovzUHkY2hQ7A+lURj2YUJSwzLDQK0=" />
 </div>
 
 <script type="text/javascript">
@@ -52,12 +52,12 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/Shaoxingyizhong/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
 
 
-<script src="/Shaoxingyizhong/WebResource.axd?d=XB1owV5EXVTo2k7XuOKdOR9SOU-7SvDY6fb866Zueq9M3NWTw7PL1qf0iip5VzJel9DL5hOuO_DUXdXacPrnIq-S4Wlc355TCupL9jsW0BHC_QsRiR3J2O4_RSaHqGgtm14gJC0EDEh5F2XfzO55yYUEA0Xc2kLmwLOhyAoaoNlqWQMxpT08JY5c3fU1&amp;t=638337587847590708" type="text/javascript"></script>
-<script src="/Shaoxingyizhong/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
-<script src="/Shaoxingyizhong/WebResource.axd?d=kHm64kc06RB_fWVtj0mw7S8DKkZyw8H2SKURSlB9gZmbHysHBZgQZcVKdmTAhStBitl3v-YftiuhMmVt0&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/WebResource.axd?d=XB1owV5EXVTo2k7XuOKdOR9SOU-7SvDY6fb866Zueq9M3NWTw7PL1qf0iip5VzJel9DL5hOuO_DUXdXacPrnIq-S4Wlc355TCupL9jsW0BHC_QsRiR3J2O4_RSaHqGgtm14gJC0EDEh5F2XfzO55yYUEA0Xc2kLmwLOhyAoaoNlqWQMxpT08JY5c3fU1&amp;t=638337587847590708" type="text/javascript"></script>
+<script src="/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/WebResource.axd?d=kHm64kc06RB_fWVtj0mw7S8DKkZyw8H2SKURSlB9gZmbHysHBZgQZcVKdmTAhStBitl3v-YftiuhMmVt0&amp;t=634604712479085897" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 function WebForm_OnSubmit() {
@@ -70,7 +70,7 @@ return true;
 <div>
 
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="2iv2Urntuh5aYO3EI6fFJk9WdnpaDwMuFgrluU080h8MYZe8BFGKKogf6UJPVw/fSy526sHBLLQBCAV32snIyUUq40M2jzVJ986ZW16vP8WzsEfatez67x11an1aVcFiD1QofMqW38zuJJsH" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="kIE8wMjrfkcwNlUnkL2KMnB0cEuL557WGJ0iPA1WHZe2uQMqUisxY4ebclTvX6h2mlWc8BeB+gJCT/UR9BCcWjizml97o80NgDE3jG+1pqbpNkVStzwUWqtGSoDYmdK2zEdg/lqhPcUQVX2V" />
 </div>
         <div id="siteFactoryLogin">
             <div id="user_login">

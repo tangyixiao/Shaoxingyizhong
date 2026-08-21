@@ -5,8 +5,8 @@
     <meta content='绍兴市第一中学' name="Keywords" />
     <meta content='绍兴市第一中学' name="Description" />
     
-    <link href="/Shaoxingyizhong/Template/Default/Skin/user/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/user/register.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/user/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/user/register.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -24,10 +24,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -39,11 +39,11 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
     <div id="header">
     <div class="wrapper">
         <div id="logo">
-            <a href="/Shaoxingyizhong/">
-                <img src="/Shaoxingyizhong/Template/Default/Skin/user/images/register_login_logo.gif" alt="绍兴市第一中学" /></a>
+            <a href="/">
+                <img src="/Template/Default/Skin/user/images/register_login_logo.gif" alt="绍兴市第一中学" /></a>
         </div>
         <div class="top_tool">
-            <a href="/Shaoxingyizhong/" title="返回首页">返回首页</a><a href="/Shaoxingyizhong/User/login.aspx" title="会员登录">会员登录</a><a href="/Shaoxingyizhong/User/Register.aspx" title="会员注册">会员注册</a></div>
+            <a href="/" title="返回首页">返回首页</a><a href="/User/login.aspx" title="会员登录">会员登录</a><a href="/User/Register.aspx" title="会员注册">会员注册</a></div>
         <div class="clear">
         </div>
     </div>
@@ -59,7 +59,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <input type="hidden" name="__REFRESH_FIELD" id="__REFRESH_FIELD" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="B5OJkpFISDkdj5yhUsYmMkh/N3r7zvZijvDLLP+Nh0pPPvLGQpMy+8b1Mb58oqiObTtFhUMupospxxKBRsNPtlRE/LOsMOeLj/PxTPJH909qop/JjB50SYtpTI7dttBhI9V2WZbORp3tQBfSiPNt7dfgwbUg8iAoHoJ4jf2sLoGgscrrhjp91h31eifcKCtjSqqcVOP7c1mErzNWVL/ALQZG28XpaBuhwWdJ3cwdxN3h6n4Em+sdwh3Xoa9q0u/9WVOm+syEG03GnMvOl3cFJMTol2xFSNWQSJDiUP6Xr+CtPzn+DFdIwOADC4DsFh5w9FsXVA==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="IsKH4cMz9O99P9S88FDg9q5l3tbILQbm49N6RHq05yylFZsWoY/OlzPFU86FdIkvszYUWi5XMCmnY+f+XJTVtBb8TqyCctLLQe13F72EFt8fw9Muzl8TbBUSuKI++Mt81XBV/TlDGpPstizCG/3ITeMnVagPPsGcB8vbyGsARtKMAUPHezlAjv0fZUk+lGVHhJHQGBVX2O/Zpj+zaKJLO1+J0oSS0g/cuY9Nuf8hLQZOJ4e2mzqPCs5j4AjboYzyXe5TFLucQ7idQisrosaY1xhxPzvZ8ZlHP/OvFU2N3AO2Mq8CBD0k8PSQpwRWTEJ6smVb0w==" />
 </div>
 
 <script type="text/javascript">
@@ -79,11 +79,11 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/Shaoxingyizhong/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
 
 
-<script src="/Shaoxingyizhong/WebResource.axd?d=XB1owV5EXVTo2k7XuOKdOR9SOU-7SvDY6fb866Zueq9M3NWTw7PL1qf0iip5VzJel9DL5hOuO_DUXdXacPrnIq-S4Wlc355TCupL9jsW0BHC_QsRiR3J2O4_RSaHqGgtm14gJC0EDEh5F2XfzO55yYUEA0Xc2kLmwLOhyAoaoNlqWQMxpT08JY5c3fU1&amp;t=638337587847590708" type="text/javascript"></script>
-<script src="/Shaoxingyizhong/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/WebResource.axd?d=XB1owV5EXVTo2k7XuOKdOR9SOU-7SvDY6fb866Zueq9M3NWTw7PL1qf0iip5VzJel9DL5hOuO_DUXdXacPrnIq-S4Wlc355TCupL9jsW0BHC_QsRiR3J2O4_RSaHqGgtm14gJC0EDEh5F2XfzO55yYUEA0Xc2kLmwLOhyAoaoNlqWQMxpT08JY5c3fU1&amp;t=638337587847590708" type="text/javascript"></script>
+<script src="/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 function WebForm_OnSubmit() {
@@ -96,7 +96,7 @@ return true;
 <div>
 
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="FgsR0h1yKcsXnKckNoTh0pW7qK5aNiJzDYI5KcI2S+D9kngj85KYNR4zhii8OXLS0SVDxHHbAQdGI1iW5w/OF8mTeSd6zWgRN2TkW96sh1W9e+do" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="rAvaBCu8/xgNYQeN0QmUfdrsqbs8mcIEo2che7izK9kweQPIVXjKvIA6yJtJ7bxJ9DECxZeu0e7Xc9wODrza/YhEzt8yIhRYb6CCGPvR4lg0tId/" />
 </div> 
                 <ul>
                     <li><label>请输入用户名：</label><input name="TxtUserName" type="text" id="TxtUserName" class="inputxt" /><span style="color:Red;">* </span><span id="ValrTxtUserName" style="color:Red;display:none;">请输入用户名！</span></li>
@@ -156,7 +156,7 @@ function ValidatorOnSubmit() {
     <div class="wrapper">
 
         <div class="copyright">
-            <p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p>
+            <p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p>
         </div>
     </div>
 </div>
