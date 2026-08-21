@@ -4,6 +4,7 @@ from pathlib import Path
 
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
 from tools.build_pages import build_site
+from tools.publish_crawl import sync_crawl
 
 
 class IncrementalSyncTests(unittest.TestCase):
@@ -70,6 +71,28 @@ class IncrementalSyncTests(unittest.TestCase):
             page = (output / "Item" / "1.html").read_text(encoding="utf-8")
             self.assertIn('/Shaoxingyizhong/Template/site.css', page)
             self.assertIn('/Shaoxingyizhong/Item/2.html', page)
+
+    def test_publish_crawl_updates_only_changed_non_media_files(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            (source / "Item").mkdir(parents=True)
+            (source / "UploadFiles").mkdir()
+            (source / "images").mkdir()
+            (repo / "Item").mkdir(parents=True)
+            (repo / "Item" / "1.aspx").write_text("old", encoding="utf-8")
+            (repo / "keep.aspx").write_text("keep", encoding="utf-8")
+            (source / "Item" / "1.aspx").write_text("new", encoding="utf-8")
+            (source / "Item" / "2.aspx").write_text("added", encoding="utf-8")
+            (source / "UploadFiles" / "x.zip").write_bytes(b"attachment")
+            (source / "images" / "logo.png").write_bytes(b"image")
+            changed = sync_crawl(source, repo)
+            self.assertEqual(changed, ["Item/1.aspx", "Item/2.aspx"])
+            self.assertEqual((repo / "Item" / "1.aspx").read_text(encoding="utf-8"), "new")
+            self.assertTrue((repo / "Item" / "2.aspx").exists())
+            self.assertFalse((repo / "UploadFiles" / "x.zip").exists())
+            self.assertFalse((repo / "images" / "logo.png").exists())
 
 
 if __name__ == "__main__":
