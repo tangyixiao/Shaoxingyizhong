@@ -1,0 +1,506 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>2021年6月高考选考绍兴一中考点组织机构--教学处-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_25/Index.aspx">党政办</a></li>
+<li class="li2 on"><a href="/Shaoxingyizhong/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Shaoxingyizhong/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Shaoxingyizhong/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Shaoxingyizhong/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Shaoxingyizhong/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Shaoxingyizhong/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Shaoxingyizhong/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Shaoxingyizhong/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Shaoxingyizhong/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Shaoxingyizhong/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Shaoxingyizhong/Category_35/Index.aspx">高三</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Shaoxingyizhong/Item/23221.aspx" target="_blank" title="标题：05.18高三考试考场布置及相关要求&#xD;点击数：71&#xD;发表时间：2026年05月15日">05.18高三考试考场布置及相关要求</a><span class="dateRight">[05-15]</span></li><li><a href="/Shaoxingyizhong/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li><a href="/Shaoxingyizhong/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li><a href="/Shaoxingyizhong/Item/13467.aspx" target="_blank" title="标题：复旦大学、上海交通大学“三位一体”综合评价招生推荐公示&#xD;点击数：339&#xD;发表时间：2021年05月22日">复旦大学、上海交通大学“三位一体”综合评价招生推荐公示</a><span class="dateRight">[05-22]</span></li><li><a href="/Shaoxingyizhong/Item/23230.aspx" target="_blank" title="标题：5.21高三下午临时课表&#xD;点击数：182&#xD;发表时间：2026年05月18日">5.21高三下午临时课表</a><span class="dateRight">[05-18]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23216.aspx" target="_blank" title="标题：地理教研活动通知&#xD;点击数：97&#xD;发表时间：2026年05月15日">地理教研活动通知</a><span class="dateRight">[05-15]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Shaoxingyizhong/Category_26/Index.aspx" target="_self">教学处</a></div>
+                    <h3>教学处</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">2021年6月高考选考绍兴一中考点组织机构</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2021年06月03日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=13577"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:13577},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=13577";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><strong><span style="font-size:16px;font-family:仿宋">（一）主  考：</span></strong><span style="font-size:16px;font-family: 仿宋">王  琛</span></p><p><span style="font-size:16px;font-family:仿宋">     <strong> </strong></span><strong><span style="font-size:16px;font-family: 仿宋">副主考</span></strong><strong><span style="font-size:16px;font-family: 仿宋">：</span></strong><span style="font-size:16px;font-family:仿宋">蒋  明</span><span style="font-size:16px;font-family:仿宋">（分管考务）              俞奇弘（分管铃声、听力广播监听） </span></p><p><span style="font-size:16px;font-family:仿宋">              </span><span style="font-size:16px;font-family: 仿宋">孙洪亮（分管视频监控、试卷保密）王月琴（</span><span style="font-size:16px;font-family: 仿宋">到阳明中学领队） </span></p><p><span style="font-size:16px;font-family:仿宋">              </span><span style="font-size:16px;font-family:仿宋">杨作凯（防疫）                  丁尚品（阳明中学来我校教师领队）</span></p><p><strong><span style="font-size:16px;font-family:仿宋">（二）考务组：（电话：85338233）</span></strong><strong><span style="font-size:16px;font-family:仿宋"></span></strong></p><p style="text-indent:48px"><span style="font-size:16px;font-family: 仿宋">冯王亮、周文龙、</span><span style="font-size:16px;font-family:仿宋">汪陈帅、张帆、许琪玫</span></p><p style="text-indent:16px"><strong><span style="font-size:16px;font-family:仿宋">1</span></strong><strong><span style="font-size:16px;font-family:仿宋">．考务手册：</span></strong><span style="font-size:16px;font-family: 仿宋">周文龙</span></p><p style="text-indent:16px"><strong><span style="font-size:16px;font-family:仿宋">2</span></strong><strong><span style="font-size:16px;font-family:仿宋">．考务用品准备：</span></strong><span style="font-size:16px;font-family: 仿宋">汪陈帅、许琪玫  </span></p><p style="text-indent:16px"><strong><span style="font-size:16px;font-family:仿宋">3</span></strong><strong><span style="font-size:16px;font-family:仿宋">．试场布置验收</span></strong></p><p style="text-indent:47px"><strong><span style="font-size:16px;font-family:仿宋">家贤楼验收：</span></strong></p><p style="text-indent:48px"><span style="font-size:16px;font-family: 仿宋">吴水明、何柠柠</span></p><p style="text-indent:48px"><strong><span style="font-size:16px;font-family:仿宋">建功楼验收：</span></strong></p><p><span style="font-size:16px;font-family:仿宋">      </span><span style="font-size:16px;font-family:仿宋">王瑾，聂云，任方芳，单兴妹</span></p><p style="margin-left:128px"><strong><span style="font-size:16px;font-family:仿宋">  </span></strong><strong><span style="font-size:16px;font-family: 仿宋">主要职责：</span></strong></p><p style="margin-left:28px"><strong><span style="font-size:16px;font-family:仿宋">（1）</span></strong><span style="font-size:16px;font-family: 仿宋">检查各班是否安要求布置好试场，门贴、桌贴位置是否正确特别注意课桌间距是否到80*80，课桌椅子内、下是否干净，墙面文字覆盖物是否牢固，软板帘子是否拉下，讲台下电源是否关闭，<strong>电脑屏幕是否转好方向</strong>，地面是否干净。 </span></p><p style="margin-left:28px"><strong><span style="font-size:16px;font-family:仿宋">（2）</span></strong><span style="font-size:16px;font-family:仿宋">教室内柜子是否关严，没有门的柜子是否清理干净，挂钟是否拿掉。</span></p><p style="margin-left:28px"><strong><span style="font-size:16px;font-family:仿宋">（3）</span></strong><span style="font-size:16px;font-family:仿宋">检查所负责教学楼走廊课桌排列是否整齐。</span></p><p style="margin-left:141px"><strong><span style="font-size:16px;font-family:仿宋">4</span></strong><strong><span style="font-size:16px;font-family:仿宋">．试卷验收组（具体场次以考务手册为准）：</span></strong></p><p style="margin-left:38px;text-indent:0"><span style="font-size:16px;font-family:仿宋">蒋  明、俞奇弘、孙洪亮、林萍华、沈祥土、陈锋、刘夏进、刘明玉、朱水军、杨佩琼</span></p><p style="text-indent:48px"><strong><span style="font-size:16px;font-family: 仿宋">验卷人员请在考试结束前10分钟到考务组，验卷时注意以下要点：</span></strong></p><p style="text-indent:48px"><strong><span style="font-size:16px;font-family: 仿宋">（1）</span></strong><span style="font-size:16px;font-family:仿宋">试卷、答题卡有没有缺少。</span></p><p style="margin-left:28px;text-indent:19px"><strong><span style="font-size:16px;font-family:仿宋">（2）</span></strong><span style="font-size:16px;font-family: 仿宋">准考证号、姓名是否漏写，学生姓名是否与条形码上一致，缺考标记是否漏涂、是否从小号到大号排列。</span></p><p style="margin-left:47px"><strong><span style="font-size:16px;font-family:仿宋">5. </span></strong><strong><span style="font-size:16px;font-family:仿宋">监考员签到、监考员进场金属探测：</span></strong><span style="font-size:16px;font-family: 仿宋">许琪玫</span></p><p style="margin-left:47px"><strong><span style="font-size:16px;font-family:仿宋">6</span></strong><strong><span style="font-size:16px;font-family:仿宋">．盖空白缺考章：</span></strong><span style="font-size:16px;font-family: 仿宋">朱玛莉</span></p><p style="margin-left:38px"><span style="font-size:16px;font-family: 仿宋">开考20分钟后将缺考章和空白章送到考场门口，由监考员盖在答题纸<strong>注意事项</strong>处</span></p><p style="margin-left:28px;text-indent:0"><strong><span style="font-size:16px;font-family:仿宋">7. </span></strong><strong><span style="font-size:16px;font-family: 仿宋">试卷袋、答题纸袋、条形码发放回收：</span></strong><span style="font-size:16px;font-family: 仿宋">冯王亮  汪陈帅</span></p><p style="text-indent:28px"><strong><span style="font-size:16px;font-family:仿宋">8. </span></strong><strong><span style="font-size:16px;font-family:仿宋">身份证识别仪管理：</span></strong><span style="font-size:16px;font-family: 仿宋">周文龙</span></p><p style="text-indent:28px"><strong><span style="font-size:16px;font-family:仿宋">9. </span></strong><strong><span style="font-size:16px;font-family:仿宋">联席单位人员统计：</span></strong><span style="font-size:16px;font-family: 仿宋">张帆</span></p><p style="text-indent:28px"><strong><span style="font-size:16px;font-family:仿宋">10</span></strong><strong><span style="font-size:16px;font-family: 仿宋">．视频监考（具体场次以考务手册为准）： </span></strong></p><p style="margin-left:38px"><span style="font-size:16px;font-family:仿宋">7-8</span><span style="font-size:16px;font-family: 仿宋">日    刘明玉、朱水军、祝建强（巡查系统管理员）</span></p><p style="margin-left:38px"><span style="font-size:16px;font-family:仿宋">9-10</span><span style="font-size:16px;font-family: 仿宋">日   刘夏进、杨佩琼、祝建强（巡查系统管理员）</span></p><p style="margin-left:28px"><strong><span style="font-size:16px;font-family:仿宋">11</span></strong><strong><span style="font-size:16px;font-family:仿宋">．综合平台考务数据录入：</span></strong><span style="font-size:16px;font-family: 仿宋">汪陈帅</span></p><p><strong><span style="font-size:16px;font-family:仿宋">（三）保密组：</span></strong><strong><span style="font-size:16px;font-family:仿宋"></span></strong></p><p style="text-indent:48px"><strong><span style="font-size:16px;font-family:仿宋">主要职责：</span></strong></p><p style="margin-left:109px"><strong><span style="font-size: 16px;font-family:仿宋">（1）领卷回卷：</span></strong><span style="font-size:16px;font-family: 仿宋">黄金裕、</span><span style="font-size:16px;font-family:仿宋">何隽豪（7日8日早上7:00、下午13:00，半天领半天回；9日10日早上6:00、下午13:00到市考试院保密室 ，一天领半天回，准备介绍信、做好防雨准备，）</span></p><p style="text-indent:55px"><strong><span style="font-size:16px;font-family:仿宋">（2）每次试卷领到考务组后，报告电话：85112185。考试结束报告电话18858585899</span></strong></p><p style="text-indent:57px"><strong><span style="font-size:16px;font-family:仿宋">（3）</span></strong><strong><span style="font-size:16px;font-family:仿宋">保密室值班（电话：85338026）：</span></strong></p><p style="text-indent:64px"><span style="font-size:16px;font-family: 仿宋">黄金裕、何隽豪、阳明中学1人、东浦派出所民警1人</span></p><p style="text-indent:64px"><span style="font-size:16px;font-family: 仿宋">（备用卷进保密室并放入带锁的铁柜）</span></p><p style="text-indent:57px"><strong><span style="font-size:16px;font-family: 仿宋">（4）回卷期间保密室值班：</span></strong><span style="font-size:16px;font-family: 仿宋">许琪玫</span></p><p><strong><span style="font-size:16px;font-family:仿宋">（四）信号组：</span></strong><strong><span style="font-size:16px;font-family:仿宋"></span></strong></p><p style="margin-left:47px"><strong><span style="font-size:16px;font-family: 仿宋">主要职责：播放铃声与广播指令（录音）；填好司铃登记表（司铃员与副主考签字）</span></strong></p><p style="text-indent:47px"><strong><span style="font-size:16px;font-family:仿宋">司铃员：</span></strong><span style="font-size:16px;font-family: 仿宋">朱玛莉</span><strong><span style="font-size:16px;font-family: 仿宋">  </span></strong><span style="font-size:16px;font-family: 仿宋">张帆</span></p><p style="text-indent:47px"><strong><span style="font-size:16px;font-family:仿宋">监听：</span></strong><span style="font-size:16px;font-family: 仿宋">俞奇弘</span></p><p style="text-indent:47px"><strong><span style="font-size:16px;font-family: 仿宋">预备铃声（吹哨）：</span></strong><span style="font-size:16px;font-family:仿宋">陈锋</span></p><p><strong><span style="font-size:16px;font-family:仿宋">（五）听力播放监听组（6日、8日下午）：</span></strong></p><p><strong><span style="font-size:16px;font-family:仿宋">      </span></strong><strong><span style="font-size: 16px;font-family:仿宋">播放组：</span></strong></p><p><strong><span style="font-size:16px;font-family:仿宋">      </span></strong><strong><span style="font-size:16px;font-family:仿宋">主要职责：检查调试播放设备、准备好备用设备、播放外语听力广播</span></strong></p><p style="text-indent:48px"><strong><span style="font-size:16px;font-family:仿宋">组长：</span></strong><span style="font-size:16px;font-family: 仿宋">俞奇弘</span></p><p><span style="font-size:16px;font-family:仿宋">      </span><strong><span style="font-size: 16px;font-family:仿宋">播放员：</span></strong><span style="font-size:16px;font-family:仿宋">朱玛莉、张帆</span></p><p><span style="font-size:16px;font-family:仿宋">      </span><strong><span style="font-size: 16px;font-family:仿宋">监听组：</span></strong></p><table width="235"><tbody><tr style=";height:19px" class="firstRow"><td width="130" style="border: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">监听员</span></p></td><td width="105" style="border-top: 1px solid windowtext; border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-image: initial; border-left: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">负责区域</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">阳明中学1人</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">备用试场2108</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">杨大为</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">组长、广播室</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">杨晶晶</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">阳明中学</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">傅红霞</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">建功楼2楼</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">谢静超</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">建功楼3楼</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">王维</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">建功楼4楼</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">沈剑蕾</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">建功楼5楼</span></p></td></tr><tr style=";height:19px"><td width="130" style="border-right: 1px solid windowtext; border-bottom: 1px solid windowtext; border-left: 1px solid windowtext; border-image: initial; border-top: none; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">顾向晖</span></p></td><td width="105" style="border-top: none; border-left: none; border-bottom: 1px solid windowtext; border-right: 1px solid windowtext; padding: 0px 7px;"><p style="text-align:center"><span style="font-size:13px;font-family:   仿宋">家贤楼5楼</span></p></td></tr></tbody></table><p><strong><span style="font-size:16px;font-family:仿宋">      </span></strong><strong><span style="font-size: 16px;font-family:仿宋">主要职责：</span></strong></p><p style="margin-left:47px"><span style="font-size:16px;font-family:仿宋">      </span><span style="font-size:16px;font-family: 仿宋">（1）6日下午15:30到达指定位置，掌握学生的试听情况，并及时向广播室反映，试听结束后在试听结果登记表上签名，并让不少于10名学生签名</span></p><p style="margin-left:47px"><span style="font-size:16px;font-family:仿宋">（2）8日下午14:40到达指定位置英语考试听力播放时，负责广播室及各指定楼层英语听力的监听工作，听力播放结束，填写听力考试播放情况登记表</span></p><p><strong><span style="font-size:16px;font-family:仿宋">  </span></strong><strong><span style="font-size: 16px;font-family:仿宋">（六）流动监考组： </span></strong></p><p style="text-indent:47px"><strong><span style="font-size:16px;font-family:仿宋">组  长：</span></strong><span style="font-size:16px;font-family: 仿宋">林萍华（兼无线电监听）</span></p><p style="text-indent:47px"><strong><span style="font-size:16px;font-family: 仿宋">组  员：</span></strong><span style="font-size:16px;font-family: 仿宋">吴水明、何柠柠、王瑾、聂云、任方芳、单兴妹</span></p><p style="text-indent:112px"><span style="font-size:16px;font-family:仿宋">学生志愿者若干人（每楼层2人，男女各1人，向林萍华老师报到）</span></p><p style="margin-left:109px"><strong><span style="font-size:16px;font-family: 仿宋">主要职责：</span></strong></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（1）同监考员一同报道，领取工作证和考务用品后到指定楼层就位。</span></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（2）<a>阻止考生在进场铃声响前进入警戒线以内</a>，开考后摆放好走廊的桌椅。（志愿者）</span></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（3）</span><span style="font-size:16px;font-family: 仿宋">负责所指定的几个考场的联络工作，及时向正、副主考汇报情况。制止所辖考场的监考员擅自离场、互相窜门的行为。（流动监考）</span></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（4）负责监视因特殊情况考生的就医、上厕所等（志愿者），每个楼层同时只能有1人上厕所。</span></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（5）因特殊情况，监考员确需要离开考场时，顶替监考。（流动监考）</span></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（6）离考试结束还有15分时举提醒牌。（志愿者）</span></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（7）半天的最后一场考试结束30分钟后贴好试场封条。（志愿者）</span></p><p style="margin-left:87px"><span style="font-size:16px;font-family: 仿宋">（8）负责考生违规使用无线通讯设备情况的检测。（组长）</span></p><p style="margin-left:117px"><strong><span style="font-size:16px;font-family:仿宋">注意：</span></strong><span style="font-size:16px;font-family: 仿宋">流动监考人员到试场时不能带手机，<strong>替监考时不能进试场，只能站在考场门口</strong>。</span></p><p><strong><span style="font-size:16px;font-family:仿宋"> </span></strong><strong><span style="font-size:16px;font-family: 仿宋">（七）后勤保障组：</span></strong></p><p style="text-indent:55px"><strong><span style="font-size:16px;font-family:仿宋">组  长：</span></strong><span style="font-size:16px;font-family: 仿宋">陈锋</span></p><p style="text-indent:55px"><strong><span style="font-size:16px;font-family: 仿宋">组  员：</span></strong><span style="font-size:16px;font-family: 仿宋">吕斌 吴国年 </span></p><p style="margin-left:109px"><strong><span style="font-size:16px;font-family: 仿宋">主要职责：</span></strong></p><p style="margin-left:71px"><span style="font-size:16px;font-family:仿宋">（1）悬挂考点横幅及1幅宣传横幅。</span></p><p style="margin-left:88px"><span style="font-size:16px;font-family:仿宋">（2）6日下午17:00拉好警戒线，贴好试场封条。</span></p><p style="text-indent:57px"><span style="font-size:16px;font-family: 仿宋">（3）电力保障、考试用品准备、茶水准备</span></p><p style="text-indent:57px"><span style="font-size:16px;font-family: 仿宋">（4）<strong>每间考场门口放置消毒纸巾一包，免洗消毒液一瓶</strong></span></p><p style="text-indent:57px"><span style="font-size:16px;font-family: 仿宋">（5）负责与电力、市场监督管理等联席单位工作人员联络做好后勤保障工作。</span></p><p style="text-indent:8px"><strong><span style="font-size:16px;font-family:仿宋">（八）安全保卫组：</span></strong></p><p style="text-indent:8px"><strong><span style="font-size:16px;font-family:仿宋">      </span></strong><strong><span style="font-size:16px;font-family: 仿宋">组  长：</span></strong><span style="font-size:16px;font-family: 仿宋">沈祥土  </span></p><p style="text-indent:8px"><span style="font-size:16px;font-family:仿宋">      </span><strong><span style="font-size:16px;font-family:仿宋">组  员</span></strong><span style="font-size:16px;font-family: 仿宋">：门卫2人，学生志愿者若干（向</span><span style="font-size:16px;font-family: 仿宋">沈祥土老师报到）</span></p><p style="margin-left:44px;text-indent:16px"><strong><span style="font-size:16px;font-family: 仿宋">主要职责：</span></strong></p><p style="text-indent:8px"><strong><span style="font-size:16px;font-family:仿宋">      </span></strong><span style="font-size:16px;font-family:仿宋">（1）开考前负责考点门口秩序，阻挡无关人员进入考点。</span></p><p style="margin-left:28px"><span style="font-size:16px;font-family:仿宋">      </span><span style="font-size:16px;font-family:仿宋">（2）<strong>开考后15分钟（外语开考前15分钟），关好考点大门，禁止考生进入考点，将开考后15分钟内进入考点考生带到考务组。</strong></span></p><p style="text-indent:8px"><span style="font-size:16px;font-family:仿宋">      </span><span style="font-size:16px;font-family:仿宋">（3）考试过程中维持考点周边环境安静。</span></p><p style="text-indent:8px"><span style="font-size:16px;font-family:仿宋">      </span><span style="font-size:16px;font-family:仿宋">（4）负责与消防、交警、航管、行政执法等部门工作人员联系维护考点安全。</span></p><p style="margin-left:55px"><span style="font-size:16px;font-family:仿宋">      </span><span style="font-size:16px;font-family:仿宋">（5）学生志愿者上午6:40到岗，下午13:00到岗，负责帮助</span><strong><span style="font-size:16px;font-family: 仿宋">维持秩序。</span></strong></p><p style="margin-left:55px"><strong><span style="font-size: 16px;font-family:仿宋">（九）医疗防疫组： </span></strong></p><p style="text-indent:71px"><span style="font-size:16px;font-family: 仿宋">范国娟  魏杲</span></p><p style="text-indent:64px"><strong><span style="font-size:16px;font-family:仿宋">主要职责：</span></strong></p><p style="text-indent:64px"><span style="font-size:16px;font-family: 仿宋">（1）考生突发疾病的应急处理</span></p><p style="text-indent:64px"><span style="font-size:16px;font-family: 仿宋">（2）食堂食品安全卫生检查</span></p><p style="text-indent:64px"><span style="font-size:16px;font-family: 仿宋">（3）考试环境的消杀</span></p><p style="text-indent:8px"><strong><span style="font-size:16px;font-family:仿宋">（十）领队组：</span></strong></p><p style="text-indent:57px"><strong><span style="font-size:16px;font-family:仿宋">组  长：</span></strong><span style="font-size:16px;font-family: 仿宋">施笑程</span></p><p style="text-indent:55px"><strong><span style="font-size:16px;font-family: 仿宋">组  员：</span></strong><span style="font-size:16px;font-family: 仿宋">高三年级班主任<strong></strong></span></p><p style="text-indent:56px"><strong><span style="font-size:16px;font-family:仿宋">主要职责：</span></strong></p><p style="text-indent:64px"><span style="font-size:16px;font-family: 仿宋">（1）督促考生准备好考试必备用品，按时应考</span></p><p><span style="font-size:16px;font-family:仿宋">        </span><span style="font-size:16px;font-family:仿宋">（2）进行考试纪律和交通安全教育</span></p><p><span style="font-size:16px;font-family:仿宋">        </span><span style="font-size:16px;font-family:仿宋">（3）发放本班考生准考证，掌握本班学生参考情况</span></p><p><span style="font-size:16px;font-family:仿宋">        </span><span style="font-size:16px;font-family:仿宋">（4）掌握考生的思想动态和考试情况，做好失利考生的思想工作</span></p><p style="text-indent:39px"><strong><span style="font-size:16px;font-family:仿宋">   </span></strong><span style="font-size:16px;font-family:仿宋">（5）提醒学生提前出试场的要回自修教室，等考试结束铃响才能出校门。</span></p><p style="text-indent:39px"><span style="font-size:16px;font-family:仿宋"> </span></p><p><strong><span style="font-size:16px;font-family:仿宋">    </span></strong><strong><span style="font-size: 16px;font-family:仿宋">本校考生休息处：</span></strong><span style="font-size:16px;font-family: 仿宋">各班教室</span></p><p style="text-indent:32px"><strong><span style="font-size:16px;font-family: 仿宋">本校考生休息处管理：</span></strong><span style="font-size:16px;font-family:仿宋">各班主任</span></p><p> </p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/13567.aspx" target="_self" title="标题：6月5日高一高二教学安排&#xD;点击数：749&#xD;发表时间：21年06月02日">6月5日高一高二教学安排</a>[ 06-02 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/13579.aspx" target="_self" title="标题：绍兴一中2020年第二学期体测运动会长跑比赛成绩公告&#xD;点击数：415&#xD;发表时间：21年06月03日">绍兴一中2020年第二学期体测运动会长跑比赛成绩公告</a>[ 06-03 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

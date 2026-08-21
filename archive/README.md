@@ -6,4 +6,4 @@
 
 Release 分卷是归档下载包，不是 Pages 上的直接文件路径。下载后可使用归档内的 `UploadFiles/...` 相对路径恢复原目录结构。
 
-Pages 当前还包含 `search.aspx` 和 2026 年的 `Item/*.aspx` 具体内容页。通过页面内嵌的发布时间二分定位，`Item/22589.aspx` 为 2025-12-31，`Item/22590.aspx` 为 2026-01-03；本批共 889 个页面、约 41 MiB。更早的 `Item` 页面暂不纳入，后续可按年份继续增量同步。
+当前仓库已纳入 `search.aspx`、全部非附件 `Item/*.aspx` 页面、分类页、模板、CSS 和 JS。`UploadFiles/` 仍完全排除；原有站点外壳图片保留以保证 CSS 外观。为避免 Pages 把 `.aspx` 当作下载文件，2026 年页面（`Item/22590.aspx` 起）另有 `.html` 浏览别名；更早页面保留原 `.aspx` 文件和链接。
