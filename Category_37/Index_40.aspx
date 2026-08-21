@@ -40,11 +40,11 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
     <div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.html" target="_blank">公共文件夹</a> | 
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.html" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.html" target="_blank">作息时间</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -126,167 +126,167 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.html">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.html">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.html">学校公告</a></h4>
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2 on2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.html">一中新闻</a></h4>
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.html">工作安排</a></h4>
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
 </li>
 <li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.html">校长专栏</a></h4>
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
 </li>
 <li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.html">校务公开</a></h4>
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.html">百年芳华</a></h4><ul class="ul1" id="ulID3">
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
 				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.html">建校史略</a></h4>
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
 </li>
 <li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.html">昔日校园</a></h4>
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
 </li>
 <li class="li2" id="liID376">
   <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
 </li>
 <li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.html">校友之家</a></h4>
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.html">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.html">学校概览</a></h4>
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
 </li>
 <li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.html">组织机构</a></h4>
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.html">管理团队</a></h4>
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
 </li>
 <li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.html">—中校歌</a></h4>
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
 </li>
 <li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.html">校园风光</a></h4>
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
 </li>
 <li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.html">奖教奖学</a></h4>
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
 </li>
 <li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.html">学校荣誉</a></h4>
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
 </li>
 <li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.html">领导关怀</a></h4>
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.html">党建引领</a></h4><ul class="ul1" id="ulID50">
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
 				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.html">组织架构</a></h4>
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.html">清廉学校</a></h4>
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
 </li>
 <li class="li2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.html">学习专栏</a></h4>
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
 </li>
 <li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.html">先锋故事</a></h4>
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
 </li>
 <li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.html">课余党校</a></h4>
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
 </li>
 <li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.html">党建网站</a></h4>
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.html">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.html">荣誉报道</a></h4>
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.html">正高特级教师</a></h4>
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
 <li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.html">优秀教师</a></h4>
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.html">名师工作室</a></h4>
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.html">德育之窗</a></h4><ul class="ul1" id="ulID385">
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
 				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.html">家校合力</a></h4>
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
 </li>
 <li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.html">德育活动</a></h4>
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
 </li>
 <li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.html">博雅讲座</a></h4>
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
 </li>
 <li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.html">学缘心语</a></h4>
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.html">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.html">信息学竞赛</a></h4>
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
 <li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.html">数学竞赛</a></h4>
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
 </li>
 <li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.html">物理竞赛</a></h4>
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
 </li>
 <li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.html">化学竞赛</a></h4>
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
 <li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.html">生物竞赛</a></h4>
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.html">天文竞赛</a></h4>
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
 </li>
 <li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.html">其他竞赛</a></h4>
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.html">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.html">教研成果</a></h4>
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
 </li>
 <li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.html">教师成长</a></h4>
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.html">教科动态</a></h4>
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
 </li>
 <li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.html">校际交流</a></h4>
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.html">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.html">学生之星</a></h4>
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
 </li>
 <li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.html">团学动态</a></h4>
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.html">社团风采</a></h4>
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
 </li>
 <li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.html">艺术教育</a></h4>
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
 </li>
 <li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.html">校园安全</a></h4>
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
 </li>
 <li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.html">实践学分</a></h4>
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
 </li>
 <li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.html">饮水思源</a></h4>
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
 </li>
 <li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.html">志愿活动</a></h4>
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
 </li>
 <li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.html">校园活动</a></h4>
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
 </li>
 			</ul></li></ul><script type="text/javascript">
 			jQuery(function($){
@@ -349,12 +349,12 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Shaoxingyizhong/Category_21/Index.html">一中新闻</a></h3>
+        <h3><a href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_37/Index.html">学校新闻</a></li>
-<li class="li2 last"><a href="/Shaoxingyizhong/Category_38/Index.html">媒体一中</a></li>
+			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Shaoxingyizhong/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
 </div>
@@ -369,7 +369,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Shaoxingyizhong/Item/23509.html" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）&#xD;点击数：12&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）</a><span class="dateRight">[08-19]</span></li><li><a href="/Shaoxingyizhong/Item/23508.html" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校&#xD;点击数：9&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校</a><span class="dateRight">[08-19]</span></li><li><a href="/Shaoxingyizhong/Item/23475.html" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：53&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Shaoxingyizhong/Item/22098.html" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Shaoxingyizhong/Item/23489.html" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团…</a><span class="dateRight">[07-08]</span></li><li><a href="/Shaoxingyizhong/Item/23464.html" target="_blank" title="标题：博雅育人 | 德育名师风采录（第九期）&#xD;点击数：120&#xD;发表时间：2026年07月02日">博雅育人 | 德育名师风采录（第九期）</a><span class="dateRight">[07-02]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23447.html" target="_blank" title="标题：绍兴一中学子在全国中学生生物学联赛中喜获佳绩！&#xD;点击数：90&#xD;发表时间：2026年06月29日">绍兴一中学子在全国中学生生物学联赛中喜获佳绩！</a><span class="dateRight">[06-29]</span></li>
+            <li class="first"><a href="/Shaoxingyizhong/Item/23509.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）&#xD;点击数：12&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）</a><span class="dateRight">[08-19]</span></li><li><a href="/Shaoxingyizhong/Item/23508.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校&#xD;点击数：9&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校</a><span class="dateRight">[08-19]</span></li><li><a href="/Shaoxingyizhong/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：53&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Shaoxingyizhong/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Shaoxingyizhong/Item/23489.aspx" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团…</a><span class="dateRight">[07-08]</span></li><li><a href="/Shaoxingyizhong/Item/23464.aspx" target="_blank" title="标题：博雅育人 | 德育名师风采录（第九期）&#xD;点击数：120&#xD;发表时间：2026年07月02日">博雅育人 | 德育名师风采录（第九期）</a><span class="dateRight">[07-02]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23447.aspx" target="_blank" title="标题：绍兴一中学子在全国中学生生物学联赛中喜获佳绩！&#xD;点击数：90&#xD;发表时间：2026年06月29日">绍兴一中学子在全国中学生生物学联赛中喜获佳绩！</a><span class="dateRight">[06-29]</span></li>
           
 		</ul>
 	</div>
@@ -394,7 +394,7 @@ function GetUserInfo1(response){
     </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
    <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
    <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/Shaoxingyizhong/search.html?searchtype=2&ModelId=1'" />--></label>
+   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/Shaoxingyizhong/search.aspx?searchtype=2&ModelId=1'" />--></label>
     <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
     <script language="javascript" type="text/javascript">
     function OnSearchCheckAndSubmit2(){
@@ -420,16 +420,16 @@ function GetUserInfo1(response){
     
     
     
-    <a href="/Shaoxingyizhong/Category_1/Index.html" target="_self">新闻中心</a>&gt;
-    <a href="/Shaoxingyizhong/Category_21/Index.html" target="_self">一中新闻</a>&gt;
-    <a href="/Shaoxingyizhong/Category_37/Index.html" target="_self">学校新闻</a></div>
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Shaoxingyizhong/Category_37/Index.aspx" target="_self">学校新闻</a></div>
                     <h3>学校新闻</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2016-10-06</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5668.html" target="_self" title="标题：我校举行2016年新团员入团仪式&#xD;点击数：133&#xD;发表时间：2016年10月06日"><font style=";">我校举行2016年新团员入团仪式</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5652.html" target="_self" title="标题：爱心接力，温暖一冬——2016温暖1+衣冬衣募捐活动火热进行&#xD;点击数：145&#xD;发表时间：2016年09月30日"><font style=";">爱心接力，温暖一冬——2016温暖1+衣冬衣募捐活动火热进行</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5651.html" target="_self" title="标题：“虞金龙名师工作室”青岛崂山千里行&#xD;点击数：1075&#xD;发表时间：2016年09月30日"><font style=";">“虞金龙名师工作室”青岛崂山千里行</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5649.html" target="_self" title="标题：德国师生访学记&#xD;点击数：271&#xD;发表时间：2016年09月30日"><font style=";">德国师生访学记</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5641.html" target="_self" title="标题：同课异构展风采&amp;nbsp;教育追梦叙新篇&#xD;点击数：155&#xD;发表时间：2016年09月30日"><font style=";">同课异构展风采 教育追梦叙新篇</font></a></li><li class="split"></li><li><span class="date">2016-09-29</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5632.html" target="_self" title="标题：绍兴三区选考（学考）适应性考试情况分析会在我校举行&#xD;点击数：240&#xD;发表时间：2016年09月29日"><font style=";">绍兴三区选考（学考）适应性考试情况分析会在我校举行</font></a></li><li><span class="date">2016-09-28</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5629.html" target="_self" title="标题：2016年绍兴市直中学阳光体育运动会乒乓球比赛圆满落幕&#xD;点击数：141&#xD;发表时间：2016年09月28日"><font style=";">2016年绍兴市直中学阳光体育运动会乒乓球比赛圆满落幕</font></a></li><li><span class="date">2016-09-27</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5616.html" target="_self" title="标题：湖北省仙桃市、天门市、潜江市教育考察团来校考察交流&#xD;点击数：98&#xD;发表时间：2016年09月27日"><font style=";">湖北省仙桃市、天门市、潜江市教育考察团来校考察交流</font></a></li><li><span class="date">2016-09-26</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5607.html" target="_self" title="标题：师徒结对，携手共进，共谱成长新篇章&#xD;点击数：151&#xD;发表时间：2016年09月26日"><font style=";">师徒结对，携手共进，共谱成长新篇章</font></a></li><li><span class="date">2016-09-23</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5596.html" target="_self" title="标题：我校学生代表浙江省参加全国青少年网络安全知识竞赛获佳绩&#xD;点击数：119&#xD;发表时间：2016年09月23日"><font style=";">我校学生代表浙江省参加全国青少年网络安全知识竞赛获佳绩</font></a></li><li class="split"></li><li><span class="date">2016-09-22</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5579.html" target="_self" title="标题：省专家组来我校调研新考改教学安排情况&#xD;点击数：103&#xD;发表时间：2016年09月22日"><font style=";">省专家组来我校调研新考改教学安排情况</font></a></li><li><span class="date">2016-09-22</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5578.html" target="_self" title="标题：杭师大、文理学院实习生来我校实习&#xD;点击数：123&#xD;发表时间：2016年09月22日"><font style=";">杭师大、文理学院实习生来我校实习</font></a></li><li><span class="date">2016-09-22</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5577.html" target="_self" title="标题：绍兴一中“我们的节日&amp;#8226;中秋节”主题活动报告&#xD;点击数：104&#xD;发表时间：2016年09月22日"><font style=";">绍兴一中“我们的节日&amp;#8226;中秋节”主题活动报告</font></a></li><li><span class="date">2016-09-20</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5552.html" target="_self" title="标题：贺晓敏局长一行来校检查、指导新学期开学工作&#xD;点击数：2058&#xD;发表时间：2016年09月20日"><font style=";">贺晓敏局长一行来校检查、指导新学期开学工作</font></a></li><li><span class="date">2016-09-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5507.html" target="_self" title="标题：我校学生在浙江省“我爱诵诗文”第十届青少年中华经典诗文诵读大赛中荣获佳绩&#xD;点击数：171&#xD;发表时间：2016年09月12日"><font style=";">我校学生在浙江省“我爱诵诗文”第十届青少年中华经典诗文诵读大赛中荣获佳绩</font></a></li><li class="split"></li><li><span class="date">2016-09-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5504.html" target="_self" title="标题：最美莫过夕阳红——我校举行2016离退休教工茶话会&#xD;点击数：143&#xD;发表时间：2016年09月12日"><font style=";">最美莫过夕阳红——我校举行2016离退休教工茶话会</font></a></li><li><span class="date">2016-09-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5487.html" target="_self" title="标题：我校多位教师获得市直及以上各种先进或荣誉&#xD;点击数：246&#xD;发表时间：2016年09月10日"><font style=";">我校多位教师获得市直及以上各种先进或荣誉</font></a></li><li><span class="date">2016-09-09</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5481.html" target="_self" title="标题：我校学生将代表市直参加浙江省“我爱诵诗文”中华经典诗文诵读大赛决赛&#xD;点击数：159&#xD;发表时间：2016年09月09日"><font style=";">我校学生将代表市直参加浙江省“我爱诵诗文”中华经典诗文诵读大赛决赛</font></a></li><li><span class="date">2016-09-09</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5480.html" target="_self" title="标题：我校学生作品在“2016年绍兴市中小学生艺术节”中获奖&#xD;点击数：160&#xD;发表时间：2016年09月09日"><font style=";">我校学生作品在“2016年绍兴市中小学生艺术节”中获奖</font></a></li><li><span class="date">2016-09-09</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5479.html" target="_self" title="标题：从这里，走向诗和远方&#xD;点击数：144&#xD;发表时间：2016年09月09日"><font style=";">从这里，走向诗和远方</font></a></li><li class="split"></li><li><span class="date">2016-09-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5469.html" target="_self" title="标题：历史的回响——绍兴一中《重走来时路》纪录片&#xD;点击数：126&#xD;发表时间：2016年09月08日"><font style=";">历史的回响——绍兴一中《重走来时路》纪录片</font></a></li><li><span class="date">2016-08-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5449.html" target="_self" title="标题：我校学生在第二十五届全国中学生生物竞赛国赛中斩获金牌&#xD;点击数：164&#xD;发表时间：2016年08月30日"><font style=";">我校学生在第二十五届全国中学生生物竞赛国赛中斩获金牌</font></a></li><li><span class="date">2016-08-19</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5448.html" target="_self" title="标题：10枚信息学奥赛国际金牌，绍兴一中学子独占4枚&#xD;点击数：118&#xD;发表时间：2016年08月19日"><font style=";">10枚信息学奥赛国际金牌，绍兴一中学子独占4枚</font></a></li><li><span class="date">2016-08-17</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5431.html" target="_self" title="标题：我校暑期海外交流访学记（二）&#xD;点击数：214&#xD;发表时间：2016年08月17日"><font style=";">我校暑期海外交流访学记（二）</font></a></li><li><span class="date">2016-08-16</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5428.html" target="_self" title="标题：情系母校&amp;nbsp;传递爱心&#xD;点击数：150&#xD;发表时间：2016年08月16日"><font style=";">情系母校 传递爱心</font></a></li><li class="split"></li><li><span class="date">2016-08-16</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5427.html" target="_self" title="标题：我校原高二六班获绍兴市级先进班集体&#xD;点击数：181&#xD;发表时间：2016年08月16日"><font style=";">我校原高二六班获绍兴市级先进班集体</font></a></li><li><span class="date">2016-08-15</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5421.html" target="_self" title="标题：重走来时路（第五季）——拜会抗日流亡办学时期沈金相校长之女沈玉如老人。&#xD;点击数：65&#xD;发表时间：2016年08月15日"><font style=";">重走来时路（第五季）——拜会抗日流亡办学时期沈金相校长之女沈玉如老人。</font></a></li><li><span class="date">2016-08-15</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5420.html" target="_self" title="标题：我校暑期海外交流访学记（一）&#xD;点击数：138&#xD;发表时间：2016年08月15日"><font style=";">我校暑期海外交流访学记（一）</font></a></li><li><span class="date">2016-08-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5414.html" target="_self" title="标题：重走来时路（第四季）——朱雯校长等一行拜访我校施伯侯校长之女、杜亚泉老师之媳施亚西老人&#xD;点击数：115&#xD;发表时间：2016年08月12日"><font style=";">重走来时路（第四季）——朱雯校长等一行拜访我校施伯侯校长之女、杜亚泉老师之媳施亚西老人</font></a></li><li><span class="date">2016-08-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5413.html" target="_self" title="标题：我校举行2016年新进教师欢迎仪式&#xD;点击数：124&#xD;发表时间：2016年08月12日"><font style=";">我校举行2016年新进教师欢迎仪式</font></a></li><li class="split"></li><li><span class="date">2016-08-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5409.html" target="_self" title="标题：用生花妙笔结缘名校&#xD;点击数：166&#xD;发表时间：2016年08月10日"><font style=";">用生花妙笔结缘名校</font></a></li><li><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5406.html" target="_self" title="标题：放飞激扬青春，共逐蓝色梦想&#xD;点击数：113&#xD;发表时间：2016年08月08日"><font style=";">放飞激扬青春，共逐蓝色梦想</font></a></li><li><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5405.html" target="_self" title="标题：我校陈合力老师被评为“绍兴市优秀科技工作者”&#xD;点击数：46&#xD;发表时间：2016年08月08日"><font style=";">我校陈合力老师被评为“绍兴市优秀科技工作者”</font></a></li><li><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5404.html" target="_self" title="标题：“求真实验室”利用暑假开展实验活动&#xD;点击数：101&#xD;发表时间：2016年08月08日"><font style=";">“求真实验室”利用暑假开展实验活动</font></a></li><li class="last"><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5403.html" target="_self" title="标题：我校学生在“浙江省首届青少年模拟政协活动”中荣获多项大奖&#xD;点击数：95&#xD;发表时间：2016年08月08日"><font style=";">我校学生在“浙江省首届青少年模拟政协活动”中荣获多项大奖</font></a></li>
+            <li class="first"><span class="date">2016-10-06</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5668.aspx" target="_self" title="标题：我校举行2016年新团员入团仪式&#xD;点击数：133&#xD;发表时间：2016年10月06日"><font style=";">我校举行2016年新团员入团仪式</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5652.aspx" target="_self" title="标题：爱心接力，温暖一冬——2016温暖1+衣冬衣募捐活动火热进行&#xD;点击数：145&#xD;发表时间：2016年09月30日"><font style=";">爱心接力，温暖一冬——2016温暖1+衣冬衣募捐活动火热进行</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5651.aspx" target="_self" title="标题：“虞金龙名师工作室”青岛崂山千里行&#xD;点击数：1075&#xD;发表时间：2016年09月30日"><font style=";">“虞金龙名师工作室”青岛崂山千里行</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5649.aspx" target="_self" title="标题：德国师生访学记&#xD;点击数：271&#xD;发表时间：2016年09月30日"><font style=";">德国师生访学记</font></a></li><li><span class="date">2016-09-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5641.aspx" target="_self" title="标题：同课异构展风采&amp;nbsp;教育追梦叙新篇&#xD;点击数：155&#xD;发表时间：2016年09月30日"><font style=";">同课异构展风采 教育追梦叙新篇</font></a></li><li class="split"></li><li><span class="date">2016-09-29</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5632.aspx" target="_self" title="标题：绍兴三区选考（学考）适应性考试情况分析会在我校举行&#xD;点击数：240&#xD;发表时间：2016年09月29日"><font style=";">绍兴三区选考（学考）适应性考试情况分析会在我校举行</font></a></li><li><span class="date">2016-09-28</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5629.aspx" target="_self" title="标题：2016年绍兴市直中学阳光体育运动会乒乓球比赛圆满落幕&#xD;点击数：141&#xD;发表时间：2016年09月28日"><font style=";">2016年绍兴市直中学阳光体育运动会乒乓球比赛圆满落幕</font></a></li><li><span class="date">2016-09-27</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5616.aspx" target="_self" title="标题：湖北省仙桃市、天门市、潜江市教育考察团来校考察交流&#xD;点击数：98&#xD;发表时间：2016年09月27日"><font style=";">湖北省仙桃市、天门市、潜江市教育考察团来校考察交流</font></a></li><li><span class="date">2016-09-26</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5607.aspx" target="_self" title="标题：师徒结对，携手共进，共谱成长新篇章&#xD;点击数：151&#xD;发表时间：2016年09月26日"><font style=";">师徒结对，携手共进，共谱成长新篇章</font></a></li><li><span class="date">2016-09-23</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5596.aspx" target="_self" title="标题：我校学生代表浙江省参加全国青少年网络安全知识竞赛获佳绩&#xD;点击数：119&#xD;发表时间：2016年09月23日"><font style=";">我校学生代表浙江省参加全国青少年网络安全知识竞赛获佳绩</font></a></li><li class="split"></li><li><span class="date">2016-09-22</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5579.aspx" target="_self" title="标题：省专家组来我校调研新考改教学安排情况&#xD;点击数：103&#xD;发表时间：2016年09月22日"><font style=";">省专家组来我校调研新考改教学安排情况</font></a></li><li><span class="date">2016-09-22</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5578.aspx" target="_self" title="标题：杭师大、文理学院实习生来我校实习&#xD;点击数：123&#xD;发表时间：2016年09月22日"><font style=";">杭师大、文理学院实习生来我校实习</font></a></li><li><span class="date">2016-09-22</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5577.aspx" target="_self" title="标题：绍兴一中“我们的节日&amp;#8226;中秋节”主题活动报告&#xD;点击数：104&#xD;发表时间：2016年09月22日"><font style=";">绍兴一中“我们的节日&amp;#8226;中秋节”主题活动报告</font></a></li><li><span class="date">2016-09-20</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5552.aspx" target="_self" title="标题：贺晓敏局长一行来校检查、指导新学期开学工作&#xD;点击数：2058&#xD;发表时间：2016年09月20日"><font style=";">贺晓敏局长一行来校检查、指导新学期开学工作</font></a></li><li><span class="date">2016-09-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5507.aspx" target="_self" title="标题：我校学生在浙江省“我爱诵诗文”第十届青少年中华经典诗文诵读大赛中荣获佳绩&#xD;点击数：171&#xD;发表时间：2016年09月12日"><font style=";">我校学生在浙江省“我爱诵诗文”第十届青少年中华经典诗文诵读大赛中荣获佳绩</font></a></li><li class="split"></li><li><span class="date">2016-09-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5504.aspx" target="_self" title="标题：最美莫过夕阳红——我校举行2016离退休教工茶话会&#xD;点击数：143&#xD;发表时间：2016年09月12日"><font style=";">最美莫过夕阳红——我校举行2016离退休教工茶话会</font></a></li><li><span class="date">2016-09-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5487.aspx" target="_self" title="标题：我校多位教师获得市直及以上各种先进或荣誉&#xD;点击数：246&#xD;发表时间：2016年09月10日"><font style=";">我校多位教师获得市直及以上各种先进或荣誉</font></a></li><li><span class="date">2016-09-09</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5481.aspx" target="_self" title="标题：我校学生将代表市直参加浙江省“我爱诵诗文”中华经典诗文诵读大赛决赛&#xD;点击数：159&#xD;发表时间：2016年09月09日"><font style=";">我校学生将代表市直参加浙江省“我爱诵诗文”中华经典诗文诵读大赛决赛</font></a></li><li><span class="date">2016-09-09</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5480.aspx" target="_self" title="标题：我校学生作品在“2016年绍兴市中小学生艺术节”中获奖&#xD;点击数：160&#xD;发表时间：2016年09月09日"><font style=";">我校学生作品在“2016年绍兴市中小学生艺术节”中获奖</font></a></li><li><span class="date">2016-09-09</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5479.aspx" target="_self" title="标题：从这里，走向诗和远方&#xD;点击数：144&#xD;发表时间：2016年09月09日"><font style=";">从这里，走向诗和远方</font></a></li><li class="split"></li><li><span class="date">2016-09-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5469.aspx" target="_self" title="标题：历史的回响——绍兴一中《重走来时路》纪录片&#xD;点击数：126&#xD;发表时间：2016年09月08日"><font style=";">历史的回响——绍兴一中《重走来时路》纪录片</font></a></li><li><span class="date">2016-08-30</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5449.aspx" target="_self" title="标题：我校学生在第二十五届全国中学生生物竞赛国赛中斩获金牌&#xD;点击数：164&#xD;发表时间：2016年08月30日"><font style=";">我校学生在第二十五届全国中学生生物竞赛国赛中斩获金牌</font></a></li><li><span class="date">2016-08-19</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5448.aspx" target="_self" title="标题：10枚信息学奥赛国际金牌，绍兴一中学子独占4枚&#xD;点击数：118&#xD;发表时间：2016年08月19日"><font style=";">10枚信息学奥赛国际金牌，绍兴一中学子独占4枚</font></a></li><li><span class="date">2016-08-17</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5431.aspx" target="_self" title="标题：我校暑期海外交流访学记（二）&#xD;点击数：214&#xD;发表时间：2016年08月17日"><font style=";">我校暑期海外交流访学记（二）</font></a></li><li><span class="date">2016-08-16</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5428.aspx" target="_self" title="标题：情系母校&amp;nbsp;传递爱心&#xD;点击数：150&#xD;发表时间：2016年08月16日"><font style=";">情系母校 传递爱心</font></a></li><li class="split"></li><li><span class="date">2016-08-16</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5427.aspx" target="_self" title="标题：我校原高二六班获绍兴市级先进班集体&#xD;点击数：181&#xD;发表时间：2016年08月16日"><font style=";">我校原高二六班获绍兴市级先进班集体</font></a></li><li><span class="date">2016-08-15</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5421.aspx" target="_self" title="标题：重走来时路（第五季）——拜会抗日流亡办学时期沈金相校长之女沈玉如老人。&#xD;点击数：65&#xD;发表时间：2016年08月15日"><font style=";">重走来时路（第五季）——拜会抗日流亡办学时期沈金相校长之女沈玉如老人。</font></a></li><li><span class="date">2016-08-15</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5420.aspx" target="_self" title="标题：我校暑期海外交流访学记（一）&#xD;点击数：138&#xD;发表时间：2016年08月15日"><font style=";">我校暑期海外交流访学记（一）</font></a></li><li><span class="date">2016-08-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5414.aspx" target="_self" title="标题：重走来时路（第四季）——朱雯校长等一行拜访我校施伯侯校长之女、杜亚泉老师之媳施亚西老人&#xD;点击数：115&#xD;发表时间：2016年08月12日"><font style=";">重走来时路（第四季）——朱雯校长等一行拜访我校施伯侯校长之女、杜亚泉老师之媳施亚西老人</font></a></li><li><span class="date">2016-08-12</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5413.aspx" target="_self" title="标题：我校举行2016年新进教师欢迎仪式&#xD;点击数：124&#xD;发表时间：2016年08月12日"><font style=";">我校举行2016年新进教师欢迎仪式</font></a></li><li class="split"></li><li><span class="date">2016-08-10</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5409.aspx" target="_self" title="标题：用生花妙笔结缘名校&#xD;点击数：166&#xD;发表时间：2016年08月10日"><font style=";">用生花妙笔结缘名校</font></a></li><li><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5406.aspx" target="_self" title="标题：放飞激扬青春，共逐蓝色梦想&#xD;点击数：113&#xD;发表时间：2016年08月08日"><font style=";">放飞激扬青春，共逐蓝色梦想</font></a></li><li><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5405.aspx" target="_self" title="标题：我校陈合力老师被评为“绍兴市优秀科技工作者”&#xD;点击数：46&#xD;发表时间：2016年08月08日"><font style=";">我校陈合力老师被评为“绍兴市优秀科技工作者”</font></a></li><li><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5404.aspx" target="_self" title="标题：“求真实验室”利用暑假开展实验活动&#xD;点击数：101&#xD;发表时间：2016年08月08日"><font style=";">“求真实验室”利用暑假开展实验活动</font></a></li><li class="last"><span class="date">2016-08-08</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/5403.aspx" target="_self" title="标题：我校学生在“浙江省首届青少年模拟政协活动”中荣获多项大奖&#xD;点击数：95&#xD;发表时间：2016年08月08日"><font style=";">我校学生在“浙江省首届青少年模拟政协活动”中荣获多项大奖</font></a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
@@ -455,15 +455,15 @@ function GetUserInfo1(response){
       <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.html">网站地图</a></li>
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.html">校长信箱</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.html">反馈意见</a></li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
       <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>

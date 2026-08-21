@@ -1,0 +1,494 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>春风不语花自开  ——绍兴市第一中学英语组荣获绍兴市“巾帼文明岗”称号--学校新闻-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Shaoxingyizhong/Category_38/Index.aspx">媒体一中</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23509.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）&#xD;点击数：7&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）</a><span class="dateRight">[08-19]</span></li><li><a href="/Shaoxingyizhong/Item/23508.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校&#xD;点击数：7&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校</a><span class="dateRight">[08-19]</span></li><li><a href="/Shaoxingyizhong/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Shaoxingyizhong/Item/23489.aspx" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团…</a><span class="dateRight">[07-08]</span></li><li><a href="/Shaoxingyizhong/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：52&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Shaoxingyizhong/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23464.aspx" target="_blank" title="标题：博雅育人 | 德育名师风采录（第九期）&#xD;点击数：119&#xD;发表时间：2026年07月02日">博雅育人 | 德育名师风采录（第九期）</a><span class="dateRight">[07-02]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Shaoxingyizhong/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+                    <h3>学校新闻</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">春风不语花自开  ——绍兴市第一中学英语组荣获绍兴市“巾帼文明岗”称号</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span>春风不语花自开  ——绍兴市第一中学英语组荣获绍兴市“巾帼文明岗”称号</span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2021年03月26日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=12994"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:12994},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=12994";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="font-family: 华文彩云;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
+</p><p style="font-family: 华文琥珀;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文琥珀;font-size: 18pt;margin: 0;padding: 0;"><strong>会稽山下，人间三月芳菲始；</strong></span></p><p style="font-family: 华文琥珀;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文琥珀;font-size: 18pt;margin: 0;padding: 0;"><strong>镜水湖畔，木兰花开满城香。</strong></span></p><p style="font-family: 华文彩云;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><img src="/Shaoxingyizhong/UploadFiles/xwzx/2021/3/202103262034071244.jpg" style="max-width: 100%; " title="202103262034071244.jpg" /></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.43in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">绍兴一中英语组是一支思想素质高、业务水平硬的巾帼队伍。目前全组共有教师29名，其中女性25名，占86.2%。在组里女教师中，</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">有浙江</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">省劳动模范1人，绍兴市专业技术拔尖人才1人，浙江省教坛新秀1人</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">正高级教师1人，市级学科带头人</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">3</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">人，</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">市属</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">教坛新秀</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">2</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">人。</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">他们不忘初心，勇立潮头，</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">用扎实的教学功底和师者特有的坚韧细腻，干在实处，走在前列，成为绍兴</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">一中展示教师风采的靓丽窗口。</span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="background: #FFFFFF;color: #FF0000;font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031104866.Jpeg" style="width: 5.425533in; height: 3.621901in" alt="202103262031105058.Jpeg" /></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="background: #FFFFFF;color: #000000;font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="background: #FFFFFF;color: #000000;font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 22pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="background: #FFFFFF;color: #000000;font-family: 华文琥珀;font-size: 22pt;margin: 0;padding: 0;"><strong>巾帼璀璨</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="background: #FFFFFF;color: #FF0000;font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031103040.Jpeg" style="width: 5.425974in; height: 3.861703in" alt="202103262031107008.Jpeg" /></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 'Cambria', 'serif';font-size: 11pt;margin: 0;padding: 0;"><strong>   </strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>教学督导、</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>浙江省劳动模范</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>、</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市专业技术拔尖人才</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong> 朱雯</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031105630.Jpeg" style="width: 6.10482in; height: 4.159575in" alt="202103262031105396.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>学科主任、绍兴市高中英语学科带头人 楼立青</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031104333.Jpeg" style="width: 5.829787in; height: 4.372642in" alt="202103262031101101.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>备课组长、</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>市</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>直</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>党员积极分子</strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong> </strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>邢秀英</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031109337.Jpeg" style="width: 5.671854in; height: 4.254184in" alt="202103262031103499.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>备课组长、市直家长满意教师 叶建映</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031101900.Jpeg" style="width: 3.638741in; height: 4.148936in" alt="202103262031100283.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>浙江省教坛新秀、绍兴市高中英语学科带头人 蔡红</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031101278.Jpeg" style="width: 3.870701in; height: 4.542552in" alt="202103262031109102.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市高中英语学科带头人 </strong></span><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>钱虹燕</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="background: #FFFFFF;color: #333333;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 华文行楷;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.64in;"><span style="background: yellow;font-family: 华文行楷;font-size: 18pt;margin: 0;padding: 0;"><strong>创岗口号</strong></span></p><p style="font-family: 华文行楷;font-size: 16pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.57in;"><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>怀抱爱生之心心存师德之风 秉持创新之志志守育人之业</strong></span></p><p style="font-family: 华文行楷;font-size: 16pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.57in;"><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>share </strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>love, bear morality, </strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>pursue</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong> innovation,</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong> </strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>uphold</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong> education</strong></span></p><p style="font-family: 华文行楷;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.64in;"><span style="background: yellow;font-family: 华文行楷;font-size: 18pt;margin: 0;padding: 0;"><strong>创岗公约</strong></span></p><p style="font-family: 华文行楷;font-size: 16pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.57in;"><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>无私奉献 循循善诱 勇于挑战 开拓创新 团结合作 追求卓越</strong></span></p><p style="font-family: 华文行楷;font-size: 16pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.56in;"><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>dedicat</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>ion</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>, </strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>patience</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>, challenge, pioneer,</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong> </strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>cooperat</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>ion</strong></span><span style="background: #FFFFFF;font-family: 华文行楷;font-size: 16pt;margin: 0;padding: 0;"><strong>, excellence</strong></span></p><p style="font-family: 华文楷体;font-size: 16pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.56in;"><span style="font-size: 16pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>党建引领</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>——不忘初心砥砺行</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">在学校党建工作的引领下，</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">英语组老师以“立德树人”为标准严格要求自己</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">牢固树立“四个意识”，坚定“四个自信”，自觉弘扬社会主义核心价值观和“四有”“四自”精神，</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">积极投身于学校组织的党建活动，使党建贯穿于志愿服务、红色研学、专业成长等学科组发展的始终。</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="background: #FFFFFF;color: #FF0000;font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031107423.Jpeg" style="width: 6.297479in; height: 4.72449in" alt="202103262031107572.Jpeg" /></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>立德树人</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>——</strong></span><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>柔肩</strong></span><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>勇于</strong></span><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>挑重担</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">英语组每一位女教师都是学校工作不可或缺的中流砥柱，90%以上老师都现任或曾任班主任工作，她们用女性特有的温柔全方位关爱学生。其中，楼立青、蔡红、叶建映、邢秀英、顾秀芳、杨晶晶、沈剑蕾、杨菊妃、高英、傅芳芳、傅红霞等10多位老师所带班级先后被评为绍兴市（直）级先进班集体或先进团支部。</span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031101412.Jpeg" style="width: 5.43592in; height: 4.904255in" alt="202103262031106658.Jpeg" /></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市先进班集体和市直先进团支部班主任 沈剑蕾</strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 14pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031108982.Jpeg" style="width: 6.415255in; height: 4.276615in" alt="202103262031100262.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市直学校先进班集体班主任 傅芳芳</strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 14pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031103120.Jpeg" style="width: 5.315698in; height: 3.987049in" alt="202103262031101022.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市直优秀班主任、“十佳家长满意班主任” 高英</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031105095.Jpeg" style="width: 5.161188in; height: 3.212766in" alt="202103262031107023.Jpeg" /></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市德育先进工作者 杨菊妃</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031103294.Jpeg" style="width: 3.305482in; height: 3.623205in" alt="202103262031109465.Jpeg" /></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市直学校先进团支部班主任 顾秀芳</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031106497.Jpeg" style="width: 4.26154in; height: 3.297872in" alt="202103262031100818.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市直学校先进团支部班主任 杨晶晶</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031101905.Jpeg" style="width: 5.872783in; height: 3.590819in" alt="202103262031106507.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市直学校先进团支部班主任 裘洪萍</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031102869.Jpeg" style="width: 5.307446in; height: 3.98086in" alt="202103262031103400.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>绍兴市直学校先进团支部班主任 傅红霞</strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>学科教</strong></span><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>学</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>——</strong></span><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>轻沙走马路无尘</strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.45in;"><span style="background: #FFFFFF;color: #000000;font-family: 华文楷体;font-size: 14pt;letter-spacing: 1pt;margin: 0;padding: 0;"><strong>引领课程</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">英语组创建了英美文化概况、英美文学作品赏读、英语思辨与写作课、小语种和英语社团等五大课程群。学科课程规划获绍兴市课程建设规划第一名。《高中英语美文赏析》、《高中英语修辞赏析与应用》、《</span><span style="font-family: 'Times New Roman', 'serif';font-size: 12pt;margin: 0;padding: 0;">Let’s Debate</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">》、</span><span style="font-family: Calibri;font-size: 12pt;margin: 0;padding: 0;">《生活中的英文翻译》、</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">《高中英语绘本阅读》和《赏英语歌曲学美国历史》被评为省、市精品选修课程和网络推荐课程。</span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031102389.Png" style="width: 6.685943in; height: 3.361702in" alt="202103262031103034.Png" /></span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031109343.Png" style="width: 5.891667in; height: 4.408333in" alt="202103262031100824.Png" /></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031119240.Jpeg" style="width: 5.083356in; height: 6.855172in" alt="202103262031110560.Jpeg" /></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.45in;"><span style="background: #FFFFFF;color: #000000;font-family: 华文楷体;font-size: 14pt;letter-spacing: 1pt;margin: 0;padding: 0;"><strong>立足课堂</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">英语组以打造“轻负高效”的课堂为教学理念，开展核心素养下的学科教学，追求常规课、展示课、优质课堂堂精彩。近年来，王晶晶、廖烨、沈剑蕾等获省级及以上“优课”，钱虹燕、王晶晶等获绍兴市优质课一等奖，傅芳芳、王玉宇、王维等获市直优质课一等奖。</span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031111911.Jpeg" style="width: 6.361138in; height: 4.771184in" alt="202103262031114119.Jpeg" /></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 'Cambria', 'serif';font-size: 11pt;margin: 0;padding: 0;"><strong>省级优质课二等奖和市级优质课一等奖 王晶晶</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031111543.Jpeg" style="width: 5.959989in; height: 4.470301in" alt="202103262031112255.Jpeg" /></strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 'Cambria', 'serif';font-size: 11pt;margin: 0;padding: 0;"><strong>部级"优课"廖烨</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031117550.Jpeg" style="width: 4.156516in; height: 3.122346in" alt="202103262031116163.Jpeg" /></strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 'Cambria', 'serif';font-size: 11pt;margin: 0;padding: 0;"><strong>市直优质课一等奖 王玉宇</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031111590.Jpeg" style="width: 4.814132in; height: 2.819149in" alt="202103262031110697.Jpeg" /></strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 'Cambria', 'serif';font-size: 11pt;margin: 0;padding: 0;"><strong>市直品质录像课一等奖 王维</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="background: #FFFFFF;color: #FF0000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.45in;"><span style="background: #FFFFFF;color: #000000;font-family: 华文楷体;font-size: 14pt;letter-spacing: 1pt;margin: 0;padding: 0;"><strong>研究课题</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">英语组以项目为载体，积极开展课题研究。其中，获得中国基础教育英语教学研究优秀成果评比一等奖一次，绍兴市教改项目成果评比一等奖三次，二等奖一次，三等奖一次。开展全国教育信息技术研究“十二五”规划重点课题一项，浙江省重点教研课题一项，多篇论文在各级刊物公开发表或获奖。</span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031112971.Png" style="width: 6.693056in; height: 4.078589in" alt="202103262031116291.Png" /></strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031118824.Png" style="width: 6.457526in; height: 5.12436in" alt="202103262031116026.Png" /></strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031115138.Png" style="width: 6.499188in; height: 6.967879in" alt="202103262031110338.Png" /></strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 华文琥珀;font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>学生活动</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>——</strong></span><span style="color: #FF0000;font-family: 华文琥珀;font-size: 12pt;margin: 0;padding: 0;"><strong>无边光景一时新</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">为开阔学生国际化视野，营造浸润式语言学习氛围，英语组以学生社团为载体，开展形式多样、内容丰富的英语活动，如走进“悦”读、外文影视配音大赛、 “抗疫”英语作品大赛、英语书写大赛、21世纪演讲比赛、英语戏剧表演等，为学生搭建了更好的展示英语才华的舞台。</span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031119406.Jpeg" style="width: 6.693056in; height: 4.461805in" alt="202103262031115084.Jpeg" /></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.39in;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>走进“悦”读</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031115307.Jpeg" style="width: 4.680851in; height: 4.680851in" alt="202103262031112498.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.39in;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>英语作品大赛</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031113811.Jpeg" style="width: 5.821592in; height: 4.366497in" alt="202103262031113466.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.39in;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>英语书写大赛</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031111144.Jpeg" style="width: 5.768181in; height: 3.85in" alt="202103262031114568.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.39in;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>21世纪演讲比赛</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong><img src="\UploadFiles\xwzx\2021\3\202103262031110221.Jpeg" style="width: 5.754584in; height: 3.836191in" alt="202103262031119151.Jpeg" /></strong></span></p><p style="font-family: 华文楷体;font-size: 14pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.39in;"><span style="font-family: 华文楷体;font-size: 14pt;margin: 0;padding: 0;"><strong>英语戏剧表演</strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 11pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 11pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">春风不语花自开。2018-2020年，英语组连续三年获教师基本功比武团体第一名。2020年，被评为“绍兴市优秀教研团队”。2021年，被评为“绍兴市巾帼文明岗”。在这片“21世纪英文报全国中小学生英语特色教学实验基地”、</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">“</span><span style="font-family: 'Cambria', 'serif';font-size: 12pt;margin: 0;padding: 0;">全国创新英语大赛人才培养基地”和“全国创新英语大赛优秀生源基地”里，他们扬帆逐梦，尽展芳华。</span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="/Shaoxingyizhong/UploadFiles/xwzx/2021/3/202103262036194403.jpg" style="max-width: 100%; " title="202103262036194403.jpg" /></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031114646.Jpeg" style="width: 6.693056in; height: 4.468056in" alt="202103262031112641.Jpeg" /></span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031118241.Jpeg" style="width: 6.693056in; height: 4.468056in" alt="202103262031119704.Jpeg" /></span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031117971.Jpeg" style="width: 6.693056in; height: 4.468056in" alt="202103262031119484.Jpeg" /></span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031114721.Jpeg" style="width: 6.693056in; height: 4.468056in" alt="202103262031112457.Jpeg" /></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2021\3\202103262031116392.Jpeg" style="width: 6.693056in; height: 4.468056in" alt="202103262031116955.Jpeg" /></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 华文琥珀;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文琥珀;font-size: 18pt;margin: 0;padding: 0;"><strong>山阴道上，铿锵玫瑰画锦绣；</strong></span></p><p style="font-family: 华文琥珀;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 华文琥珀;font-size: 18pt;margin: 0;padding: 0;"><strong>越王台下， 丹心碧血写春秋。</strong></span></p><p style="font-family: 华文琥珀;font-size: 18pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 18pt;margin: 0;padding: 0;"><strong> </strong></span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Cambria', 'serif';font-size: 12pt;line-height: 125.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/12912.aspx" target="_self" title="标题：精准分析思得失 群策群力谋提质  ——绍兴一中召开2020学年第二学期高二名校协作体考试成绩分析会&#xD;点击数：165&#xD;发表时间：21年03月16日">精准分析思得失 群策群力谋提质  ——绍兴一中召开2020学年第…</a>[ 03-16 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/12995.aspx" target="_self" title="标题：民进绍兴市第一中学支部举行换届选举大会&#xD;点击数：184&#xD;发表时间：21年03月26日">民进绍兴市第一中学支部举行换届选举大会</a>[ 03-26 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>
