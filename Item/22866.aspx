@@ -1,0 +1,497 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>每周一学（2026年3月16日-3月22日）以正确选人用人导向激励干部担当作为--学习专栏-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Shaoxingyizhong/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Shaoxingyizhong/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Shaoxingyizhong/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Shaoxingyizhong/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Shaoxingyizhong/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23163.aspx" target="_blank" title="标题：每周一学（2026年5月4日-5月10日）着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全&#xD;点击数：20&#xD;发表时间：2026年05月07日">每周一学（2026年5月4日-5月10日）着力提高防范应对自然…</a><span class="dateRight">[05-07]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    <a href="/Shaoxingyizhong/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Shaoxingyizhong/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+                    <h3>学习专栏</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">每周一学（2026年3月16日-3月22日）以正确选人用人导向激励干部担当作为</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年03月16日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22866"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:22866},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=22866";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="margin-bottom:0;text-align:center;line-height:36px"><span style="font-size:29px;font-family:方正小标宋简体">中央党的建设工作领导小组召开会议 研究部署树立和践行正确政绩观学习教育工作</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">选好人、用对人是头等大事。习近平总书记强调，贯彻落实好党中央重大决策部署，关键在人，要把真正忠诚可靠、表里如一、担当尽责的好干部用起来。2026年是中国共产党成立105周年，是“十五五”开局之年。鲜明树立选人用人正确导向，着力锻造堪当时代重任的领导班子和干部队伍，引导干部树立和践行正确政绩观，有效激发干部队伍内生动力和整体活力，是深入贯彻落实新时代党的建设总要求和新时代党的组织路线的内在要求，是贯彻新发展理念推动高质量发展、应对世界百年未有之大变局加速演进新挑战的现实需要，对坚持和加强党的全面领导，调动全党积极性主动性创造性，不断巩固党的长期执政地位、更好实现党的执政使命具有十分重要的意义。</span></p><p style="margin-bottom:0;text-align:center;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">一</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">党的十八大以来，习近平总书记高度重视以正确选人用人导向激励干部担当作为，将选好人、用对人放在管党治党、治国理政的突出位置来抓，作出一系列重要论述，为以正确选人用人导向引领干部干事创业提供了根本遵循。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">深刻阐明了以正确选人用人导向激励干部担当作为的重大意义。习近平总书记强调，用人导向最重要、最根本、也最管用，对干部最大的激励是正确用人导向。用好一个人能激励一大片，用一贤人则群贤毕至，见贤思齐就蔚然成风。选什么人就是风向标，就有什么样的干部作风，乃至就有什么样的党风。要把树立正确选人用人导向作为重要着力点，对敢于负责、勇于担当、善于作为、实绩突出的干部，及时大胆用起来，营造积极健康、干事创业的政治生态和良好环境。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">深刻阐明了正确选人用人导向的内涵标准。在2013年的全国组织工作会议上，习近平总书记鲜明提出“信念坚定、为民服务、勤政务实、敢于担当、清正廉洁”的新时代好干部标准，此后又在不同场合提出“三严三实”、“四有”、“四个铁一般”、“五个自觉”、“五个过硬”等具体要求。强调要在选人用人上体现讲担当、重担当的鲜明导向，把敢不敢扛事、愿不愿做事、能不能干事作为识别干部、评判优劣、奖惩升降的重要标准，把干部干了什么事、干了多少事、干的事组织和群众认不认可作为选拔干部的根本依据。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">深刻阐明了以正确选人用人导向引领干部干事创业的方法路径。习近平总书记强调，要坚持事业需要什么样的人就选什么样的人，岗位缺什么样的人就配什么样的人，不能论资排辈、平衡照顾，正确把握事业发展需要和干部成长进步的关系，把合适的干部放到合适的岗位上。要坚持全面、历史、辩证看干部，注重一贯表现和全部工作，既看发展又看基础，既看显绩又看潜绩。要建立日常考核、分类考核、近距离考核的知事识人体系，强化分类考核，近距离接触干部，使选出来的干部组织放心、群众满意、干部服气。要完善差异化考核评价体系，引导干部树立和践行正确政绩观，推动干部能上能下、能进能出，形成能者上、优者奖、庸者下、劣者汰的良好局面。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">深刻阐明了以正确选人用人导向激励干部担当作为的纪律要求。习近平总书记强调，端正用人导向是严肃党内政治生活的治本之策。用错一个人特别是用错关键岗位的领导人，对一个地方、一个单位产生的负面影响是很大的。要坚持把纪律和规矩挺在前面，匡正用人导向，净化用人风气，坚决整治选人用人上的不正之风，使用人风气更加清朗，坚决纠正“劣币驱逐良币”的逆淘汰现象，以用人环境的风清气正促进政治生态的山清水秀。</span></p><p style="margin-bottom:0;text-align:center;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">二</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">以什么样的标准选人，选什么样的人，历来是干部工作的首要问题。党的十八大以来，各级党委（党组）及其组织人事部门坚持以习近平新时代中国特色社会主义思想为指导，深入学习领会习近平总书记相关重要论述，紧紧围绕坚持党的领导、加强党的建设、推进党的事业，深入贯彻新时代党的组织路线，坚持党管干部原则，以正确用人导向引领干事创业导向，引导广大干部在推进中国式现代化的生动实践中敢于担当、积极作为。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">突出政治把关，始终将政治标准贯穿到干部选拔任用的全过程各方面。在干部干好工作所需的各种能力中，政治能力是第一位的。选拔任用干部，首先要看干部政治上清醒不清醒、坚定不坚定。党的十八大以来，党中央先后两次修订《党政领导干部选拔任用工作条例》，制定3轮全国党政领导班子建设规划纲要，都坚持把政治标准放在首位。特别是2019年修订的条例把政治标准这一导向更加鲜明地制度化、具体化，在人选的标准条件上突出政治要求，在考察识别上突出政治素质，在审核把关上将“违反政治纪律和政治规矩”作为不得列为考察对象的第一种情形。各级党委（党组）及其组织人事部门把政治素质考察作为干部工作的重中之重，加强对干部政治忠诚、政治定力、政治担当、政治能力、政治自律的考察识别。用好政治素质考察清单，探索正反向测评、建立干部政治素质档案等方式，加强日常了解，深入调研谈话，注重考察干部在重大斗争、关键时刻的政治表现，强化分析研判，使政治素质考察具体起来、鲜活起来、落得下来。加强政治监督，开展政治体检，把伪忠诚、假忠诚的两面人及时辨别出来、清除出去。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">突出实践锻炼，让干部在急难险重一线历练成长。干部干部，要干字当头，敢于担当作为既是政治品格也是从政本分。2018年中央办公厅印发《关于进一步激励广大干部新时代新担当新作为的意见》，2019年中央组织部印发《关于进一步激励干部担当作为有关具体措施的通知》，强调干部工作要突出实践实干实效。各级党委（党组）及其组织人事部门坚持理论培训与实践锻炼并重，有组织、有计划地加强对干部资源的调配，把优秀干部放到改革发展稳定主战场、重大任务重大斗争最前沿、联系服务群众第一线任职挂职、援派帮扶，放到艰苦复杂地方、关键吃劲岗位磨炼。广大干部在推动供给侧结构性改革、应对中美贸易摩擦、建设现代化产业体系、全面推进乡村振兴、推进科技自立自强等急难险重任务中经风雨、见世面、壮筋骨、长才干，在真刀真枪的考验中练就了担当作为的硬脊梁、铁肩膀、真本事。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">突出实绩导向，通过科学考核激发干部干劲动力。干部考核是干部管理的基础性工作。党的十八大以来，我们党把贯彻落实习近平总书记重要指示批示精神和党中央决策部署，贯彻新发展理念、推动高质量发展的实际表现和工作实绩，作为评价领导班子和领导干部政绩的基本依据。2019年中央办公厅印发《党政领导干部考核工作条例》，把解决发展不平衡不充分问题、满足人民日益增长的美好生活需要的情况和实际成效作为考核领导班子工作实绩的重要内容。2020年中央组织部印发《关于改进推动高质量发展的政绩考核的通知》，把人民群众的获得感、幸福感、安全感作为评判领导干部推动高质量发展政绩的重要标准。各级党委（党组）及其组织人事部门对照党中央要求，坚决纠正唯票、唯分、唯GDP、唯年龄取人等偏向，让那些想干事、能干事、干成事的干部有机会、有舞台。按照精细化差异化要求，体现不同区域、不同部门、不同类型、不同层次领导班子和领导干部特点，实行分级分类考核，切实把干部考准考实，把考核结果用好用活，充分发挥了干部考核在推动干部攻坚克难中的指挥棒、风向标、助推器作用。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">突出管理监督，以严格要求、奖优惩劣激励干部争先创优。好干部是选出来的，更是管出来的。严管就是厚爱，是对干部真正负责。党的十八大以来，我们党把党要管党、全面从严治党方针贯彻到干部队伍建设中，进一步严肃政治纪律和组织纪律，匡正用人风气，通过不断完善中国特色领导干部个人有关事项报告制度，集中规范领导干部配偶、子女及其配偶经商办企业行为，针对超职数配备干部、“裸官”、违规因私出国（境）、违规兼职、档案造假等“老大难”问题，开展专项整治、集中攻坚，并转入常态化管理，防范和整治政商“旋转门”、“逃逸式辞职”等问题，严格执行“凡提四必”，深化选人用人监督检查和巡视审计整改等多项举措，不断扎紧织密管权治吏的笼子。同时，积极开展新时代新担当新作为先进典型选树宣传工作，对在推动高质量发展中有作为、有成绩、有贡献的领导班子和领导干部，按照有关规定嘉奖、记功、授予称号，给予物质奖励。考核优秀、政绩突出的领导干部，同等条件下注意优先使用或优先晋升职级，有力推动了广大干部特别是领导干部履职尽责、担当作为。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">突出组织担当，为敢担当、善作为的干部撑腰鼓劲。干部越为事业担当，组织越要为干部担当；组织越担当，干部就越有底气。以中国式现代化全面推进强国建设、民族复兴伟业，必然会触及许多深层次利益矛盾，必然会触碰一些问题、面临一些风险。正因为有风险，才需要担当，也更加需要组织当好坚强后盾，解除干部的后顾之忧。党的十八大以来，各级党委（党组）及其组织人事部门健全干部担当作为的激励和保护机制，旗帜鲜明为敢于担当的干部撑腰鼓劲，支持和保护干部干事创业的积极性，精准科学实施函询、问责，严肃查处诬告陷害行为，及时为受到不实反映的干部澄清正名，鼓励引导广大干部敢闯敢拼、善作善成。</span></p><p style="margin-bottom:0;text-align:center;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">三</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">党的二十届四中全会科学擘画了“十五五”时期经济社会发展的宏伟蓝图，是乘势而上、接续推进中国式现代化建设的又一次总动员、总部署。落实“十五五”时期目标任务，需要广大干部挺膺担当、奋勇争先。要以更高标准、更实举措、更大力度树立正确选人用人导向，引导激励干部树立和践行正确政绩观，汇聚起克难关、战风险、迎挑战的磅礴力量。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">第一，强化政治引领。政治标准是硬杠杠。习近平总书记强调，我们党对干部的要求，首先是政治上的要求。我们选用的干部必须是政治上过得硬、靠得住的干部。要坚持和加强党中央集中统一领导，完善党中央重大决策部署落实机制，推动全党更加深刻领悟“两个确立”的决定性意义，坚决做到“两个维护”。坚持不懈用习近平新时代中国特色社会主义思想凝心铸魂、固本培元，完善落实“第一议题”、党委（党组）理论学习中心组学习等制度，深入实施习近平新时代中国特色社会主义思想教育培训计划，健全常态化培训特别是基本培训机制，遵循干部成长规律和教育培训规律，分级分类施策，不断提高理论武装的针对性、实效性。持续抓好党的二十届四中全会精神学习培训，引导和推动广大干部坚持学用结合、学以致用，把学习成果转化为经济社会高质量发展成效。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">第二，精准科学选配。用干部是为了干好事业。习近平总书记强调，要围绕事业发展需要配班子用干部，坚持事业为上，以事择人、人岗相适。从今年开始，省市县乡领导班子将陆续进行换届。要以换届为契机选优配强各级领导班子。坚持党管干部原则，落实新时代好干部标准，坚持德才兼备、以德为先、五湖四海、任人唯贤，大力选拔任用政治过硬、敢于担当、锐意改革、实绩突出、清正廉洁的优秀干部。着眼事业需要，着力优化班子结构、增强整体功能，精准科学选人用人。突出基层和实践导向，精准选配专业素养好、学习适应能力强的干部，好中选优、优中选强。做深做实干部政治素质考察，加强党性鉴别，注重考察干部的境界格局和忠诚度廉洁度，增强识人察人的洞察力、穿透力、鉴别力。健全培养选拔优秀年轻干部常态化工作机制，坚持老中青梯次配备，充分考虑人选成熟度和岗位匹配度，统筹做好女干部、少数民族干部和党外干部培养选拔工作。严明组织人事纪律，加强选人用人监督，深化选人用人专项检查，始终保持零容忍的高压态势，以坚决果断措施匡正用人风气。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">第三，优化政绩考核。政绩观问题是一个根本性问题，关乎立党为公、执政为民。习近平总书记指出，“‘十五五’已经开局起步，各级领导班子热情高、干劲足，这是好的，关键是政绩观一定要对头”。要深入开展树立和践行正确政绩观学习教育，全面贯彻习近平总书记关于树立和践行正确政绩观的重要论述，以立党为公、为民造福、科学决策、真抓实干为总要求，以一体推进学查改为抓手，教育引导各级党组织和党员、干部坚持实事求是、求真务实，为人民出政绩、以实干出政绩，有效防范和纠治政绩观偏差，坚决有力贯彻落实党中央重大决策部署，创造经得起实践、人民、历史检验的实绩。要完善推动高质量发展的政绩考核评价办法，切实解决干与不干、干多干少、干好干坏一个样的问题，让埋头苦干、真抓实干的干部真正得到重用、充分施展才华，让作风飘浮、哗众取宠的干部无以表功、受到贬责。推动各级领导班子认真践行正确政绩观，增强本领、担当作为、争创佳绩。优化考核内容，精准设置关键性、引领性指标，把民生改善、社会进步、生态效益等指标和实绩作为重要考核内容。改进考核方式，区分不同岗位职责，区分集体贡献和个人努力，对干部业绩作出全面客观评价。扩大群众参与，多到现场看、多见具体事、多听群众说，深入了解群众的真实评价。有效甄别统计造假、“数字政绩”，督促引导领导干部完整准确全面贯彻新发展理念，践行以人民为中心的发展思想。严格落实保持任职稳定的有关制度规定，指导做好党政正职变动交接工作，引导领导干部一任接着一任干，一张蓝图绘到底。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">第四，推动能上能下。当前干部队伍精神状态总体是好的，但也存在一些干部不愿担当、不敢担当、不会担当的问题。习近平总书记指出，要把忠诚干净担当的干部使用起来，把不作为、乱作为的干部调整下去，推动干部能上能下，让那些想干事、肯干事、能干成事的干部有更好用武之地。要严格执行推进领导干部能上能下规定，经常分析研判班子运行情况和干部履职表现，及时发现和坚决调整不胜任现职干部。坚持原则、动真碰硬、敢抓敢管，对那些脱离实际急躁冒进、层层加码、乱铺摊子的，对那些违反民主集中制原则，拍脑袋决策、拍胸脯表态、拍屁股走人的“三拍”干部，要及时调整、严肃处理，该“下”的坚决“下”。加强干部“下”后的教育管理，准确把握有关政策规定，综合考虑问责情形、受处理处分情况和本人表现等，对影响期满、表现好且符合规定条件的合理使用，推进领导干部能上能下常态化。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">第五，坚持严管厚爱。全面从严治党和鼓励担当作为是内在统一的，不是彼此对立的。严并不是要把大家管死，而是要通过明方向、立规矩、正风气、强免疫，营造有利于干事创业的良好环境。习近平总书记强调，组织上培养干部不容易，要管理好、监督好，让他们始终有如履薄冰、如临深渊的警觉。要全面落实加强新时代组织部门干部监督工作的意见，以政治监督为统领，强化干部日常管理监督的穿透力和有效性，不断前移监督关口、完善监督链条，把严的要求体现到干部管理各方面各环节。加强关心关爱和激励引导，真情关爱干部，帮助解决实际问题，让广大干部安心、安身、安业。对基层干部特别是艰苦边远地区干部，要给予更多理解和支持，在政策、待遇等方面予以倾斜。积极稳妥推进干部澄清正名工作，及时查核不实举报，严肃查处诬告陷害、打击报复等行为，保护干部积极性。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">风正好扬帆，奋楫向前行。当前，我国进入基本实现社会主义现代化夯实基础、全面发力的关键时期。我们要始终坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻习近平总书记关于党的建设的重要思想、关于党的自我革命的重要思想，选出好干部、配出好班子、树立好导向、涵养好生态，着力锻造一支政治过硬、适应新时代要求、具备领导现代化建设能力的干部队伍，为推进强国建设、民族复兴伟业提供坚强组织保证。</span></p><p style="margin-bottom:0;text-align:right;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family: 仿宋_GB2312">（来源：求是）</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22816.aspx" target="_self" title="标题：每周一学（2026年3月9日-3月15日）研究部署树立和践行正确政绩观学习教育工作&#xD;点击数：17&#xD;发表时间：26年03月09日">每周一学（2026年3月9日-3月15日）研究部署树立和践行正确政绩…</a>[ 03-09 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/22904.aspx" target="_self" title="标题：每周一学（2026年3月23日-3月29日）中办印发《通知》在全党开展树立和践行正确政绩观学习教育&#xD;点击数：17&#xD;发表时间：26年03月23日">每周一学（2026年3月23日-3月29日）中办印发《通知》在全党开…</a>[ 03-23 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

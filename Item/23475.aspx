@@ -1,0 +1,501 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守--学校新闻-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Shaoxingyizhong/Category_38/Index.aspx">媒体一中</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：49&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Shaoxingyizhong/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Shaoxingyizhong/Item/23489.aspx" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团…</a><span class="dateRight">[07-08]</span></li><li><a href="/Shaoxingyizhong/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Shaoxingyizhong/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：163&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li><li><a href="/Shaoxingyizhong/Item/23383.aspx" target="_blank" title="标题：与心相逢，向阳生长｜我校举行心理健康月系列活动&#xD;点击数：86&#xD;发表时间：2026年06月15日">与心相逢，向阳生长｜我校举行心理健康月系列活动</a><span class="dateRight">[06-15]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23043.aspx" target="_blank" title="标题：夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷&#xD;点击数：76&#xD;发表时间：2026年04月15日">夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷</a><span class="dateRight">[04-15]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Shaoxingyizhong/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+                    <h3>学校新闻</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年07月03日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=23475"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23475},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23475";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">编者按：1980届校友王卫列先生设立“绍兴一中育人楷模奖”，专项助力学校教育质量提升与班主任队伍建设。学校依托该奖项，表彰深耕德育、实绩突出的优秀班主任。为此，学校特推出“德育楷模风采录”系列推送，聚焦教师育人故事、带班智慧与教育初心。本期，让我们走近施笑程老师。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">踏霜踩露而出，披星戴月而归</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">二十余载从教岁月，施笑程老师始终扎根教学一线、深耕德育沃土。日复一日的备课授课、伏案批改，一次次的谈心引路、家校沟通，串联起她平凡却滚烫的教育时光。她没有轰轰烈烈的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">事迹</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，唯有持之以恒的坚守；没有空洞浮华的说教，唯有润物无声的关爱。她用漫长岁月诠释着一名德育工作者的责任与温度。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>师者风采</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">
+</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-size: 12pt; text-indent: 0.33in; background: rgb(255, 255, 255); color: rgb(51, 51, 51); margin: 0px; padding: 0px;">施笑程，</span><span style="font-size: 12pt; text-indent: 0.33in; background: rgb(255, 255, 255); color: rgb(51, 51, 51); margin: 0px; padding: 0px;">中共党员，中学高级教师，毕业于浙江师范大学化学教育专业，她曾获市“家庭事业兼顾型”先进个人，市直先进工作者，所带班级获市直先进集体等荣誉。教学上也屡获佳绩——市直优质课一等奖，撰写论文入选全国核心期刊，指导学生参加全国化学竞赛，获浙江赛区优秀园丁奖。</span><span style="font-size: 12pt; text-indent: 0.33in; color: rgb(51, 51, 51); margin: 0px; padding: 0px;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>以爱容错伴成长</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在施笑程老师的德育理念里，教育是包容与治愈，而非苛责与桎梏。她尊重青春期学生的敏感与叛逆，愿意给学生试错的空间，用耐心、包容与鼓励，引导学生正视不足、突破自我。面对深陷成长困境的学生，她始终温柔坚守，用真情化解迷茫，用陪伴静待蜕变。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">曾有一名住校学生，因家庭亲子关系失和，长期内心压抑进而沉迷网络，甚至深夜翻墙外出上网，荒废学业。面对学生的叛逆与沉沦，施老师没有一味批评指责，而是双向发力破解困局。她多次主动上门沟通，化身家庭调解员，耐心疏导家长情绪、调和家庭矛盾，为学生修复温暖的家庭环境；同时和学生常态化谈心交流，帮他理解父母的不易、正视自身问题，重新树立学习与生活的信心。在她的长久陪伴与正向引导下，该学生彻底戒除网瘾、端正学风，最终顺利考入江南大学。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;">
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">对于家境困顿的学生，施老师更是常怀悲悯、暖心护航，用细碎善意点亮学子前路。她曾帮扶一名特殊学生，该生父亲早逝，仅靠母亲打零工维持生计，生活艰难。为减轻学生家庭负担，施老师主动为其</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">向</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学校申请学费减免，缓解家庭经济压力；平日里更是时常自掏腰包，购置水果零食上门探望，悉心关怀学生的生活起居与心理状态，帮她重塑信心，勇敢直面生活风雨。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">师恩灼灼，岁岁不忘。在施老师的悉心培育下，这名学生如今已深耕科研领域，于德国环境科学博士后流动站</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">工作</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。纵使远赴山海，她始终铭记师恩，每至教师节，都会准时送上祝福，感念老师当年的温暖托举与悉心</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">关怀</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>管理“</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>三</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>宝”</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>筑班风</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>1.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>班级日志与半月谈</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">接手新班级后，施老师会打造两项特色育人载体：轮流书写的班级日志与定期开展的班级半月谈。班级日志并非刻板的值日记录，而是学生倾诉心事、释放压力、分享日常的心灵树洞。半月谈则让学生自由记录成长感悟、同窗暖意、所思所想。施老师会逐篇认真翻阅、用心回复，以文字为媒，实现双向真诚沟通，读懂每一位学生的内心世界。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;">
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>2.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>默默守护</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>，</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>精准疏导</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">高中学生</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学业压力繁重，极易出现情绪波动、心态失衡等问题。面对学生的成长焦虑与心理困境，施老师坚持共情式教育与科学化引导。她从不单方面追责学生，而是主动联动家长，客观分析问题根源，引导家长重视家庭教育的力量，家校同心疏导学生心结、化解成长难题。 </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;">
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>3.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>有温度有底线的陪伴</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">“有温度、有底线”，是施笑程老师一贯的带班</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">理念</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。她温柔待人、暖心育人，体测过后的清甜西瓜、日常细碎的温柔叮嘱，皆是教育的温情；她严而有爱、守正有度，当学生触碰原则底线时，及时严肃指正、耐心教诲，帮学生树立规则意识。</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">她用有</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">温度</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">有</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">底线</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">陪伴</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">让学生在包容与规矩中稳步前行。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>声声感念映初心</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">多年的真诚陪伴，化作家长与学生心底最真切的感动，一条条发自肺腑的留言，是对施老师育人初心最动人的认可。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;">
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">结束语：</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">教育的本质，是唤醒与成全。施笑程老师始终坚信，德育从不是塑造完美的人，而是帮助学生成为更好的自己。二十余载初心不改，她治愈成长迷茫、点亮少年微光，在平凡的德育岗位上默默耕耘，让每一位学子都能绽放专属光芒。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"></span></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609456677.jpg" style="max-width: 100%; " title="202607031609456677.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609409316.jpg" style="max-width: 100%; " title="202607031609409316.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609405489.jpg" style="max-width: 100%; " title="202607031609405489.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609412873.jpg" style="max-width: 100%; " title="202607031609412873.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609415274.jpg" style="max-width: 100%; " title="202607031609415274.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609436012.jpg" style="max-width: 100%; " title="202607031609436012.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609439878.jpg" style="max-width: 100%; " title="202607031609439878.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609442372.jpg" style="max-width: 100%; " title="202607031609442372.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609457816.jpg" style="max-width: 100%; " title="202607031609457816.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609449488.jpg" style="max-width: 100%; " title="202607031609449488.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609457566.jpg" style="max-width: 100%; " title="202607031609457566.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609457813.jpg" style="max-width: 100%; " title="202607031609457813.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609451541.jpg" style="max-width: 100%; " title="202607031609451541.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607031609458481.JPG" style="max-width: 100%; " title="202607031609458481.JPG" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 115.8%;margin-bottom: 8pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">
+</span>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/23464.aspx" target="_self" title="标题：博雅育人 | 德育名师风采录（第九期）&#xD;点击数：117&#xD;发表时间：26年07月02日">博雅育人 | 德育名师风采录（第九期）</a>[ 07-02 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/23489.aspx" target="_self" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：26年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展…</a>[ 07-08 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>
