@@ -3,6 +3,7 @@ import unittest
 from pathlib import Path
 
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
+from tools.build_pages import build_site
 
 
 class IncrementalSyncTests(unittest.TestCase):
@@ -45,6 +46,30 @@ class IncrementalSyncTests(unittest.TestCase):
             loaded = load_manifest(manifest)
             self.assertEqual(loaded["UploadFiles/x.bin"]["sha256"], "abc")
             self.assertEqual(loaded["UploadFiles/x.bin"]["release_asset"], "archive-2026-part-001.tar.gz")
+
+    def test_build_site_converts_aspx_and_excludes_attachments(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            output = Path(tmp) / "output"
+            (source / "Item").mkdir(parents=True)
+            (source / "UploadFiles").mkdir()
+            (source / "Template").mkdir()
+            (source / "Item" / "1.aspx").write_text(
+                '<link href="/Template/site.css"><a href="/Item/2.aspx">next</a>',
+                encoding="utf-8",
+            )
+            (source / "UploadFiles" / "large.zip").write_bytes(b"not published")
+            (source / "Template" / "site.css").write_text(
+                "body { background: url(/images/bg.gif); }", encoding="utf-8"
+            )
+            summary = build_site(source, output)
+            self.assertEqual(summary["converted_aspx"], 1)
+            self.assertTrue((output / "Item" / "1.html").exists())
+            self.assertFalse((output / "Item" / "1.aspx").exists())
+            self.assertFalse((output / "UploadFiles").exists())
+            page = (output / "Item" / "1.html").read_text(encoding="utf-8")
+            self.assertIn('/Shaoxingyizhong/Template/site.css', page)
+            self.assertIn('/Shaoxingyizhong/Item/2.html', page)
 
 
 if __name__ == "__main__":

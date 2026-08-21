@@ -25,10 +25,12 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
+      - name: Build browser-renderable Pages site
+        run: python3 tools/build_pages.py --source . --output _site --base-path /Shaoxingyizhong/
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
       - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
