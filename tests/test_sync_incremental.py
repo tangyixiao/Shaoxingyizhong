@@ -73,6 +73,19 @@ class IncrementalSyncTests(unittest.TestCase):
             self.assertIn('/Shaoxingyizhong/Template/site.css', page)
             self.assertIn('/Shaoxingyizhong/Item/2.html', page)
 
+    def test_build_site_uses_fresh_default_as_pages_index(self):
+        """Pages /index.html must be built from the crawler's root response, not a stale alias."""
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            output = Path(tmp) / "output"
+            source.mkdir()
+            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
+            (source / "index.html").write_text("stale homepage", encoding="utf-8")
+
+            build_site(source, output)
+
+            self.assertEqual((output / "index.html").read_text(encoding="utf-8"), "fresh homepage")
+
     def test_publish_crawl_updates_only_changed_non_media_files(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

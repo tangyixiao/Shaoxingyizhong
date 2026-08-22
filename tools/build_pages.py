@@ -54,7 +54,16 @@ def build_site(source: Path, output: Path, base_path: str = "/Shaoxingyizhong/")
             skipped += 1
             continue
 
-        if path.suffix.lower() == ".aspx":
+        root_default = source / "Default.aspx"
+        lower_root_default = source / "default.aspx"
+        if relative == Path("index.html") and (root_default.exists() or lower_root_default.exists()):
+            skipped += 1
+            continue
+
+        if len(relative.parts) == 1 and path.name.lower() == "default.aspx":
+            destination = output / "index.html"
+            converted += 1
+        elif path.suffix.lower() == ".aspx":
             destination = output / relative.with_suffix(".html")
             converted += 1
         else:
