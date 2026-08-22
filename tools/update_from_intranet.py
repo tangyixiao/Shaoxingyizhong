@@ -26,15 +26,22 @@ def latest_published_item_id() -> int:
     return latest
 
 
-def build_recent_branch_seed(min_item_id: int) -> Path:
-    """Index local category pages and keep only branches containing new Items."""
+def recent_branch_paths(crawl_output: Path, min_item_id: int, lookback: int) -> set[str]:
+    """Return branches likely to receive new leaves on their next refresh."""
     item_pattern = re.compile(r"/Item/(\d+)\.aspx", re.IGNORECASE)
     branches: set[str] = set()
-    if CRAWL_OUTPUT.exists():
-        for page in CRAWL_OUTPUT.glob("Category_*/*.aspx"):
+    threshold = max(0, min_item_id - max(0, lookback))
+    if crawl_output.exists():
+        for page in crawl_output.glob("Category_*/*.aspx"):
             text = page.read_text(encoding="utf-8", errors="ignore")
-            if any(int(item_id) > min_item_id for item_id in item_pattern.findall(text)):
-                branches.add("/" + page.relative_to(CRAWL_OUTPUT).as_posix())
+            if any(int(item_id) >= threshold for item_id in item_pattern.findall(text)):
+                branches.add("/" + page.relative_to(crawl_output).as_posix())
+    return branches
+
+
+def build_recent_branch_seed(min_item_id: int, lookback: int) -> Path:
+    """Index local category pages and keep branches containing recent published leaves."""
+    branches = recent_branch_paths(CRAWL_OUTPUT, min_item_id, lookback)
     INCREMENTAL_STATE.mkdir(parents=True, exist_ok=True)
     seed_file = INCREMENTAL_STATE / "recent_branches.txt"
     seed_file.write_text("\n".join(sorted(branches)) + "\n", encoding="utf-8")
@@ -58,7 +65,7 @@ def main() -> int:
     crawler_args.extend(["--state-dir", str(INCREMENTAL_STATE)])
     if not args.full_crawl:
         min_item_id = latest_published_item_id()
-        seed_file = build_recent_branch_seed(min_item_id)
+        seed_file = build_recent_branch_seed(min_item_id, args.item_lookback)
         crawler_args.extend([
             "--item-min-id",
             str(min_item_id),

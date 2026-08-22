@@ -5,6 +5,7 @@ from pathlib import Path
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
 from tools.build_pages import build_site
 from tools.publish_crawl import sync_crawl, sync_crawl_paths
+from tools.update_from_intranet import recent_branch_paths
 
 
 class IncrementalSyncTests(unittest.TestCase):
@@ -106,6 +107,19 @@ class IncrementalSyncTests(unittest.TestCase):
             self.assertEqual(changed, ["Item/1.aspx"])
             self.assertTrue((repo / "Item" / "1.aspx").exists())
             self.assertFalse((repo / "Item" / "2.aspx").exists())
+
+    def test_recent_branch_seed_includes_branch_containing_waterline_item(self):
+        """A category page holding the latest published leaf must be revisited for new leaves."""
+        with tempfile.TemporaryDirectory() as tmp:
+            crawl = Path(tmp)
+            category = crawl / "Category_1" / "Index.aspx"
+            category.parent.mkdir()
+            category.write_text('<a href="/Item/23515.aspx">latest</a>', encoding="utf-8")
+
+            self.assertEqual(
+                recent_branch_paths(crawl, min_item_id=23515, lookback=20),
+                {"/Category_1/Index.aspx"},
+            )
 
 
 if __name__ == "__main__":
