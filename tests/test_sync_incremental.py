@@ -86,6 +86,23 @@ class IncrementalSyncTests(unittest.TestCase):
 
             self.assertEqual((output / "index.html").read_text(encoding="utf-8"), "fresh homepage")
 
+    def test_build_site_prefers_aspx_over_stale_html_alias_for_category_branches(self):
+        """A stale checked-in HTML alias must not overwrite the refreshed category source."""
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            output = Path(tmp) / "output"
+            category = source / "Category_27"
+            category.mkdir(parents=True)
+            (category / "Index.aspx").write_text("fresh category", encoding="utf-8")
+            (category / "Index.html").write_text("stale category", encoding="utf-8")
+
+            build_site(source, output)
+
+            self.assertEqual(
+                (output / "Category_27" / "Index.html").read_text(encoding="utf-8"),
+                "fresh category",
+            )
+
     def test_publish_crawl_updates_only_changed_non_media_files(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
