@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>高三晚自修（8.24-9.6）--高三-绍兴市第一中学</title>
+    <title>中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知--管理团队-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,8 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,24 +350,18 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
+        <h3><a href="/Category_4/Index.aspx">走进一中</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
-<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
-<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
-<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
-<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last on"><a href="/Category_35/Index.aspx">高三</a></li>
+			<li class="li1 first"><a href="/Category_43/Index.aspx">学校概览</a></li>
+<li class="li2"><a href="/Category_44/Index.aspx">组织机构</a></li>
+<li class="li3 on"><a href="/Category_45/Index.aspx">管理团队</a></li>
+<li class="li4"><a href="/Category_49/Index.aspx">—中校歌</a></li>
+<li class="li5"><a href="/Category_41/Index.aspx">校园风光</a></li>
+<li class="li6"><a href="/Category_10/Index.aspx">奖教奖学</a></li>
+<li class="li7"><a href="/Category_42/Index.aspx">学校荣誉</a></li>
+<li class="li8 last"><a href="/Category_379/Index.aspx">领导关怀</a></li>
 		</ul>
 	</div>
 </div>
@@ -381,7 +376,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23499.aspx" target="_blank" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：112&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a><span class="dateRight">[08-12]</span></li><li><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：86&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23503.aspx" target="_blank" title="标题：8.14讲座通知&#xD;点击数：167&#xD;发表时间：2026年08月14日">8.14讲座通知</a><span class="dateRight">[08-14]</span></li><li><a href="/Item/21001.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（3.9-3.21）&#xD;点击数：107&#xD;发表时间：2025年03月03日">高三晚自修+答疑管理安排（3.9-3.21）</a><span class="dateRight">[03-03]</span></li><li><a href="/Item/1106.aspx" target="_blank" title="标题：资料6&amp;nbsp;&amp;nbsp;2006年清华大学保送生暨自主招生北京冬令营数学笔试试题&#xD;点击数：400&#xD;发表时间：2009年12月25日"><font style=";">资料6  2006年清华大学保送生暨自主招生北京冬令营数学笔…</font></a><span class="dateRight">[12-25]</span></li><li class="last"><a href="/Item/1098.aspx" target="_blank" title="标题：资料3&amp;nbsp;&amp;nbsp;2007年复旦大学自主招生200题&#xD;点击数：427&#xD;发表时间：2009年12月24日"><font style=";">资料3  2007年复旦大学自主招生200题</font></a><span class="dateRight">[12-24]</span></li>
+            <li class="first"><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：87&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a><span class="dateRight">[03-18]</span></li><li class="last"><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2577&#xD;发表时间：2024年03月26日">管理团队</a><span class="dateRight">[03-26]</span></li>
           
                     </ul>
                 </div>
@@ -394,32 +389,30 @@ function GetUserInfo1(response){
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    
-    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_35/Index.aspx" target="_self">高三</a></div>
-                    <h3>高三</h3>
+    <a href="/Category_4/Index.aspx" target="_self">走进一中</a>&gt;
+    <a href="/Category_45/Index.aspx" target="_self">管理团队</a></div>
+                    <h3>管理团队</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">高三晚自修（8.24-9.6）</h2>
+                        <h2 class="title">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月21日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23534"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月14日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23541"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23534},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23541},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23534";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23541";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +420,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><img src="/UploadFiles/xwzx/2026/8/202608210924315072.png" style="max-width: 100%; " title="202608210924315072.png" /></p>
+     <p><img src="/UploadFiles/xwzx/2026/8/202608141105378118.png" style="max-width: 100%; " title="202608141105378118.png" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608141105378587.png" style="max-width: 100%; " title="202608141105378587.png" /></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,7 +430,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23503.aspx" target="_self" title="标题：8.14讲座通知&#xD;点击数：167&#xD;发表时间：26年08月14日">8.14讲座通知</a>[ 08-14 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/22884.aspx" target="_self" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：87&#xD;发表时间：26年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员…</a>[ 03-18 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
