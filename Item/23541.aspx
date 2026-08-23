@@ -376,7 +376,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：87&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a><span class="dateRight">[03-18]</span></li><li class="last"><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2577&#xD;发表时间：2024年03月26日">管理团队</a><span class="dateRight">[03-26]</span></li>
+            <li class="first"><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：88&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a><span class="dateRight">[03-18]</span></li><li class="last"><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2577&#xD;发表时间：2024年03月26日">管理团队</a><span class="dateRight">[03-26]</span></li>
           
                     </ul>
                 </div>
@@ -430,7 +430,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/22884.aspx" target="_self" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：87&#xD;发表时间：26年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员…</a>[ 03-18 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/22884.aspx" target="_self" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：88&#xD;发表时间：26年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员…</a>[ 03-18 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

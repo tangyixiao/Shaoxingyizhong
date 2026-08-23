@@ -350,56 +350,56 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-08-21</span><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：96&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a></li>
-<li><span class="date">2026-08-21</span><a href="/Item/23539.aspx" target="_blank" title="标题：关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证书续期培训班的通知&#xD;点击数：72&#xD;发表时间：2026年08月21日">关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证书续期培训班的通知</a></li>
-<li><span class="date">2026-08-21</span><a href="/Item/23538.aspx" target="_blank" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：51&#xD;发表时间：2026年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a></li>
-<li><span class="date">2026-08-21</span><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：96&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a></li>
-<li><span class="date">2026-08-21</span><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：88&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a></li>
-<li><span class="date">2026-08-21</span><a href="/Item/23535.aspx" target="_blank" title="标题：原高一研学的红船明信片认领通知&#xD;点击数：66&#xD;发表时间：2026年08月21日">原高一研学的红船明信片认领通知</a></li>
-<li><span class="date">2026-08-21</span><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：86&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23533.aspx" target="_blank" title="标题：关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉公示&#xD;点击数：89&#xD;发表时间：2026年08月20日">关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉公示</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：17&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></li>
+  <li><span class="date">2026-08-23</span><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：80&#xD;发表时间：2026年08月23日">通知两则</a></li>
+<li><span class="date">2026-08-23</span><a href="/Item/23544.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：55&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛</a></li>
+<li><span class="date">2026-08-23</span><a href="/Item/23543.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：25&#xD;发表时间：2026年08月23日">高一大扫除通知</a></li>
+<li><span class="date">2026-08-23</span><a href="/Item/23542.aspx" target="_blank" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：33&#xD;发表时间：2026年08月23日">关于合唱比赛专题会议的通知</a></li>
+<li><span class="date">2026-08-21</span><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：131&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a></li>
+<li><span class="date">2026-08-21</span><a href="/Item/23539.aspx" target="_blank" title="标题：关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证书续期培训班的通知&#xD;点击数：97&#xD;发表时间：2026年08月21日">关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证书续期培训班的通知</a></li>
+<li><span class="date">2026-08-21</span><a href="/Item/23538.aspx" target="_blank" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：56&#xD;发表时间：2026年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a></li>
+<li><span class="date">2026-08-21</span><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：126&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a></li>
+<li><span class="date">2026-08-21</span><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：122&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a></li>
+<li><span class="date">2026-08-21</span><a href="/Item/23535.aspx" target="_blank" title="标题：原高一研学的红船明信片认领通知&#xD;点击数：75&#xD;发表时间：2026年08月21日">原高一研学的红船明信片认领通知</a></li>
+<li><span class="date">2026-08-21</span><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：93&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23533.aspx" target="_blank" title="标题：关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉公示&#xD;点击数：98&#xD;发表时间：2026年08月20日">关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉公示</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：22&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></li>
 <li><span class="date">2026-08-20</span><a href="/Item/23532.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：1&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23524.aspx" target="_blank" title="标题：从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会&#xD;点击数：19&#xD;发表时间：2026年08月20日">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23523.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能&#xD;点击数：23&#xD;发表时间：2026年08月20日">博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23522.aspx" target="_blank" title="标题：博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行&#xD;点击数：3&#xD;发表时间：2026年08月20日">博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23524.aspx" target="_blank" title="标题：从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会&#xD;点击数：22&#xD;发表时间：2026年08月20日">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23523.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能&#xD;点击数：25&#xD;发表时间：2026年08月20日">博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23522.aspx" target="_blank" title="标题：博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行&#xD;点击数：4&#xD;发表时间：2026年08月20日">博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行</a></li>
 <li><span class="date">2026-08-20</span><a href="/Item/23525.aspx" target="_blank" title="标题：博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行&#xD;点击数：0&#xD;发表时间：2026年08月20日">博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23521.aspx" target="_blank" title="标题：【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导走访大湾区一中校友综述&#xD;点击数：8&#xD;发表时间：2026年08月20日">【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导走访大湾区一中校友综述</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23521.aspx" target="_blank" title="标题：【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导走访大湾区一中校友综述&#xD;点击数：12&#xD;发表时间：2026年08月20日">【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导走访大湾区一中校友综述</a></li>
 <li><span class="date">2026-08-20</span><a href="/Item/23527.aspx" target="_blank" title="标题：【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导走访大湾区一中校友综述&#xD;点击数：1&#xD;发表时间：2026年08月20日">【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导走访大湾区一中校友综述</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23520.aspx" target="_blank" title="标题：祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！&#xD;点击数：12&#xD;发表时间：2026年08月20日">祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23520.aspx" target="_blank" title="标题：祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！&#xD;点击数：14&#xD;发表时间：2026年08月20日">祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！</a></li>
 <li><span class="date">2026-08-20</span><a href="/Item/23526.aspx" target="_blank" title="标题：祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！&#xD;点击数：1&#xD;发表时间：2026年08月20日">祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23519.aspx" target="_blank" title="标题：爱在一中｜校友丁世伟捐赠20万，助力“校友之家”项目实施——130周年校庆一中人爱心捐赠系列&#xD;点击数：6&#xD;发表时间：2026年08月20日">爱在一中｜校友丁世伟捐赠20万，助力“校友之家”项目实施——130周年校庆一中人爱心捐赠系列</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23519.aspx" target="_blank" title="标题：爱在一中｜校友丁世伟捐赠20万，助力“校友之家”项目实施——130周年校庆一中人爱心捐赠系列&#xD;点击数：8&#xD;发表时间：2026年08月20日">爱在一中｜校友丁世伟捐赠20万，助力“校友之家”项目实施——130周年校庆一中人爱心捐赠系列</a></li>
 <li><span class="date">2026-08-20</span><a href="/Item/23528.aspx" target="_blank" title="标题：爱在一中｜校友丁世伟捐赠20万，助力“校友之家”项目实施——130周年校庆一中人爱心捐赠系列&#xD;点击数：2&#xD;发表时间：2026年08月20日">爱在一中｜校友丁世伟捐赠20万，助力“校友之家”项目实施——130周年校庆一中人爱心捐赠系列</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23518.aspx" target="_blank" title="标题：薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文化活动，并受聘校友会金融界专业委员会副会长&#xD;点击数：4&#xD;发表时间：2026年08月20日">薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文化活动，并受聘校友会金融界专业委员会副会长</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23518.aspx" target="_blank" title="标题：薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文化活动，并受聘校友会金融界专业委员会副会长&#xD;点击数：5&#xD;发表时间：2026年08月20日">薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文化活动，并受聘校友会金融界专业委员会副会长</a></li>
 <li><span class="date">2026-08-20</span><a href="/Item/23529.aspx" target="_blank" title="标题：薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文化活动，并受聘校友会金融界专业委员会副会长&#xD;点击数：2&#xD;发表时间：2026年08月20日">薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文化活动，并受聘校友会金融界专业委员会副会长</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23517.aspx" target="_blank" title="标题：爱在一中 |严亮校友设计、施工和赞助的“校友之家”项目开始装修&#xD;点击数：12&#xD;发表时间：2026年08月20日">爱在一中 |严亮校友设计、施工和赞助的“校友之家”项目开始装修</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23517.aspx" target="_blank" title="标题：爱在一中 |严亮校友设计、施工和赞助的“校友之家”项目开始装修&#xD;点击数：13&#xD;发表时间：2026年08月20日">爱在一中 |严亮校友设计、施工和赞助的“校友之家”项目开始装修</a></li>
 <li><span class="date">2026-08-20</span><a href="/Item/23530.aspx" target="_blank" title="标题：爱在一中 |严亮校友设计、施工和赞助的“校友之家”项目开始装修&#xD;点击数：3&#xD;发表时间：2026年08月20日">爱在一中 |严亮校友设计、施工和赞助的“校友之家”项目开始装修</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23516.aspx" target="_blank" title="标题：高二、高三协作体时间安排&#xD;点击数：92&#xD;发表时间：2026年08月20日">高二、高三协作体时间安排</a></li>
-<li><span class="date">2026-08-20</span><a href="/Item/23515.aspx" target="_blank" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：126&#xD;发表时间：2026年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a></li>
-<li><span class="date">2026-08-19</span><a href="/Item/23514.aspx" target="_blank" title="标题：开学工作行事历&#xD;点击数：224&#xD;发表时间：2026年08月19日">开学工作行事历</a></li>
-<li><span class="date">2026-08-19</span><a href="/Item/23513.aspx" target="_blank" title="标题：关于教师办公室调整及宿舍管理工作的相关提醒&#xD;点击数：117&#xD;发表时间：2026年08月19日">关于教师办公室调整及宿舍管理工作的相关提醒</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23516.aspx" target="_blank" title="标题：高二、高三协作体时间安排&#xD;点击数：105&#xD;发表时间：2026年08月20日">高二、高三协作体时间安排</a></li>
+<li><span class="date">2026-08-20</span><a href="/Item/23515.aspx" target="_blank" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：132&#xD;发表时间：2026年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a></li>
+<li><span class="date">2026-08-19</span><a href="/Item/23514.aspx" target="_blank" title="标题：开学工作行事历&#xD;点击数：247&#xD;发表时间：2026年08月19日">开学工作行事历</a></li>
+<li><span class="date">2026-08-19</span><a href="/Item/23513.aspx" target="_blank" title="标题：关于教师办公室调整及宿舍管理工作的相关提醒&#xD;点击数：122&#xD;发表时间：2026年08月19日">关于教师办公室调整及宿舍管理工作的相关提醒</a></li>
 <li><span class="date">2026-08-19</span><a href="/Item/23509.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）&#xD;点击数：20&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）</a></li>
 <li><span class="date">2026-08-19</span><a href="/Item/23510.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）&#xD;点击数：0&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）</a></li>
 <li><span class="date">2026-08-19</span><a href="/Item/23512.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）&#xD;点击数：1&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校（2）</a></li>
 <li><span class="date">2026-08-19</span><a href="/Item/23508.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校&#xD;点击数：14&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校</a></li>
 <li><span class="date">2026-08-19</span><a href="/Item/23511.aspx" target="_blank" title="标题：“爱在一中”｜朱雯：那些走过的日子——我与我的母校&#xD;点击数：2&#xD;发表时间：2026年08月19日">“爱在一中”｜朱雯：那些走过的日子——我与我的母校</a></li>
 <li><span class="date">2026-08-18</span><a href="/Item/23507.aspx" target="_blank" title="标题：教育集团全体教职工大会通知&#xD;点击数：111&#xD;发表时间：2026年08月18日">教育集团全体教职工大会通知</a></li>
-<li><span class="date">2026-08-18</span><a href="/Item/23506.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：166&#xD;发表时间：2026年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示</a></li>
-<li><span class="date">2026-08-15</span><a href="/Item/23505.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励人员名单及结果公示&#xD;点击数：183&#xD;发表时间：2026年08月15日">关于2026年“名师激励”岗位考核激励人员名单及结果公示</a></li>
+<li><span class="date">2026-08-18</span><a href="/Item/23506.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：170&#xD;发表时间：2026年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示</a></li>
+<li><span class="date">2026-08-15</span><a href="/Item/23505.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励人员名单及结果公示&#xD;点击数：189&#xD;发表时间：2026年08月15日">关于2026年“名师激励”岗位考核激励人员名单及结果公示</a></li>
 <li><span class="date">2026-08-14</span><a href="/Item/23503.aspx" target="_blank" title="标题：8.14讲座通知&#xD;点击数：167&#xD;发表时间：2026年08月14日">8.14讲座通知</a></li>
-<li><span class="date">2026-08-14</span><a href="/Item/23504.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：174&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知</a></li>
-<li><span class="date">2026-08-14</span><a href="/Item/23541.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：174&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知</a></li>
+<li><span class="date">2026-08-14</span><a href="/Item/23504.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：177&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知</a></li>
+<li><span class="date">2026-08-14</span><a href="/Item/23541.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：177&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知</a></li>
 <li><span class="date">2026-08-12</span><a href="/Item/23501.aspx" target="_blank" title="标题：高三学部大扫除通知&#xD;点击数：53&#xD;发表时间：2026年08月12日">高三学部大扫除通知</a></li>
-<li><span class="date">2026-08-12</span><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：267&#xD;发表时间：2026年08月12日">教学楼办公室调整公告(有修改)</a></li>
-<li><span class="date">2026-08-12</span><a href="/Item/23499.aspx" target="_blank" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：112&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a></li>
+<li><span class="date">2026-08-12</span><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：284&#xD;发表时间：2026年08月12日">教学楼办公室调整公告(有修改)</a></li>
+<li><span class="date">2026-08-12</span><a href="/Item/23499.aspx" target="_blank" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：113&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a></li>
 <li><span class="date">2026-08-12</span><a href="/Item/23496.aspx" target="_blank" title="标题：“弘毅传承”2026高考学霸经验分享会&#xD;点击数：88&#xD;发表时间：2026年08月12日">“弘毅传承”2026高考学霸经验分享会</a></li>
-<li><span class="date">2026-08-11</span><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：21&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a></li>
+<li><span class="date">2026-08-11</span><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：22&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a></li>
 <li><span class="date">2026-07-14</span><a href="/Item/23494.aspx" target="_blank" title="标题：2026年绍兴市教师命题能力职业技能竞赛我校获奖名单&#xD;点击数：16&#xD;发表时间：2026年07月14日">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a></li>
-<li><span class="date">2026-07-13</span><a href="/Item/23493.aspx" target="_blank" title="标题：2025学年各项先进推优名单公示&#xD;点击数：126&#xD;发表时间：2026年07月13日">2025学年各项先进推优名单公示</a></li>
-<li><span class="date">2026-07-09</span><a href="/Item/23492.aspx" target="_blank" title="标题：d#a$k#a$r#a,QjH@gKe!X&#xD;点击数：15&#xD;发表时间：2026年07月09日">d#a$k#a$r#a,QjH@gKe!X</a></li>
-<li><span class="date">2026-07-09</span><a href="/Item/23491.aspx" target="_blank" title="标题：XxeeeKkkkQqQsssssBBb&#xD;点击数：14&#xD;发表时间：2026年07月09日">XxeeeKkkkQqQsssssBBb</a></li>
-<li><span class="date">2026-07-08</span><a href="/Item/23490.aspx" target="_blank" title="标题：第二届“高考突出贡献奖”和“育人楷模奖”评选通知&#xD;点击数：167&#xD;发表时间：2026年07月08日">第二届“高考突出贡献奖”和“育人楷模奖”评选通知</a></li>
-<li><span class="date">2026-07-08</span><a href="/Item/23489.aspx" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：68&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训</a></li>
+<li><span class="date">2026-07-13</span><a href="/Item/23493.aspx" target="_blank" title="标题：2025学年各项先进推优名单公示&#xD;点击数：129&#xD;发表时间：2026年07月13日">2025学年各项先进推优名单公示</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>

@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>学校公告-绍兴市第一中学</title>
+    <title>通知两则--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -356,7 +356,7 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -374,90 +374,83 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：122&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23161.aspx" target="_blank" title="标题：关于组织开展2026年中小学生（幼儿）“预防溺水”专题教育活动的通知&#xD;点击数：53&#xD;发表时间：2026年05月07日">关于组织开展2026年中小学生（幼儿）“预防溺水”专题教…</a><span class="dateRight">[05-07]</span></li><li><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：80&#xD;发表时间：2026年08月23日">通知两则</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23535.aspx" target="_blank" title="标题：原高一研学的红船明信片认领通知&#xD;点击数：75&#xD;发表时间：2026年08月21日">原高一研学的红船明信片认领通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23533.aspx" target="_blank" title="标题：关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉公示&#xD;点击数：98&#xD;发表时间：2026年08月20日">关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉…</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li class="last"><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：80&#xD;发表时间：2026年08月23日">通知两则</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23535.aspx" target="_blank" title="标题：原高一研学的红船明信片认领通知&#xD;点击数：75&#xD;发表时间：2026年08月21日">原高一研学的红船明信片认领通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23544.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：56&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利9…</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=20>学校公告</option><option value=25>&nbsp;&nbsp;党政办</option><option value=26>&nbsp;&nbsp;教学处</option><option value=27>&nbsp;&nbsp;德育处</option><option value=28>&nbsp;&nbsp;安全处</option><option value=29>&nbsp;&nbsp;信息处</option><option value=30>&nbsp;&nbsp;团委</option><option value=31>&nbsp;&nbsp;总务处</option><option value=32>&nbsp;&nbsp;工会</option><option value=33>&nbsp;&nbsp;高一</option><option value=34>&nbsp;&nbsp;高二</option><option value=35>&nbsp;&nbsp;高三</option><option value=36>&nbsp;&nbsp;教科室</option><option value=392>&nbsp;&nbsp;龙山书院</option><option value=393>&nbsp;&nbsp;创新学部</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
                 <div class="mHd">
-
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
+    
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a></div>
-                    <h3>学校公告</h3>
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2009-08-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_35/Index.aspx" target="_self">[高三]</a><a href="/Item/130.aspx" target="_self" title="标题：高三班主任请注意&#xD;点击数：2882&#xD;发表时间：2009年08月21日"><font style=";">高三班主任请注意</font></a></li><li><span class="date">2009-08-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/129.aspx" target="_self" title="标题：关于贫困生调查摸底的通知&#xD;点击数：707&#xD;发表时间：2009年08月21日"><font style=";">关于贫困生调查摸底的通知</font></a></li><li><span class="date">2009-08-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_33/Index.aspx" target="_self">[高一]</a><a href="/Item/128.aspx" target="_self" title="标题：高一班主任关注&#xD;点击数：702&#xD;发表时间：2009年08月21日"><font style=";">高一班主任关注</font></a></li><li><span class="date">2009-08-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/127.aspx" target="_self" title="标题：高一、高三各班班长会议&#xD;点击数：539&#xD;发表时间：2009年08月21日"><font style=";">高一、高三各班班长会议</font></a></li><li><span class="date">2009-08-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/126.aspx" target="_self" title="标题：2009年“大学新生 结伴同行”北区沙龙即将在我校举行&#xD;点击数：677&#xD;发表时间：2009年08月21日"><font style=";">2009年“大学新生 结伴同行”北区沙龙即将在我校举行</font></a></li><li class="split"></li><li><span class="date">2009-08-20</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/125.aspx" target="_self" title="标题：高三部分选修IB上课安排&#xD;点击数：688&#xD;发表时间：2009年08月20日"><font style=";">高三部分选修IB上课安排</font></a></li><li><span class="date">2009-08-20</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/124.aspx" target="_self" title="标题：仪容仪表检查的结果（8月20日）&#xD;点击数：566&#xD;发表时间：2009年08月20日"><font style=";">仪容仪表检查的结果（8月20日）</font></a></li><li><span class="date">2009-08-20</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/123.aspx" target="_self" title="标题：各班主任请注意（关于安全等问题）&#xD;点击数：547&#xD;发表时间：2009年08月20日"><font style=";">各班主任请注意（关于安全等问题）</font></a></li><li><span class="date">2009-08-19</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/122.aspx" target="_self" title="标题：关于检查仪容仪表的通知&#xD;点击数：1154&#xD;发表时间：2009年08月19日"><font style=";">关于检查仪容仪表的通知</font></a></li><li><span class="date">2009-08-19</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/121.aspx" target="_self" title="标题：中华赞诗词歌赋创作大赛&#xD;点击数：692&#xD;发表时间：2009年08月19日"><font style=";">中华赞诗词歌赋创作大赛</font></a></li><li class="split"></li><li><span class="date">2009-08-19</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_29/Index.aspx" target="_self">[信息处]</a><a href="/Item/120.aspx" target="_self" title="标题：高一各班电教管理员集中培训的通知&#xD;点击数：568&#xD;发表时间：2009年08月19日"><font style=";">高一各班电教管理员集中培训的通知</font></a></li><li><span class="date">2009-08-18</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/119.aspx" target="_self" title="标题：关于高一班长会议的通知&#xD;点击数：661&#xD;发表时间：2009年08月18日"><font style=";">关于高一班长会议的通知</font></a></li><li><span class="date">2009-08-18</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/118.aspx" target="_self" title="标题：关于组织2009年9月份普通高校招生英语听力等三项考试补报名的通知&#xD;点击数：662&#xD;发表时间：2009年08月18日"><font style=";">关于组织2009年9月份普通高校招生英语听力等三项考试补报名的通知</font></a></li><li><span class="date">2009-08-18</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/116.aspx" target="_self" title="标题：国旗下讲话主持人、宣讲员招聘启事&#xD;点击数：592&#xD;发表时间：2009年08月18日"><font style=";">国旗下讲话主持人、宣讲员招聘启事</font></a></li><li><span class="date">2009-08-18</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/114.aspx" target="_self" title="标题：2009新生衔接教育“日常行为规范及校史知识”测试优秀奖（个人）名单&#xD;点击数：719&#xD;发表时间：2009年08月18日"><font style=";">2009新生衔接教育“日常行为规范及校史知识”测试优秀奖（个人）名单</font></a></li><li class="split"></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/113.aspx" target="_self" title="标题：班主任培训通知&#xD;点击数：664&#xD;发表时间：2009年08月17日"><font style=";">班主任培训通知</font></a></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_33/Index.aspx" target="_self">[高一]</a><a href="/Item/112.aspx" target="_self" title="标题：高一备课组长会议&#xD;点击数：1191&#xD;发表时间：2009年08月17日"><font style=";">高一备课组长会议</font></a></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_35/Index.aspx" target="_self">[高三]</a><a href="/Item/111.aspx" target="_self" title="标题：高三备课组长会议&#xD;点击数：1246&#xD;发表时间：2009年08月17日"><font style=";">高三备课组长会议</font></a></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/110.aspx" target="_self" title="标题：高三选修IB上课安排&#xD;点击数：606&#xD;发表时间：2009年08月17日"><font style=";">高三选修IB上课安排</font></a></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/109.aspx" target="_self" title="标题：关于军训动员预备会议的通知&#xD;点击数：950&#xD;发表时间：2009年08月17日"><font style=";">关于军训动员预备会议的通知</font></a></li><li class="split"></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/108.aspx" target="_self" title="标题：通知两则&#xD;点击数：7&#xD;发表时间：2009年08月17日"><font style=";">通知两则</font></a></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_33/Index.aspx" target="_self">[高一]</a><a href="/Item/107.aspx" target="_self" title="标题：高一晚自修安排（8.16---8.28）&#xD;点击数：24&#xD;发表时间：2009年08月17日"><font style=";">高一晚自修安排（8.16---8.28）</font></a></li><li><span class="date">2009-08-17</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_35/Index.aspx" target="_self">[高三]</a><a href="/Item/105.aspx" target="_self" title="标题：高三住校生晚自修安排&#xD;点击数：16&#xD;发表时间：2009年08月17日"><font style=";">高三住校生晚自修安排</font></a></li><li><span class="date">2009-08-16</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/104.aspx" target="_self" title="标题：2008学年第二学期优秀寝室，优秀寝室长，优秀楼层长名单&#xD;点击数：28&#xD;发表时间：2009年08月16日"><font style=";">2008学年第二学期优秀寝室，优秀寝室长，优秀楼层长名单</font></a></li><li><span class="date">2009-08-16</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/103.aspx" target="_self" title="标题：关于全体住校生会议通知&#xD;点击数：13&#xD;发表时间：2009年08月16日"><font style=";">关于全体住校生会议通知</font></a></li><li class="split"></li><li><span class="date">2009-08-15</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/101.aspx" target="_self" title="标题：担任班主任工作五年内的青年班主任通知&#xD;点击数：12&#xD;发表时间：2009年08月15日"><font style=";">担任班主任工作五年内的青年班主任通知</font></a></li><li><span class="date">2009-08-15</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/100.aspx" target="_self" title="标题：绍兴市教育局办公室转发浙江省教育厅办公室关于选派第五批中小学骨干教师到欠发达地区和海岛支教的通知&#xD;点击数：22&#xD;发表时间：2009年08月15日"><font style=";">绍兴市教育局办公室转发浙江省教育厅办公室关于选派第五批中小学骨干教师到欠发达地区…</font></a></li><li><span class="date">2009-08-15</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_29/Index.aspx" target="_self">[信息处]</a><a href="/Item/99.aspx" target="_self" title="标题：新高一、高三班级电脑领取通知&#xD;点击数：67&#xD;发表时间：2009年08月15日"><font style=";">新高一、高三班级电脑领取通知</font></a></li><li><span class="date">2009-08-14</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/98.aspx" target="_self" title="标题：通知&#xD;点击数：20&#xD;发表时间：2009年08月14日"><font style=";">通知</font></a></li><li><span class="date">2009-08-12</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/96.aspx" target="_self" title="标题：返校通知二则&#xD;点击数：45&#xD;发表时间：2009年08月12日"><font style=";">返校通知二则</font></a></li><li class="split"></li><li class="last"><span class="date">2009-08-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/95.aspx" target="_self" title="标题：关于高三毕业生转接团组织关系的通知(补充)&#xD;点击数：42&#xD;发表时间：2009年08月04日"><font style=";">关于高三毕业生转接团组织关系的通知(补充)</font></a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_475.aspx">上一页</a>
- <a href="Index_466.aspx">466</a> <a href="Index_467.aspx">467</a> <a href="Index_468.aspx">468</a> <a href="Index_469.aspx">469</a> <a href="Index_470.aspx">470</a> <a href="Index_471.aspx">471</a> <a href="Index_472.aspx">472</a> <a href="Index_473.aspx">473</a> <a href="Index_474.aspx">474</a> <a href="Index_475.aspx">475</a> <b><a href="Index_476.aspx">476</a></b> 
-<a href="Index_476.aspx">下一页</a>
- <a href="Index_476.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">通知两则</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月23日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23545"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23545},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23545";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align:center"><strong><span style="font-family: 宋体;font-size: 29px">关于开展国旗队队员选拔工作的通知</span></strong><span style="font-family: 宋体; font-size: 29px;"> </span></p><p><span style=";font-family:宋体;font-size:20px">高一同学：</span></p><p style="text-indent:40px"><span style=";font-family:宋体;font-size:20px">国旗是国家的象征与尊严，升降、护卫国旗是庄严神圣的校园使命。为充实我校国旗护卫队队伍，规范校园升旗及重大礼仪活动开展，弘扬爱国主义精神，展现学子良好风貌，现面向全校开展新一届国旗队队员选拔工作。具体事宜通知如下：</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">一、选拔宗旨</span></strong></p><p style="text-indent:40px"><span style=";font-family:宋体;font-size:20px">秉持爱国奉献、严于律己的宗旨，择优选拔品行端正、责任心强、作风过硬的学生加入国旗队，高标准完成校园升旗、重大活动仪仗护卫等工作，彰显我校学子青春风采。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">二、选拔对象</span></strong></p><p style="text-indent:40px"><span style=";font-family:宋体;font-size:20px">高一全体在读学生，自愿报名、择优录取。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">三、选拔条件</span></strong></p><p style="text-indent:40px"><strong><span style="font-family: 宋体;font-size: 20px">1. 思想端正：</span></strong><span style=";font-family:宋体;font-size:20px">热爱祖国，遵纪守法，品行优良，无违纪记录，具备较强的集体荣誉感与责任心。</span></p><p style="text-indent:40px"><strong><span style="font-family: 宋体;font-size: 20px">2. 体态良好：</span></strong><span style=";font-family:宋体;font-size:20px"><span style="font-family:宋体">身姿挺拔、体态匀称、五官端正，无明显体态问题。身高</span><span style="font-family:宋体">180cm及以上，气质端正阳光。</span></span></p><p style="text-indent:40px"><strong><span style="font-family: 宋体;font-size: 20px">3. 纪律优良：</span></strong><span style=";font-family:宋体;font-size:20px">服从管理、吃苦耐劳，能够积极参与日常训练、升旗执勤及各项任务，合理兼顾训练与学业。</span></p><p style="text-indent:40px"><strong><span style="font-family: 宋体;font-size: 20px">4. 综合素质良好：</span></strong><span style=";font-family:宋体;font-size:20px">学习态度端正，学业平稳，无违纪通报、挂科情况，具备良好的团队协作能力。</span></p><p style="text-indent:40px"><strong><span style="font-family: 宋体;font-size: 20px">5. 身心健康：</span></strong><span style=";font-family:宋体;font-size:20px">身体健康，无不适宜长时间站立、队列训练的疾病，心理素质良好，可适应常态化训练与执勤。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">四、岗位职责</span></strong></p><p><span style=";font-family:宋体;font-size:20px">  1. 承担学校每周升旗仪式、重大节庆及校级活动的国旗升降与仪仗护卫工作。</span></p><p><span style=";font-family:宋体;font-size:20px">  2. 按时参加日常队列、礼仪仪态训练，主动提升执勤专业能力。</span></p><p><span style=";font-family:宋体;font-size:20px">  3. 自觉维护国旗尊严与队伍形象，积极参与校园爱国主义相关活动。</span></p><p><span style=";font-family:宋体;font-size:20px">  4. 完成学校、团委及国旗队安排的各项相关工作。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">五、选拔流程</span></strong></p><p><span style=";font-family:宋体;font-size:20px">  本次选拔分为</span><strong><span style="font-family: 宋体;font-size: 20px">自愿报名、资格初审、集训筛选、正式录用</span></strong><span style=";font-family:宋体;font-size:20px">五个环节，全程公开、择优录取。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">  1. 自愿报名：</span></strong><span style=";font-family:宋体;font-size:20px">8月25日，有意向的同学向班主任报名，每班推荐2位。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">  2. 资格初审：</span></strong><span style=";font-family:宋体;font-size:20px">结合军训表现及学业情况筛选，确定入围名单。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">  3. 集训初选：</span></strong><span style=";font-family:宋体;font-size:20px">参与短期队列礼仪集训，根据态度及训练成果综合考评。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">  4. 正式录用：</span></strong><span style=";font-family:宋体;font-size:20px">集训考核合格者公示无异议后，正式成为国旗队队员。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">六、相关说明</span></strong></p><p><span style=";font-family:宋体;font-size:20px">  1. 国旗队为校级荣誉学生组织，队员经历纳入综合素质评价，表现优异可优先参评各类评优评先。</span></p><p><span style=";font-family:宋体;font-size:20px">  2. 队员须严格遵守队伍规章制度，认真参训执勤，无故缺勤、消极履职者将予以劝退。</span></p><p><span style=";font-family:宋体;font-size:20px">  3. 学校定期组织专业培训。</span></p><p><span style=";font-family:宋体;font-size:20px"> </span></p><p><span style=";font-family:宋体;font-size:20px"> </span></p><p style="text-align:center"><strong><span style="font-family: 宋体;font-size: 29px">关于开展</span></strong><strong><span style="font-family: 宋体;font-size: 29px">主持人</span></strong><strong><span style="font-family: 宋体;font-size: 29px">选拔工作的通知</span></strong><strong><span style="font-family: 宋体;font-size: 29px"> </span></strong></p><p><span style=";font-family:宋体;font-size:20px">高一同学：</span></p><p style="text-indent: 40px"><span style=";font-family:宋体;font-size:20px">为进一步丰富我校校园文化生活，提升学校各类文艺汇演、升旗仪式、校园活动、比赛盛典等活动的整体品质，充实我校校园主持队伍力量，打造积极向上、青春活力的校园文化氛围，学校现面向</span><span style=";font-family:宋体;font-size:20px">高一</span><span style=";font-family:宋体;font-size:20px">在校学生公开选拔校园主持人。现将相关选拔事宜通知如下：</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">一、选拔对象</span></strong></p><p><span style=";font-family:宋体;font-size:20px"><span style="font-family:宋体">  高一全体在读学生，自愿报名、择优录取。</span></span></p><p><strong><span style="font-family: 宋体;font-size: 20px">二、报名条件</span></strong></p><p><span style=";font-family:宋体;font-size:20px">  1. 思想端正:热爱祖国，遵纪守法，品行优良，无违纪记录，具备较强的集体荣誉感与责任心。</span></p><p><span style=";font-family:宋体;font-size:20px">  2</span><span style=";font-family:宋体;font-size:20px">. 体态良好：站姿坐姿端正，肢体自然，无晃身体、抠手、低头等小动作。</span></p><p><span style=";font-family:宋体;font-size:20px">  3</span><span style=";font-family:宋体;font-size:20px">. 言语得体：普通话标准，表达流畅，具备基础朗读、即兴说话能力；</span></p><p><span style=";font-family:宋体;font-size:20px">  4</span><span style=";font-family:宋体;font-size:20px">. 综合素质良好：学习态度端正，学业平稳，无违纪通报、挂科情况，具备良好的团队协作能力。 </span></p><p><strong><span style="font-family: 宋体;font-size: 20px">三、选拔流程</span></strong></p><p><strong><span style="font-family: 宋体;font-size: 20px">  1.自主报名：</span></strong><span style=";font-family:宋体;font-size:20px">有意向的同学向班主任报名。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">  2.初选审核：</span></strong><span style=";font-family:宋体;font-size:20px">德育处</span><span style=";font-family:宋体;font-size:20px">、团委</span><span style=";font-family:宋体;font-size:20px">对报名学生信息进行初审，确定入围复试名单并公示。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">  3.现场复试：</span></strong><span style=";font-family:宋体;font-size:20px">通过自我介绍、模拟主持、即兴问答三个环节综合考核。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">  4.结果公示：</span></strong><span style=";font-family:宋体;font-size:20px">择优录取，公示最终入选名单。</span></p><p><strong><span style="font-family: 宋体;font-size: 20px">四、时间安排</span></strong></p><p><span style=";font-family:宋体;font-size:20px">  1.报名时间：即日起——</span><span style=";font-family:宋体;font-size:20px">8</span><span style=";font-family:宋体;font-size:20px">月</span><span style=";font-family:宋体;font-size:20px">25</span><span style=";font-family:宋体;font-size:20px"><span style="font-family:宋体">日</span></span></p><p><span style=";font-family:宋体;font-size:20px"> </span></p><p><span style=";font-family:宋体;font-size:20px">  欢迎全体同学踊跃报名，站上舞台、绽放青春风采！</span></p><p style="text-align:center"><span style=";font-family:宋体;font-size:20px"> </span></p><p style="text-align:right"><span style=";font-family:宋体;font-size:20px">德育处</span><span style=";font-family:宋体;font-size:20px">、团委</span></p><p style="text-align:right"><span style=";font-family:宋体;font-size:20px">2026年8月23日</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23544.aspx" target="_self" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：56&#xD;发表时间：26年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年…</a>[ 08-23 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -489,6 +482,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
