@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：141&#xD;发表时间：2026年08月23日">通知两则</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23544.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：80&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利9…</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23549.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：28&#xD;发表时间：2026年08月24日">高二、高三大扫除通知</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/23542.aspx" target="_blank" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：52&#xD;发表时间：2026年08月23日">关于合唱比赛专题会议的通知</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：150&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：137&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a><span class="dateRight">[08-21]</span></li><li class="last"><a href="/Item/23543.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：34&#xD;发表时间：2026年08月23日">高一大扫除通知</a><span class="dateRight">[08-23]</span></li>
+            <li class="first"><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：142&#xD;发表时间：2026年08月23日">通知两则</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23544.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：81&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利9…</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23549.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：30&#xD;发表时间：2026年08月24日">高二、高三大扫除通知</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：152&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23542.aspx" target="_blank" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：52&#xD;发表时间：2026年08月23日">关于合唱比赛专题会议的通知</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：137&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a><span class="dateRight">[08-21]</span></li><li class="last"><a href="/Item/23543.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：34&#xD;发表时间：2026年08月23日">高一大扫除通知</a><span class="dateRight">[08-23]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23540.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：150&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23540.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：152&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a>[ 08-21 ]</div>
                             <div class="next"><span>下一篇：</span><a href="/Item/23543.aspx" target="_self" title="标题：高一大扫除通知&#xD;点击数：34&#xD;发表时间：26年08月23日">高一大扫除通知</a>[ 08-23 ]</div>
                         </div>
                     </div>

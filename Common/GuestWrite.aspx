@@ -5,8 +5,8 @@
     <meta content='绍兴市第一中学' name="Keywords" />
     <meta content='绍兴市第一中学' name="Description" />
     
-    <link href="/Shaoxingyizhong/Template/Default/Skin/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Prompt/prompts.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Prompt/prompts.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -24,10 +24,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -42,7 +42,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
             <div class="P_width">
                 <form name="form1" method="post" action="../Prompt/ShowError.aspx" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="vhK9SAqZjXxGQcjyuxK+tOeMn9P9a+neAqmCFm70rAVeFwbNCCHifUFwyBqDfo9xf0nFOQTsuYuxpLkpKy2IJkaLRClof2Zv08Yc0t4xi27vqy6D67Wdcdlm5+3eZjCoAQHhbeqkVxvFSxSDURwJjVwxRXx6b08u7PXnnMB1o7yhz717GeG5TqW79g6WJFhkIx+bBNySVpL7XBK3+MT9J/D68HvnZP5NPWUAIHCbH1eL6yA4iDKLXqoBuyIOPzolg5BJhRH74hhpI3rSRKDmcghbSmgI3kYJLL+CYLeEWAd070LnDFxC172wgp8kKCeOmbBfyY7hpINs9Gb+0d/z5p97C89wxYuAkjbI5w==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="vd+nYMhuFuet2VVLOiRrKNdMXZLYkPN0GTUOIEfGyA7c7VtotCjn07au4gjR+O6j6OZHBihrSBNBpzyJ9Qfk+ZT5dzD5c8hGI8uxe//fNb28nkMnUWk9qmHC8kh3HvyysreUbvzOX+u84vkH286dRTZBJFrPybjh0HVCqCM2l1QxqgDArlPZy+uz0vVSI2OF5GV01k1+t+JjxS7FFPHWbCbKe0GL1+jiO7QsVnpGO76BYcDrG656rj/oizhV3pNfCCuna+A3Ar/ICBvuvxuWfO0oGgZJZPNwwkwLtF/QJ8H60th1DVa++WV7rPaCAHGlu/me6IuwUvkA+BrFT89tc7W6sLNrkx/Clkhhjw==" />
 </div>
 
 <div>
