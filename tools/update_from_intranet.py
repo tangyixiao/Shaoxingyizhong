@@ -29,6 +29,7 @@ def latest_published_item_id() -> int:
 def recent_branch_paths(crawl_output: Path, min_item_id: int, lookback: int) -> set[str]:
     """Return branches likely to receive new leaves on their next refresh."""
     item_pattern = re.compile(r"/Item/(\d+)\.aspx", re.IGNORECASE)
+    category_index_pattern = re.compile(r"/Category_\d+/Index\.aspx", re.IGNORECASE)
     branches: set[str] = set()
     threshold = max(0, min_item_id - max(0, lookback))
     if crawl_output.exists():
@@ -36,26 +37,22 @@ def recent_branch_paths(crawl_output: Path, min_item_id: int, lookback: int) -> 
             text = page.read_text(encoding="utf-8", errors="ignore")
             if any(int(item_id) >= threshold for item_id in item_pattern.findall(text)):
                 branches.add("/" + page.relative_to(crawl_output).as_posix())
+        for homepage_name in ("Default.aspx", "default.aspx"):
+            homepage = crawl_output / homepage_name
+            if homepage.exists():
+                homepage_text = homepage.read_text(encoding="utf-8", errors="ignore")
+                branches.update(category_index_pattern.findall(homepage_text))
+                break
     return branches
 
 
-def all_branch_paths(crawl_output: Path) -> set[str]:
-    """Return every locally known category page so branches are always refreshed."""
-    if not crawl_output.exists():
-        return set()
-    return {
-        "/" + page.relative_to(crawl_output).as_posix()
-        for page in crawl_output.glob("Category_*/*.aspx")
-    }
-
-
 def build_recent_branch_seed(min_item_id: int, lookback: int) -> Path:
-    """Seed every known category branch; leaf filtering remains ID-based in a.py."""
-    branches = all_branch_paths(CRAWL_OUTPUT)
+    """Seed category branches containing leaves near the current item waterline."""
+    branches = recent_branch_paths(CRAWL_OUTPUT, min_item_id, lookback)
     INCREMENTAL_STATE.mkdir(parents=True, exist_ok=True)
     seed_file = INCREMENTAL_STATE / "recent_branches.txt"
     seed_file.write_text("\n".join(sorted(branches)) + "\n", encoding="utf-8")
-    print(f"branch_seeds={len(branches)} item_threshold={min_item_id} lookback={lookback}")
+    print(f"recent_branch_seeds={len(branches)} threshold={min_item_id} lookback={lookback}")
     return seed_file
 
 

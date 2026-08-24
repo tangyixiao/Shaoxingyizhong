@@ -5,7 +5,7 @@ from pathlib import Path
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
 from tools.build_pages import build_site
 from tools.publish_crawl import sync_crawl, sync_crawl_paths
-from tools.update_from_intranet import all_branch_paths, recent_branch_paths
+from tools.update_from_intranet import recent_branch_paths
 
 
 class IncrementalSyncTests(unittest.TestCase):
@@ -166,16 +166,21 @@ class IncrementalSyncTests(unittest.TestCase):
                 {"/Category_1/Index.aspx"},
             )
 
-    def test_all_branch_seed_includes_categories_without_recent_leaves(self):
-        """Every known category branch must be revisited even when its cached leaves are old."""
+    def test_recent_branch_seed_includes_categories_linked_from_homepage(self):
+        """A newly active category must be refreshed even if its cached branch is old."""
         with tempfile.TemporaryDirectory() as tmp:
             crawl = Path(tmp)
-            old_category = crawl / "Category_99" / "Index_8.aspx"
-            old_category.parent.mkdir()
-            old_category.write_text('<a href="/Item/100.aspx">old leaf</a>', encoding="utf-8")
+            category = crawl / "Category_34" / "Index.aspx"
+            category.parent.mkdir()
+            category.write_text('<a href="/Item/100.aspx">old cached leaf</a>', encoding="utf-8")
+            (crawl / "Default.aspx").write_text(
+                '<a href="/Category_34/Index.aspx">active category</a>', encoding="utf-8"
+            )
 
-            self.assertEqual(all_branch_paths(crawl), {"/Category_99/Index_8.aspx"})
-
+            self.assertEqual(
+                recent_branch_paths(crawl, min_item_id=23550, lookback=20),
+                {"/Category_34/Index.aspx"},
+            )
 
 if __name__ == "__main__":
     unittest.main()
