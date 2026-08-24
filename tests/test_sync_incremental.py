@@ -5,7 +5,7 @@ from pathlib import Path
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
 from tools.build_pages import build_site
 from tools.publish_crawl import sync_crawl, sync_crawl_paths
-from tools.update_from_intranet import recent_branch_paths
+from tools.update_from_intranet import all_branch_paths, recent_branch_paths
 
 
 class IncrementalSyncTests(unittest.TestCase):
@@ -85,13 +85,28 @@ class IncrementalSyncTests(unittest.TestCase):
             build_site(source, output)
 
             self.assertEqual((output / "index.html").read_text(encoding="utf-8"), "fresh homepage")
+            self.assertEqual((output / "Default.html").read_text(encoding="utf-8"), "fresh homepage")
+
+    def test_build_site_prefers_uppercase_default_when_case_variants_disagree(self):
+        """Case-sensitive CI must not let a stale lowercase alias overwrite the fresh root."""
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            output = Path(tmp) / "output"
+            source.mkdir()
+            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
+            (source / "default.aspx").write_text("stale lowercase alias", encoding="utf-8")
+            (source / "index.html").write_text("stale html alias", encoding="utf-8")
+
+            build_site(source, output)
+
+            self.assertEqual((output / "index.html").read_text(encoding="utf-8"), "fresh homepage")
 
     def test_build_site_prefers_aspx_over_stale_html_alias_for_category_branches(self):
         """A stale checked-in HTML alias must not overwrite the refreshed category source."""
         with tempfile.TemporaryDirectory() as tmp:
             source = Path(tmp) / "source"
             output = Path(tmp) / "output"
-            category = source / "Category_27"
+            category = source / "Category_987654"
             category.mkdir(parents=True)
             (category / "Index.aspx").write_text("fresh category", encoding="utf-8")
             (category / "Index.html").write_text("stale category", encoding="utf-8")
@@ -99,7 +114,7 @@ class IncrementalSyncTests(unittest.TestCase):
             build_site(source, output)
 
             self.assertEqual(
-                (output / "Category_27" / "Index.html").read_text(encoding="utf-8"),
+                (output / "Category_987654" / "Index.html").read_text(encoding="utf-8"),
                 "fresh category",
             )
 
@@ -150,6 +165,16 @@ class IncrementalSyncTests(unittest.TestCase):
                 recent_branch_paths(crawl, min_item_id=23515, lookback=20),
                 {"/Category_1/Index.aspx"},
             )
+
+    def test_all_branch_seed_includes_categories_without_recent_leaves(self):
+        """Every known category branch must be revisited even when its cached leaves are old."""
+        with tempfile.TemporaryDirectory() as tmp:
+            crawl = Path(tmp)
+            old_category = crawl / "Category_99" / "Index_8.aspx"
+            old_category.parent.mkdir()
+            old_category.write_text('<a href="/Item/100.aspx">old leaf</a>', encoding="utf-8")
+
+            self.assertEqual(all_branch_paths(crawl), {"/Category_99/Index_8.aspx"})
 
 
 if __name__ == "__main__":

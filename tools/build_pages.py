@@ -56,10 +56,16 @@ def build_site(source: Path, output: Path, base_path: str = "/Shaoxingyizhong/")
 
         root_default = source / "Default.aspx"
         lower_root_default = source / "default.aspx"
+        if relative == Path("default.aspx") and root_default.exists():
+            skipped += 1
+            continue
         if relative == Path("index.html") and (root_default.exists() or lower_root_default.exists()):
             skipped += 1
             continue
-        if relative.suffix.lower() == ".html" and relative.with_suffix(".aspx").exists():
+        if (
+            relative.suffix.lower() == ".html"
+            and (source / relative.with_suffix(".aspx")).exists()
+        ):
             skipped += 1
             continue
 
@@ -76,7 +82,12 @@ def build_site(source: Path, output: Path, base_path: str = "/Shaoxingyizhong/")
 
         if path.suffix.lower() in TEXT_SUFFIXES:
             text = path.read_text(encoding="utf-8")
-            destination.write_text(rewrite_text(text, base_path), encoding="utf-8", newline="")
+            rendered = rewrite_text(text, base_path)
+            destination.write_text(rendered, encoding="utf-8", newline="")
+            if destination == output / "index.html":
+                (output / "Default.html").write_text(
+                    rendered, encoding="utf-8", newline=""
+                )
         else:
             shutil.copy2(path, destination)
 
