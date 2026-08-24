@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>高三-绍兴市第一中学</title>
+    <title>高二、高三大扫除通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -356,7 +356,7 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -366,7 +366,7 @@ function GetUserInfo1(response){
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last on"><a href="/Category_35/Index.aspx">高三</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：106&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/21001.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（3.9-3.21）&#xD;点击数：107&#xD;发表时间：2025年03月03日">高三晚自修+答疑管理安排（3.9-3.21）</a><span class="dateRight">[03-03]</span></li><li><a href="/Item/1106.aspx" target="_blank" title="标题：资料6&amp;nbsp;&amp;nbsp;2006年清华大学保送生暨自主招生北京冬令营数学笔试试题&#xD;点击数：400&#xD;发表时间：2009年12月25日"><font style=";">资料6  2006年清华大学保送生暨自主招生北京冬令营数学笔…</font></a><span class="dateRight">[12-25]</span></li><li><a href="/Item/1098.aspx" target="_blank" title="标题：资料3&amp;nbsp;&amp;nbsp;2007年复旦大学自主招生200题&#xD;点击数：427&#xD;发表时间：2009年12月24日"><font style=";">资料3  2007年复旦大学自主招生200题</font></a><span class="dateRight">[12-24]</span></li><li><a href="/Item/23503.aspx" target="_blank" title="标题：8.14讲座通知&#xD;点击数：168&#xD;发表时间：2026年08月14日">8.14讲座通知</a><span class="dateRight">[08-14]</span></li><li class="last"><a href="/Item/23499.aspx" target="_blank" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：113&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a><span class="dateRight">[08-12]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：141&#xD;发表时间：2026年08月23日">通知两则</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23544.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：80&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利9…</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23549.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：28&#xD;发表时间：2026年08月24日">高二、高三大扫除通知</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/23542.aspx" target="_blank" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：52&#xD;发表时间：2026年08月23日">关于合唱比赛专题会议的通知</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：150&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：137&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a><span class="dateRight">[08-21]</span></li><li class="last"><a href="/Item/23543.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：34&#xD;发表时间：2026年08月23日">高一大扫除通知</a><span class="dateRight">[08-23]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=35>高三</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,65 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_35/Index.aspx" target="_self">高三</a></div>
-                    <h3>高三</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2022-04-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/15296.aspx" target="_self" title="标题：高三晚自修和答疑安排（4.2-4.15）&#xD;点击数：301&#xD;发表时间：2022年04月07日">高三晚自修和答疑安排（4.2-4.15）</a></li><li><span class="date">2022-03-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/15131.aspx" target="_self" title="标题：高三限时训练安排（二）&#xD;点击数：1499&#xD;发表时间：2022年03月22日">高三限时训练安排（二）</a></li><li><span class="date">2022-03-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/15205.aspx" target="_self" title="标题：高三晚自修和答疑安排（3.20-4.1）&#xD;点击数：200&#xD;发表时间：2022年03月21日">高三晚自修和答疑安排（3.20-4.1）</a></li><li><span class="date">2022-03-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/15093.aspx" target="_self" title="标题：高三晚自修和答疑安排（3.6-3.18）&#xD;点击数：218&#xD;发表时间：2022年03月07日">高三晚自修和答疑安排（3.6-3.18）</a></li><li><span class="date">2022-02-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/15019.aspx" target="_self" title="标题：高三限时训练安排（一）&#xD;点击数：993&#xD;发表时间：2022年02月25日">高三限时训练安排（一）</a></li><li class="split"></li><li><span class="date">2022-02-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/15010.aspx" target="_self" title="标题：高三年级各班级任课教师会议安排（时间有修改）&#xD;点击数：236&#xD;发表时间：2022年02月24日">高三年级各班级任课教师会议安排（时间有修改）</a></li><li><span class="date">2022-02-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14968.aspx" target="_self" title="标题：高三晚自修+答疑安排（2.20-3.4）&#xD;点击数：286&#xD;发表时间：2022年02月21日">高三晚自修+答疑安排（2.20-3.4）</a></li><li><span class="date">2022-02-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14941.aspx" target="_self" title="标题：高三晚自修+答疑安排（2.9-2.18）&#xD;点击数：140&#xD;发表时间：2022年02月16日">高三晚自修+答疑安排（2.9-2.18）</a></li><li><span class="date">2022-01-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14897.aspx" target="_self" title="标题：高三近期工作安排&#xD;点击数：444&#xD;发表时间：2022年01月21日">高三近期工作安排</a></li><li><span class="date">2022-01-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14859.aspx" target="_self" title="标题：高三晚自修+答疑安排（1.16-1.21）&#xD;点击数：214&#xD;发表时间：2022年01月14日">高三晚自修+答疑安排（1.16-1.21）</a></li><li class="split"></li><li><span class="date">2022-01-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14831.aspx" target="_self" title="标题：高三晚自修+答疑安排（1.10-1.14）&#xD;点击数：231&#xD;发表时间：2022年01月09日">高三晚自修+答疑安排（1.10-1.14）</a></li><li><span class="date">2021-12-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14742.aspx" target="_self" title="标题：高三晚自修+答疑安排（12.26-1.7）&#xD;点击数：363&#xD;发表时间：2021年12月24日">高三晚自修+答疑安排（12.26-1.7）</a></li><li><span class="date">2021-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14553.aspx" target="_self" title="标题：高三12月限时训练安排（考场座位有修改）&#xD;点击数：1222&#xD;发表时间：2021年12月17日">高三12月限时训练安排（考场座位有修改）</a></li><li><span class="date">2021-12-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14649.aspx" target="_self" title="标题：高三晚自修+答疑安排（11.12-12.24）&#xD;点击数：344&#xD;发表时间：2021年12月10日">高三晚自修+答疑安排（11.12-12.24）</a></li><li><span class="date">2021-11-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14520.aspx" target="_self" title="标题：高三晚自修+答疑安排（11.28-12.10）&#xD;点击数：441&#xD;发表时间：2021年11月30日">高三晚自修+答疑安排（11.28-12.10）</a></li><li class="split"></li><li><span class="date">2021-11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14313.aspx" target="_self" title="标题：高三11月限时训练安排（物理政治化学考场更新）&#xD;点击数：1526&#xD;发表时间：2021年11月24日">高三11月限时训练安排（物理政治化学考场更新）</a></li><li><span class="date">2021-11-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14395.aspx" target="_self" title="标题：高三晚自修及答疑安排（11.14-11.26）&#xD;点击数：423&#xD;发表时间：2021年11月22日">高三晚自修及答疑安排（11.14-11.26）</a></li><li><span class="date">2021-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14430.aspx" target="_self" title="标题：高三英语写作讲座通知&#xD;点击数：271&#xD;发表时间：2021年11月17日">高三英语写作讲座通知</a></li><li><span class="date">2021-10-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14294.aspx" target="_self" title="标题：高三晚自修安排（10.31-11.12）&#xD;点击数：277&#xD;发表时间：2021年10月29日">高三晚自修安排（10.31-11.12）</a></li><li><span class="date">2021-10-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14184.aspx" target="_self" title="标题：高三10月限时训练安排（一）&#xD;点击数：1273&#xD;发表时间：2021年10月26日">高三10月限时训练安排（一）</a></li><li class="split"></li><li><span class="date">2021-10-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14183.aspx" target="_self" title="标题：高三晚自修安排（10.17-10.29）&#xD;点击数：305&#xD;发表时间：2021年10月15日">高三晚自修安排（10.17-10.29）</a></li><li><span class="date">2021-10-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14076.aspx" target="_self" title="标题：高三晚自修安排（10.3-10.15）&#xD;点击数：501&#xD;发表时间：2021年10月06日">高三晚自修安排（10.3-10.15）</a></li><li><span class="date">2021-09-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14017.aspx" target="_self" title="标题：高三9月限时训练安排（二）&#xD;点击数：292&#xD;发表时间：2021年09月26日">高三9月限时训练安排（二）</a></li><li><span class="date">2021-09-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13949.aspx" target="_self" title="标题：高三晚自修安排（9.21-9.29）&#xD;点击数：275&#xD;发表时间：2021年09月18日">高三晚自修安排（9.21-9.29）</a></li><li><span class="date">2021-09-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13839.aspx" target="_self" title="标题：高三晚自修安排（9.5-9.17）&#xD;点击数：717&#xD;发表时间：2021年09月13日">高三晚自修安排（9.5-9.17）</a></li><li class="split"></li><li><span class="date">2021-09-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13893.aspx" target="_self" title="标题：高三9月限时训练安排（一）&#xD;点击数：566&#xD;发表时间：2021年09月10日">高三9月限时训练安排（一）</a></li><li><span class="date">2021-08-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13795.aspx" target="_self" title="标题：高三晚自修安排（8.21-9.3）&#xD;点击数：223&#xD;发表时间：2021年08月27日">高三晚自修安排（8.21-9.3）</a></li><li><span class="date">2021-06-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13595.aspx" target="_self" title="标题：高考期间高三答疑老师安排&#xD;点击数：292&#xD;发表时间：2021年06月04日">高考期间高三答疑老师安排</a></li><li><span class="date">2021-05-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13517.aspx" target="_self" title="标题：高三高考前安排（有修改）&#xD;点击数：1150&#xD;发表时间：2021年05月28日">高三高考前安排（有修改）</a></li><li><span class="date">2021-05-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13459.aspx" target="_self" title="标题：高三晚自修+答疑安排（5.23-6.9）&#xD;点击数：501&#xD;发表时间：2021年05月21日">高三晚自修+答疑安排（5.23-6.9）</a></li><li class="split"></li><li><span class="date">2021-05-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13328.aspx" target="_self" title="标题：高三晚自修+答疑安排（5.9-5.21）&#xD;点击数：554&#xD;发表时间：2021年05月21日">高三晚自修+答疑安排（5.9-5.21）</a></li><li><span class="date">2021-05-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13238.aspx" target="_self" title="标题：高三晚自修+答疑安排（4.24-5.7）&#xD;点击数：631&#xD;发表时间：2021年05月10日">高三晚自修+答疑安排（4.24-5.7）</a></li><li><span class="date">2021-05-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13330.aspx" target="_self" title="标题：高三最后阶段安排&#xD;点击数：795&#xD;发表时间：2021年05月07日">高三最后阶段安排</a></li><li><span class="date">2021-04-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13159.aspx" target="_self" title="标题：高三4月5月限时训练安排&#xD;点击数：1304&#xD;发表时间：2021年04月23日">高三4月5月限时训练安排</a></li><li class="last"><span class="date">2021-04-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13147.aspx" target="_self" title="标题：高三晚自修安排（4.11-4.23）&#xD;点击数：408&#xD;发表时间：2021年04月21日">高三晚自修安排（4.11-4.23）</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_4.aspx">上一页</a>
- <a href="Index.aspx">1</a> <a href="Index_2.aspx">2</a> <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <b><a href="Index_5.aspx">5</a></b> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> 
-<a href="Index_6.aspx">下一页</a>
- <a href="Index_9.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">高二、高三大扫除通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月24日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23549"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23549},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23549";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-family: 微软雅黑, sans-serif; color: rgb(51, 51, 51); font-size: 20px;">高二、高三各班级：</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 12px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">         <span style="color: rgb(51, 51, 51); font-family: 微软雅黑; font-size: 20px; text-indent: 48px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);">为迎接新学期到来，营造整洁、有序的教学环境，今天第九节课将组织开展教室及走班教室大扫除活动。16：50左右年管会将进行检查。具体分配方案和要求如下：</span></span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><strong style="color: rgb(51, 51, 51); font-size: 20px; text-indent: 48px; font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif;"><span style="font-family: 微软雅黑; letter-spacing: 0px;">一、走班教室、阶梯教室分配方案</span></strong></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 12px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)"><span style="color: rgb(51, 51, 51); font-family: 微软雅黑; font-size: 20px; text-indent: 48px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><strong style="color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; font-size: 20px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);"><span style="font-family: 微软雅黑; letter-spacing: 0px;"><strong style="font-size: 20px; text-wrap-mode: wrap;"><span style="font-family: 宋体;"><strong style="color: rgb(51, 51, 51); font-size: 20px; text-indent: 48px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif;"><span style="font-family: 微软雅黑; letter-spacing: 0px;"><strong><span style="font-family: 宋体;">创新学部：</span></strong></span></strong></span></strong></span></strong></span></span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><img src="http://10.176.17.2/UploadFiles/xwzx/2026/8/202608231212082948.png" title="202608231212082948.png" style="text-align: center; max-width: 100%;" /></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white">
+</p><p style="text-wrap-mode: wrap;"><strong style="color: rgb(51, 51, 51); font-size: 20px; text-indent: 48px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif;"><span style="font-family: 微软雅黑; letter-spacing: 0px;"><strong><span style="letter-spacing: 0px; font-family: 宋体;">高二</span></strong></span></strong><strong style="color: rgb(51, 51, 51); font-size: 20px; text-indent: 48px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif;"><span style="font-family: 微软雅黑; letter-spacing: 0px;"><strong><span style="font-family: 宋体;">学部：</span></strong></span></strong></p><p style="text-wrap-mode: wrap;"><img src="http://10.176.17.2/UploadFiles/xwzx/2026/8/202608171809168065.png" title="202608171809168065.png" style="max-width: 100%;" /></p><p style="text-wrap-mode: wrap;">
+</p><p style="text-wrap-mode: wrap;"><span style="font-size: 20px;"><strong><span style="font-family: 宋体;">高三学部：</span></strong></span></p><p style="text-wrap-mode: wrap;"><img src="http://10.176.17.2/UploadFiles/xwzx/2026/8/202608171809339414.png" title="202608171809339414.png" style="max-width: 100%;" /></p><p style="text-wrap-mode: wrap;">
+</p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="letter-spacing: 0px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-family: 微软雅黑;">二、教室大扫除要求</span></strong><strong><span style="letter-spacing: 0px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-family: 微软雅黑;"></span></strong></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">1.地面清洁：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">教室内地面需用水拖洗干净，地面不得放置书籍、杂物等；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">2.桌椅整理：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">桌椅需对齐摆放，桌面不得有各种刻画、涂写痕迹；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">3.台面清理：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">教室南、西、北台面需保持清洁，不得放置书本、杂物等；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">4.黑板清洁：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">黑板需用水擦拭干净，粉笔槽内的粉笔灰等杂物需清理干净；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">5.门窗清洁：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">窗户、门需擦拭干净，无明显污渍；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">6.雨伞架整理：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">雨伞架上的雨伞需扎好并摆放整齐，伞柄朝向一致朝外；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><span style="font-family: 微软雅黑; letter-spacing: 0px;">7</span><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">.阳台清洁：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">阳台地面需用水拖洗干净，沟槽内不得有污垢，扶栏内侧玻璃需擦拭干净，做到无水印、无灰尘残留；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">8.阳台物品规范：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">阳台护栏上不得晾晒衣物、抹布等物品；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">9.绿植养护：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">教室内的绿植需保持生机盎然，及时浇水、养护；</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">10.垃圾桶清理：</span></strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">垃圾桶内的垃圾需全部清空。</span></span></p><p><span style="font-size: 20px;"><span style="font-family: 微软雅黑; letter-spacing: 0px;">
+</span></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-size: 20px;"><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;">三、包干区大扫除要求</span></strong><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;"></span></strong><strong><span style="font-family: 微软雅黑; letter-spacing: 0px;"></span></strong></span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; text-indent: 32px; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-family: 微软雅黑; letter-spacing: 0px; font-size: 20px;">包干区需达到以下标准：教室内外地面用水拖洗干净；抽屉内无杂物；垃圾桶清空；桌椅摆放整齐；台面清洁；黑板、窗户及门用水擦拭干净；桌面无刻画、涂写痕迹。</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; text-indent: 32px; background: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-family: 微软雅黑; color: rgb(255, 0, 0); letter-spacing: 0px; font-size: 20px;">若大扫除过程中需要使用铲刀、桌面字迹清理剂等工具，可到德育处借取。</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white">
+</p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;text-align: right;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">德育处 </span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;text-align: right;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">2026</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">年8月24日</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：141&#xD;发表时间：26年08月23日">通知两则</a>[ 08-23 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +487,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
