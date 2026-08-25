@@ -54,6 +54,7 @@ def build_site(
     output: Path,
     base_path: str = "/Shaoxingyizhong/",
     attachment_routes: Path | None = None,
+    fail_on_unresolved: bool = True,
 ) -> dict[str, int]:
     if output.exists():
         shutil.rmtree(output)
@@ -116,9 +117,12 @@ def build_site(
             json.dumps(unresolved_by_file, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
-        raise RouteError(
+        message = (
             f"unresolved image attachments in {len(unresolved_by_file)} source files"
         )
+        if fail_on_unresolved:
+            raise RouteError(message)
+        print(f"warning: {message}; see attachment-errors.json")
 
     return {"copied": copied, "converted_aspx": converted, "skipped": skipped}
 
@@ -129,6 +133,11 @@ def main() -> int:
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--base-path", default="/Shaoxingyizhong/")
     parser.add_argument("--attachment-routes", type=Path)
+    parser.add_argument(
+        "--allow-unresolved-attachments",
+        action="store_true",
+        help="build while retaining and reporting malformed legacy image URLs",
+    )
     args = parser.parse_args()
     print(
         json.dumps(
@@ -137,6 +146,7 @@ def main() -> int:
                 args.output,
                 args.base_path,
                 args.attachment_routes,
+                not args.allow_unresolved_attachments,
             ),
             sort_keys=True,
         )

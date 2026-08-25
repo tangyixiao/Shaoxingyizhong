@@ -169,6 +169,28 @@ class AttachmentRoutingTests(unittest.TestCase):
                 {"Item/2.aspx": ["/UploadFiles/xwzx/2026/../secret.jpg"]},
             )
 
+    def test_build_site_can_report_legacy_unresolved_images_and_continue(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "source"
+            output = root / "output"
+            source.mkdir()
+            (source / "Item.aspx").write_text(
+                '<img src="/UploadFiles/UploadFiles/../Local%20Settings/Temp/missing.jpg">',
+                encoding="utf-8",
+            )
+            build_site(
+                source,
+                output,
+                attachment_routes=ROOT / "attachment_routes.json",
+                fail_on_unresolved=False,
+            )
+            self.assertTrue((output / "Item.html").exists())
+            errors = json.loads(
+                (output / "attachment-errors.json").read_text(encoding="utf-8")
+            )
+            self.assertIn("Item.aspx", errors)
+
 
 if __name__ == "__main__":
     unittest.main()
