@@ -53,7 +53,7 @@ class AttachmentRoutingTests(unittest.TestCase):
         self.assertEqual(
             routed.raw_url,
             "https://cdn.jsdelivr.net/gh/tangyixiao/"
-            "Shaoxingyizhong-img-misc/main/UploadFiles/dw/2024/3/"
+            "Shaoxingyizhong-img-misc@main/UploadFiles/dw/2024/3/"
             "%E6%A0%A1%E5%9B%AD%20%E5%9B%BE.jpg",
         )
 
@@ -112,13 +112,13 @@ class AttachmentRoutingTests(unittest.TestCase):
         self.assertEqual(unresolved, set())
         self.assertIn(
             "https://cdn.jsdelivr.net/gh/tangyixiao/"
-            "Shaoxingyizhong-img-xwzx-2025-oct/main/"
+            "Shaoxingyizhong-img-xwzx-2025-oct@main/"
             "UploadFiles/xwzx/2025/10/a.jpg",
             rewritten,
         )
         self.assertIn(
             "https://cdn.jsdelivr.net/gh/tangyixiao/"
-            "Shaoxingyizhong-img-misc/main/UploadFiles/dw/2024/3/"
+            "Shaoxingyizhong-img-misc@main/UploadFiles/dw/2024/3/"
             "%E6%A0%A1%E5%9B%AD%20%E5%9B%BE.png",
             rewritten,
         )
