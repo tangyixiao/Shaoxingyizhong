@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23514.aspx" target="_blank" title="标题：开学工作行事历&#xD;点击数：177&#xD;发表时间：2026年08月19日">开学工作行事历</a><span class="dateRight">[08-19]</span></li><li><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：229&#xD;发表时间：2026年08月12日"><font style="font-weight:bold;font-style:italic ;;">教学楼办公室调整公告(有修改)</font></a><span class="dateRight">[08-12]</span></li><li><a href="/Item/23515.aspx" target="_blank" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：115&#xD;发表时间：2026年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23507.aspx" target="_blank" title="标题：教育集团全体教职工大会通知&#xD;点击数：108&#xD;发表时间：2026年08月18日">教育集团全体教职工大会通知</a><span class="dateRight">[08-18]</span></li><li><a href="/Item/23504.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：170&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一…</a><span class="dateRight">[08-14]</span></li><li><a href="/Item/23493.aspx" target="_blank" title="标题：2025学年各项先进推优名单公示&#xD;点击数：125&#xD;发表时间：2026年07月13日">2025学年各项先进推优名单公示</a><span class="dateRight">[07-13]</span></li><li class="last"><a href="/Item/23490.aspx" target="_blank" title="标题：第二届“高考突出贡献奖”和“育人楷模奖”评选通知&#xD;点击数：167&#xD;发表时间：2026年07月08日">第二届“高考突出贡献奖”和“育人楷模奖”评选通知</a><span class="dateRight">[07-08]</span></li>
+            <li class="first"><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：130&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/23514.aspx" target="_blank" title="标题：开学工作行事历&#xD;点击数：288&#xD;发表时间：2026年08月19日">开学工作行事历</a><span class="dateRight">[08-19]</span></li><li><a href="/Item/23515.aspx" target="_blank" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：152&#xD;发表时间：2026年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23504.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：184&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一…</a><span class="dateRight">[08-14]</span></li><li><a href="/Item/23490.aspx" target="_blank" title="标题：第二届“高考突出贡献奖”和“育人楷模奖”评选通知&#xD;点击数：167&#xD;发表时间：2026年07月08日">第二届“高考突出贡献奖”和“育人楷模奖”评选通知</a><span class="dateRight">[07-08]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：295&#xD;发表时间：2026年08月12日">教学楼办公室调整公告(有修改)</a><span class="dateRight">[08-12]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23507.aspx" target="_self" title="标题：教育集团全体教职工大会通知&#xD;点击数：108&#xD;发表时间：26年08月18日">教育集团全体教职工大会通知</a>[ 08-18 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23515.aspx" target="_self" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：115&#xD;发表时间：26年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a>[ 08-20 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23507.aspx" target="_self" title="标题：教育集团全体教职工大会通知&#xD;点击数：112&#xD;发表时间：26年08月18日">教育集团全体教职工大会通知</a>[ 08-18 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23515.aspx" target="_self" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：152&#xD;发表时间：26年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a>[ 08-20 ]</div>
                         </div>
                     </div>
 

@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>2026年绍兴一中教育集团高一军训开营仪式方案及工作安排--德育处-绍兴市第一中学</title>
+    <title>中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知--党政办-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -353,10 +353,10 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：184&#xD;发表时间：2026年08月23日">通知两则</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23544.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：113&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利9…</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23542.aspx" target="_blank" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：71&#xD;发表时间：2026年08月23日">关于合唱比赛专题会议的通知</a><span class="dateRight">[08-23]</span></li><li><a href="/Item/23549.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：70&#xD;发表时间：2026年08月24日">高二、高三大扫除通知</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/23540.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：167&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/20170.aspx" target="_blank" title="标题：2026学年第一学期绍兴一中包干区分配方案及打扫要求&#xD;点击数：1907&#xD;发表时间：2024年09月02日"><font style="font-weight:bold;font-style:normal;;">2026学年第一学期绍兴一中包干区分配方案及打扫要求</font></a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23537.aspx" target="_blank" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：148&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a><span class="dateRight">[08-21]</span></li>
+            <li class="first"><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：130&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/23514.aspx" target="_blank" title="标题：开学工作行事历&#xD;点击数：288&#xD;发表时间：2026年08月19日">开学工作行事历</a><span class="dateRight">[08-19]</span></li><li><a href="/Item/23515.aspx" target="_blank" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：152&#xD;发表时间：2026年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23504.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：184&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一…</a><span class="dateRight">[08-14]</span></li><li><a href="/Item/23490.aspx" target="_blank" title="标题：第二届“高考突出贡献奖”和“育人楷模奖”评选通知&#xD;点击数：167&#xD;发表时间：2026年07月08日">第二届“高考突出贡献奖”和“育人楷模奖”评选通知</a><span class="dateRight">[07-08]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：295&#xD;发表时间：2026年08月12日">教学楼办公室调整公告(有修改)</a><span class="dateRight">[08-12]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
+                    <h3>党政办</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</h2>
+                        <h2 class="title">中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月21日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23540"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月25日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23552"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23540},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23552},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23540";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23552";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">时间：</span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">202</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">6</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"><span style="font-family:微软雅黑">年</span><span style="font-family:微软雅黑">8 月2</span></span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">3</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"><span style="font-family:微软雅黑">日上午</span><span style="font-family:微软雅黑"> 8 ：00 ~8：40  </span></span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">地点：</span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">学校田径场（雨天改至</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">体育馆</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">）</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">参加人员：</span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">军训营领导、人武部领导、相关老师和全体参训学生、教官、指导员。</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"><span style="font-family:微软雅黑">议</span><span style="font-family:微软雅黑"> 程：</span></span></strong></p><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">1、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">总教官：整队向军训营营长报告</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">2、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">奏唱国歌（全体起立）</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">3、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">主持人：介绍出席领导及嘉宾</span></p><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">4、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">军训营营长（校长）颁布军训动员令</span></p><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">5、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">人武部领导讲话</span></p><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">6、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">学生代表发言</span></p><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">7、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">授旗仪式（教官上台）</span></p><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">8、</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">军训营营长宣布开训</span></p><p style="margin-top: 0;margin-right: 0;margin-bottom: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">领导离席，教官带领各连队到训练场地开始</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">训练</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">！</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">工作安排：</span></strong></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">校网通知、开营方案打印</span></strong><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">：</span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">诸佳英</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">连旗准备</span></strong><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">：</span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">茹敏</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">背景制作：</span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">王佩金</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"><span style="font-family:微软雅黑">摄</span><span style="font-family:微软雅黑">    影：</span></span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">党政办</span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"><span style="font-family:微软雅黑">音</span><span style="font-family:微软雅黑">    响</span></span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"><span style="font-family:微软雅黑">：张</span><span style="font-family:微软雅黑">  帆、胡建国</span></span></p><p style=";text-indent: 0;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">主席台</span></strong><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">横幅</span></strong><strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">：</span></strong><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">总务处</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">                 </span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"> <span style="font-family:微软雅黑">                                         </span></span></p><p style=";text-indent: 125px;padding: 0;line-height: 32px;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"> </span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:125px;padding:0 0 0 0 ;text-autospace:ideograph-numeric;text-align:right;line-height:32px;background:rgb(255,255,255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">                                             </span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"> </span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"><span style="font-family:微软雅黑">德育处</span><span style="font-family:微软雅黑">   </span></span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:0;padding:0 0 0 0 ;text-autospace:ideograph-numeric;text-align:right;line-height:32px;background:rgb(255,255,255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">                                                                 </span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">2026年</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px"> <span style="font-family:微软雅黑">8月2</span></span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">1</span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px">日</span></p><p style="margin: 0 0 10px;text-indent: 0;padding: 0;background: rgb(255, 255, 255)"><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 8px"> </span></p><p>
+     <p><img src="/UploadFiles/xwzx/2026/8/202608250952304132.png" style="max-width: 100%; " title="202608250952304132.png" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608250952300136.png" style="max-width: 100%; " title="202608250952300136.png" /></p><p>
 </p>
     
     </div><!--endprint-->
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23538.aspx" target="_self" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：68&#xD;发表时间：26年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a>[ 08-21 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23542.aspx" target="_self" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：71&#xD;发表时间：26年08月23日">关于合唱比赛专题会议的通知</a>[ 08-23 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23515.aspx" target="_self" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：152&#xD;发表时间：26年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a>[ 08-20 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 

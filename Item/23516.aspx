@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23516.aspx" target="_blank" title="标题：高二、高三协作体时间安排&#xD;点击数：76&#xD;发表时间：2026年08月20日">高二、高三协作体时间安排</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23466.aspx" target="_blank" title="标题：新高二、新高三协作体考试时间和范围&#xD;点击数：224&#xD;发表时间：2026年07月02日">新高二、新高三协作体考试时间和范围</a><span class="dateRight">[07-02]</span></li><li><a href="/Item/23221.aspx" target="_blank" title="标题：05.18高三考试考场布置及相关要求&#xD;点击数：71&#xD;发表时间：2026年05月15日">05.18高三考试考场布置及相关要求</a><span class="dateRight">[05-15]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li class="last"><a href="/Item/13467.aspx" target="_blank" title="标题：复旦大学、上海交通大学“三位一体”综合评价招生推荐公示&#xD;点击数：339&#xD;发表时间：2021年05月22日">复旦大学、上海交通大学“三位一体”综合评价招生推荐公示</a><span class="dateRight">[05-22]</span></li>
+            <li class="first"><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：126&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/23516.aspx" target="_blank" title="标题：高二、高三协作体时间安排&#xD;点击数：125&#xD;发表时间：2026年08月20日">高二、高三协作体时间安排</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9377&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Item/23467.aspx" target="_blank" title="标题：2026年7月学考考点组织机构&#xD;点击数：166&#xD;发表时间：2026年07月02日">2026年7月学考考点组织机构</a><span class="dateRight">[07-02]</span></li>
           
                     </ul>
                 </div>
@@ -438,8 +438,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23482.aspx" target="_self" title="标题：7月8日和7月14日监考和阅卷安排&#xD;点击数：227&#xD;发表时间：26年07月07日">7月8日和7月14日监考和阅卷安排</a>[ 07-07 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23482.aspx" target="_self" title="标题：7月8日和7月14日监考和阅卷安排&#xD;点击数：228&#xD;发表时间：26年07月07日">7月8日和7月14日监考和阅卷安排</a>[ 07-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23551.aspx" target="_self" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：126&#xD;发表时间：26年08月25日">关于叶军奖学金的获奖公示</a>[ 08-25 ]</div>
                         </div>
                     </div>
 
