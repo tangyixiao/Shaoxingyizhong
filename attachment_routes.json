@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "owner": "tangyixiao",
+  "branch": "main",
+  "raw_base": "https://cdn.jsdelivr.net/gh",
+  "image_extensions": [".jpg", ".jpeg", ".png", ".bmp", ".gif"],
+  "max_repository_bytes": 4900000000,
+  "max_commit_bytes": 1500000000,
+  "routes": [
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2021",
+      "globs": ["UploadFiles/xwzx/2021/**"]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2022-h1",
+      "globs": [
+        "UploadFiles/xwzx/2022/1/**",
+        "UploadFiles/xwzx/2022/2/**",
+        "UploadFiles/xwzx/2022/3/**",
+        "UploadFiles/xwzx/2022/4/**",
+        "UploadFiles/xwzx/2022/5/**",
+        "UploadFiles/xwzx/2022/6/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2022-h2",
+      "globs": [
+        "UploadFiles/xwzx/2022/7/**",
+        "UploadFiles/xwzx/2022/8/**",
+        "UploadFiles/xwzx/2022/9/**",
+        "UploadFiles/xwzx/2022/10/**",
+        "UploadFiles/xwzx/2022/11/**",
+        "UploadFiles/xwzx/2022/12/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2023-h1",
+      "globs": [
+        "UploadFiles/xwzx/2023/1/**",
+        "UploadFiles/xwzx/2023/2/**",
+        "UploadFiles/xwzx/2023/3/**",
+        "UploadFiles/xwzx/2023/4/**",
+        "UploadFiles/xwzx/2023/5/**",
+        "UploadFiles/xwzx/2023/6/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2023-h2",
+      "globs": [
+        "UploadFiles/xwzx/2023/7/**",
+        "UploadFiles/xwzx/2023/8/**",
+        "UploadFiles/xwzx/2023/9/**",
+        "UploadFiles/xwzx/2023/10/**",
+        "UploadFiles/xwzx/2023/11/**",
+        "UploadFiles/xwzx/2023/12/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2024",
+      "globs": ["UploadFiles/xwzx/2024/**"]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2025-jan-sep",
+      "globs": [
+        "UploadFiles/xwzx/2025/1/**",
+        "UploadFiles/xwzx/2025/2/**",
+        "UploadFiles/xwzx/2025/3/**",
+        "UploadFiles/xwzx/2025/4/**",
+        "UploadFiles/xwzx/2025/5/**",
+        "UploadFiles/xwzx/2025/6/**",
+        "UploadFiles/xwzx/2025/7/**",
+        "UploadFiles/xwzx/2025/8/**",
+        "UploadFiles/xwzx/2025/9/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2025-oct",
+      "globs": ["UploadFiles/xwzx/2025/10/**"]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2025-nov-dec",
+      "globs": [
+        "UploadFiles/xwzx/2025/11/**",
+        "UploadFiles/xwzx/2025/12/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2026-h1",
+      "globs": [
+        "UploadFiles/xwzx/2026/1/**",
+        "UploadFiles/xwzx/2026/2/**",
+        "UploadFiles/xwzx/2026/3/**",
+        "UploadFiles/xwzx/2026/4/**",
+        "UploadFiles/xwzx/2026/5/**",
+        "UploadFiles/xwzx/2026/6/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-xwzx-2026-h2",
+      "globs": [
+        "UploadFiles/xwzx/2026/7/**",
+        "UploadFiles/xwzx/2026/8/**",
+        "UploadFiles/xwzx/2026/9/**",
+        "UploadFiles/xwzx/2026/10/**",
+        "UploadFiles/xwzx/2026/11/**",
+        "UploadFiles/xwzx/2026/12/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-legacy-2009-2018",
+      "globs": [
+        "UploadFiles/UploadFiles/2009*/**",
+        "UploadFiles/UploadFiles/2010*/**",
+        "UploadFiles/UploadFiles/2011*/**",
+        "UploadFiles/UploadFiles/2012*/**",
+        "UploadFiles/UploadFiles/2013*/**",
+        "UploadFiles/UploadFiles/2014*/**",
+        "UploadFiles/UploadFiles/2015*/**",
+        "UploadFiles/UploadFiles/2016*/**",
+        "UploadFiles/UploadFiles/2017*/**",
+        "UploadFiles/UploadFiles/2018*/**"
+      ]
+    },
+    {
+      "repository": "Shaoxingyizhong-img-legacy-2019-2021",
+      "globs": [
+        "UploadFiles/UploadFiles/2019*/**",
+        "UploadFiles/UploadFiles/2020*/**",
+        "UploadFiles/UploadFiles/2021*/**"
+      ]
+    }
+  ],
+  "fallback_repository": "Shaoxingyizhong-img-misc",
+  "overrides": {
+    "UploadFiles/xwzx/2026/4/202604081018322295.png": {
+      "repository": "Shaoxingyizhong-img-xwzx-2026-h1",
+      "target_path": "UploadFiles/xwzx/2026/4/202604081018322295.webp",
+      "transform": {
+        "format": "webp",
+        "quality": 90,
+        "strip": true
+      }
+    }
+  }
+}

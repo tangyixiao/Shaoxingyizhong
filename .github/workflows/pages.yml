@@ -26,7 +26,7 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Build browser-renderable Pages site
-        run: python3 tools/build_pages.py --source . --output _site --base-path /Shaoxingyizhong/
+        run: python3 tools/build_pages.py --source . --output _site --base-path /Shaoxingyizhong/ --attachment-routes attachment_routes.json
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
