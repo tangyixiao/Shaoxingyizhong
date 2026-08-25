@@ -49,6 +49,14 @@ class RouteConfig:
             raise RouteError("attachment route version must be 1")
         self.owner = str(data["owner"])
         self.branch = str(data["branch"])
+        # Pin published URLs to immutable commits when a repository ref is
+        # supplied.  This avoids stale or partially populated CDN caches for
+        # the mutable ``main`` branch while keeping ``branch`` as a fallback
+        # for repositories that are not pinned yet.
+        self.repository_refs = {
+            str(repository): str(ref)
+            for repository, ref in dict(data.get("repository_refs", {})).items()
+        }
         self.raw_base = str(data["raw_base"]).rstrip("/")
         self.image_extensions = frozenset(
             str(item).lower() for item in data["image_extensions"]
@@ -106,7 +114,7 @@ class RouteConfig:
         raw_path = "/".join(quote(part, safe="") for part in target_path.split("/"))
         owner = quote(self.owner, safe="")
         repo = quote(repository, safe="")
-        branch = quote(self.branch, safe="")
+        branch = quote(self.repository_refs.get(repository, self.branch), safe="")
         # jsDelivr's GitHub endpoint uses ``repo@version/path``; raw GitHub
         # endpoints use ``repo/version/path``. A literal ``main/`` segment
         # makes jsDelivr return 404 even when the GitHub file exists.
