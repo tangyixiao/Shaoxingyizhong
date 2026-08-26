@@ -31,6 +31,15 @@ ROOT_URL_RE = re.compile(
     r"(?P<path>[^\)\"']*)",
     re.IGNORECASE,
 )
+# Old templates occasionally emit protocol-relative local URLs such as
+# ``url(//images/nopic.gif)``.  On GitHub Pages those resolve against the
+# current host's root (and bypass the project subpath), so normalize known
+# first-party asset roots before the ordinary root-path rewrite runs.
+LOCAL_PROTOCOL_RELATIVE_RE = re.compile(
+    r"(?P<prefix>(?:\b(?:href|src|action|poster|data-[A-Za-z0-9_-]+)\s*=\s*[\"']|"
+    r"url\(\s*[\"']?))//(?P<path>(?:images|Template|js|css|UploadFiles)(?:/|$)[^\"'\s\)]*)",
+    re.IGNORECASE,
+)
 ASPX_RE = re.compile(r"\.aspx(?=(?:[?#][^\"'\s<>]*)?[\"'\s<>])", re.IGNORECASE)
 ICON_LINK_RE = re.compile(
     r"<link\b[^>]*\brel\s*=\s*[\"'](?:shortcut\s+)?icon[\"'][^>]*>",
@@ -40,6 +49,9 @@ ICON_LINK_RE = re.compile(
 
 def rewrite_text(text: str, base_path: str) -> str:
     base = "/" + base_path.strip("/") + "/"
+    text = LOCAL_PROTOCOL_RELATIVE_RE.sub(
+        lambda match: match.group("prefix") + base + match.group("path"), text
+    )
     text, _ = ROOT_ATTR_RE.subn(
         lambda match: match.group("prefix") + base + match.group("path"), text
     )
