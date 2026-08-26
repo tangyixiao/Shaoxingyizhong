@@ -40,6 +40,10 @@ LOCAL_PROTOCOL_RELATIVE_RE = re.compile(
     r"url\(\s*[\"']?))//(?P<path>(?:images|Template|js|css|UploadFiles)(?:/|$)[^\"'\s\)]*)",
     re.IGNORECASE,
 )
+NO_PICTURE_URL_RE = re.compile(
+    r"url\(\s*[\"']?//images/nopic\.gif\s*[\"']?\s*\)",
+    re.IGNORECASE,
+)
 ASPX_RE = re.compile(r"\.aspx(?=(?:[?#][^\"'\s<>]*)?[\"'\s<>])", re.IGNORECASE)
 ICON_LINK_RE = re.compile(
     r"<link\b[^>]*\brel\s*=\s*[\"'](?:shortcut\s+)?icon[\"'][^>]*>",
@@ -49,6 +53,11 @@ ICON_LINK_RE = re.compile(
 
 def rewrite_text(text: str, base_path: str) -> str:
     base = "/" + base_path.strip("/") + "/"
+    # This legacy URL is a missing-image fallback attached to an empty banner
+    # anchor.  Loading it on Pages visibly paints a "NO Picture" tile over the
+    # real banner; preserve the original visual behavior by disabling only
+    # this fallback while keeping real local assets available.
+    text = NO_PICTURE_URL_RE.sub("none", text)
     text = LOCAL_PROTOCOL_RELATIVE_RE.sub(
         lambda match: match.group("prefix") + base + match.group("path"), text
     )
