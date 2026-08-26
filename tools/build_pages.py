@@ -142,6 +142,11 @@ def build_site(
         if path.suffix.lower() in TEXT_SUFFIXES:
             text = path.read_text(encoding="utf-8")
             if routes is not None:
+                # Remove the legacy empty-banner placeholder before routing
+                # URLs.  Otherwise ``//images/nopic.gif`` is parsed as an
+                # external host named ``images`` and becomes a broken CDN
+                # URL instead of the intended ``background: none``.
+                text = NO_PICTURE_URL_RE.sub("none", text)
                 text, unresolved = rewrite_attachment_urls(text, routes)
                 if unresolved:
                     unresolved_by_file[relative.as_posix()] = sorted(unresolved)
