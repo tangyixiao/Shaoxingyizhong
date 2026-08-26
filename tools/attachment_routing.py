@@ -176,9 +176,18 @@ def _normalize_attachment_path(value: str) -> str | None:
     path = path.split("?", 1)[0].split("#", 1)[0]
     marker = "uploadfiles/"
     marker_index = path.lower().find(marker)
-    if marker_index < 0:
-        return None
-    candidate = "UploadFiles/" + path[marker_index + len(marker) :].lstrip("/")
+    if marker_index >= 0:
+        candidate = "UploadFiles/" + path[marker_index + len(marker) :].lstrip("/")
+    else:
+        # Older articles use the separate ContentManage store rather than
+        # /UploadFiles/.  Fold it into the misc shard namespace so these
+        # absolute legacy URLs receive the same CDN and case normalization.
+        legacy_marker = "/upload/sxyz/contentmanage/node/image/"
+        legacy_index = path.lower().find(legacy_marker)
+        if legacy_index < 0:
+            return None
+        filename = path[legacy_index + len(legacy_marker) :].lstrip("/")
+        candidate = "UploadFiles/legacy/node-image/" + filename
     parts = PurePosixPath(candidate).parts
     if any(part in {".", ".."} for part in parts):
         raise RouteError(f"attachment path traversal is not allowed: {value}")
