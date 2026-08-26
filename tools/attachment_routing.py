@@ -13,7 +13,7 @@ from urllib.parse import quote, unquote, urlsplit
 
 
 ATTR_URL_RE = re.compile(
-    r"(?P<prefix>\b(?:href|src|poster|data-[A-Za-z0-9_-]+)\s*=\s*[\"'])"
+    r"(?P<prefix>\b(?:href|src|poster|show-img|zoomfile|original|data-[A-Za-z0-9_-]+)\s*=\s*[\"'])"
     r"(?P<url>[^\"']+)(?P<suffix>[\"'])",
     re.IGNORECASE,
 )

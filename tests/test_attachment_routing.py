@@ -53,7 +53,9 @@ class AttachmentRoutingTests(unittest.TestCase):
         self.assertEqual(
             routed.raw_url,
             "https://cdn.jsdelivr.net/gh/tangyixiao/"
-            "Shaoxingyizhong-img-misc@main/UploadFiles/dw/2024/3/"
+            "Shaoxingyizhong-img-misc@"
+            + self.routes.repository_refs["Shaoxingyizhong-img-misc"]
+            + "/UploadFiles/dw/2024/3/"
             "%E6%A0%A1%E5%9B%AD%20%E5%9B%BE.jpg",
         )
 
@@ -103,7 +105,7 @@ class AttachmentRoutingTests(unittest.TestCase):
                 routes.resolve("/UploadFiles/xwzx/2026/1/a.jpg")
 
     def test_rewrites_only_image_attachment_urls_in_markup_and_css(self):
-        source = """<img src="/UploadFiles/xwzx/2025/10/a.JPG">
+        source = """<img src="/UploadFiles/xwzx/2025/10/a.JPG" show-img="/UploadFiles/xwzx/2025/10/a.JPG">
 <a href="http://10.176.17.2/UploadFiles/dw/2024/3/校园 图.png?x=1">图</a>
 <a href="/UploadFiles/dw/2024/3/notice.pdf">文档</a>
 <div style="background:url('/UploadFiles/xwzx/2026/4/202604081018322295.png')"></div>
@@ -112,13 +114,18 @@ class AttachmentRoutingTests(unittest.TestCase):
         self.assertEqual(unresolved, set())
         self.assertIn(
             "https://cdn.jsdelivr.net/gh/tangyixiao/"
-            "Shaoxingyizhong-img-xwzx-2025-oct@main/"
+            "Shaoxingyizhong-img-xwzx-2025-oct@"
+            + self.routes.repository_refs["Shaoxingyizhong-img-xwzx-2025-oct"]
+            + "/"
             "UploadFiles/xwzx/2025/10/a.jpg",
             rewritten,
         )
+        self.assertNotIn('show-img="/UploadFiles/', rewritten)
         self.assertIn(
             "https://cdn.jsdelivr.net/gh/tangyixiao/"
-            "Shaoxingyizhong-img-misc@main/UploadFiles/dw/2024/3/"
+            "Shaoxingyizhong-img-misc@"
+            + self.routes.repository_refs["Shaoxingyizhong-img-misc"]
+            + "/UploadFiles/dw/2024/3/"
             "%E6%A0%A1%E5%9B%AD%20%E5%9B%BE.png",
             rewritten,
         )
@@ -139,6 +146,7 @@ class AttachmentRoutingTests(unittest.TestCase):
             (source / "Item").mkdir(parents=True)
             (source / "Item" / "1.aspx").write_text(
                 '<img src="/UploadFiles/xwzx/2025/10/a.jpg">'
+                '<div style="background:url(//images/nopic.gif) no-repeat center"></div>'
                 '<a href="/UploadFiles/dw/notice.pdf">文档</a>',
                 encoding="utf-8",
             )
@@ -149,6 +157,8 @@ class AttachmentRoutingTests(unittest.TestCase):
             )
             rendered = (output / "Item" / "1.html").read_text(encoding="utf-8")
             self.assertIn("Shaoxingyizhong-img-xwzx-2025-oct", rendered)
+            self.assertIn("background:none no-repeat center", rendered)
+            self.assertNotIn("external/images/nopic.gif", rendered)
             self.assertIn("/Shaoxingyizhong/UploadFiles/dw/notice.pdf", rendered)
 
             (source / "Item" / "2.aspx").write_text(
