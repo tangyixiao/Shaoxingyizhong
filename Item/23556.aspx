@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教科室-绍兴市第一中学</title>
+    <title>主持人选拔通知--团委-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -355,9 +355,9 @@ function GetUserInfo1(response){
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3 on"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li5 on"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：214&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23488.aspx" target="_blank" title="标题：2026 年全市高中学校教师学科综合素养比武方案（转发）&#xD;点击数：189&#xD;发表时间：2026年07月07日">2026 年全市高中学校教师学科综合素养比武方案（转发）</a><span class="dateRight">[07-07]</span></li><li><a href="/Item/23533.aspx" target="_blank" title="标题：关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉公示&#xD;点击数：128&#xD;发表时间：2026年08月20日">关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉…</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23506.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：186&#xD;发表时间：2026年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单…</a><span class="dateRight">[08-18]</span></li><li><a href="/Item/23505.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励人员名单及结果公示&#xD;点击数：208&#xD;发表时间：2026年08月15日">关于2026年“名师激励”岗位考核激励人员名单及结果公示</a><span class="dateRight">[08-15]</span></li><li><a href="/Item/23035.aspx" target="_blank" title="标题：物理组外出参加培训活动的通知&#xD;点击数：121&#xD;发表时间：2026年04月14日">物理组外出参加培训活动的通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23556.aspx" target="_blank" title="标题：主持人选拔通知&#xD;点击数：48&#xD;发表时间：2026年08月26日">主持人选拔通知</a><span class="dateRight">[08-26]</span></li><li><a href="/Item/23275.aspx" target="_blank" title="标题：社团义卖产品预告&#xD;点击数：358&#xD;发表时间：2026年05月25日">社团义卖产品预告</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23399.aspx" target="_blank" title="标题：2025学年学生社团考核结果（星级评定）&#xD;点击数：134&#xD;发表时间：2026年06月18日">2025学年学生社团考核结果（星级评定）</a><span class="dateRight">[06-18]</span></li><li><a href="/Item/23279.aspx" target="_blank" title="标题：高考喊楼志愿者彩排通知&#xD;点击数：243&#xD;发表时间：2026年05月26日">高考喊楼志愿者彩排通知</a><span class="dateRight">[05-26]</span></li><li><a href="/Item/23265.aspx" target="_blank" title="标题：2026上半年新发展团员开会通知&#xD;点击数：150&#xD;发表时间：2026年05月25日">2026上半年新发展团员开会通知</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23263.aspx" target="_blank" title="标题：2026上半年新团员拟发展名单公示&#xD;点击数：164&#xD;发表时间：2026年05月25日">2026上半年新团员拟发展名单公示</a><span class="dateRight">[05-25]</span></li><li class="last"><a href="/Item/23255.aspx" target="_blank" title="标题：诗词大赛决赛结果公布&#xD;点击数：151&#xD;发表时间：2026年05月21日">诗词大赛决赛结果公布</a><span class="dateRight">[05-21]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=36>教科室</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,59 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_36/Index.aspx" target="_self">教科室</a></div>
-                    <h3>教科室</h3>
+    <a href="/Category_30/Index.aspx" target="_self">团委</a></div>
+                    <h3>团委</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2024-03-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19413.aspx" target="_self" title="标题：教研组长会议通知&#xD;点击数：162&#xD;发表时间：2024年03月04日">教研组长会议通知</a></li><li><span class="date">2024-02-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19345.aspx" target="_self" title="标题：关于2023年绍兴市教育科学规划课题结题验收及优秀成果评审工作的通知&#xD;点击数：150&#xD;发表时间：2024年02月02日">关于2023年绍兴市教育科学规划课题结题验收及优秀成果评审工作的通知</a></li><li><span class="date">2024-01-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19276.aspx" target="_self" title="标题：关于2024年教师专业阅读研训通知&#xD;点击数：301&#xD;发表时间：2024年01月19日">关于2024年教师专业阅读研训通知</a></li><li><span class="date">2024-01-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19258.aspx" target="_self" title="标题：（地点有修改）关于“学习教育家精神 培养教育名师”校本培训活动的通知&#xD;点击数：452&#xD;发表时间：2024年01月17日">（地点有修改）关于“学习教育家精神 培养教育名师”校本培训活动的通知</a></li><li><span class="date">2024-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19230.aspx" target="_self" title="标题：物理组汇报课&#xD;点击数：217&#xD;发表时间：2024年01月10日">物理组汇报课</a></li><li class="split"></li><li><span class="date">2024-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19197.aspx" target="_self" title="标题：关于2023年下半年师训平台课程评价的通知&#xD;点击数：271&#xD;发表时间：2024年01月02日">关于2023年下半年师训平台课程评价的通知</a></li><li><span class="date">2023-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19190.aspx" target="_self" title="标题：教研院2024年1月市直活动安排&#xD;点击数：271&#xD;发表时间：2023年12月30日">教研院2024年1月市直活动安排</a></li><li><span class="date">2023-12-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19183.aspx" target="_self" title="标题：关于2023年教科研成果统计的通知&#xD;点击数：306&#xD;发表时间：2023年12月29日">关于2023年教科研成果统计的通知</a></li><li><span class="date">2023-12-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19056.aspx" target="_self" title="标题：生物组教研活动通知&#xD;点击数：147&#xD;发表时间：2023年12月12日">生物组教研活动通知</a></li><li><span class="date">2023-12-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18986.aspx" target="_self" title="标题：高一年级进行问卷调查通知&#xD;点击数：139&#xD;发表时间：2023年12月01日">高一年级进行问卷调查通知</a></li><li class="split"></li><li><span class="date">2023-12-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18984.aspx" target="_self" title="标题：绍兴市教育教学研究院12月活动安排&#xD;点击数：275&#xD;发表时间：2023年12月01日">绍兴市教育教学研究院12月活动安排</a></li><li><span class="date">2023-11-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18979.aspx" target="_self" title="标题：今天高二年级进行问卷调查通知&#xD;点击数：164&#xD;发表时间：2023年11月30日">今天高二年级进行问卷调查通知</a></li><li><span class="date">2023-11-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18971.aspx" target="_self" title="标题：高三物理组外出教研通知&#xD;点击数：146&#xD;发表时间：2023年11月28日">高三物理组外出教研通知</a></li><li><span class="date">2023-11-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18921.aspx" target="_self" title="标题：11月24日灵溪中学来访听课安排&#xD;点击数：337&#xD;发表时间：2023年11月23日">11月24日灵溪中学来访听课安排</a></li><li><span class="date">2023-11-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18908.aspx" target="_self" title="标题：政治教研活动调课通知（上课地点有修改）&#xD;点击数：218&#xD;发表时间：2023年11月22日">政治教研活动调课通知（上课地点有修改）</a></li><li class="split"></li><li><span class="date">2023-11-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18866.aspx" target="_self" title="标题：生物组教研活动通知&#xD;点击数：175&#xD;发表时间：2023年11月16日">生物组教研活动通知</a></li><li><span class="date">2023-11-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18818.aspx" target="_self" title="标题：11月15日绍兴市历史高三复习研讨活动调课通知&#xD;点击数：151&#xD;发表时间：2023年11月14日">11月15日绍兴市历史高三复习研讨活动调课通知</a></li><li><span class="date">2023-11-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18760.aspx" target="_self" title="标题：信息技术11月校本教研通知&#xD;点击数：77&#xD;发表时间：2023年11月04日">信息技术11月校本教研通知</a></li><li><span class="date">2023-11-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18737.aspx" target="_self" title="标题：英语组11月校本研修活动的通知&#xD;点击数：176&#xD;发表时间：2023年11月02日">英语组11月校本研修活动的通知</a></li><li><span class="date">2023-11-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18735.aspx" target="_self" title="标题：教研院2023年11月市直活动安排&#xD;点击数：265&#xD;发表时间：2023年11月02日">教研院2023年11月市直活动安排</a></li><li class="split"></li><li><span class="date">2023-10-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18725.aspx" target="_self" title="标题：关于做好2024年浙江省教育科学规划课题申报的通知&#xD;点击数：147&#xD;发表时间：2023年10月31日">关于做好2024年浙江省教育科学规划课题申报的通知</a></li><li><span class="date">2023-10-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18709.aspx" target="_self" title="标题：高三英语组外出教研通知&#xD;点击数：190&#xD;发表时间：2023年10月30日">高三英语组外出教研通知</a></li><li><span class="date">2023-10-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18654.aspx" target="_self" title="标题：2023年度教师资格注册拟准予注册对象公示&#xD;点击数：178&#xD;发表时间：2023年10月21日">2023年度教师资格注册拟准予注册对象公示</a></li><li><span class="date">2023-10-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17815.aspx" target="_self" title="标题：关于举行2023年绍兴市中小学生学习活动成果评比的通知&#xD;点击数：521&#xD;发表时间：2023年10月20日">关于举行2023年绍兴市中小学生学习活动成果评比的通知</a></li><li><span class="date">2023-10-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18639.aspx" target="_self" title="标题：关于做好第二批绍兴市“品质课堂”深化行动项目结项验收与成果评审的通知&#xD;点击数：131&#xD;发表时间：2023年10月18日">关于做好第二批绍兴市“品质课堂”深化行动项目结项验收与成果评审的通知</a></li><li class="split"></li><li><span class="date">2023-10-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18640.aspx" target="_self" title="标题：关于做好第三批绍兴市&quot;品质课堂&quot;深化行动项目申报工作的通知&#xD;点击数：115&#xD;发表时间：2023年10月18日">关于做好第三批绍兴市"品质课堂"深化行动项目申报工作的通知</a></li><li><span class="date">2023-10-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18617.aspx" target="_self" title="标题：化学组10月校本研修活动通知&#xD;点击数：113&#xD;发表时间：2023年10月16日">化学组10月校本研修活动通知</a></li><li><span class="date">2023-10-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18547.aspx" target="_self" title="标题：关于做好省教研立项课题结题工作的通知&#xD;点击数：120&#xD;发表时间：2023年10月06日">关于做好省教研立项课题结题工作的通知</a></li><li><span class="date">2023-10-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18543.aspx" target="_self" title="标题：关于组建首届绍兴市中小学教育科研骨干教师研学共同体成员的通知&#xD;点击数：172&#xD;发表时间：2023年10月06日">关于组建首届绍兴市中小学教育科研骨干教师研学共同体成员的通知</a></li><li><span class="date">2023-10-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18541.aspx" target="_self" title="标题：绍兴市教育教学研究院10月市直活动安排&#xD;点击数：233&#xD;发表时间：2023年10月05日">绍兴市教育教学研究院10月市直活动安排</a></li><li class="split"></li><li><span class="date">2023-09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18517.aspx" target="_self" title="标题：关于开展2023年教师资格定期注册工作的通知&#xD;点击数：240&#xD;发表时间：2023年09月28日">关于开展2023年教师资格定期注册工作的通知</a></li><li><span class="date">2023-09-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18504.aspx" target="_self" title="标题：青年教师会议通知&#xD;点击数：251&#xD;发表时间：2023年09月27日">青年教师会议通知</a></li><li><span class="date">2023-09-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18477.aspx" target="_self" title="标题：（有修改）关于组织开展绍兴市新一轮基础教育教学优秀成果预申报工作的通知（2020年1月至2023年12月）&#xD;点击数：347&#xD;发表时间：2023年09月22日">（有修改）关于组织开展绍兴市新一轮基础教育教学优秀成果预申报工作的通知（2020年1月至2023年12…</a></li><li><span class="date">2023-09-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18382.aspx" target="_self" title="标题：历史组90学时主题研修活动通知&#xD;点击数：103&#xD;发表时间：2023年09月12日">历史组90学时主题研修活动通知</a></li><li class="last"><span class="date">2023-09-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18357.aspx" target="_self" title="标题：2023年9月通用技术组校本教研活动通知&#xD;点击数：67&#xD;发表时间：2023年09月08日">2023年9月通用技术组校本教研活动通知</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_7.aspx">上一页</a>
- <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <b><a href="Index_8.aspx">8</a></b> <a href="Index_9.aspx">9</a> <a href="Index_10.aspx">10</a> <a href="Index_11.aspx">11</a> <a href="Index_12.aspx">12</a> <a href="Index_13.aspx">13</a> 
-<a href="Index_9.aspx">下一页</a>
- <a href="Index_29.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">主持人选拔通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月26日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23556"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23556},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23556";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align: center;">主持人选拔通知</p><p><span style="font-family: 宋体; font-size: 18px;">请高一报名主持人的同学，于今日<span style="font-size: 18px; font-family: Calibri; color: rgb(192, 0, 0);">12:20</span>至<span style="font-family: 宋体; font-size: 18px; color: rgb(192, 0, 0);">阶梯教室<span style="font-family: Calibri;">4106</span></span>进行主持人选拔</span></p><p style="text-align: right;"><font face="宋体" size="4">校团委</font></p><p style="text-align: right;"><font face="宋体" size="4">2026年8月26日</font></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23496.aspx" target="_self" title="标题：“弘毅传承”2026高考学霸经验分享会&#xD;点击数：90&#xD;发表时间：26年08月12日">“弘毅传承”2026高考学霸经验分享会</a>[ 08-12 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +481,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

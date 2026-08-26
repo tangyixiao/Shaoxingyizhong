@@ -372,7 +372,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/623.aspx" target="_blank" title="标题：特级教师&#xD;点击数：33880&#xD;发表时间：2009年11月24日">特级教师</a><span class="dateRight">[11-24]</span></li><li class="last"><a href="/Item/18035.aspx" target="_blank" title="标题：特级教师&#xD;点击数：1579&#xD;发表时间：2025年09月12日">特级教师</a><span class="dateRight">[09-12]</span></li>
+            <li class="first"><a href="/Item/18035.aspx" target="_blank" title="标题：特级教师&#xD;点击数：1583&#xD;发表时间：2025年09月12日">特级教师</a><span class="dateRight">[09-12]</span></li><li class="last"><a href="/Item/623.aspx" target="_blank" title="标题：特级教师&#xD;点击数：33883&#xD;发表时间：2009年11月24日">特级教师</a><span class="dateRight">[11-24]</span></li>
           
 		</ul>
 	</div>
@@ -430,7 +430,7 @@ function GetUserInfo1(response){
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2025-09-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18035.aspx" target="_self" title="标题：特级教师&#xD;点击数：1579&#xD;发表时间：2025年09月12日">特级教师</a></li><li class="last"><span class="date">2009-11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/623.aspx" target="_self" title="标题：特级教师&#xD;点击数：33880&#xD;发表时间：2009年11月24日">特级教师</a></li>
+            <li class="first"><span class="date">2025-09-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18035.aspx" target="_self" title="标题：特级教师&#xD;点击数：1583&#xD;发表时间：2025年09月12日">特级教师</a></li><li class="last"><span class="date">2009-11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/623.aspx" target="_self" title="标题：特级教师&#xD;点击数：33883&#xD;发表时间：2009年11月24日">特级教师</a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
