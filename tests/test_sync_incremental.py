@@ -73,6 +73,24 @@ class IncrementalSyncTests(unittest.TestCase):
             self.assertIn('/Shaoxingyizhong/Template/site.css', page)
             self.assertIn('/Shaoxingyizhong/Item/2.html', page)
 
+    def test_build_site_adds_project_favicon_link_to_html_pages(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            output = Path(tmp) / "output"
+            source.mkdir()
+            (source / "Item.aspx").write_text(
+                "<html><head><title>Example</title></head><body></body></html>",
+                encoding="utf-8",
+            )
+
+            build_site(source, output, base_path="/Example/")
+
+            page = (output / "Item.html").read_text(encoding="utf-8")
+            self.assertIn(
+                '<link rel="icon" type="image/png" href="/Example/favicon.ico">',
+                page,
+            )
+
     def test_build_site_uses_fresh_default_as_pages_index(self):
         """Pages /index.html must be built from the crawler's root response, not a stale alias."""
         with tempfile.TemporaryDirectory() as tmp:

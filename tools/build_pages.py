@@ -32,6 +32,10 @@ ROOT_URL_RE = re.compile(
     re.IGNORECASE,
 )
 ASPX_RE = re.compile(r"\.aspx(?=(?:[?#][^\"'\s<>]*)?[\"'\s<>])", re.IGNORECASE)
+ICON_LINK_RE = re.compile(
+    r"<link\b[^>]*\brel\s*=\s*[\"'](?:shortcut\s+)?icon[\"'][^>]*>",
+    re.IGNORECASE,
+)
 
 
 def rewrite_text(text: str, base_path: str) -> str:
@@ -43,6 +47,23 @@ def rewrite_text(text: str, base_path: str) -> str:
         lambda match: match.group("prefix") + base + match.group("path"), text
     )
     return ASPX_RE.sub(".html", text)
+
+
+def add_favicon_link(text: str, base_path: str) -> str:
+    """Declare the project-scoped favicon for GitHub Pages deployments."""
+    if ICON_LINK_RE.search(text):
+        return text
+    favicon = (
+        f'<link rel="icon" type="image/png" '
+        f'href="/{base_path.strip("/")}/favicon.ico">'
+    )
+    return re.sub(
+        r"(<head\b[^>]*>)",
+        lambda match: f"{match.group(1)}\n    {favicon}",
+        text,
+        count=1,
+        flags=re.IGNORECASE,
+    )
 
 
 def should_skip(relative: Path) -> bool:
@@ -104,6 +125,7 @@ def build_site(
                 if unresolved:
                     unresolved_by_file[relative.as_posix()] = sorted(unresolved)
             rendered = rewrite_text(text, base_path)
+            rendered = add_favicon_link(rendered, base_path)
             destination.write_text(rendered, encoding="utf-8", newline="")
             if destination == output / "index.html":
                 (output / "Default.html").write_text(
