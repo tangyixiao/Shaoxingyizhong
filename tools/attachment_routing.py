@@ -182,12 +182,17 @@ def _normalize_attachment_path(value: str) -> str | None:
         # Older articles use the separate ContentManage store rather than
         # /UploadFiles/.  Fold it into the misc shard namespace so these
         # absolute legacy URLs receive the same CDN and case normalization.
-        legacy_marker = "/upload/sxyz/contentmanage/node/image/"
+        legacy_marker = "/upload/sxyz/contentmanage/"
         legacy_index = path.lower().find(legacy_marker)
         if legacy_index < 0:
             return None
-        filename = path[legacy_index + len(legacy_marker) :].lstrip("/")
-        candidate = "UploadFiles/legacy/node-image/" + filename
+        legacy_path = path[legacy_index + len(legacy_marker) :].lstrip("/")
+        # Keep the already-published Node/image aliases stable; other legacy
+        # stores (notably Article/image) retain their subdirectories.
+        if legacy_path.lower().startswith("node/image/"):
+            candidate = "UploadFiles/legacy/node-image/" + legacy_path.rsplit("/", 1)[-1]
+        else:
+            candidate = "UploadFiles/legacy/contentmanage/" + legacy_path
     parts = PurePosixPath(candidate).parts
     if any(part in {".", ".."} for part in parts):
         raise RouteError(f"attachment path traversal is not allowed: {value}")
