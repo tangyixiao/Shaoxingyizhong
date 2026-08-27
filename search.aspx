@@ -352,11 +352,11 @@ function GetUserInfo1(response){
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
   <li><span class="date">2026-08-26</span><a href="/Item/23553.aspx" target="_blank" title="标题：关于绍兴龙山书院学生奖学金获奖公示&#xD;点击数：150&#xD;发表时间：2026年08月26日">关于绍兴龙山书院学生奖学金获奖公示</a></li>
 <li><span class="date">2026-08-26</span><a href="/Item/23557.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排&#xD;点击数：111&#xD;发表时间：2026年08月26日">“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排</a></li>
-<li><span class="date">2026-08-26</span><a href="/Item/23556.aspx" target="_blank" title="标题：主持人选拔通知&#xD;点击数：61&#xD;发表时间：2026年08月26日">主持人选拔通知</a></li>
+<li><span class="date">2026-08-26</span><a href="/Item/23556.aspx" target="_blank" title="标题：主持人选拔通知&#xD;点击数：62&#xD;发表时间：2026年08月26日">主持人选拔通知</a></li>
 <li><span class="date">2026-08-25</span><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：26&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会</a></li>
-<li><span class="date">2026-08-25</span><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：232&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知</a></li>
+<li><span class="date">2026-08-25</span><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：233&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知</a></li>
 <li><span class="date">2026-08-25</span><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：194&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a></li>
-<li><span class="date">2026-08-24</span><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：121&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a></li>
+<li><span class="date">2026-08-24</span><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：122&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23549.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：75&#xD;发表时间：2026年08月24日">高二、高三大扫除通知</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23548.aspx" target="_blank" title="标题：全校党员名单（2026年8月更新）&#xD;点击数：25&#xD;发表时间：2026年08月24日">全校党员名单（2026年8月更新）</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23547.aspx" target="_blank" title="标题：锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！&#xD;点击数：28&#xD;发表时间：2026年08月24日">锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！</a></li>
