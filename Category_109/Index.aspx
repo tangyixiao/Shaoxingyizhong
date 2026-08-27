@@ -419,7 +419,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23460.aspx">鲁迅中学王朝了</a></td>
     <td>sjcnb</td>
-    <td>74</td>
+    <td>75</td>
     <td>2026-07-01</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -435,7 +435,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23420.aspx">高三创新班搬去越乔楼的若干弊端</a></td>
     <td>耐ln</td>
-    <td>78</td>
+    <td>79</td>
     <td>2026-06-23</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -507,7 +507,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/21982.aspx">不承认第二十六届团学联主席团选举结果</a></td>
     <td>不承认第二十六届团学联主席团选举结果</td>
-    <td>160</td>
+    <td>161</td>
     <td>2025-09-26</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
