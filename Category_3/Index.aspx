@@ -371,7 +371,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/983.aspx" target="_blank" title="标题：昔日校园&#xD;点击数：2719&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a><span class="dateRight">[12-08]</span></li>
+            <li class="first"><a href="/Item/983.aspx" target="_blank" title="标题：昔日校园&#xD;点击数：2720&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a><span class="dateRight">[12-08]</span></li>
           
 		</ul>
 	</div>
@@ -476,7 +476,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">12-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/983.aspx" target="_blank" title="标题：昔日校园&#xD;点击数：2719&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a></li>
+            <li class="first"><span class="date">12-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/983.aspx" target="_blank" title="标题：昔日校园&#xD;点击数：2720&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a></li>
           
                             </ul>
                         </div>

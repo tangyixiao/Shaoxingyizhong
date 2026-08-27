@@ -372,7 +372,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/983.aspx" target="_blank" title="标题：昔日校园&#xD;点击数：2719&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a><span class="dateRight">[12-08]</span></li>
+            <li class="first"><a href="/Item/983.aspx" target="_blank" title="标题：昔日校园&#xD;点击数：2720&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a><span class="dateRight">[12-08]</span></li>
           
 		</ul>
 	</div>
@@ -430,7 +430,7 @@ function GetUserInfo1(response){
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2009-12-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/983.aspx" target="_self" title="标题：昔日校园&#xD;点击数：2719&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a></li>
+            <li class="first"><span class="date">2009-12-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/983.aspx" target="_self" title="标题：昔日校园&#xD;点击数：2720&#xD;发表时间：2009年12月08日"><font style=";">昔日校园</font></a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
