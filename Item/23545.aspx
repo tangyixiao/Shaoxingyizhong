@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23544.aspx" target="_self" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：128&#xD;发表时间：26年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年…</a>[ 08-23 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23544.aspx" target="_self" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：132&#xD;发表时间：26年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年…</a>[ 08-23 ]</div>
                             <div class="next"><span>下一篇：</span><a href="/Item/23549.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：75&#xD;发表时间：26年08月24日">高二、高三大扫除通知</a>[ 08-24 ]</div>
                         </div>
                     </div>

@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23543.aspx" target="_self" title="标题：高一大扫除通知&#xD;点击数：43&#xD;发表时间：26年08月23日">高一大扫除通知</a>[ 08-23 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：212&#xD;发表时间：26年08月23日">通知两则</a>[ 08-23 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：215&#xD;发表时间：26年08月23日">通知两则</a>[ 08-23 ]</div>
                         </div>
                     </div>
 

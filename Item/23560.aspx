@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>一中新闻-绍兴市第一中学</title>
+    <title>高一晚自修（8.31-9.4）--高一-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,11 +125,11 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
-<li class="li2 on2" id="liID21">
+<li class="li2" id="liID21">
   <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
@@ -344,17 +343,30 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
-    <div id="content">
-        <div class="siteWidth">
+
+<div id="content">
+    <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_37/Index.aspx">学校新闻</a></li>
-<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12 on"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -362,144 +374,83 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：33&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：53&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：29&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召…</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23522.aspx" target="_blank" title="标题：博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行&#xD;点击数：6&#xD;发表时间：2026年08月20日">博雅立身求真道，笃学立志启新程  ——2025学年第二学期…</a><span class="dateRight">[08-20]</span></li><li class="last"><a href="/Item/23518.aspx" target="_blank" title="标题：薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文化活动，并受聘校友会金融界专业委员会副会长&#xD;点击数：8&#xD;发表时间：2026年08月20日">薪火传嘉誉，赤心报桑梓｜我校杰出校友陈为民组织公益文…</a><span class="dateRight">[08-20]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23560.aspx" target="_blank" title="标题：高一晚自修（8.31-9.4）&#xD;点击数：7&#xD;发表时间：2026年08月29日">高一晚自修（8.31-9.4）</a><span class="dateRight">[08-29]</span></li><li><a href="/Item/23369.aspx" target="_blank" title="标题：高一学考模拟考监考安排和学生考场安排（6月13日）&#xD;点击数：262&#xD;发表时间：2026年06月12日">高一学考模拟考监考安排和学生考场安排（6月13日）</a><span class="dateRight">[06-12]</span></li><li><a href="/Item/22977.aspx" target="_blank" title="标题：高一晚自修值班（4.6-4.17）&#xD;点击数：107&#xD;发表时间：2026年04月02日">高一晚自修值班（4.6-4.17）</a><span class="dateRight">[04-02]</span></li><li><a href="/Item/22335.aspx" target="_blank" title="标题：高一家长会注意事项及晚自修安排&#xD;点击数：174&#xD;发表时间：2025年11月25日">高一家长会注意事项及晚自修安排</a><span class="dateRight">[11-25]</span></li><li><a href="/Item/20955.aspx" target="_blank" title="标题：高一晚自修值班安排（2.17-2.28）&#xD;点击数：161&#xD;发表时间：2025年02月21日">高一晚自修值班安排（2.17-2.28）</a><span class="dateRight">[02-21]</span></li><li><a href="/Item/20911.aspx" target="_blank" title="标题：高一晚自修值班安排（2.12-2.16）&#xD;点击数：146&#xD;发表时间：2025年02月12日">高一晚自修值班安排（2.12-2.16）</a><span class="dateRight">[02-12]</span></li><li class="last"><a href="/Item/23476.aspx" target="_blank" title="标题：高一期末休业式暨表彰大会通知&#xD;点击数：141&#xD;发表时间：2026年07月05日">高一期末休业式暨表彰大会通知</a><span class="dateRight">[07-05]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
-<div class="colSreach" style="margin-bottom:20px;">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=21>一中新闻</option><option value=37>&nbsp;&nbsp;学校新闻</option><option value=38>&nbsp;&nbsp;媒体一中</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-<!--文章焦点图 
-            <div id="pageSlide" class="pageSlide">
-            
-            <ul class="slideNav">
-  <li><a class=" a1">1</a></li>
-  <li><a class=" a2">2</a></li>
-  <li><a class=" a3">3</a></li>
-  <li><a class=" a4">4</a></li>
-</ul>
-<ul class="slideCon">
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23554.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608251629005576_600_340.JPG" alt="集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23554.aspx" target="_blank">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会</a></p>
-    <p class="intro">
- 近日，绍兴一中教育集团五大学科竞赛工作研讨会在树兰楼三楼会议室二顺利召开。绍兴一中党委副书记、校长蒋明，绍兴一中龙…<a href="/Item/23554.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23531.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608201654388325_600_340.jpg" alt="第三篇：大爱与归心——校友与母校的双向奔赴（下）"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23531.aspx" target="_blank">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></p>
-    <p class="intro">
-【编者按】在上一篇中，我们讲述了鲁家贤先生与车越乔先生的母校情缘。而在朱雯校长的回忆里，还有两位校友的故事同样令人动…<a href="/Item/23531.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23524.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608201636152630_600_340.JPG" alt="从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23524.aspx" target="_blank">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会</a></p>
-    <p class="intro">
-盛夏逐梦，启航新章！为帮助2026级高一新生尽快融入校园环境、适应高中学习生活，搭建家校共育桥梁，绍兴一中教育集团开展高…<a href="/Item/23524.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23523.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608201634560368_600_340.jpg" alt="博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23523.aspx" target="_blank">博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能</a></p>
-    <p class="intro">
- 编者按：1980届校友王卫列先生设立“绍兴一中育人楷模奖”，专项助力学校教育质量提升与班主任队伍建设。学校依托该奖项，…<a href="/Item/23523.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-</ul>
-          
-        </div>
-        <script language="javascript">
-            jQuery("#pageSlide")
-                .slide({ mainCell: ".slideCon", titCell: ".slideNav li", effect: "leftLoop", autoPlay: true, interTime: 4000, delayTime: 600 });
-        </script>
- 文章焦点图-->
-<!-- <script>
-    
-$("#pageSlide span:contains('还没有任何项目！')").hide( function()
-    {
-       $("#pageSlide").hide();
-    });    
-
-</script> -->
-
-
             <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_33/Index.aspx" target="_self">高一</a></div>
+                    <h3>高一</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">高一晚自修（8.31-9.4）</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月29日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23560"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23560},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23560";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><img src="/UploadFiles/xwzx/2026/8/202608292003306235.jpg" style="max-width: 100%; " title="202608292003306235.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608292003309996.jpg" style="max-width: 100%; " title="202608292003309996.jpg" /></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
 
-                <div class="pageBoxLoop">  
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_37/Index.aspx">更多</a>
-                            <h3><b>学校新闻</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">08-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：29&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召…</a></li><li><span class="date">08-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23547.aspx" target="_blank" title="标题：锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！&#xD;点击数：29&#xD;发表时间：2026年08月24日">锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴…</a></li><li><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：33&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></li><li><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23524.aspx" target="_blank" title="标题：从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会&#xD;点击数：37&#xD;发表时间：2026年08月20日">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一…</a></li><li><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23523.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能&#xD;点击数：39&#xD;发表时间：2026年08月20日">博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，…</a></li><li class="last"><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23522.aspx" target="_blank" title="标题：博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行&#xD;点击数：6&#xD;发表时间：2026年08月20日">博雅立身求真道，笃学立志启新程  ——2025学年第二学期…</a></li>
-          
-                            </ul>
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23476.aspx" target="_self" title="标题：高一期末休业式暨表彰大会通知&#xD;点击数：141&#xD;发表时间：26年07月05日">高一期末休业式暨表彰大会通知</a>[ 07-05 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
-                    
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_38/Index.aspx">更多</a>
-                            <h3><b>媒体一中</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">04-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17674.aspx" target="_blank" title="标题：全国五四红旗团委！绍兴一中团委入选拟表彰对象公示名单&#xD;点击数：284&#xD;发表时间：2023年04月13日">全国五四红旗团委！绍兴一中团委入选拟表彰对象公示名单</a></li><li><span class="date">09-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13956.aspx" target="_blank" title="标题：群众教育观与教育群众观浅析&#xD;点击数：178&#xD;发表时间：2021年09月19日">群众教育观与教育群众观浅析</a></li><li><span class="date">09-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13862.aspx" target="_blank" title="标题：仰望星空的少年！祝贺绍兴一中朱毅轩同学入选2021年度国际天文奥赛国家队！&#xD;点击数：293&#xD;发表时间：2021年09月06日">仰望星空的少年！祝贺绍兴一中朱毅轩同学入选2021年度国…</a></li><li><span class="date">04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13296.aspx" target="_blank" title="标题：“四月嵊中情 名师送课行” ——记徐雪梅高中政治名师工作室送课研讨活动&#xD;点击数：439&#xD;发表时间：2021年04月29日">“四月嵊中情 名师送课行” ——记徐雪梅高中政治名师工…</a></li><li><span class="date">04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13293.aspx" target="_blank" title="标题：薪火百年 青春向党|我市举行庆祝中国共产党成立100周年主题团日活动&#xD;点击数：244&#xD;发表时间：2021年04月29日">薪火百年 青春向党|我市举行庆祝中国共产党成立100周年主…</a></li><li class="last"><span class="date">12-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12315.aspx" target="_blank" title="标题：动手做各类酷炫实验“化学迷”大呼过瘾&#xD;点击数：623&#xD;发表时间：2020年12月03日"><font style=";">动手做各类酷炫实验“化学迷”大呼过瘾</font></a></li>
-          
-                            </ul>
-                        </div>
-                    </div>
-                     
-                    </div>
-            </div>
+
+                    <!-- 正文内容 E -->
+                </div>
             </div>
         </div>
         <!-- mainContent E -->
     </div>
-    <!--main-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -531,6 +482,23 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

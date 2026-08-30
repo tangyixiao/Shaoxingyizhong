@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23538.aspx" target="_self" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：72&#xD;发表时间：26年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23538.aspx" target="_self" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：73&#xD;发表时间：26年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a>[ 08-21 ]</div>
                             <div class="next"><span>下一篇：</span><a href="/Item/23542.aspx" target="_self" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：75&#xD;发表时间：26年08月23日">关于合唱比赛专题会议的通知</a>[ 08-23 ]</div>
                         </div>
                     </div>

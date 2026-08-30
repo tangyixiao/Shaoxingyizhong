@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23549.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：75&#xD;发表时间：26年08月24日">高二、高三大扫除通知</a>[ 08-24 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23559.aspx" target="_self" title="标题：绍兴一中教育集团2026级新生军训各项先进表彰&#xD;点击数：28&#xD;发表时间：26年08月29日">绍兴一中教育集团2026级新生军训各项先进表彰</a>[ 08-29 ]</div>
                         </div>
                     </div>
 

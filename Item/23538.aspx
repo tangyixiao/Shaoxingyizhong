@@ -439,7 +439,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23537.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：162&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一新生军训方案</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23537.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：170&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一新生军训方案</a>[ 08-21 ]</div>
                             <div class="next"><span>下一篇：</span><a href="/Item/23540.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：177&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a>[ 08-21 ]</div>
                         </div>
                     </div>

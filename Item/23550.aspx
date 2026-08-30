@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：123&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/23436.aspx" target="_blank" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：161&#xD;发表时间：2026年06月26日">高二晚自修（6.29-7.10）</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/20257.aspx" target="_blank" title="标题：高二晚自修答疑值班安排（9.22-9.27）&#xD;点击数：209&#xD;发表时间：2024年09月20日">高二晚自修答疑值班安排（9.22-9.27）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23391.aspx" target="_blank" title="标题：高二晚自修（6.21-6.28）&#xD;点击数：102&#xD;发表时间：2026年06月18日">高二晚自修（6.21-6.28）</a><span class="dateRight">[06-18]</span></li><li><a href="/Item/23373.aspx" target="_blank" title="标题：高二晚自修值班（6.15-6.20）&#xD;点击数：72&#xD;发表时间：2026年06月12日">高二晚自修值班（6.15-6.20）</a><span class="dateRight">[06-12]</span></li><li><a href="/Item/23363.aspx" target="_blank" title="标题：高二6月学考模拟考监考安排和学生考场安排&#xD;点击数：326&#xD;发表时间：2026年06月11日">高二6月学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li class="last"><a href="/Item/23362.aspx" target="_blank" title="标题：高二6月学考模拟考考场布置及相关要求&#xD;点击数：119&#xD;发表时间：2026年06月11日">高二6月学考模拟考考场布置及相关要求</a><span class="dateRight">[06-11]</span></li>
+            <li class="first"><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：129&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/20257.aspx" target="_blank" title="标题：高二晚自修答疑值班安排（9.22-9.27）&#xD;点击数：209&#xD;发表时间：2024年09月20日">高二晚自修答疑值班安排（9.22-9.27）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23436.aspx" target="_blank" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：162&#xD;发表时间：2026年06月26日">高二晚自修（6.29-7.10）</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23391.aspx" target="_blank" title="标题：高二晚自修（6.21-6.28）&#xD;点击数：102&#xD;发表时间：2026年06月18日">高二晚自修（6.21-6.28）</a><span class="dateRight">[06-18]</span></li><li><a href="/Item/23373.aspx" target="_blank" title="标题：高二晚自修值班（6.15-6.20）&#xD;点击数：72&#xD;发表时间：2026年06月12日">高二晚自修值班（6.15-6.20）</a><span class="dateRight">[06-12]</span></li><li><a href="/Item/23363.aspx" target="_blank" title="标题：高二6月学考模拟考监考安排和学生考场安排&#xD;点击数：326&#xD;发表时间：2026年06月11日">高二6月学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li class="last"><a href="/Item/23362.aspx" target="_blank" title="标题：高二6月学考模拟考考场布置及相关要求&#xD;点击数：119&#xD;发表时间：2026年06月11日">高二6月学考模拟考考场布置及相关要求</a><span class="dateRight">[06-11]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23436.aspx" target="_self" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：161&#xD;发表时间：26年06月26日">高二晚自修（6.29-7.10）</a>[ 06-26 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23436.aspx" target="_self" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：162&#xD;发表时间：26年06月26日">高二晚自修（6.29-7.10）</a>[ 06-26 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

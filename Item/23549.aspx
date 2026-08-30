@@ -442,8 +442,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：212&#xD;发表时间：26年08月23日">通知两则</a>[ 08-23 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23557.aspx" target="_self" title="标题：“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排&#xD;点击数：113&#xD;发表时间：26年08月26日">“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛…</a>[ 08-26 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：215&#xD;发表时间：26年08月23日">通知两则</a>[ 08-23 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23557.aspx" target="_self" title="标题：“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排&#xD;点击数：123&#xD;发表时间：26年08月26日">“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛…</a>[ 08-26 ]</div>
                         </div>
                     </div>
 
