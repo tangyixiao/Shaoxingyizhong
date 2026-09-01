@@ -15,9 +15,15 @@ import tempfile
 from pathlib import Path
 from urllib.parse import urlparse
 
+try:
+    from .attachment_routing import rewrite_source_download_urls
+except ImportError:  # pragma: no cover - supports direct script execution
+    from attachment_routing import rewrite_source_download_urls
+
 
 EXCLUDED_DIRS = {".git", ".github", ".crawl_state", "_site", "tests", "tools", "UploadFiles"}
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp", ".ico", ".svg"}
+REWRITABLE_TEXT_SUFFIXES = {".aspx", ".html", ".htm", ".css"}
 
 
 def sha256_file(path: Path) -> str:
@@ -55,8 +61,55 @@ def copy_if_changed(source: Path, destination: Path) -> bool:
     return True
 
 
+def copy_bytes_if_changed(source: Path, destination: Path, content: bytes) -> bool:
+    """Copy transformed bytes while preserving source metadata."""
+    if destination.exists() and destination.stat().st_size == len(content):
+        digest = hashlib.sha256(content).hexdigest()
+        if digest == sha256_file(destination):
+            return False
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.NamedTemporaryFile(dir=destination.parent, delete=False) as handle:
+        temporary = Path(handle.name)
+    try:
+        temporary.write_bytes(content)
+        shutil.copystat(source, temporary)
+        temporary.replace(destination)
+    finally:
+        if temporary.exists():
+            temporary.unlink()
+    return True
+
+
 def sync_crawl(source_root: Path, repo_root: Path) -> list[str]:
     return sync_crawl_paths(source_root, repo_root, None)
+
+
+def sync_attachment_downloads(source_root: Path, repo_root: Path) -> list[str]:
+    """Publish non-image crawler attachments under the main repo's downloads/."""
+    attachment_root = source_root / "UploadFiles"
+    if not attachment_root.is_dir():
+        return []
+    changed: list[str] = []
+    for source in sorted(path for path in attachment_root.rglob("*") if path.is_file()):
+        if source.suffix.lower() in IMAGE_SUFFIXES:
+            continue
+        relative = Path("downloads") / source.relative_to(attachment_root)
+        destination = repo_root / relative
+        if copy_if_changed(source, destination):
+            changed.append(relative.as_posix())
+    return changed
+
+
+def available_attachment_downloads(source_root: Path) -> set[str]:
+    """Return published download paths for non-image crawler attachments."""
+    attachment_root = source_root / "UploadFiles"
+    if not attachment_root.is_dir():
+        return set()
+    return {
+        (Path("downloads") / source.relative_to(attachment_root)).as_posix()
+        for source in attachment_root.rglob("*")
+        if source.is_file() and source.suffix.lower() not in IMAGE_SUFFIXES
+    }
 
 
 def relative_path_from_url(url: str) -> Path:
@@ -73,6 +126,7 @@ def relative_path_from_url(url: str) -> Path:
 
 def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None) -> list[str]:
     changed: list[str] = []
+    available_downloads = available_attachment_downloads(source_root)
     if urls is None:
         candidates = sorted(path for path in source_root.rglob("*") if path.is_file())
     else:
@@ -86,8 +140,25 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
         if not is_publishable(relative):
             continue
         destination = repo_root / relative
-        if copy_if_changed(source, destination):
+        content = None
+        if relative.suffix.lower() in REWRITABLE_TEXT_SUFFIXES:
+            try:
+                # Decode bytes directly instead of using read_text(), whose
+                # universal-newline mode would turn a one-link update into a
+                # whole-file CRLF/LF diff.
+                source_text = source.read_bytes().decode("utf-8")
+            except UnicodeDecodeError:
+                source_text = None
+            if source_text is not None:
+                rewritten, _ = rewrite_source_download_urls(
+                    source_text, available_downloads
+                )
+                content = rewritten.encode("utf-8")
+        if content is not None and copy_bytes_if_changed(source, destination, content):
             changed.append(relative.as_posix())
+        elif content is None and copy_if_changed(source, destination):
+            changed.append(relative.as_posix())
+    changed.extend(sync_attachment_downloads(source_root, repo_root))
     return changed
 
 

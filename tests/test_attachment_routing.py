@@ -7,6 +7,8 @@ from tools.attachment_routing import (
     RouteConfig,
     RouteError,
     rewrite_attachment_urls,
+    rewrite_download_urls,
+    rewrite_source_download_urls,
 )
 from tools.build_pages import build_site
 
@@ -133,6 +135,66 @@ class AttachmentRoutingTests(unittest.TestCase):
         self.assertIn("/images/logo.png", rewritten)
         self.assertIn("202604081018322295.webp", rewritten)
 
+    def test_rewrites_available_non_image_attachment_urls_to_downloads(self):
+        source = (
+            '<a href="/UploadFiles/xwzx/2026/9/notice.docx">通知</a>'
+            '<a href="http://10.176.17.2\\UploadFiles\\xwzx\\2026\\9\\old.doc">旧文件</a>'
+        )
+        rewritten, unresolved = rewrite_download_urls(
+            source,
+            "/Shaoxingyizhong/",
+            {
+                "downloads/xwzx/2026/9/notice.docx",
+                "downloads/xwzx/2026/9/old.doc",
+            },
+        )
+        self.assertEqual(unresolved, set())
+        self.assertIn(
+            'href="/Shaoxingyizhong/downloads/xwzx/2026/9/notice.docx"',
+            rewritten,
+        )
+        self.assertIn(
+            'href="/Shaoxingyizhong/downloads/xwzx/2026/9/old.doc"',
+            rewritten,
+        )
+
+    def test_keeps_missing_non_image_attachment_and_reports_it(self):
+        source = '<a href="/UploadFiles/xwzx/2026/9/missing.docx">缺失</a>'
+        rewritten, unresolved = rewrite_download_urls(
+            source, "/Shaoxingyizhong/", set()
+        )
+        self.assertEqual(rewritten, source)
+        self.assertEqual(unresolved, {"/UploadFiles/xwzx/2026/9/missing.docx"})
+
+    def test_ignores_unrelated_external_non_image_links(self):
+        rewritten, unresolved = rewrite_download_urls(
+            '<a href="https://example.com/about">外部链接</a>',
+            "/Shaoxingyizhong/",
+            set(),
+        )
+        self.assertEqual(rewritten, '<a href="https://example.com/about">外部链接</a>')
+        self.assertEqual(unresolved, set())
+
+    def test_rewrites_source_download_urls_without_changing_intranet_shape(self):
+        source = (
+            '<a href="../UploadFiles/xwzx/2026/9/notice.docx">通知</a>'
+            '<a href="/UploadFiles/xwzx/2026/9/old.doc">旧文件</a>'
+        )
+        rewritten, unresolved = rewrite_source_download_urls(
+            source,
+            {
+                "downloads/xwzx/2026/9/notice.docx",
+                "downloads/xwzx/2026/9/old.doc",
+            },
+        )
+        self.assertEqual(unresolved, set())
+        self.assertIn(
+            'href="../downloads/xwzx/2026/9/notice.docx"', rewritten
+        )
+        self.assertIn(
+            'href="/downloads/xwzx/2026/9/old.doc"', rewritten
+        )
+
     def test_reports_unsafe_image_urls_without_rewriting_them(self):
         source = '<img src="/UploadFiles/xwzx/2026/../secret.jpg">'
         rewritten, unresolved = rewrite_attachment_urls(source, self.routes)
@@ -144,6 +206,8 @@ class AttachmentRoutingTests(unittest.TestCase):
             source = Path(tmp) / "source"
             output = Path(tmp) / "output"
             (source / "Item").mkdir(parents=True)
+            (source / "downloads" / "dw").mkdir(parents=True)
+            (source / "downloads" / "dw" / "notice.pdf").write_bytes(b"pdf")
             (source / "Item" / "1.aspx").write_text(
                 '<img src="/UploadFiles/xwzx/2025/10/a.jpg">'
                 '<div style="background:url(//images/nopic.gif) no-repeat center"></div>'
@@ -159,13 +223,13 @@ class AttachmentRoutingTests(unittest.TestCase):
             self.assertIn("Shaoxingyizhong-img-xwzx-2025-oct", rendered)
             self.assertIn("background:none no-repeat center", rendered)
             self.assertNotIn("external/images/nopic.gif", rendered)
-            self.assertIn("/Shaoxingyizhong/UploadFiles/dw/notice.pdf", rendered)
+            self.assertIn("/Shaoxingyizhong/downloads/dw/notice.pdf", rendered)
 
             (source / "Item" / "2.aspx").write_text(
                 '<img src="/UploadFiles/xwzx/2026/../secret.jpg">',
                 encoding="utf-8",
             )
-            with self.assertRaisesRegex(RouteError, "unresolved image attachments"):
+            with self.assertRaisesRegex(RouteError, "unresolved attachments"):
                 build_site(
                     source,
                     output,
@@ -200,6 +264,36 @@ class AttachmentRoutingTests(unittest.TestCase):
                 (output / "attachment-errors.json").read_text(encoding="utf-8")
             )
             self.assertIn("Item.aspx", errors)
+
+    def test_build_site_rewrites_downloadable_attachment_to_downloads(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "source"
+            output = root / "output"
+            (source / "Item").mkdir(parents=True)
+            attachment = source / "downloads" / "xwzx" / "2026" / "9" / "notice.docx"
+            attachment.parent.mkdir(parents=True)
+            attachment.write_bytes(b"docx")
+            (source / "Item" / "1.aspx").write_text(
+                '<a href="/UploadFiles/xwzx/2026/9/notice.docx">通知</a>',
+                encoding="utf-8",
+            )
+
+            build_site(
+                source,
+                output,
+                attachment_routes=ROOT / "attachment_routes.json",
+            )
+
+            page = (output / "Item" / "1.html").read_text(encoding="utf-8")
+            self.assertIn(
+                "/Shaoxingyizhong/downloads/xwzx/2026/9/notice.docx",
+                page,
+            )
+            self.assertEqual(
+                (output / "downloads" / "xwzx" / "2026" / "9" / "notice.docx").read_bytes(),
+                b"docx",
+            )
 
 
 if __name__ == "__main__":

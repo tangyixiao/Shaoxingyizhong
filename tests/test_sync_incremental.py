@@ -6,9 +6,29 @@ from tools.sync_incremental import assign_shards, is_selected_attachment, load_m
 from tools.build_pages import build_site
 from tools.publish_crawl import sync_crawl, sync_crawl_paths
 from tools.update_from_intranet import recent_branch_paths
+from tools.update_from_intranet import image_sync_command
 
 
 class IncrementalSyncTests(unittest.TestCase):
+    def test_image_sync_command_uses_existing_shard_workspace(self):
+        self.assertEqual(
+            image_sync_command(
+                Path("/project/repo"),
+                Path("/project/source"),
+                Path("/project/shards"),
+            ),
+            [
+                "python3",
+                "/project/repo/tools/sync_image_shards.py",
+                "sync",
+                "--source",
+                "/project/source",
+                "--routes",
+                "/project/repo/attachment_routes.json",
+                "--workspace",
+                "/project/shards",
+            ],
+        )
     def test_selects_only_2026_or_newer_attachment_paths(self):
         self.assertTrue(is_selected_attachment(Path("UploadFiles/xwzx/2026/notice.zip"), 2026))
         self.assertTrue(is_selected_attachment(Path("UploadFiles/20270101/new.pdf"), 2026))
@@ -147,16 +167,25 @@ class IncrementalSyncTests(unittest.TestCase):
             (repo / "Item").mkdir(parents=True)
             (repo / "Item" / "1.aspx").write_text("old", encoding="utf-8")
             (repo / "keep.aspx").write_text("keep", encoding="utf-8")
-            (source / "Item" / "1.aspx").write_text("new", encoding="utf-8")
+            (source / "Item" / "1.aspx").write_text(
+                '<a href="../UploadFiles/x.zip">download</a>', encoding="utf-8"
+            )
             (source / "Item" / "2.aspx").write_text("added", encoding="utf-8")
             (source / "UploadFiles" / "x.zip").write_bytes(b"attachment")
             (source / "images" / "logo.png").write_bytes(b"image")
             changed = sync_crawl(source, repo)
-            self.assertEqual(changed, ["Item/1.aspx", "Item/2.aspx"])
-            self.assertEqual((repo / "Item" / "1.aspx").read_text(encoding="utf-8"), "new")
+            self.assertEqual(changed, ["Item/1.aspx", "Item/2.aspx", "downloads/x.zip"])
+            self.assertEqual(
+                (repo / "Item" / "1.aspx").read_text(encoding="utf-8"),
+                '<a href="../downloads/x.zip">download</a>',
+            )
             self.assertTrue((repo / "Item" / "2.aspx").exists())
             self.assertFalse((repo / "UploadFiles" / "x.zip").exists())
             self.assertFalse((repo / "images" / "logo.png").exists())
+            self.assertEqual(
+                (repo / "downloads" / "x.zip").read_bytes(),
+                b"attachment",
+            )
 
     def test_publish_crawl_can_limit_to_visited_urls(self):
         with tempfile.TemporaryDirectory() as tmp:

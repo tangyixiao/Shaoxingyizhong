@@ -15,6 +15,26 @@ PROJECTS_ROOT = REPO_ROOT.parent
 CRAWLER = PROJECTS_ROOT / "a.py"
 CRAWL_OUTPUT = PROJECTS_ROOT / "内网备份"
 INCREMENTAL_STATE = PROJECTS_ROOT / ".crawl_state_incremental"
+IMAGE_SHARD_WORKSPACE = PROJECTS_ROOT / "Shaoxingyizhong-image-shards"
+
+
+def image_sync_command(
+    repo_root: Path,
+    source: Path,
+    workspace: Path,
+    python_executable: str = "python3",
+) -> list[str]:
+    return [
+        python_executable,
+        str(repo_root / "tools" / "sync_image_shards.py"),
+        "sync",
+        "--source",
+        str(source),
+        "--routes",
+        str(repo_root / "attachment_routes.json"),
+        "--workspace",
+        str(workspace),
+    ]
 
 
 def latest_published_item_id() -> int:
@@ -86,6 +106,17 @@ def main() -> int:
     if args.base_url:
         crawler_args.extend(["--base-url", args.base_url])
     subprocess.run(crawler_args, cwd=PROJECTS_ROOT, check=True)
+
+    subprocess.run(
+        image_sync_command(
+            REPO_ROOT,
+            CRAWL_OUTPUT,
+            IMAGE_SHARD_WORKSPACE,
+            sys.executable,
+        ),
+        cwd=REPO_ROOT,
+        check=True,
+    )
 
     publish_args = [
         sys.executable,

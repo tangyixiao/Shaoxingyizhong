@@ -589,9 +589,16 @@ def _remote_smoke_test(routes: RouteConfig, repository: str, rows: dict[str, dic
     indices = sorted({0, len(targets) // 2, len(targets) - 1})
     for index in indices:
         encoded = "/".join(quote(part, safe="") for part in targets[index].split("/"))
+        repository_ref = routes.repository_refs.get(repository, routes.branch)
+        if routes.raw_base.endswith("cdn.jsdelivr.net/gh"):
+            repository_ref = f"{quote(repository, safe='')}@{quote(repository_ref, safe='')}"
+        else:
+            repository_ref = (
+                f"{quote(repository, safe='')}/{quote(repository_ref, safe='')}"
+            )
         url = (
             f"{routes.raw_base}/{quote(routes.owner, safe='')}/"
-            f"{quote(repository, safe='')}/{quote(routes.branch, safe='')}/{encoded}"
+            f"{repository_ref}/{encoded}"
         )
         request = urllib.request.Request(url, headers={"Range": "bytes=0-1023"})
         with urllib.request.urlopen(request, timeout=30) as response:

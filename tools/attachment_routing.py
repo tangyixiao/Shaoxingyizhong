@@ -22,6 +22,9 @@ CSS_URL_RE = re.compile(
     r"(?P<suffix>(?P=quote)\s*\))",
     re.IGNORECASE,
 )
+DEFAULT_IMAGE_EXTENSIONS = frozenset(
+    {".jpg", ".jpeg", ".png", ".bmp", ".gif", ".webp", ".ico", ".svg"}
+)
 
 
 class RouteError(ValueError):
@@ -163,6 +166,124 @@ def rewrite_attachment_urls(
         if routed is None:
             return match.group(0)
         return match.group("prefix") + routed.raw_url + match.group("suffix")
+
+    rewritten = ATTR_URL_RE.sub(replace, text)
+    rewritten = CSS_URL_RE.sub(replace, rewritten)
+    return rewritten, unresolved
+
+
+def rewrite_download_urls(
+    text: str,
+    base_path: str,
+    available_paths: Iterable[str],
+    image_extensions: Iterable[str] = DEFAULT_IMAGE_EXTENSIONS,
+) -> tuple[str, set[str]]:
+    """Rewrite available non-image UploadFiles links to published downloads."""
+    available = set(available_paths)
+    image_suffixes = {str(item).lower() for item in image_extensions}
+    unresolved: set[str] = set()
+    download_base = "/" + base_path.strip("/") + "/downloads/"
+
+    def replace(match: re.Match[str]) -> str:
+        value = match.group("url")
+        normalized = value.replace("\\", "/")
+        parsed = urlsplit(normalized)
+        path = parsed.path if parsed.scheme or parsed.netloc else normalized
+        lowered_path = path.lower()
+        if "uploadfiles/" not in lowered_path and "/upload/sxyz/contentmanage/" not in lowered_path:
+            return match.group(0)
+        try:
+            source_path = _normalize_attachment_path(value)
+        except RouteError:
+            unresolved.add(value)
+            return match.group(0)
+        if source_path is None:
+            return match.group(0)
+        if PurePosixPath(source_path).suffix.lower() in image_suffixes:
+            return match.group(0)
+        target_path = "downloads/" + source_path.removeprefix("UploadFiles/")
+        if target_path not in available:
+            unresolved.add(value)
+            return match.group(0)
+        encoded_path = "/".join(
+            quote(part, safe="") for part in target_path.removeprefix("downloads/").split("/")
+        )
+        return (
+            match.group("prefix")
+            + download_base
+            + encoded_path
+            + match.group("suffix")
+        )
+
+    rewritten = ATTR_URL_RE.sub(replace, text)
+    rewritten = CSS_URL_RE.sub(replace, rewritten)
+    return rewritten, unresolved
+
+
+def rewrite_source_download_urls(
+    text: str,
+    available_paths: Iterable[str],
+    image_extensions: Iterable[str] = DEFAULT_IMAGE_EXTENSIONS,
+) -> tuple[str, set[str]]:
+    """Rewrite source-page downloads while preserving the intranet URL shape.
+
+    The crawler historically emitted links such as ``../UploadFiles/a.docx``.
+    Published source pages should keep that relative/root-path form and only
+    replace the storage directory with ``downloads``.  Absolute intranet URLs
+    are reduced to a site-root path so the public site never points back into
+    the intranet.
+    """
+    available = set(available_paths)
+    image_suffixes = {str(item).lower() for item in image_extensions}
+    unresolved: set[str] = set()
+
+    def replace(match: re.Match[str]) -> str:
+        value = match.group("url")
+        normalized = value.replace("\\", "/")
+        parsed = urlsplit(normalized)
+        path = parsed.path if parsed.scheme or parsed.netloc else normalized
+        lowered_path = path.lower()
+        if "uploadfiles/" not in lowered_path and "/upload/sxyz/contentmanage/" not in lowered_path:
+            return match.group(0)
+        try:
+            source_path = _normalize_attachment_path(value)
+        except RouteError:
+            unresolved.add(value)
+            return match.group(0)
+        if source_path is None:
+            return match.group(0)
+        if PurePosixPath(source_path).suffix.lower() in image_suffixes:
+            return match.group(0)
+        target_path = "downloads/" + source_path.removeprefix("UploadFiles/")
+        if target_path not in available:
+            unresolved.add(value)
+            return match.group(0)
+
+        if parsed.scheme or parsed.netloc:
+            replacement = "/" + target_path
+            if parsed.query:
+                replacement += "?" + parsed.query
+            if parsed.fragment:
+                replacement += "#" + parsed.fragment
+        elif "uploadfiles/" in lowered_path:
+            # Keep ../, /, and bare relative prefixes exactly as the source
+            # page emitted them, matching the historical publish behavior.
+            replacement = re.sub(
+                r"uploadfiles/",
+                "downloads/",
+                normalized,
+                count=1,
+                flags=re.IGNORECASE,
+            )
+        else:
+            # Legacy ContentManage URLs have no stable public prefix; use the
+            # same root-relative downloads namespace as absolute intranet URLs.
+            replacement = "/" + target_path
+            if parsed.query:
+                replacement += "?" + parsed.query
+            if parsed.fragment:
+                replacement += "#" + parsed.fragment
+        return match.group("prefix") + replacement + match.group("suffix")
 
     rewritten = ATTR_URL_RE.sub(replace, text)
     rewritten = CSS_URL_RE.sub(replace, rewritten)

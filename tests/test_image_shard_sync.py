@@ -21,6 +21,7 @@ from tools.sync_image_shards import (
     validate_repository_sizes,
     verify_repository,
     webp_command,
+    _remote_smoke_test,
 )
 
 
@@ -292,6 +293,33 @@ class ImageShardSyncTests(unittest.TestCase):
             push_repository(Path("repo"), attempts=2, retry_delay=0)
 
         self.assertEqual(git.call_count, 2)
+
+    def test_remote_smoke_test_uses_jsdelivr_version_syntax(self):
+        response = mock.MagicMock()
+        response.status = 206
+        response.headers.get_content_type.return_value = "image/jpeg"
+        response.__enter__.return_value = response
+        with mock.patch(
+            "tools.sync_image_shards.urllib.request.urlopen",
+            return_value=response,
+        ) as urlopen:
+            _remote_smoke_test(
+                self.routes,
+                "Shaoxingyizhong-img-xwzx-2026-h2",
+                {
+                    "UploadFiles/xwzx/2026/8/a.jpg": {},
+                    "UploadFiles/xwzx/2026/8/b.jpg": {},
+                    "UploadFiles/xwzx/2026/8/c.jpg": {},
+                },
+            )
+
+        urls = [call.args[0].full_url for call in urlopen.call_args_list]
+        self.assertTrue(
+            all(
+                "/Shaoxingyizhong-img-xwzx-2026-h2@main/" in url
+                for url in urls
+            )
+        )
 
     def test_bootstrap_reuses_valid_local_clone_without_github_api(self):
         with tempfile.TemporaryDirectory() as tmp:

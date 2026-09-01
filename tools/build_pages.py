@@ -14,9 +14,15 @@ try:
         RouteConfig,
         RouteError,
         rewrite_attachment_urls,
+        rewrite_download_urls,
     )
 except ModuleNotFoundError:  # Support direct execution as tools/build_pages.py.
-    from attachment_routing import RouteConfig, RouteError, rewrite_attachment_urls
+    from attachment_routing import (
+        RouteConfig,
+        RouteError,
+        rewrite_attachment_urls,
+        rewrite_download_urls,
+    )
 
 
 EXCLUDED_DIRS = {".git", ".github", "_site", "tests", "tools", "UploadFiles"}
@@ -103,6 +109,12 @@ def build_site(
     output.mkdir(parents=True)
     copied = converted = skipped = 0
     routes = RouteConfig.load(attachment_routes) if attachment_routes else None
+    downloads_root = source / "downloads"
+    available_downloads = {
+        "downloads/" + path.relative_to(downloads_root).as_posix()
+        for path in downloads_root.rglob("*")
+        if path.is_file()
+    } if downloads_root.is_dir() else set()
     unresolved_by_file: dict[str, list[str]] = {}
 
     for path in sorted(source.rglob("*")):
@@ -148,6 +160,10 @@ def build_site(
                 # URL instead of the intended ``background: none``.
                 text = NO_PICTURE_URL_RE.sub("none", text)
                 text, unresolved = rewrite_attachment_urls(text, routes)
+                text, download_unresolved = rewrite_download_urls(
+                    text, base_path, available_downloads
+                )
+                unresolved.update(download_unresolved)
                 if unresolved:
                     unresolved_by_file[relative.as_posix()] = sorted(unresolved)
             rendered = rewrite_text(text, base_path)
@@ -166,7 +182,7 @@ def build_site(
             encoding="utf-8",
         )
         message = (
-            f"unresolved image attachments in {len(unresolved_by_file)} source files"
+            f"unresolved attachments in {len(unresolved_by_file)} source files"
         )
         if fail_on_unresolved:
             raise RouteError(message)

@@ -3,8 +3,9 @@
 `a.py` 运行在能访问 `10.176.17.2` 的内网机器上，GitHub Actions 无法直接访问这个地址。因此同步分为两段：
 
 1. `a.py` 检查首页、分类页等枝干节点，并根据 `Item/数字.aspx` 的编号水位线只抓取新叶子节点。默认以 GitHub 仓库中最大的 Item 编号为基准，再回溯 20 个编号，避免少量临近旧页面漏更新。每个文件先计算 SHA-256，内容没有变化就保留原文件，变化时才原子替换。
-2. `tools/publish_crawl.py` 比较爬虫目录和仓库目录，只复制内容变化的非图片文件，然后自动 commit 和 push。`UploadFiles`、图片、爬虫状态和日志不会进入 Git。
-3. push 后，GitHub Pages Action 自动把 `.aspx` 页面转换为 `.html` 并部署。
+2. `tools/sync_image_shards.py` 把 `UploadFiles` 下的图片按分片仓库同步并校验。
+3. `tools/publish_crawl.py` 比较爬虫目录和仓库目录，复制内容变化的页面、脚本和非图片附件；非图片附件会从 `UploadFiles` 镜像到主仓库的 `downloads/`，然后自动 commit 和 push。原始 `UploadFiles`、图片、爬虫状态和日志不会进入主仓库。
+4. push 后，GitHub Pages Action 自动把 `.aspx` 页面转换为 `.html` 并部署。
 
 ## 一键更新
 
@@ -43,13 +44,17 @@ python3 tools/update_from_intranet.py --base-url http://10.176.17.2/
 - 运行前需要本机已经完成 GitHub 登录，且仓库工作副本没有未提交的人工修改。
 - 运行日志写在 `/home/tangyixiao/Projects/crawl.log`，爬取断点写在 `/home/tangyixiao/Projects/.crawl_state/`。
 
-## 图片附件分片同步
+## 图片和下载附件同步
 
 图片附件单独存放在 14 个公开 GitHub 仓库中，站点构建时依据
 `attachment_routes.json` 把 `UploadFiles` 下的图片地址改写为对应 GitHub 仓库的
 jsDelivr CDN 地址（`cdn.jsdelivr.net/gh`），由 CDN 按图片扩展名返回可直接显示的 MIME。
-PDF、Word、压缩包等非图片附件不会上传到这些仓库，
-仍保留主站原路径。
+PDF、Word、压缩包等非图片附件不进入图片仓库；它们会同步到主仓库的
+`downloads/`，页面构建时把 `/UploadFiles/...` 改写为站点下的
+`/downloads/...`，因此可以直接下载。
+
+`tools/update_from_intranet.py` 的一键更新流程会先运行爬虫，再自动执行图片分片同步，
+最后发布页面和 `downloads/` 附件。图片同步失败时不会继续发布页面，避免新页面先上线而图片仍然缺失。
 
 以下命令都可以重复执行。上传器会用每个仓库的 `manifest.tsv` 比较 SHA-256，
 只提交新增或内容变化的图片；源站已经消失的路径只写入 `deletions.tsv`，不会自动删除
