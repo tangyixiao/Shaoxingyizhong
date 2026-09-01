@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教学处-绍兴市第一中学</title>
+    <title>每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩观学习教育成果--学习专栏-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -342,31 +341,25 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
+        <h3><a href="/Category_50/Index.aspx">党建引领</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
-<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
-<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
-<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
-<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
+			<li class="li1 first"><a href="/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Category_60/Index.aspx">党建网站</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,92 +367,81 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23570.aspx" target="_blank" title="标题：协作体校领导巡考安排&#xD;点击数：71&#xD;发表时间：2026年08月31日">协作体校领导巡考安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：229&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23564.aspx" target="_blank" title="标题：高三09.01协作体监考安排和学生考场安排&#xD;点击数：182&#xD;发表时间：2026年08月31日">高三09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23466.aspx" target="_blank" title="标题：新高二、新高三协作体考试时间和范围&#xD;点击数：236&#xD;发表时间：2026年07月02日">新高二、新高三协作体考试时间和范围</a><span class="dateRight">[07-02]</span></li><li><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：90&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9403&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：88&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Item/23239.aspx" target="_blank" title="标题：中国共产党发展党员工作细则&#xD;点击数：41&#xD;发表时间：2026年05月19日"><font style="font-weight:bold;font-style:normal;;">中国共产党发展党员工作细则</font></a><span class="dateRight">[05-19]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=26>教学处</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    
-    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+                    <h3>学习专栏</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2025-01-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20888.aspx" target="_self" title="标题：1月21日高三期末考考场布置及相关要求&#xD;点击数：96&#xD;发表时间：2025年01月20日">1月21日高三期末考考场布置及相关要求</a></li><li><span class="date">2025-01-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20887.aspx" target="_self" title="标题：1月21日高三期末考监考安排和学生考场安排&#xD;点击数：246&#xD;发表时间：2025年01月20日">1月21日高三期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20873.aspx" target="_self" title="标题：2月下学期初协作体高二高三考试范围&#xD;点击数：344&#xD;发表时间：2025年01月13日">2月下学期初协作体高二高三考试范围</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20872.aspx" target="_self" title="标题：1.15高一期末考考场布置及相关要求&#xD;点击数：212&#xD;发表时间：2025年01月13日">1.15高一期末考考场布置及相关要求</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20871.aspx" target="_self" title="标题：1.14高二期末考考场布置及相关要求&#xD;点击数：196&#xD;发表时间：2025年01月13日">1.14高二期末考考场布置及相关要求</a></li><li class="split"></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20866.aspx" target="_self" title="标题：1.15高一期末考监考安排和学生考场安排&#xD;点击数：649&#xD;发表时间：2025年01月13日">1.15高一期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20865.aspx" target="_self" title="标题：1.14高二期末考监考安排和学生考场安排&#xD;点击数：532&#xD;发表时间：2025年01月13日">1.14高二期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20859.aspx" target="_self" title="标题：1月12日联培生评价考务培训和监考安排&#xD;点击数：505&#xD;发表时间：2025年01月10日">1月12日联培生评价考务培训和监考安排</a></li><li><span class="date">2025-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20857.aspx" target="_self" title="标题：1月12日联培生分类评价教室布置要求&#xD;点击数：281&#xD;发表时间：2025年01月10日">1月12日联培生分类评价教室布置要求</a></li><li><span class="date">2025-01-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20850.aspx" target="_self" title="标题：2024年绍兴一中教育集团学生体质健康测试成绩公告&#xD;点击数：228&#xD;发表时间：2025年01月09日">2024年绍兴一中教育集团学生体质健康测试成绩公告</a></li><li class="split"></li><li><span class="date">2025-01-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20847.aspx" target="_self" title="标题：高三首考后上课安排&#xD;点击数：353&#xD;发表时间：2025年01月08日">高三首考后上课安排</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20841.aspx" target="_self" title="标题：2025年1月学选考绍兴一中考点组织机构&#xD;点击数：242&#xD;发表时间：2025年01月04日">2025年1月学选考绍兴一中考点组织机构</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20836.aspx" target="_self" title="标题：2025年1月学考选考试场布置要求&#xD;点击数：324&#xD;发表时间：2025年01月04日">2025年1月学考选考试场布置要求</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20835.aspx" target="_self" title="标题：2025年1月学考选考考务培训通知&#xD;点击数：407&#xD;发表时间：2025年01月04日">2025年1月学考选考考务培训通知</a></li><li><span class="date">2025-01-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20827.aspx" target="_self" title="标题：高一高二期末考时间安排&#xD;点击数：400&#xD;发表时间：2025年01月03日">高一高二期末考时间安排</a></li><li class="split"></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20822.aspx" target="_self" title="标题：2025年1月学选考考场分布&#xD;点击数：322&#xD;发表时间：2025年01月02日">2025年1月学选考考场分布</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20821.aspx" target="_self" title="标题：2025年1月学选考二次安检及刷脸入场验证演练工作方案&#xD;点击数：215&#xD;发表时间：2025年01月02日">2025年1月学选考二次安检及刷脸入场验证演练工作方案</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20820.aspx" target="_self" title="标题：2025年1月学选考监考安排&#xD;点击数：581&#xD;发表时间：2025年01月02日">2025年1月学选考监考安排</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20817.aspx" target="_self" title="标题：广播讲话通知&#xD;点击数：187&#xD;发表时间：2025年01月02日">广播讲话通知</a></li><li><span class="date">2024-12-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20812.aspx" target="_self" title="标题：高三1月2日至5日安排&#xD;点击数：383&#xD;发表时间：2024年12月31日">高三1月2日至5日安排</a></li><li class="split"></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20809.aspx" target="_self" title="标题：美术生家长会改期通知&#xD;点击数：124&#xD;发表时间：2024年12月30日">美术生家长会改期通知</a></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20804.aspx" target="_self" title="标题：高二、高三班主任会议通知&#xD;点击数：84&#xD;发表时间：2024年12月30日">高二、高三班主任会议通知</a></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20788.aspx" target="_self" title="标题：12.30高三限时训练监考安排和学生考场安排&#xD;点击数：532&#xD;发表时间：2024年12月30日">12.30高三限时训练监考安排和学生考场安排</a></li><li><span class="date">2024-12-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20789.aspx" target="_self" title="标题：12.30高三限时训练考场布置及相关要求&#xD;点击数：141&#xD;发表时间：2024年12月26日">12.30高三限时训练考场布置及相关要求</a></li><li><span class="date">2024-12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20750.aspx" target="_self" title="标题：12.21高二学考模拟考考场布置及相关要求&#xD;点击数：174&#xD;发表时间：2024年12月19日">12.21高二学考模拟考考场布置及相关要求</a></li><li class="split"></li><li><span class="date">2024-12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20749.aspx" target="_self" title="标题：12.21高二学考模拟考监考安排和学生考场安排&#xD;点击数：288&#xD;发表时间：2024年12月19日">12.21高二学考模拟考监考安排和学生考场安排</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20729.aspx" target="_self" title="标题：12月18日高三临时课表&#xD;点击数：135&#xD;发表时间：2024年12月17日">12月18日高三临时课表</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20727.aspx" target="_self" title="标题：迎新“8”字跳长绳接力比赛成绩公告&#xD;点击数：207&#xD;发表时间：2024年12月17日">迎新“8”字跳长绳接力比赛成绩公告</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20726.aspx" target="_self" title="标题：全校物理教研活动通知&#xD;点击数：175&#xD;发表时间：2024年12月17日">全校物理教研活动通知</a></li><li><span class="date">2024-12-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20722.aspx" target="_self" title="标题：高二期末考试考试范围&#xD;点击数：241&#xD;发表时间：2024年12月16日">高二期末考试考试范围</a></li><li class="split"></li><li><span class="date">2024-12-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20705.aspx" target="_self" title="标题：12.16高三五校联考监考安排和学生考场安排&#xD;点击数：513&#xD;发表时间：2024年12月13日">12.16高三五校联考监考安排和学生考场安排</a></li><li><span class="date">2024-12-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20704.aspx" target="_self" title="标题：12.16五校联考考场布置及相关要求&#xD;点击数：166&#xD;发表时间：2024年12月13日">12.16五校联考考场布置及相关要求</a></li><li><span class="date">2024-12-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20695.aspx" target="_self" title="标题：关于迎新“8”字跳长绳接力比赛的补充通知&#xD;点击数：316&#xD;发表时间：2024年12月11日">关于迎新“8”字跳长绳接力比赛的补充通知</a></li><li><span class="date">2024-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20668.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：98&#xD;发表时间：2024年12月05日">信息技术教研活动通知</a></li><li class="last"><span class="date">2024-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20664.aspx" target="_self" title="标题：关于参加2024年绍兴市中小学文艺汇演的通知&#xD;点击数：221&#xD;发表时间：2024年12月05日">关于参加2024年绍兴市中小学文艺汇演的通知</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_9.aspx">上一页</a>
- <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <b><a href="Index_10.aspx">10</a></b> <a href="Index_11.aspx">11</a> <a href="Index_12.aspx">12</a> <a href="Index_13.aspx">13</a> <a href="Index_14.aspx">14</a> <a href="Index_15.aspx">15</a> 
-<a href="Index_11.aspx">下一页</a>
- <a href="Index_101.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩观学习教育成果</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月31日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23568"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23568},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23568";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="margin-bottom:0;text-align:center;line-height:36px"><span style="font-size:29px;font-family:方正小标宋简体">习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312"> </span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">中共中央总书记、国家主席、中央军委主席习近平近日作出重要指示强调，树立和践行正确政绩观是一项长期任务，必须久久为功，不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干，努力创造经得起实践、人民、历史检验的实绩。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">习近平指出，党的十八大以来，针对一个时期党的建设中的重要问题、紧迫问题，在全党组织开展学习教育活动，已经成为党的建设一项重要制度性安排。这次树立和践行正确政绩观学习教育在党中央坚强领导下，坚持把理论学习贯穿始终，真查实改政绩观偏差问题，着眼务实管用立好制度规矩，以严实作风一抓到底，取得明显成效，达到了预期目的。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">习近平强调，要经常性开展政绩观教育，重点抓好对地方党政正职、新提拔干部、年轻干部、关键岗位干部的教育培训，强化示范引领和反面警示，引导党员、干部始终以正确政绩观担当作为、履职尽责。要坚持常态化查改问题，对需要长期整改的政绩观偏差突出问题盯紧不放、跟踪问效，深化新官不理旧账整改整治。结合巡视巡察、审计监督、统计监督等精准发现问题，增强针对性和穿透力，扎实推动整改。要用好考核指挥棒，完善差异化考核评价体系，树立重实干重实绩的选人用人导向，让敢于负责、勇于担当、善于作为、实绩突出的干部受到重用。要加强政绩观行为的管理监督，严格执行民主集中制，对领导干部定期谈话提醒，及时发现并纠正苗头性倾向性问题。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">中央党的建设工作领导小组8月24日召开会议，深入学习贯彻习近平总书记重要指示精神，总结树立和践行正确政绩观学习教育，研究部署巩固拓展学习教育成果、建立树立和践行正确政绩观长效机制工作。中共中央政治局常委、中央党的建设工作领导小组组长蔡奇主持会议并讲话，中共中央政治局常委、中央党的建设工作领导小组副组长李希出席会议并讲话。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">会议强调，习近平总书记的重要指示，对学习教育工作和成效给予充分肯定，对巩固拓展学习教育成果、建立树立和践行正确政绩观长效机制提出明确要求，全党要认真学习领会、全面贯彻落实。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">会议指出，这次学习教育目前已基本结束。在以习近平同志为核心的党中央坚强领导下，各级党组织扛牢责任，一体推进学查改，推动广大党员、干部深化了对正确政绩观的认识和理解，有效解决了一批政绩观偏差突出问题，实实在在加强了党性锻炼，进一步规范了各级领导干部从政行为，为地方各级领导班子换届打下了良好思想政治基础，有力促进了“十五五”开局起步各项工作。这次学习教育坚持守正创新、简约务实，丰富了思想引领、真查实改、以上率下、标本兼治、服务中心等经验，进一步深化了对党内集中教育的规律性认识。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">会议强调，这次学习教育不是终点而是新的起点。要坚持不懈强化党的创新理论武装，深入学习贯彻习近平党建思想和习近平总书记重要指示精神，巩固拓展学习教育成果，建立长效机制。要持续推进政绩观教育，经常性查改政绩观偏差问题，树立重实干重实绩的用人导向，推动党员、干部不断增强树立和践行正确政绩观的思想自觉和行动自觉。要加强日常管理监督，防止任性用权，抓典型抓现行抓通报，保持强力震慑。要压实政治责任，抓好学习教育“回头看”，强化督促检查，有效传导压力，层层推动落实。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">石泰峰、李书磊、穆虹出席会议。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">中央党的建设工作领导小组成员等参加会议。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312"> </span></p><p style="margin-bottom:0;text-align:right;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family: 仿宋_GB2312">（来源：新华社）</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23546.aspx" target="_self" title="标题：每周一学（2026年8月24日-8月30日）习近平在纪念江泽民同志诞辰100周年大会上的讲话&#xD;点击数：1&#xD;发表时间：26年08月24日">每周一学（2026年8月24日-8月30日）习近平在纪念江泽民同志诞…</a>[ 08-24 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +473,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

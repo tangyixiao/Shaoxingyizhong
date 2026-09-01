@@ -40,9 +40,9 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
     <div class="wrapper">
         <div class="u_management_bg">
             <div class="P_width">
-                <form name="form1" method="post" action="../Prompt/ShowError.aspx" id="form1">
+                <form name="form1" method="post" action="../Prompt/ShowError.aspx?id=23574" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="nYCZrqfZzoUYRON8n0myGvkCCCL4tA9qg0SR6SGCOVuopN5bxd+9+2huUQH5w1jZaURGQluoL01rce+wg34pzsMqt9PHTConlzVypFXSUUBMFhRvV3iji/jqO9xXcx52VSkyCOqSUAflK3wvc7CFM8Bbyp6bT/cia7aPwPwm4wm4BxmVy7aEsnk2oimWlnvxgzAmwgcqGW8gjSxcY8bnNGlLdy5gCoimzEgxW9j0Xthfn7tdWscdpowyGB7F81BJcNju5nAxHi9G+O8gQ0TYX1uapq62UM+QcXwNe+ygS4Y4L5M7O9C9OgBabh2l+0rsRuZbTlUbSmP2Bhn0ZVw5woKUdv2pTVTMx3jWyg==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+x2LatWulBwlwFcJAx+KTX/lcluPDDU1+su7uZyk1AfePRpXoZB75vgEGKcmlMJu6+EP9dzxH1qDl8WIdOjFEuWSUya35lfuchz3EWvPTyNmRHoNxRgkjkg4I9NJPeYJ9yr4QI3YIisys3z/ah4sywA6PffYP87g0k01BrVckbC4SkOsyPoY+ZC16JO1iyDNVaBpEnGPZBgvo9lxqjHZyZb0rJf5s0u4Xtwn2UYMQckj5XtfA7j1GK6tiro4gD6soVhu5mST2jl8WW5LvAvmlkW7DqD8UVsPwq1AdHvpYKLYvA5EgOZirmKYYh90rR0t55ng+o186xCsYxnjS7TQUMeCaJ8=" />
 </div>
 
 <div>
@@ -61,13 +61,13 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
                             <dt class="titWrong">错误信息</dt>
                             <dd>
                                产生错误的可能原因：<br />
-                                <li>对不起，您没有签写留言的权限</li></dd>
+                                <li>您访问的内容信息需要经过审核才能浏览</li></dd>
                         </dl>
                     </div>
                     <div class="clearbox">
                     </div>
                     <div class="BUT">
-                        <a id="LnkReturnUrl" href="javascript:window.close();">关闭</a>   
+                        <a id="LnkReturnUrl" href="../Default.aspx">&lt;&lt;&nbsp;返回上一页</a>   
                         
                         </div>
                 </dd>

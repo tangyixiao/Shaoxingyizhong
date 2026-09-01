@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
+            <li class="first"><a href="/Item/23571.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：24&#xD;发表时间：2026年09月01日">高一大扫除通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/20170.aspx" target="_blank" title="标题：2026学年第一学期绍兴一中包干区分配方案及打扫要求&#xD;点击数：1926&#xD;发表时间：2024年09月02日"><font style="font-weight:bold;font-style:normal;;">2026学年第一学期绍兴一中包干区分配方案及打扫要求</font></a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23559.aspx" target="_blank" title="标题：绍兴一中教育集团2026级新生军训各项先进表彰&#xD;点击数：95&#xD;发表时间：2026年08月29日">绍兴一中教育集团2026级新生军训各项先进表彰</a><span class="dateRight">[08-29]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
           
                     </ul>
                 </div>
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23543.aspx" target="_self" title="标题：高一大扫除通知&#xD;点击数：43&#xD;发表时间：26年08月23日">高一大扫除通知</a>[ 08-23 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：215&#xD;发表时间：26年08月23日">通知两则</a>[ 08-23 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23543.aspx" target="_self" title="标题：高一大扫除通知&#xD;点击数：45&#xD;发表时间：26年08月23日">高一大扫除通知</a>[ 08-23 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：220&#xD;发表时间：26年08月23日">通知两则</a>[ 08-23 ]</div>
                         </div>
                     </div>
 

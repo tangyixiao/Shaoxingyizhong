@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教学处-绍兴市第一中学</title>
+    <title>高一大扫除通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -354,9 +354,9 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23570.aspx" target="_blank" title="标题：协作体校领导巡考安排&#xD;点击数：71&#xD;发表时间：2026年08月31日">协作体校领导巡考安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：229&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23564.aspx" target="_blank" title="标题：高三09.01协作体监考安排和学生考场安排&#xD;点击数：182&#xD;发表时间：2026年08月31日">高三09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23466.aspx" target="_blank" title="标题：新高二、新高三协作体考试时间和范围&#xD;点击数：236&#xD;发表时间：2026年07月02日">新高二、新高三协作体考试时间和范围</a><span class="dateRight">[07-02]</span></li><li><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：90&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9403&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：88&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23571.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：24&#xD;发表时间：2026年09月01日">高一大扫除通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/20170.aspx" target="_blank" title="标题：2026学年第一学期绍兴一中包干区分配方案及打扫要求&#xD;点击数：1926&#xD;发表时间：2024年09月02日"><font style="font-weight:bold;font-style:normal;;">2026学年第一学期绍兴一中包干区分配方案及打扫要求</font></a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23559.aspx" target="_blank" title="标题：绍兴一中教育集团2026级新生军训各项先进表彰&#xD;点击数：95&#xD;发表时间：2026年08月29日">绍兴一中教育集团2026级新生军训各项先进表彰</a><span class="dateRight">[08-29]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=26>教学处</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,61 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2025-01-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20888.aspx" target="_self" title="标题：1月21日高三期末考考场布置及相关要求&#xD;点击数：96&#xD;发表时间：2025年01月20日">1月21日高三期末考考场布置及相关要求</a></li><li><span class="date">2025-01-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20887.aspx" target="_self" title="标题：1月21日高三期末考监考安排和学生考场安排&#xD;点击数：246&#xD;发表时间：2025年01月20日">1月21日高三期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20873.aspx" target="_self" title="标题：2月下学期初协作体高二高三考试范围&#xD;点击数：344&#xD;发表时间：2025年01月13日">2月下学期初协作体高二高三考试范围</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20872.aspx" target="_self" title="标题：1.15高一期末考考场布置及相关要求&#xD;点击数：212&#xD;发表时间：2025年01月13日">1.15高一期末考考场布置及相关要求</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20871.aspx" target="_self" title="标题：1.14高二期末考考场布置及相关要求&#xD;点击数：196&#xD;发表时间：2025年01月13日">1.14高二期末考考场布置及相关要求</a></li><li class="split"></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20866.aspx" target="_self" title="标题：1.15高一期末考监考安排和学生考场安排&#xD;点击数：649&#xD;发表时间：2025年01月13日">1.15高一期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20865.aspx" target="_self" title="标题：1.14高二期末考监考安排和学生考场安排&#xD;点击数：532&#xD;发表时间：2025年01月13日">1.14高二期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20859.aspx" target="_self" title="标题：1月12日联培生评价考务培训和监考安排&#xD;点击数：505&#xD;发表时间：2025年01月10日">1月12日联培生评价考务培训和监考安排</a></li><li><span class="date">2025-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20857.aspx" target="_self" title="标题：1月12日联培生分类评价教室布置要求&#xD;点击数：281&#xD;发表时间：2025年01月10日">1月12日联培生分类评价教室布置要求</a></li><li><span class="date">2025-01-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20850.aspx" target="_self" title="标题：2024年绍兴一中教育集团学生体质健康测试成绩公告&#xD;点击数：228&#xD;发表时间：2025年01月09日">2024年绍兴一中教育集团学生体质健康测试成绩公告</a></li><li class="split"></li><li><span class="date">2025-01-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20847.aspx" target="_self" title="标题：高三首考后上课安排&#xD;点击数：353&#xD;发表时间：2025年01月08日">高三首考后上课安排</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20841.aspx" target="_self" title="标题：2025年1月学选考绍兴一中考点组织机构&#xD;点击数：242&#xD;发表时间：2025年01月04日">2025年1月学选考绍兴一中考点组织机构</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20836.aspx" target="_self" title="标题：2025年1月学考选考试场布置要求&#xD;点击数：324&#xD;发表时间：2025年01月04日">2025年1月学考选考试场布置要求</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20835.aspx" target="_self" title="标题：2025年1月学考选考考务培训通知&#xD;点击数：407&#xD;发表时间：2025年01月04日">2025年1月学考选考考务培训通知</a></li><li><span class="date">2025-01-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20827.aspx" target="_self" title="标题：高一高二期末考时间安排&#xD;点击数：400&#xD;发表时间：2025年01月03日">高一高二期末考时间安排</a></li><li class="split"></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20822.aspx" target="_self" title="标题：2025年1月学选考考场分布&#xD;点击数：322&#xD;发表时间：2025年01月02日">2025年1月学选考考场分布</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20821.aspx" target="_self" title="标题：2025年1月学选考二次安检及刷脸入场验证演练工作方案&#xD;点击数：215&#xD;发表时间：2025年01月02日">2025年1月学选考二次安检及刷脸入场验证演练工作方案</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20820.aspx" target="_self" title="标题：2025年1月学选考监考安排&#xD;点击数：581&#xD;发表时间：2025年01月02日">2025年1月学选考监考安排</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20817.aspx" target="_self" title="标题：广播讲话通知&#xD;点击数：187&#xD;发表时间：2025年01月02日">广播讲话通知</a></li><li><span class="date">2024-12-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20812.aspx" target="_self" title="标题：高三1月2日至5日安排&#xD;点击数：383&#xD;发表时间：2024年12月31日">高三1月2日至5日安排</a></li><li class="split"></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20809.aspx" target="_self" title="标题：美术生家长会改期通知&#xD;点击数：124&#xD;发表时间：2024年12月30日">美术生家长会改期通知</a></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20804.aspx" target="_self" title="标题：高二、高三班主任会议通知&#xD;点击数：84&#xD;发表时间：2024年12月30日">高二、高三班主任会议通知</a></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20788.aspx" target="_self" title="标题：12.30高三限时训练监考安排和学生考场安排&#xD;点击数：532&#xD;发表时间：2024年12月30日">12.30高三限时训练监考安排和学生考场安排</a></li><li><span class="date">2024-12-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20789.aspx" target="_self" title="标题：12.30高三限时训练考场布置及相关要求&#xD;点击数：141&#xD;发表时间：2024年12月26日">12.30高三限时训练考场布置及相关要求</a></li><li><span class="date">2024-12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20750.aspx" target="_self" title="标题：12.21高二学考模拟考考场布置及相关要求&#xD;点击数：174&#xD;发表时间：2024年12月19日">12.21高二学考模拟考考场布置及相关要求</a></li><li class="split"></li><li><span class="date">2024-12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20749.aspx" target="_self" title="标题：12.21高二学考模拟考监考安排和学生考场安排&#xD;点击数：288&#xD;发表时间：2024年12月19日">12.21高二学考模拟考监考安排和学生考场安排</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20729.aspx" target="_self" title="标题：12月18日高三临时课表&#xD;点击数：135&#xD;发表时间：2024年12月17日">12月18日高三临时课表</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20727.aspx" target="_self" title="标题：迎新“8”字跳长绳接力比赛成绩公告&#xD;点击数：207&#xD;发表时间：2024年12月17日">迎新“8”字跳长绳接力比赛成绩公告</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20726.aspx" target="_self" title="标题：全校物理教研活动通知&#xD;点击数：175&#xD;发表时间：2024年12月17日">全校物理教研活动通知</a></li><li><span class="date">2024-12-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20722.aspx" target="_self" title="标题：高二期末考试考试范围&#xD;点击数：241&#xD;发表时间：2024年12月16日">高二期末考试考试范围</a></li><li class="split"></li><li><span class="date">2024-12-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20705.aspx" target="_self" title="标题：12.16高三五校联考监考安排和学生考场安排&#xD;点击数：513&#xD;发表时间：2024年12月13日">12.16高三五校联考监考安排和学生考场安排</a></li><li><span class="date">2024-12-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20704.aspx" target="_self" title="标题：12.16五校联考考场布置及相关要求&#xD;点击数：166&#xD;发表时间：2024年12月13日">12.16五校联考考场布置及相关要求</a></li><li><span class="date">2024-12-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20695.aspx" target="_self" title="标题：关于迎新“8”字跳长绳接力比赛的补充通知&#xD;点击数：316&#xD;发表时间：2024年12月11日">关于迎新“8”字跳长绳接力比赛的补充通知</a></li><li><span class="date">2024-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20668.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：98&#xD;发表时间：2024年12月05日">信息技术教研活动通知</a></li><li class="last"><span class="date">2024-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20664.aspx" target="_self" title="标题：关于参加2024年绍兴市中小学文艺汇演的通知&#xD;点击数：221&#xD;发表时间：2024年12月05日">关于参加2024年绍兴市中小学文艺汇演的通知</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_9.aspx">上一页</a>
- <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <b><a href="Index_10.aspx">10</a></b> <a href="Index_11.aspx">11</a> <a href="Index_12.aspx">12</a> <a href="Index_13.aspx">13</a> <a href="Index_14.aspx">14</a> <a href="Index_15.aspx">15</a> 
-<a href="Index_11.aspx">下一页</a>
- <a href="Index_101.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">高一大扫除通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月01日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23571"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23571},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23571";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(51, 51, 51);">本周高一年级大扫除在<span style="background-color: rgb(255, 255, 0);">今天下午第九节课时间</span>正常开展，包括教室、包干区（走班教室，阶梯教室及其它功能教室）。</span></p><p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(192, 0, 0);">特别注意：</span></p><p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(192, 0, 0);">1</span><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(192, 0, 0);">、<span style="font-size: 13.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">教室南面玻璃气窗、窗台上灰尘的擦除</span><span style="font-size: 14pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">；</span><span style="font-size: medium;"></span></span></p><p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(192, 0, 0);">2</span><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(192, 0, 0);">、<span style="font-size: 14pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">清理教室墙角、门背后积尘，擦拭门框玻璃，确保无卫生盲区；</span><span style="font-size: medium;"></span></span></p><p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(192, 0, 0);">3</span><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(192, 0, 0);">、清理桌面涂鸦，课桌文化整理</span></p><p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(51, 51, 51);">      16:45</span><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(51, 51, 51);">德育处将进行进行<span style="background: yellow;">大扫除检查</span>，检查结果计入班级量化考核。</span></p><p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; text-align: right; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(51, 51, 51);">德育处 </span></p><p style="margin-bottom: 20px; font-family: Calibri, sans-serif; text-wrap-mode: wrap; text-align: right; background: white;"><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(51, 51, 51);">2026</span><span style="font-size: 18px; font-family: 微软雅黑, sans-serif; color: rgb(51, 51, 51);">年8月31日</span></p><p>
+</p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23561.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：54&#xD;发表时间：26年08月31日">高二、高三大扫除通知</a>[ 08-31 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +483,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

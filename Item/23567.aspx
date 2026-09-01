@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教学处-绍兴市第一中学</title>
+    <title>防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动--学校新闻-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,29 +343,18 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
+        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
-<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
-<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
-<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
-<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
+			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,92 +362,84 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23570.aspx" target="_blank" title="标题：协作体校领导巡考安排&#xD;点击数：71&#xD;发表时间：2026年08月31日">协作体校领导巡考安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：229&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23564.aspx" target="_blank" title="标题：高三09.01协作体监考安排和学生考场安排&#xD;点击数：182&#xD;发表时间：2026年08月31日">高三09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23466.aspx" target="_blank" title="标题：新高二、新高三协作体考试时间和范围&#xD;点击数：236&#xD;发表时间：2026年07月02日">新高二、新高三协作体考试时间和范围</a><span class="dateRight">[07-02]</span></li><li><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：90&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9403&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：88&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：8&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防…</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：53&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23521.aspx" target="_blank" title="标题：【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导走访大湾区一中校友综述&#xD;点击数：33&#xD;发表时间：2026年08月20日">【130周年校庆筹备】踏浪大湾区 共叙一中情——我校领导…</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：34&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召…</a><span class="dateRight">[08-25]</span></li><li class="last"><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：37&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a><span class="dateRight">[08-20]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=26>教学处</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+                    <h3>学校新闻</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2025-01-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20888.aspx" target="_self" title="标题：1月21日高三期末考考场布置及相关要求&#xD;点击数：96&#xD;发表时间：2025年01月20日">1月21日高三期末考考场布置及相关要求</a></li><li><span class="date">2025-01-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20887.aspx" target="_self" title="标题：1月21日高三期末考监考安排和学生考场安排&#xD;点击数：246&#xD;发表时间：2025年01月20日">1月21日高三期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20873.aspx" target="_self" title="标题：2月下学期初协作体高二高三考试范围&#xD;点击数：344&#xD;发表时间：2025年01月13日">2月下学期初协作体高二高三考试范围</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20872.aspx" target="_self" title="标题：1.15高一期末考考场布置及相关要求&#xD;点击数：212&#xD;发表时间：2025年01月13日">1.15高一期末考考场布置及相关要求</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20871.aspx" target="_self" title="标题：1.14高二期末考考场布置及相关要求&#xD;点击数：196&#xD;发表时间：2025年01月13日">1.14高二期末考考场布置及相关要求</a></li><li class="split"></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20866.aspx" target="_self" title="标题：1.15高一期末考监考安排和学生考场安排&#xD;点击数：649&#xD;发表时间：2025年01月13日">1.15高一期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20865.aspx" target="_self" title="标题：1.14高二期末考监考安排和学生考场安排&#xD;点击数：532&#xD;发表时间：2025年01月13日">1.14高二期末考监考安排和学生考场安排</a></li><li><span class="date">2025-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20859.aspx" target="_self" title="标题：1月12日联培生评价考务培训和监考安排&#xD;点击数：505&#xD;发表时间：2025年01月10日">1月12日联培生评价考务培训和监考安排</a></li><li><span class="date">2025-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20857.aspx" target="_self" title="标题：1月12日联培生分类评价教室布置要求&#xD;点击数：281&#xD;发表时间：2025年01月10日">1月12日联培生分类评价教室布置要求</a></li><li><span class="date">2025-01-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20850.aspx" target="_self" title="标题：2024年绍兴一中教育集团学生体质健康测试成绩公告&#xD;点击数：228&#xD;发表时间：2025年01月09日">2024年绍兴一中教育集团学生体质健康测试成绩公告</a></li><li class="split"></li><li><span class="date">2025-01-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20847.aspx" target="_self" title="标题：高三首考后上课安排&#xD;点击数：353&#xD;发表时间：2025年01月08日">高三首考后上课安排</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20841.aspx" target="_self" title="标题：2025年1月学选考绍兴一中考点组织机构&#xD;点击数：242&#xD;发表时间：2025年01月04日">2025年1月学选考绍兴一中考点组织机构</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20836.aspx" target="_self" title="标题：2025年1月学考选考试场布置要求&#xD;点击数：324&#xD;发表时间：2025年01月04日">2025年1月学考选考试场布置要求</a></li><li><span class="date">2025-01-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20835.aspx" target="_self" title="标题：2025年1月学考选考考务培训通知&#xD;点击数：407&#xD;发表时间：2025年01月04日">2025年1月学考选考考务培训通知</a></li><li><span class="date">2025-01-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20827.aspx" target="_self" title="标题：高一高二期末考时间安排&#xD;点击数：400&#xD;发表时间：2025年01月03日">高一高二期末考时间安排</a></li><li class="split"></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20822.aspx" target="_self" title="标题：2025年1月学选考考场分布&#xD;点击数：322&#xD;发表时间：2025年01月02日">2025年1月学选考考场分布</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20821.aspx" target="_self" title="标题：2025年1月学选考二次安检及刷脸入场验证演练工作方案&#xD;点击数：215&#xD;发表时间：2025年01月02日">2025年1月学选考二次安检及刷脸入场验证演练工作方案</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20820.aspx" target="_self" title="标题：2025年1月学选考监考安排&#xD;点击数：581&#xD;发表时间：2025年01月02日">2025年1月学选考监考安排</a></li><li><span class="date">2025-01-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20817.aspx" target="_self" title="标题：广播讲话通知&#xD;点击数：187&#xD;发表时间：2025年01月02日">广播讲话通知</a></li><li><span class="date">2024-12-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20812.aspx" target="_self" title="标题：高三1月2日至5日安排&#xD;点击数：383&#xD;发表时间：2024年12月31日">高三1月2日至5日安排</a></li><li class="split"></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20809.aspx" target="_self" title="标题：美术生家长会改期通知&#xD;点击数：124&#xD;发表时间：2024年12月30日">美术生家长会改期通知</a></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20804.aspx" target="_self" title="标题：高二、高三班主任会议通知&#xD;点击数：84&#xD;发表时间：2024年12月30日">高二、高三班主任会议通知</a></li><li><span class="date">2024-12-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20788.aspx" target="_self" title="标题：12.30高三限时训练监考安排和学生考场安排&#xD;点击数：532&#xD;发表时间：2024年12月30日">12.30高三限时训练监考安排和学生考场安排</a></li><li><span class="date">2024-12-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20789.aspx" target="_self" title="标题：12.30高三限时训练考场布置及相关要求&#xD;点击数：141&#xD;发表时间：2024年12月26日">12.30高三限时训练考场布置及相关要求</a></li><li><span class="date">2024-12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20750.aspx" target="_self" title="标题：12.21高二学考模拟考考场布置及相关要求&#xD;点击数：174&#xD;发表时间：2024年12月19日">12.21高二学考模拟考考场布置及相关要求</a></li><li class="split"></li><li><span class="date">2024-12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20749.aspx" target="_self" title="标题：12.21高二学考模拟考监考安排和学生考场安排&#xD;点击数：288&#xD;发表时间：2024年12月19日">12.21高二学考模拟考监考安排和学生考场安排</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20729.aspx" target="_self" title="标题：12月18日高三临时课表&#xD;点击数：135&#xD;发表时间：2024年12月17日">12月18日高三临时课表</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20727.aspx" target="_self" title="标题：迎新“8”字跳长绳接力比赛成绩公告&#xD;点击数：207&#xD;发表时间：2024年12月17日">迎新“8”字跳长绳接力比赛成绩公告</a></li><li><span class="date">2024-12-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20726.aspx" target="_self" title="标题：全校物理教研活动通知&#xD;点击数：175&#xD;发表时间：2024年12月17日">全校物理教研活动通知</a></li><li><span class="date">2024-12-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20722.aspx" target="_self" title="标题：高二期末考试考试范围&#xD;点击数：241&#xD;发表时间：2024年12月16日">高二期末考试考试范围</a></li><li class="split"></li><li><span class="date">2024-12-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20705.aspx" target="_self" title="标题：12.16高三五校联考监考安排和学生考场安排&#xD;点击数：513&#xD;发表时间：2024年12月13日">12.16高三五校联考监考安排和学生考场安排</a></li><li><span class="date">2024-12-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20704.aspx" target="_self" title="标题：12.16五校联考考场布置及相关要求&#xD;点击数：166&#xD;发表时间：2024年12月13日">12.16五校联考考场布置及相关要求</a></li><li><span class="date">2024-12-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20695.aspx" target="_self" title="标题：关于迎新“8”字跳长绳接力比赛的补充通知&#xD;点击数：316&#xD;发表时间：2024年12月11日">关于迎新“8”字跳长绳接力比赛的补充通知</a></li><li><span class="date">2024-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20668.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：98&#xD;发表时间：2024年12月05日">信息技术教研活动通知</a></li><li class="last"><span class="date">2024-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20664.aspx" target="_self" title="标题：关于参加2024年绍兴市中小学文艺汇演的通知&#xD;点击数：221&#xD;发表时间：2024年12月05日">关于参加2024年绍兴市中小学文艺汇演的通知</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_9.aspx">上一页</a>
- <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <b><a href="Index_10.aspx">10</a></b> <a href="Index_11.aspx">11</a> <a href="Index_12.aspx">12</a> <a href="Index_13.aspx">13</a> <a href="Index_14.aspx">14</a> <a href="Index_15.aspx">15</a> 
-<a href="Index_11.aspx">下一页</a>
- <a href="Index_101.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年08月31日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23567"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23567},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23567";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p>
+</p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">消防安全无小事，防微杜渐守平安。</span><span style="font-family:Calibri">8</span><span style="font-family:宋体">月</span><span style="font-family:Calibri">2</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">5</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">日，绍兴一中组织</span><span style="font-family:Calibri">2026</span><span style="font-family:宋体">级全体新生开展消防安全</span></span><span style=";font-family:宋体;font-size:14px">教育</span><span style=";font-family:宋体;font-size:14px">专项活动。本次活动由东浦街道消防救援站袁家力队长带队授课，</span><span style=";font-family:宋体;font-size:14px">从</span><span style=";font-family:宋体;font-size:14px">消防知识宣讲、实景应急疏散演练、消防器材实操体验</span><span style=";font-family:宋体;font-size:14px">三个维度开展</span><span style=";font-family:宋体;font-size:14px">教学，为新生们</span><span style=";font-family:宋体;font-size:14px">带来</span><span style=";font-family:宋体;font-size:14px">了一堂安全必修课。</span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">01 </span><span style="font-family:宋体">消防宣讲：深耕安全知识，根植防范理念</span></span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">在消防安全专题</span><span style=";font-family:宋体;font-size:14px">讲座</span><span style=";font-family:宋体;font-size:14px">上，袁家力队长围绕校园消防安全核心要点，结合青少年校园生活场景，带来了兼具专业性与实用性的知识宣讲。通过真实鲜活的火灾案例，直观展现火灾事故的危害性与日常防范的重要性。同时，他讲解了日常生活中常见的火灾诱发因素等基础消防常识，</span><span style=";font-family:宋体;font-size:14px">帮助同学们</span><span style=";font-family:宋体;font-size:14px">树立科学的消防安全认知。</span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">02 </span><span style="font-family:宋体">应急演练：模拟真实火情，锤炼逃生本领</span></span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">理论筑牢根基，实操检验成效。现场浓烟模拟设备启动，接到疏散指令后，全体新生迅速进入应急状态，</span><span style=";font-family:宋体;font-size:14px">捂住口鼻</span><span style=";font-family:宋体;font-size:14px">、弯腰低姿，紧跟班级队伍，在班主任及带队教官的指引下有序撤离。</span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">03 </span><span style="font-family:宋体">器材实操：零距离体验，沉浸式学技能</span></span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">本次活动设置了消防器材实操体验环节。消防救援人员现场陈列各类常用消防设备，重点演示了干粉灭火器</span><span style="font-family:宋体">“提、拔、握、压”标准操作流程，同学们踊跃上前，</span></span><span style=";font-family:宋体;font-size:14px">体验灭火器使用与</span><span style=";font-family:宋体;font-size:14px">高压水枪射水实操，专注观摩、</span><span style=";font-family:宋体;font-size:14px">上手实</span><span style=";font-family:宋体;font-size:14px">操，在沉浸式实战体验中熟练消防器材使用方法。</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"> </span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">安全重于泰山，教育常抓不懈。此次消防安全教育培训活动，以理论</span><span style=";font-family:宋体;font-size:14px">加</span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">实操的形式，全方位提升高一新生的消防安全素养，让</span><span style="font-family:宋体">“消防安全、生命至上”的理念根</span></span><span style=";font-family:宋体;font-size:14px">植</span><span style=";font-family:宋体;font-size:14px">于心。绍兴一中将持续开展校园安全教育活动，常态化筑牢校园安全防线，为全体学子的健康成长保驾护航</span><span style=";font-family:宋体;font-size:14px">。</span></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615260427.jpg" style="max-width: 100%; " title="202608311615260427.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615291623.jpg" style="max-width: 100%; " title="202608311615291623.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615294523.jpg" style="max-width: 100%; " title="202608311615294523.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615300239.jpg" style="max-width: 100%; " title="202608311615300239.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615320447.jpg" style="max-width: 100%; " title="202608311615320447.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615397301.jpg" style="max-width: 100%; " title="202608311615397301.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615372437.jpg" style="max-width: 100%; " title="202608311615372437.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615385937.jpg" style="max-width: 100%; " title="202608311615385937.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615436467.jpg" style="max-width: 100%; " title="202608311615436467.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615410326.jpg" style="max-width: 100%; " title="202608311615410326.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615428595.jpg" style="max-width: 100%; " title="202608311615428595.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615450314.jpg" style="max-width: 100%; " title="202608311615450314.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615450135.jpg" style="max-width: 100%; " title="202608311615450135.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/8/202608311615438234.jpg" style="max-width: 100%; " title="202608311615438234.jpg" /></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23554.aspx" target="_self" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：34&#xD;发表时间：26年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五…</a>[ 08-25 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +471,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
