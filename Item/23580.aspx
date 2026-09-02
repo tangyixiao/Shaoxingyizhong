@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>德育处-绍兴市第一中学</title>
+    <title>中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定--党政办-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -342,8 +341,9 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -353,10 +353,10 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：135&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：56&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/18424.aspx" target="_blank" title="标题：绍兴一中教育集团班级日常检查内容及扣分标准&#xD;点击数：2156&#xD;发表时间：2024年09月11日"><font style="font-weight:bold;font-style:normal;;">绍兴一中教育集团班级日常检查内容及扣分标准</font></a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：118&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23580.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定&#xD;点击数：110&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23579.aspx" target="_blank" title="标题：绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法&#xD;点击数：87&#xD;发表时间：2026年09月02日">绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：171&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li><li><a href="/Item/23515.aspx" target="_blank" title="标题：关于推荐申报浙江省任教三十年教师荣誉证书对象的公示&#xD;点击数：168&#xD;发表时间：2026年08月20日">关于推荐申报浙江省任教三十年教师荣誉证书对象的公示</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：303&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li><li class="last"><a href="/Item/23490.aspx" target="_blank" title="标题：第二届“高考突出贡献奖”和“育人楷模奖”评选通知&#xD;点击数：179&#xD;发表时间：2026年07月08日">第二届“高考突出贡献奖”和“育人楷模奖”评选通知</a><span class="dateRight">[07-08]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=27>德育处</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,59 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
+                    <h3>党政办</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2025-02-26</span><img src="/images/elite1.gif" alt="推荐"><a href="/Item/20979.aspx" target="_self" title="标题：绍兴一中教育集团学生行为规范&#xD;点击数：553&#xD;发表时间：2025年02月26日"><font style="font-weight:bold;font-style:normal;;">绍兴一中教育集团学生行为规范</font></a></li><li><span class="date">2024-09-02</span><img src="/images/elite1.gif" alt="推荐"><a href="/Item/20170.aspx" target="_self" title="标题：2026学年第一学期绍兴一中包干区分配方案及打扫要求&#xD;点击数：1942&#xD;发表时间：2024年09月02日"><font style="font-weight:bold;font-style:normal;;">2026学年第一学期绍兴一中包干区分配方案及打扫要求</font></a></li><li><span class="date">2024-09-11</span><img src="/images/elite1.gif" alt="推荐"><a href="/Item/18424.aspx" target="_self" title="标题：绍兴一中教育集团班级日常检查内容及扣分标准&#xD;点击数：2156&#xD;发表时间：2024年09月11日"><font style="font-weight:bold;font-style:normal;;">绍兴一中教育集团班级日常检查内容及扣分标准</font></a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23582.aspx" target="_self" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：135&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">2026-09-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23578.aspx" target="_self" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：56&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a></li><li class="split"></li><li><span class="date">2026-09-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23571.aspx" target="_self" title="标题：高一大扫除通知&#xD;点击数：51&#xD;发表时间：2026年09月01日">高一大扫除通知</a></li><li><span class="date">2026-08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23561.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：56&#xD;发表时间：2026年08月31日">高二、高三大扫除通知</a></li><li><span class="date">2026-08-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23559.aspx" target="_self" title="标题：绍兴一中教育集团2026级新生军训各项先进表彰&#xD;点击数：104&#xD;发表时间：2026年08月29日">绍兴一中教育集团2026级新生军训各项先进表彰</a></li><li><span class="date">2026-08-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23557.aspx" target="_self" title="标题：“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排&#xD;点击数：133&#xD;发表时间：2026年08月26日">“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排</a></li><li><span class="date">2026-08-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23549.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：78&#xD;发表时间：2026年08月24日">高二、高三大扫除通知</a></li><li class="split"></li><li><span class="date">2026-08-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23545.aspx" target="_self" title="标题：通知两则&#xD;点击数：221&#xD;发表时间：2026年08月23日">通知两则</a></li><li><span class="date">2026-08-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23544.aspx" target="_self" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：133&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛</a></li><li><span class="date">2026-08-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23543.aspx" target="_self" title="标题：高一大扫除通知&#xD;点击数：48&#xD;发表时间：2026年08月23日">高一大扫除通知</a></li><li><span class="date">2026-08-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23542.aspx" target="_self" title="标题：关于合唱比赛专题会议的通知&#xD;点击数：79&#xD;发表时间：2026年08月23日">关于合唱比赛专题会议的通知</a></li><li><span class="date">2026-08-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23540.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：179&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a></li><li class="split"></li><li><span class="date">2026-08-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23538.aspx" target="_self" title="标题：绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案&#xD;点击数：73&#xD;发表时间：2026年08月21日">绍兴一中教育集团学生军训安全与管理制度及安全工作应急预案</a></li><li><span class="date">2026-08-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23537.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：170&#xD;发表时间：2026年08月21日">2026年绍兴一中教育集团高一新生军训方案</a></li><li><span class="date">2026-08-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23535.aspx" target="_self" title="标题：原高一研学的红船明信片认领通知&#xD;点击数：91&#xD;发表时间：2026年08月21日">原高一研学的红船明信片认领通知</a></li><li><span class="date">2026-08-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23501.aspx" target="_self" title="标题：高三学部大扫除通知&#xD;点击数：54&#xD;发表时间：2026年08月12日">高三学部大扫除通知</a></li><li><span class="date">2026-07-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23481.aspx" target="_self" title="标题：2026级高一新生始业教育方案&#xD;点击数：133&#xD;发表时间：2026年07月06日">2026级高一新生始业教育方案</a></li><li class="split"></li><li><span class="date">2026-07-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23465.aspx" target="_self" title="标题：7.1班级一日考核&#xD;点击数：34&#xD;发表时间：2026年07月02日">7.1班级一日考核</a></li><li><span class="date">2026-07-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23462.aspx" target="_self" title="标题：6.30班级一日考核&#xD;点击数：36&#xD;发表时间：2026年07月01日">6.30班级一日考核</a></li><li><span class="date">2026-06-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23455.aspx" target="_self" title="标题：6.29班级一日考核&#xD;点击数：31&#xD;发表时间：2026年06月30日">6.29班级一日考核</a></li><li><span class="date">2026-06-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23452.aspx" target="_self" title="标题：6.27班级一日考核&#xD;点击数：26&#xD;发表时间：2026年06月29日">6.27班级一日考核</a></li><li><span class="date">2026-06-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23451.aspx" target="_self" title="标题：6.26班级一日考核&#xD;点击数：22&#xD;发表时间：2026年06月29日">6.26班级一日考核</a></li><li class="split"></li><li><span class="date">2026-06-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23446.aspx" target="_self" title="标题：高一、高二大扫除通知&#xD;点击数：32&#xD;发表时间：2026年06月29日">高一、高二大扫除通知</a></li><li><span class="date">2026-06-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23439.aspx" target="_self" title="标题：室内升旗仪式通知&#xD;点击数：26&#xD;发表时间：2026年06月29日">室内升旗仪式通知</a></li><li><span class="date">2026-06-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23435.aspx" target="_self" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a></li><li><span class="date">2026-06-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23434.aspx" target="_self" title="标题：高二学生2025学年第二学期先进名单公示&#xD;点击数：89&#xD;发表时间：2026年06月26日">高二学生2025学年第二学期先进名单公示</a></li><li><span class="date">2026-06-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23433.aspx" target="_self" title="标题：高一学生2025学年第二学期先进名单公示&#xD;点击数：81&#xD;发表时间：2026年06月26日">高一学生2025学年第二学期先进名单公示</a></li><li class="split"></li><li><span class="date">2026-06-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23432.aspx" target="_self" title="标题：高二学生2025学年第二学期综合素质评价等第公示&#xD;点击数：74&#xD;发表时间：2026年06月26日">高二学生2025学年第二学期综合素质评价等第公示</a></li><li><span class="date">2026-06-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23431.aspx" target="_self" title="标题：高一学生2025学年第二学期综合素质评价等第公示&#xD;点击数：72&#xD;发表时间：2026年06月26日">高一学生2025学年第二学期综合素质评价等第公示</a></li><li><span class="date">2026-06-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23430.aspx" target="_self" title="标题：6.24班级一日考核&#xD;点击数：23&#xD;发表时间：2026年06月25日">6.24班级一日考核</a></li><li><span class="date">2026-06-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23429.aspx" target="_self" title="标题：6月份“美丽寝室”表彰公告&#xD;点击数：50&#xD;发表时间：2026年06月25日">6月份“美丽寝室”表彰公告</a></li><li class="last"><span class="date">2026-06-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23428.aspx" target="_self" title="标题：2025学年第二学期“优秀寝室长”表彰通告&#xD;点击数：68&#xD;发表时间：2026年06月25日">2025学年第二学期“优秀寝室长”表彰通告</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> <a href="Index_2.aspx">2</a> <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <a href="Index_10.aspx">10</a> <a href="Index_11.aspx">11</a> 
-<a href="Index_2.aspx">下一页</a>
- <a href="Index_174.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月02日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23580"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23580},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23580";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><img src="/UploadFiles/xwzx/2026/9/202609020845032749.png" style="max-width: 100%; " title="202609020845032749.png" /></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23579.aspx" target="_self" title="标题：绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法&#xD;点击数：87&#xD;发表时间：26年09月02日">绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法</a>[ 09-02 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23581.aspx" target="_self" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：118&#xD;发表时间：26年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” …</a>[ 09-02 ]</div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +481,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
