@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23577.aspx" target="_blank" title="标题：研究院2026年9月份市直活动安排&#xD;点击数：136&#xD;发表时间：2026年09月01日">研究院2026年9月份市直活动安排</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：230&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23569.aspx" target="_blank" title="标题：浙江省教师教育规划课题结题和申报通知&#xD;点击数：119&#xD;发表时间：2026年09月01日">浙江省教师教育规划课题结题和申报通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23539.aspx" target="_blank" title="标题：关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证书续期培训班的通知&#xD;点击数：143&#xD;发表时间：2026年08月21日">关于举办2026年下半年浙江省中小学心理健康教育教师上岗…</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23483.aspx" target="_blank" title="标题：关于开展2025学年学科团队考核工作的通知&#xD;点击数：87&#xD;发表时间：2026年07月07日">关于开展2025学年学科团队考核工作的通知</a><span class="dateRight">[07-07]</span></li><li><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Item/23030.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：139&#xD;发表时间：2026年04月14日">英语教研活动通知</a><span class="dateRight">[04-14]</span></li>
+            <li class="first"><a href="/Item/23577.aspx" target="_blank" title="标题：研究院2026年9月份市直活动安排&#xD;点击数：143&#xD;发表时间：2026年09月01日">研究院2026年9月份市直活动安排</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23569.aspx" target="_blank" title="标题：浙江省教师教育规划课题结题和申报通知&#xD;点击数：121&#xD;发表时间：2026年09月01日">浙江省教师教育规划课题结题和申报通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23539.aspx" target="_blank" title="标题：关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证书续期培训班的通知&#xD;点击数：143&#xD;发表时间：2026年08月21日">关于举办2026年下半年浙江省中小学心理健康教育教师上岗…</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：232&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23483.aspx" target="_blank" title="标题：关于开展2025学年学科团队考核工作的通知&#xD;点击数：87&#xD;发表时间：2026年07月07日">关于开展2025学年学科团队考核工作的通知</a><span class="dateRight">[07-07]</span></li><li><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Item/23030.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：139&#xD;发表时间：2026年04月14日">英语教研活动通知</a><span class="dateRight">[04-14]</span></li>
           
                     </ul>
                 </div>
@@ -439,7 +439,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23539.aspx" target="_self" title="标题：关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证书续期培训班的通知&#xD;点击数：143&#xD;发表时间：26年08月21日">关于举办2026年下半年浙江省中小学心理健康教育教师上岗资格证…</a>[ 08-21 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23577.aspx" target="_self" title="标题：研究院2026年9月份市直活动安排&#xD;点击数：136&#xD;发表时间：26年09月01日">研究院2026年9月份市直活动安排</a>[ 09-01 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23577.aspx" target="_self" title="标题：研究院2026年9月份市直活动安排&#xD;点击数：143&#xD;发表时间：26年09月01日">研究院2026年9月份市直活动安排</a>[ 09-01 ]</div>
                         </div>
                     </div>
 

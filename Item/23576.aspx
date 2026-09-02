@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于组织参加第六届应急管理新媒体作品征集展播活动的通知--安全处-绍兴市第一中学</title>
+    <title>创新学部8月30日至9月4日晚自习安排--创新学部-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -359,11 +359,11 @@ function GetUserInfo1(response){
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7 on"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li11 on"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23583.aspx" target="_blank" title="标题：关于组织参加第六届应急管理新媒体作品征集展播活动的通知&#xD;点击数：65&#xD;发表时间：2026年09月02日">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23572.aspx" target="_blank" title="标题：关于2026年度教工体检的通知&#xD;点击数：135&#xD;发表时间：2026年09月01日">关于2026年度教工体检的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23161.aspx" target="_blank" title="标题：关于组织开展2026年中小学生（幼儿）“预防溺水”专题教育活动的通知&#xD;点击数：53&#xD;发表时间：2026年05月07日">关于组织开展2026年中小学生（幼儿）“预防溺水”专题教…</a><span class="dateRight">[05-07]</span></li><li><a href="/Item/18265.aspx" target="_blank" title="标题：关于2023年度教工体检的通知&#xD;点击数：101&#xD;发表时间：2023年08月15日">关于2023年度教工体检的通知</a><span class="dateRight">[08-15]</span></li><li><a href="/Item/16968.aspx" target="_blank" title="标题：关于健康教育资料领取的通知&#xD;点击数：116&#xD;发表时间：2022年12月02日">关于健康教育资料领取的通知</a><span class="dateRight">[12-02]</span></li><li><a href="/Item/23197.aspx" target="_blank" title="标题：关于组织开展2026年第一次视力普查的通知&#xD;点击数：208&#xD;发表时间：2026年05月13日">关于组织开展2026年第一次视力普查的通知</a><span class="dateRight">[05-13]</span></li><li class="last"><a href="/Item/19545.aspx" target="_blank" title="标题：关于开展春季火灾疏散演练的通知&#xD;点击数：250&#xD;发表时间：2024年03月25日">关于开展春季火灾疏散演练的通知</a><span class="dateRight">[03-25]</span></li>
+            <li class="first"><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：128&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_28/Index.aspx" target="_self">安全处</a></div>
-                    <h3>安全处</h3>
+    <a href="/Category_393/Index.aspx" target="_self">创新学部</a></div>
+                    <h3>创新学部</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</h2>
+                        <h2 class="title">创新学部8月30日至9月4日晚自习安排</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月02日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23583"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月01日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23576"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23583},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23576},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23583";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23576";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,8 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><span style="font-family: 仿宋_GB2312;font-size: 21px">各位师生</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">：</span></span></p><p style="text-indent: 41px"><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">为持续培育全社会安全文化，不断提升社会公众安全意识和应急避险能力，应急管理部组织开展第六届应急管理新媒体作品征集展播活动。现就有关事项通知如下：</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">一、围绕</span><span style="font-family: 'Times New Roman';font-size: 21px">“</span><span style="font-family: 仿宋_GB2312;font-size: 21px">人人讲安全、个个会应急</span><span style="font-family: 'Times New Roman';font-size: 21px">”</span><span style="font-family: 仿宋_GB2312;font-size: 21px">主题</span><span style="font-family: 仿宋_GB2312;font-size: 21px">递交</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">应急管理新媒体作品，自主自愿选送优秀作品参加展播活动。</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">二、选送的作品要求内容健康向上，不得出现违背社会公德、</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">侵犯他人隐私及其他违反国家相关法律或规定的内容，不含任何商业广告，无知识产权争议，</span><span style="font-family: 'Times New Roman';font-size: 21px">AI </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">生成合成作品应按规定添加标识。</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">三、</span><span style="font-family: 仿宋_GB2312;font-size: 21px">作品形式包括：</span></p><p><span style="font-family: 'Times New Roman';font-size: 21px">1.</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">图片类。摄影、图解、漫画、海报、</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">动图等皆可，要求为</span></span><span style="font-family: 'Times New Roman';font-size: 21px">JPG</span><span style="font-family: 仿宋_GB2312;font-size: 21px">、</span><span style="font-family: 'Times New Roman';font-size: 21px">PNG </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">或</span></span><span style="font-family: 'Times New Roman';font-size: 21px">GIF </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">格式，单幅静态作品不小于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">1M </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">不大于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">5M</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">，单幅动态作品不小于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">1M </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">不大于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">10M</span><span style="font-family: 仿宋_GB2312;font-size: 21px">，并提供图片说明。</span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">2.</span><span style="font-family: 仿宋_GB2312;font-size: 21px">音视频类。包括微电影、微纪录片、短视频</span><span style="font-family: 仿宋_GB2312;font-size: 21px">、</span><span style="font-family: 仿宋_GB2312;font-size: 21px">动漫、公益广告、</span><span style="font-family: 'Times New Roman';font-size: 21px">Vlog </span><span style="font-family: 仿宋_GB2312;font-size: 21px">等，要求分辨率</span><span style="font-family: 'Times New Roman';font-size: 21px">≥1080P</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">，建议采用</span></span><span style="font-family: 'Times New Roman';font-size: 21px">MP4</span><span style="font-family: 仿宋_GB2312;font-size: 21px">（</span><span style="font-family: 'Times New Roman';font-size: 21px">H.264 </span><span style="font-family: 仿宋_GB2312;font-size: 21px">编码）视频格式，提供文字脚本或作品简介。</span></p><p><span style="font-family: 'Times New Roman';font-size: 21px">3.</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">互动类。包括</span></span><span style="font-family: 'Times New Roman';font-size: 21px">H5</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">、小游戏、电子杂志等，提供作品链接、文案和宣传海报。</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">四、</span><span style="font-family: 仿宋_GB2312;font-size: 21px">报送方式。请</span><span style="font-family: 仿宋_GB2312;font-size: 21px">有参赛意向的师生于</span><span style="font-family: 'Times New Roman';font-size: 21px">2026 </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">年</span></span><span style="font-family: 'Times New Roman';font-size: 21px">11 </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">月</span></span><span style="font-family: 仿宋_GB2312;font-size: 21px">15</span><span style="font-family: 仿宋_GB2312;font-size: 21px">日前</span><span style="font-family: 仿宋_GB2312;font-size: 21px">将电子作品钉钉交安全处何隽豪老师。</span></p><p style=";text-align:right"><span style="font-family: 'Times New Roman';font-size: 21px">2026 </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">年</span></span><span style="font-family: 仿宋_GB2312;font-size: 21px">9</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">月</span> 2</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">日</span></span></p><p><span style=";font-family:Calibri;font-size:14px"> </span></p><p><span style=";font-family:Calibri;font-size:14px"> </span></p><p>
-</p>
+     <p><img src="/UploadFiles/xwzx/2026/9/202609011022113231.png" style="max-width: 100%; " title="202609011022113231.png" /></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -437,7 +436,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23572.aspx" target="_self" title="标题：关于2026年度教工体检的通知&#xD;点击数：135&#xD;发表时间：26年09月01日">关于2026年度教工体检的通知</a>[ 09-01 ]</div>
+                            <div class="prev"><span>上一篇：没有了！</span></div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于组织参加第六届应急管理新媒体作品征集展播活动的通知--安全处-绍兴市第一中学</title>
+    <title>新学期开学典礼通知--党政办-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -353,13 +353,13 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7 on"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23583.aspx" target="_blank" title="标题：关于组织参加第六届应急管理新媒体作品征集展播活动的通知&#xD;点击数：65&#xD;发表时间：2026年09月02日">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23572.aspx" target="_blank" title="标题：关于2026年度教工体检的通知&#xD;点击数：135&#xD;发表时间：2026年09月01日">关于2026年度教工体检的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23161.aspx" target="_blank" title="标题：关于组织开展2026年中小学生（幼儿）“预防溺水”专题教育活动的通知&#xD;点击数：53&#xD;发表时间：2026年05月07日">关于组织开展2026年中小学生（幼儿）“预防溺水”专题教…</a><span class="dateRight">[05-07]</span></li><li><a href="/Item/18265.aspx" target="_blank" title="标题：关于2023年度教工体检的通知&#xD;点击数：101&#xD;发表时间：2023年08月15日">关于2023年度教工体检的通知</a><span class="dateRight">[08-15]</span></li><li><a href="/Item/16968.aspx" target="_blank" title="标题：关于健康教育资料领取的通知&#xD;点击数：116&#xD;发表时间：2022年12月02日">关于健康教育资料领取的通知</a><span class="dateRight">[12-02]</span></li><li><a href="/Item/23197.aspx" target="_blank" title="标题：关于组织开展2026年第一次视力普查的通知&#xD;点击数：208&#xD;发表时间：2026年05月13日">关于组织开展2026年第一次视力普查的通知</a><span class="dateRight">[05-13]</span></li><li class="last"><a href="/Item/19545.aspx" target="_blank" title="标题：关于开展春季火灾疏散演练的通知&#xD;点击数：250&#xD;发表时间：2024年03月25日">关于开展春季火灾疏散演练的通知</a><span class="dateRight">[03-25]</span></li>
+            <li class="first"><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：155&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23580.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定&#xD;点击数：139&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23579.aspx" target="_blank" title="标题：绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法&#xD;点击数：112&#xD;发表时间：2026年09月02日">绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23585.aspx" target="_blank" title="标题：新学期开学典礼通知&#xD;点击数：85&#xD;发表时间：2026年09月02日">新学期开学典礼通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：173&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li><li><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：304&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li><li class="last"><a href="/Item/23514.aspx" target="_blank" title="标题：开学工作行事历&#xD;点击数：344&#xD;发表时间：2026年08月19日">开学工作行事历</a><span class="dateRight">[08-19]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_28/Index.aspx" target="_self">安全处</a></div>
-                    <h3>安全处</h3>
+    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
+                    <h3>党政办</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</h2>
+                        <h2 class="title">新学期开学典礼通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月02日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23583"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23585"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23583},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23585},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23583";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23585";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><span style="font-family: 仿宋_GB2312;font-size: 21px">各位师生</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">：</span></span></p><p style="text-indent: 41px"><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">为持续培育全社会安全文化，不断提升社会公众安全意识和应急避险能力，应急管理部组织开展第六届应急管理新媒体作品征集展播活动。现就有关事项通知如下：</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">一、围绕</span><span style="font-family: 'Times New Roman';font-size: 21px">“</span><span style="font-family: 仿宋_GB2312;font-size: 21px">人人讲安全、个个会应急</span><span style="font-family: 'Times New Roman';font-size: 21px">”</span><span style="font-family: 仿宋_GB2312;font-size: 21px">主题</span><span style="font-family: 仿宋_GB2312;font-size: 21px">递交</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">应急管理新媒体作品，自主自愿选送优秀作品参加展播活动。</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">二、选送的作品要求内容健康向上，不得出现违背社会公德、</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">侵犯他人隐私及其他违反国家相关法律或规定的内容，不含任何商业广告，无知识产权争议，</span><span style="font-family: 'Times New Roman';font-size: 21px">AI </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">生成合成作品应按规定添加标识。</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">三、</span><span style="font-family: 仿宋_GB2312;font-size: 21px">作品形式包括：</span></p><p><span style="font-family: 'Times New Roman';font-size: 21px">1.</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">图片类。摄影、图解、漫画、海报、</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">动图等皆可，要求为</span></span><span style="font-family: 'Times New Roman';font-size: 21px">JPG</span><span style="font-family: 仿宋_GB2312;font-size: 21px">、</span><span style="font-family: 'Times New Roman';font-size: 21px">PNG </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">或</span></span><span style="font-family: 'Times New Roman';font-size: 21px">GIF </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">格式，单幅静态作品不小于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">1M </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">不大于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">5M</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">，单幅动态作品不小于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">1M </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">不大于</span></span><span style="font-family: 'Times New Roman';font-size: 21px">10M</span><span style="font-family: 仿宋_GB2312;font-size: 21px">，并提供图片说明。</span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">2.</span><span style="font-family: 仿宋_GB2312;font-size: 21px">音视频类。包括微电影、微纪录片、短视频</span><span style="font-family: 仿宋_GB2312;font-size: 21px">、</span><span style="font-family: 仿宋_GB2312;font-size: 21px">动漫、公益广告、</span><span style="font-family: 'Times New Roman';font-size: 21px">Vlog </span><span style="font-family: 仿宋_GB2312;font-size: 21px">等，要求分辨率</span><span style="font-family: 'Times New Roman';font-size: 21px">≥1080P</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">，建议采用</span></span><span style="font-family: 'Times New Roman';font-size: 21px">MP4</span><span style="font-family: 仿宋_GB2312;font-size: 21px">（</span><span style="font-family: 'Times New Roman';font-size: 21px">H.264 </span><span style="font-family: 仿宋_GB2312;font-size: 21px">编码）视频格式，提供文字脚本或作品简介。</span></p><p><span style="font-family: 'Times New Roman';font-size: 21px">3.</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">互动类。包括</span></span><span style="font-family: 'Times New Roman';font-size: 21px">H5</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">、小游戏、电子杂志等，提供作品链接、文案和宣传海报。</span></span></p><p><span style="font-family: 仿宋_GB2312;font-size: 21px">四、</span><span style="font-family: 仿宋_GB2312;font-size: 21px">报送方式。请</span><span style="font-family: 仿宋_GB2312;font-size: 21px">有参赛意向的师生于</span><span style="font-family: 'Times New Roman';font-size: 21px">2026 </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">年</span></span><span style="font-family: 'Times New Roman';font-size: 21px">11 </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">月</span></span><span style="font-family: 仿宋_GB2312;font-size: 21px">15</span><span style="font-family: 仿宋_GB2312;font-size: 21px">日前</span><span style="font-family: 仿宋_GB2312;font-size: 21px">将电子作品钉钉交安全处何隽豪老师。</span></p><p style=";text-align:right"><span style="font-family: 'Times New Roman';font-size: 21px">2026 </span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">年</span></span><span style="font-family: 仿宋_GB2312;font-size: 21px">9</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">月</span> 2</span><span style="font-family: 仿宋_GB2312;font-size: 21px"><span style="font-family:仿宋_GB2312">日</span></span></p><p><span style=";font-family:Calibri;font-size:14px"> </span></p><p><span style=";font-family:Calibri;font-size:14px"> </span></p><p>
+     <p style="line-height: 2em; text-align: justify;"><span style="font-size: 18px;">全校教工：</span></p><p style="text-indent: 2em; line-height: 2em; text-align: justify;"><span style="font-size: 18px;"></span></p><p style="text-indent: 2em; line-height: 2em; text-align: justify;"><span style="font-size: 18px;">新学期开学典礼定于9月3日早上7:40准时在镜湖校区田径场举行，要求全体镜湖校区任职教工参加，身着校服，提前15分钟到场，并在指定位置就位（参见校网通知德育处开学典礼方案所附位置示意图）。请老师们知晓并相互转告，感谢您对学校工作的支持！</span></p><p style="text-indent: 2em; line-height: 1.75em; text-align: right;"><span style="font-size: 18px; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-align: right; text-indent: 2em;">党政办</span></p><p style="text-indent: 2em; line-height: 1.75em; text-align: right;"><span style="font-size: 18px; text-indent: 2em; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-align: right;">2026年9月2日</span></p><p style="text-indent: 2em; line-height: 1.75em;"><span style="font-size: 18px; text-indent: 2em; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif;">
+</span></p><p style="text-indent: 2em; line-height: 1.75em;"><span style="font-size: 18px; text-indent: 2em; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif;">各位老师，以下站位如有出入，请您联系党政办，谢谢！</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; background-color: rgb(255, 255, 255); text-align: left; text-indent: 0em; margin-bottom: 20px !important;"><img src="/UploadFiles/xwzx/2026/9/202609021417498076.png" style="max-width: 100%; " title="202609021417498076.png" /></p><p>
 </p>
     
     </div><!--endprint-->
@@ -437,7 +438,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23572.aspx" target="_self" title="标题：关于2026年度教工体检的通知&#xD;点击数：135&#xD;发表时间：26年09月01日">关于2026年度教工体检的通知</a>[ 09-01 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23581.aspx" target="_self" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：155&#xD;发表时间：26年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” …</a>[ 09-02 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
