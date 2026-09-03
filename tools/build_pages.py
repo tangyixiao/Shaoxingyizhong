@@ -97,6 +97,46 @@ def should_skip(relative: Path) -> bool:
     return any(part in EXCLUDED_DIRS for part in relative.parts)
 
 
+def is_same_file(left: Path, right: Path) -> bool:
+    """Handle case aliases that resolve to one file on case-insensitive mounts."""
+    try:
+        return left.samefile(right)
+    except FileNotFoundError:
+        return left == right
+
+
+def available_download_paths(source: Path) -> set[str]:
+    downloads_root = source / "downloads"
+    if not downloads_root.is_dir():
+        return set()
+    return {
+        "downloads/" + path.relative_to(downloads_root).as_posix()
+        for path in downloads_root.rglob("*")
+        if path.is_file()
+    }
+
+
+def render_text_file(
+    path: Path,
+    base_path: str,
+    routes: RouteConfig | None,
+    available_downloads: set[str],
+) -> tuple[str, set[str]]:
+    """Apply the same URL transformations used by the full site build."""
+    text = path.read_text(encoding="utf-8")
+    unresolved: set[str] = set()
+    if routes is not None:
+        # Remove the legacy empty-banner placeholder before routing URLs.
+        text = NO_PICTURE_URL_RE.sub("none", text)
+        text, unresolved = rewrite_attachment_urls(text, routes)
+        text, download_unresolved = rewrite_download_urls(
+            text, base_path, available_downloads
+        )
+        unresolved.update(download_unresolved)
+    rendered = rewrite_text(text, base_path)
+    return add_favicon_link(rendered, base_path), unresolved
+
+
 def build_site(
     source: Path,
     output: Path,
@@ -110,11 +150,7 @@ def build_site(
     copied = converted = skipped = 0
     routes = RouteConfig.load(attachment_routes) if attachment_routes else None
     downloads_root = source / "downloads"
-    available_downloads = {
-        "downloads/" + path.relative_to(downloads_root).as_posix()
-        for path in downloads_root.rglob("*")
-        if path.is_file()
-    } if downloads_root.is_dir() else set()
+    available_downloads = available_download_paths(source)
     unresolved_by_file: dict[str, list[str]] = {}
 
     for path in sorted(source.rglob("*")):
@@ -134,6 +170,7 @@ def build_site(
             len(relative.parts) == 1
             and path.name.lower() == "default.aspx"
             and path != preferred_root_default
+            and not is_same_file(path, preferred_root_default)
         ):
             skipped += 1
             continue
@@ -159,22 +196,11 @@ def build_site(
         destination.parent.mkdir(parents=True, exist_ok=True)
 
         if path.suffix.lower() in TEXT_SUFFIXES:
-            text = path.read_text(encoding="utf-8")
-            if routes is not None:
-                # Remove the legacy empty-banner placeholder before routing
-                # URLs.  Otherwise ``//images/nopic.gif`` is parsed as an
-                # external host named ``images`` and becomes a broken CDN
-                # URL instead of the intended ``background: none``.
-                text = NO_PICTURE_URL_RE.sub("none", text)
-                text, unresolved = rewrite_attachment_urls(text, routes)
-                text, download_unresolved = rewrite_download_urls(
-                    text, base_path, available_downloads
-                )
-                unresolved.update(download_unresolved)
-                if unresolved:
-                    unresolved_by_file[relative.as_posix()] = sorted(unresolved)
-            rendered = rewrite_text(text, base_path)
-            rendered = add_favicon_link(rendered, base_path)
+            rendered, unresolved = render_text_file(
+                path, base_path, routes, available_downloads
+            )
+            if unresolved:
+                unresolved_by_file[relative.as_posix()] = sorted(unresolved)
             destination.write_text(rendered, encoding="utf-8", newline="")
             if destination == output / "index.html":
                 (output / "Default.html").write_text(

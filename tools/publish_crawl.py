@@ -16,14 +16,17 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 try:
-    from .attachment_routing import rewrite_source_download_urls
+    from .attachment_routing import RouteConfig, rewrite_source_download_urls
+    from .build_pages import available_download_paths, render_text_file
 except ImportError:  # pragma: no cover - supports direct script execution
-    from attachment_routing import rewrite_source_download_urls
+    from attachment_routing import RouteConfig, rewrite_source_download_urls
+    from build_pages import available_download_paths, render_text_file
 
 
 EXCLUDED_DIRS = {".git", ".github", ".crawl_state", "_site", "tests", "tools", "UploadFiles"}
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp", ".ico", ".svg"}
 REWRITABLE_TEXT_SUFFIXES = {".aspx", ".html", ".htm", ".css"}
+PAGES_BASE_PATH = "/Shaoxingyizhong/"
 
 
 def sha256_file(path: Path) -> str:
@@ -112,6 +115,72 @@ def available_attachment_downloads(source_root: Path) -> set[str]:
     }
 
 
+def html_aliases_for_aspx(relative: Path) -> list[Path]:
+    """Return checked-in browser aliases for one canonical ASPX page."""
+    if relative.suffix.lower() != ".aspx":
+        return []
+    if len(relative.parts) == 1 and relative.name.casefold() == "default.aspx":
+        return [Path("index.html"), Path("Default.html"), Path("default.html")]
+    return [relative.with_suffix(".html")]
+
+
+def copy_rendered_if_changed(source: Path, destination: Path) -> bool:
+    """Copy a rendered HTML file without changing an existing file's mode."""
+    existing_mode = None
+    if destination.exists():
+        existing_mode = destination.stat().st_mode & 0o777
+    changed = copy_if_changed(source, destination)
+    if changed and existing_mode is not None:
+        destination.chmod(existing_mode)
+    return changed
+
+
+def sync_html_aliases(repo_root: Path, changed: list[str]) -> list[str]:
+    """Regenerate HTML aliases for the ASPX pages changed in this publish."""
+    aspx_paths = sorted(
+        {Path(relative) for relative in changed if Path(relative).suffix.lower() == ".aspx"},
+        key=lambda path: path.as_posix(),
+    )
+    if not aspx_paths:
+        return []
+
+    routes = repo_root / "attachment_routes.json"
+    route_config = RouteConfig.load(routes) if routes.is_file() else None
+    available_downloads = available_download_paths(repo_root)
+    unresolved_by_file: dict[str, list[str]] = {}
+    rendered_changed: list[str] = []
+    for aspx_path in aspx_paths:
+        source = repo_root / aspx_path
+        if not source.is_file():
+            raise FileNotFoundError(f"ASPX source missing: {source}")
+        rendered, unresolved = render_text_file(
+            source, PAGES_BASE_PATH, route_config, available_downloads
+        )
+        if unresolved:
+            unresolved_by_file[aspx_path.as_posix()] = sorted(unresolved)
+        for alias in html_aliases_for_aspx(aspx_path):
+            destination = repo_root / alias
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            with tempfile.NamedTemporaryFile(
+                mode="w", encoding="utf-8", newline="", dir=destination.parent,
+                delete=False,
+            ) as handle:
+                temporary = Path(handle.name)
+                handle.write(rendered)
+            try:
+                if copy_rendered_if_changed(temporary, destination):
+                    rendered_changed.append(alias.as_posix())
+            finally:
+                if temporary.exists():
+                    temporary.unlink()
+    if unresolved_by_file:
+        print(
+            "warning: unresolved attachments in "
+            f"{len(unresolved_by_file)} changed source files"
+        )
+    return rendered_changed
+
+
 def relative_path_from_url(url: str) -> Path:
     path = urlparse(url).path
     if not path or path == "/":
@@ -189,6 +258,7 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
         elif content is None and copy_if_changed(source, destination):
             changed.append(relative.as_posix())
     changed.extend(sync_attachment_downloads(source_root, repo_root))
+    changed.extend(sync_html_aliases(repo_root, changed))
     return changed
 
 

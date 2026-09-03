@@ -139,6 +139,18 @@ class IncrementalSyncTests(unittest.TestCase):
 
             self.assertEqual((output / "index.html").read_text(encoding="utf-8"), "fresh homepage")
 
+    def test_build_site_builds_root_when_only_uppercase_aspx_exists(self):
+        """A case-insensitive checkout must still produce the root index."""
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            output = Path(tmp) / "output"
+            source.mkdir()
+            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
+
+            build_site(source, output)
+
+            self.assertEqual((output / "index.html").read_text(encoding="utf-8"), "fresh homepage")
+
     def test_build_site_prefers_aspx_over_stale_html_alias_for_category_branches(self):
         """A stale checked-in HTML alias must not overwrite the refreshed category source."""
         with tempfile.TemporaryDirectory() as tmp:
@@ -174,12 +186,29 @@ class IncrementalSyncTests(unittest.TestCase):
             (source / "UploadFiles" / "x.zip").write_bytes(b"attachment")
             (source / "images" / "logo.png").write_bytes(b"image")
             changed = sync_crawl(source, repo)
-            self.assertEqual(changed, ["Item/1.aspx", "Item/2.aspx", "downloads/x.zip"])
+            self.assertEqual(
+                changed,
+                [
+                    "Item/1.aspx",
+                    "Item/2.aspx",
+                    "downloads/x.zip",
+                    "Item/1.html",
+                    "Item/2.html",
+                ],
+            )
             self.assertEqual(
                 (repo / "Item" / "1.aspx").read_text(encoding="utf-8"),
                 '<a href="../downloads/x.zip">download</a>',
             )
             self.assertTrue((repo / "Item" / "2.aspx").exists())
+            self.assertEqual(
+                (repo / "Item" / "1.html").read_text(encoding="utf-8"),
+                '<a href="../downloads/x.zip">download</a>',
+            )
+            self.assertEqual(
+                (repo / "Item" / "2.html").read_text(encoding="utf-8"),
+                "added",
+            )
             self.assertFalse((repo / "UploadFiles" / "x.zip").exists())
             self.assertFalse((repo / "images" / "logo.png").exists())
             self.assertEqual(
@@ -196,8 +225,12 @@ class IncrementalSyncTests(unittest.TestCase):
             (source / "Item" / "1.aspx").write_text("one", encoding="utf-8")
             (source / "Item" / "2.aspx").write_text("two", encoding="utf-8")
             changed = sync_crawl_paths(source, repo, ["http://example.test/Item/1.aspx"])
-            self.assertEqual(changed, ["Item/1.aspx"])
+            self.assertEqual(changed, ["Item/1.aspx", "Item/1.html"])
             self.assertTrue((repo / "Item" / "1.aspx").exists())
+            self.assertEqual(
+                (repo / "Item" / "1.html").read_text(encoding="utf-8"),
+                "one",
+            )
             self.assertFalse((repo / "Item" / "2.aspx").exists())
 
     def test_publish_crawl_keeps_root_case_aliases_in_sync(self):
@@ -219,7 +252,16 @@ class IncrementalSyncTests(unittest.TestCase):
                 ["http://example.test/Default.aspx"],
             )
 
-            self.assertEqual(changed, ["Default.aspx", "default.aspx"])
+            self.assertEqual(
+                changed,
+                [
+                    "Default.aspx",
+                    "default.aspx",
+                    "index.html",
+                    "Default.html",
+                    "default.html",
+                ],
+            )
             self.assertEqual(
                 (repo / "Default.aspx").read_text(encoding="utf-8"),
                 "fresh homepage",
@@ -227,6 +269,132 @@ class IncrementalSyncTests(unittest.TestCase):
             self.assertEqual(
                 (repo / "default.aspx").read_text(encoding="utf-8"),
                 "fresh homepage",
+            )
+            for relative in ("index.html", "Default.html", "default.html"):
+                self.assertEqual(
+                    (repo / relative).read_text(encoding="utf-8"),
+                    "fresh homepage",
+                )
+
+    def test_publish_crawl_refreshes_html_alias_for_changed_aspx_page(self):
+        """A changed ASPX page must not leave its checked-in HTML alias stale."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            category = source / "Category_1"
+            category.mkdir(parents=True)
+            (repo / "Category_1").mkdir(parents=True)
+            (category / "Index.aspx").write_text(
+                '<a href="/Item/23594.aspx">new article</a>',
+                encoding="utf-8",
+            )
+            (repo / "Category_1" / "Index.aspx").write_text(
+                "old source",
+                encoding="utf-8",
+            )
+            (repo / "Category_1" / "Index.html").write_text(
+                "stale rendered page",
+                encoding="utf-8",
+            )
+
+            changed = sync_crawl(source, repo)
+
+            self.assertEqual(
+                changed,
+                ["Category_1/Index.aspx", "Category_1/Index.html"],
+            )
+            self.assertEqual(
+                (repo / "Category_1" / "Index.html").read_text(encoding="utf-8"),
+                '<a href="/Shaoxingyizhong/Item/23594.html">new article</a>',
+            )
+
+    def test_publish_crawl_renders_changed_page_without_rebuilding_unrelated_sources(self):
+        """One broken legacy source must not block an unrelated HTML refresh."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            (source / "Item").mkdir(parents=True)
+            (repo / "Item").mkdir(parents=True)
+            (source / "Item" / "23594.aspx").write_text(
+                "new article body",
+                encoding="utf-8",
+            )
+            (repo / "Item" / "23594.aspx").write_text(
+                "old article body",
+                encoding="utf-8",
+            )
+            (repo / "legacy.aspx").write_bytes(b"\xff")
+
+            changed = sync_crawl(source, repo)
+
+            self.assertIn("Item/23594.html", changed)
+            self.assertEqual(
+                (repo / "Item" / "23594.html").read_text(encoding="utf-8"),
+                "new article body",
+            )
+
+    def test_publish_crawl_refreshes_html_aliases_for_root_category_and_item_pages(self):
+        """Every changed ASPX page family must refresh its checked-in HTML alias."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            (source / "Category_1").mkdir(parents=True)
+            (source / "Item").mkdir(parents=True)
+            (repo / "Category_1").mkdir(parents=True)
+            (repo / "Item").mkdir(parents=True)
+
+            (source / "Default.aspx").write_text(
+                '<a href="/Category_1/Index.aspx">news</a>',
+                encoding="utf-8",
+            )
+            (source / "Category_1" / "Index.aspx").write_text(
+                '<a href="/Item/23594.aspx">new article</a>',
+                encoding="utf-8",
+            )
+            (source / "Item" / "23594.aspx").write_text(
+                "new article body",
+                encoding="utf-8",
+            )
+            for path in (
+                repo / "Default.aspx",
+                repo / "default.aspx",
+                repo / "Category_1" / "Index.aspx",
+                repo / "Item" / "23594.aspx",
+            ):
+                path.write_text("old source", encoding="utf-8")
+            for path in (
+                repo / "index.html",
+                repo / "Default.html",
+                repo / "default.html",
+                repo / "Category_1" / "Index.html",
+                repo / "Item" / "23594.html",
+            ):
+                path.write_text("stale rendered page", encoding="utf-8")
+
+            changed = sync_crawl(source, repo)
+
+            for relative in (
+                "index.html",
+                "Default.html",
+                "default.html",
+                "Category_1/Index.html",
+                "Item/23594.html",
+            ):
+                self.assertIn(relative, changed)
+                self.assertNotEqual(
+                    (repo / relative).read_text(encoding="utf-8"),
+                    "stale rendered page",
+                )
+            self.assertIn(
+                "/Shaoxingyizhong/Category_1/Index.html",
+                (repo / "index.html").read_text(encoding="utf-8"),
+            )
+            self.assertEqual(
+                (repo / "Item" / "23594.html").read_text(encoding="utf-8"),
+                "new article body",
             )
 
     def test_recent_branch_seed_includes_branch_containing_waterline_item(self):
