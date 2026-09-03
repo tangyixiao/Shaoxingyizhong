@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教学处-绍兴市第一中学</title>
+    <title>高一晚自修（9.6-9.11）--高一-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -354,7 +354,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
@@ -364,7 +364,7 @@ function GetUserInfo1(response){
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li12 on"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9446&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：325&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：100&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：232&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a><span class="dateRight">[08-25]</span></li><li class="last"><a href="/Item/23516.aspx" target="_blank" title="标题：高二、高三协作体时间安排&#xD;点击数：178&#xD;发表时间：2026年08月20日">高二、高三协作体时间安排</a><span class="dateRight">[08-20]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23560.aspx" target="_blank" title="标题：高一晚自修（8.31-9.4）&#xD;点击数：83&#xD;发表时间：2026年08月29日">高一晚自修（8.31-9.4）</a><span class="dateRight">[08-29]</span></li><li><a href="/Item/23596.aspx" target="_blank" title="标题：高一晚自修（9.6-9.11）&#xD;点击数：29&#xD;发表时间：2026年09月03日">高一晚自修（9.6-9.11）</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23369.aspx" target="_blank" title="标题：高一学考模拟考监考安排和学生考场安排（6月13日）&#xD;点击数：262&#xD;发表时间：2026年06月12日">高一学考模拟考监考安排和学生考场安排（6月13日）</a><span class="dateRight">[06-12]</span></li><li><a href="/Item/22977.aspx" target="_blank" title="标题：高一晚自修值班（4.6-4.17）&#xD;点击数：107&#xD;发表时间：2026年04月02日">高一晚自修值班（4.6-4.17）</a><span class="dateRight">[04-02]</span></li><li><a href="/Item/22335.aspx" target="_blank" title="标题：高一家长会注意事项及晚自修安排&#xD;点击数：174&#xD;发表时间：2025年11月25日">高一家长会注意事项及晚自修安排</a><span class="dateRight">[11-25]</span></li><li><a href="/Item/20955.aspx" target="_blank" title="标题：高一晚自修值班安排（2.17-2.28）&#xD;点击数：161&#xD;发表时间：2025年02月21日">高一晚自修值班安排（2.17-2.28）</a><span class="dateRight">[02-21]</span></li><li class="last"><a href="/Item/20911.aspx" target="_blank" title="标题：高一晚自修值班安排（2.12-2.16）&#xD;点击数：146&#xD;发表时间：2025年02月12日">高一晚自修值班安排（2.12-2.16）</a><span class="dateRight">[02-12]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=26>教学处</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,60 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_33/Index.aspx" target="_self">高一</a></div>
+                    <h3>高一</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-05-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23288.aspx" target="_self" title="标题：英语教研活动通知&#xD;点击数：125&#xD;发表时间：2026年05月27日">英语教研活动通知</a></li><li><span class="date">2026-05-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23281.aspx" target="_self" title="标题：05.27高三校内练习监考安排和学生考场安排&#xD;点击数：367&#xD;发表时间：2026年05月26日">05.27高三校内练习监考安排和学生考场安排</a></li><li><span class="date">2026-05-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23282.aspx" target="_self" title="标题：05.27高三校内练习考场布置及相关要求&#xD;点击数：83&#xD;发表时间：2026年05月26日">05.27高三校内练习考场布置及相关要求</a></li><li><span class="date">2026-05-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23276.aspx" target="_self" title="标题：5月27-29日高三各学科练习时间安排&#xD;点击数：249&#xD;发表时间：2026年05月26日">5月27-29日高三各学科练习时间安排</a></li><li><span class="date">2026-05-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23267.aspx" target="_self" title="标题：2026年高考考务、监考、听力工作人员网上培训操作流程&#xD;点击数：412&#xD;发表时间：2026年05月25日">2026年高考考务、监考、听力工作人员网上培训操作流程</a></li><li class="split"></li><li><span class="date">2026-05-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23256.aspx" target="_self" title="标题：5月23日科技特色招生测试的考务培训、监考安排和阅卷安排&#xD;点击数：419&#xD;发表时间：2026年05月21日">5月23日科技特色招生测试的考务培训、监考安排和阅卷安排</a></li><li><span class="date">2026-05-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23251.aspx" target="_self" title="标题：2026.05.23科技特色招生考场布置及相关要求&#xD;点击数：302&#xD;发表时间：2026年05月20日">2026.05.23科技特色招生考场布置及相关要求</a></li><li><span class="date">2026-05-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23240.aspx" target="_self" title="标题：体育教研活动通知&#xD;点击数：137&#xD;发表时间：2026年05月19日">体育教研活动通知</a></li><li><span class="date">2026-05-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23230.aspx" target="_self" title="标题：5.21高三下午临时课表&#xD;点击数：182&#xD;发表时间：2026年05月18日">5.21高三下午临时课表</a></li><li><span class="date">2026-05-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23226.aspx" target="_self" title="标题：本周三、周四（5月20、21日）高一、高二作息时间调整通知&#xD;点击数：224&#xD;发表时间：2026年05月18日">本周三、周四（5月20、21日）高一、高二作息时间调整通知</a></li><li class="split"></li><li><span class="date">2026-05-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23225.aspx" target="_self" title="标题：高三七校联考巡考安排&#xD;点击数：106&#xD;发表时间：2026年05月18日">高三七校联考巡考安排</a></li><li><span class="date">2026-05-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23221.aspx" target="_self" title="标题：05.18高三考试考场布置及相关要求&#xD;点击数：72&#xD;发表时间：2026年05月15日">05.18高三考试考场布置及相关要求</a></li><li><span class="date">2026-05-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23220.aspx" target="_self" title="标题：05.18高三考试监考安排和学生考场安排&#xD;点击数：332&#xD;发表时间：2026年05月15日">05.18高三考试监考安排和学生考场安排</a></li><li><span class="date">2026-05-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23219.aspx" target="_self" title="标题：2026年绍兴一中教育集团春季体测运动会成绩公告&#xD;点击数：207&#xD;发表时间：2026年05月15日">2026年绍兴一中教育集团春季体测运动会成绩公告</a></li><li><span class="date">2026-05-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23216.aspx" target="_self" title="标题：地理教研活动通知&#xD;点击数：97&#xD;发表时间：2026年05月15日">地理教研活动通知</a></li><li class="split"></li><li><span class="date">2026-05-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23202.aspx" target="_self" title="标题：数学教研活动通知&#xD;点击数：139&#xD;发表时间：2026年05月14日">数学教研活动通知</a></li><li><span class="date">2026-05-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23199.aspx" target="_self" title="标题：化学教研活动通知&#xD;点击数：139&#xD;发表时间：2026年05月14日">化学教研活动通知</a></li><li><span class="date">2026-05-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23188.aspx" target="_self" title="标题：高三5月18-21日七校联考时间安排&#xD;点击数：215&#xD;发表时间：2026年05月12日">高三5月18-21日七校联考时间安排</a></li><li><span class="date">2026-05-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23182.aspx" target="_self" title="标题：高一高二体测临时课表&#xD;点击数：300&#xD;发表时间：2026年05月11日">高一高二体测临时课表</a></li><li><span class="date">2026-05-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23178.aspx" target="_self" title="标题：关于参加2026年全国天文知识竞赛决赛学生停课复习的通知&#xD;点击数：151&#xD;发表时间：2026年05月11日">关于参加2026年全国天文知识竞赛决赛学生停课复习的通知</a></li><li class="split"></li><li><span class="date">2026-05-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13310.aspx" target="_self" title="标题：作息时间调整通知&#xD;点击数：9446&#xD;发表时间：2026年05月08日">作息时间调整通知</a></li><li><span class="date">2026-05-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23169.aspx" target="_self" title="标题：绍兴一中第五届春季体测运动会工作人员名单&#xD;点击数：430&#xD;发表时间：2026年05月08日">绍兴一中第五届春季体测运动会工作人员名单</a></li><li><span class="date">2026-05-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23158.aspx" target="_self" title="标题：体测运动会通知&#xD;点击数：281&#xD;发表时间：2026年05月07日">体测运动会通知</a></li><li><span class="date">2026-05-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23146.aspx" target="_self" title="标题：物理教研活动通知&#xD;点击数：122&#xD;发表时间：2026年05月06日">物理教研活动通知</a></li><li><span class="date">2026-05-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23145.aspx" target="_self" title="标题：语文教研活动通知&#xD;点击数：147&#xD;发表时间：2026年05月06日">语文教研活动通知</a></li><li class="split"></li><li><span class="date">2026-04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23122.aspx" target="_self" title="标题：学生证注册通知&#xD;点击数：131&#xD;发表时间：2026年04月29日">学生证注册通知</a></li><li><span class="date">2026-04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23121.aspx" target="_self" title="标题：高三班主任会议&#xD;点击数：107&#xD;发表时间：2026年04月29日">高三班主任会议</a></li><li><span class="date">2026-04-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23110.aspx" target="_self" title="标题：关于举办市直高中体育教研活动及体育课调整通知&#xD;点击数：158&#xD;发表时间：2026年04月28日">关于举办市直高中体育教研活动及体育课调整通知</a></li><li><span class="date">2026-04-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23096.aspx" target="_self" title="标题：化学教研活动通知&#xD;点击数：98&#xD;发表时间：2026年04月27日">化学教研活动通知</a></li><li><span class="date">2026-04-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23083.aspx" target="_self" title="标题：高一、高二期中考巡考安排&#xD;点击数：167&#xD;发表时间：2026年04月21日">高一、高二期中考巡考安排</a></li><li class="split"></li><li><span class="date">2026-04-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23076.aspx" target="_self" title="标题：高一卓越联盟考场布置及相关要求&#xD;点击数：126&#xD;发表时间：2026年04月20日">高一卓越联盟考场布置及相关要求</a></li><li><span class="date">2026-04-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23075.aspx" target="_self" title="标题：高一卓越联盟监考安排和学生考场安排&#xD;点击数：419&#xD;发表时间：2026年04月20日">高一卓越联盟监考安排和学生考场安排</a></li><li><span class="date">2026-04-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23072.aspx" target="_self" title="标题：高二7校联考考场布置及相关要求&#xD;点击数：114&#xD;发表时间：2026年04月20日">高二7校联考考场布置及相关要求</a></li><li><span class="date">2026-04-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23071.aspx" target="_self" title="标题：高二7校联考监考安排和学生考场安排&#xD;点击数：371&#xD;发表时间：2026年04月20日">高二7校联考监考安排和学生考场安排</a></li><li class="last"><span class="date">2026-04-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23070.aspx" target="_self" title="标题：心理教研活动通知&#xD;点击数：74&#xD;发表时间：2026年04月20日">心理教研活动通知</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <a href="Index.aspx">1</a> <b><a href="Index_2.aspx">2</a></b> <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <a href="Index_10.aspx">10</a> <a href="Index_11.aspx">11</a> 
-<a href="Index_3.aspx">下一页</a>
- <a href="Index_101.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">高一晚自修（9.6-9.11）</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月03日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23596"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23596},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23596";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><img src="/UploadFiles/xwzx/2026/9/202609031618075785.jpg" style="max-width: 100%; " title="202609031618075785.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609031618072144.jpg" style="max-width: 100%; " title="202609031618072144.jpg" /></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23560.aspx" target="_self" title="标题：高一晚自修（8.31-9.4）&#xD;点击数：83&#xD;发表时间：26年08月29日">高一晚自修（8.31-9.4）</a>[ 08-29 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +482,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

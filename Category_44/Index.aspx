@@ -375,7 +375,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146628&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li>
+            <li class="first"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146629&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li>
           
 		</ul>
 	</div>
@@ -433,7 +433,7 @@ function GetUserInfo1(response){
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2022-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_self" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146628&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
+            <li class="first"><span class="date">2022-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_self" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146629&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
