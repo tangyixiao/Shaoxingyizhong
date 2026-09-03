@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教学处-绍兴市第一中学</title>
+    <title>关于25级、26级国旗队队员开会通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -354,9 +354,9 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：322&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23564.aspx" target="_blank" title="标题：高三09.01协作体监考安排和学生考场安排&#xD;点击数：268&#xD;发表时间：2026年08月31日">高三09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23586.aspx" target="_blank" title="标题：2025学年奖学金获得者名单&#xD;点击数：104&#xD;发表时间：2026年09月02日">2025学年奖学金获得者名单</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9429&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li class="last"><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：100&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：314&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23587.aspx" target="_blank" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：54&#xD;发表时间：2026年09月02日">关于开展美丽教室评比活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23589.aspx" target="_blank" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：17&#xD;发表时间：2026年09月03日">关于25级、26级国旗队队员开会通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：59&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=26>教学处</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,62 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2025-12-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22388.aspx" target="_self" title="标题：关于部分申报高级职称教师上课安排的通知&#xD;点击数：224&#xD;发表时间：2025年12月01日">关于部分申报高级职称教师上课安排的通知</a></li><li><span class="date">2025-11-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22341.aspx" target="_self" title="标题：数学教研活动通知&#xD;点击数：151&#xD;发表时间：2025年11月26日">数学教研活动通知</a></li><li><span class="date">2025-11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22317.aspx" target="_self" title="标题：英语教研活动通知&#xD;点击数：147&#xD;发表时间：2025年11月24日">英语教研活动通知</a></li><li><span class="date">2025-11-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22305.aspx" target="_self" title="标题：政治教研活动通知&#xD;点击数：127&#xD;发表时间：2025年11月20日">政治教研活动通知</a></li><li><span class="date">2025-11-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22299.aspx" target="_self" title="标题：通用技术教研活动通知&#xD;点击数：77&#xD;发表时间：2025年11月18日">通用技术教研活动通知</a></li><li class="split"></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22298.aspx" target="_self" title="标题：高一高二期中考巡考安排&#xD;点击数：155&#xD;发表时间：2025年11月17日">高一高二期中考巡考安排</a></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22285.aspx" target="_self" title="标题：高二期中考特殊提醒&#xD;点击数：168&#xD;发表时间：2025年11月17日">高二期中考特殊提醒</a></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22284.aspx" target="_self" title="标题：高一期中考特殊提醒&#xD;点击数：112&#xD;发表时间：2025年11月17日">高一期中考特殊提醒</a></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22283.aspx" target="_self" title="标题：高一期中考特殊提醒&#xD;点击数：115&#xD;发表时间：2025年11月17日">高一期中考特殊提醒</a></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22267.aspx" target="_self" title="标题：11.18高二卓越联盟考试监考安排和学生考场安排&#xD;点击数：479&#xD;发表时间：2025年11月17日">11.18高二卓越联盟考试监考安排和学生考场安排</a></li><li class="split"></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22278.aspx" target="_self" title="标题：生物教研活动通知&#xD;点击数：93&#xD;发表时间：2025年11月17日">生物教研活动通知</a></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22276.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：90&#xD;发表时间：2025年11月17日">信息技术教研活动通知</a></li><li><span class="date">2025-11-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22266.aspx" target="_self" title="标题：11.18高一卓越联盟考试监考安排和学生考场安排&#xD;点击数：398&#xD;发表时间：2025年11月14日">11.18高一卓越联盟考试监考安排和学生考场安排</a></li><li><span class="date">2025-11-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22265.aspx" target="_self" title="标题：11.18高一卓越联盟考试考场布置及相关要求&#xD;点击数：158&#xD;发表时间：2025年11月14日">11.18高一卓越联盟考试考场布置及相关要求</a></li><li><span class="date">2025-11-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22268.aspx" target="_self" title="标题：11.18高二卓越联盟考试考场布置及相关要求&#xD;点击数：134&#xD;发表时间：2025年11月14日">11.18高二卓越联盟考试考场布置及相关要求</a></li><li class="split"></li><li><span class="date">2025-11-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22259.aspx" target="_self" title="标题：体育组教师公开课&#xD;点击数：115&#xD;发表时间：2025年11月13日">体育组教师公开课</a></li><li><span class="date">2025-11-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22253.aspx" target="_self" title="标题：数学教研活动通知&#xD;点击数：149&#xD;发表时间：2025年11月12日">数学教研活动通知</a></li><li><span class="date">2025-11-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22252.aspx" target="_self" title="标题：体育组青年教师汇报课&#xD;点击数：127&#xD;发表时间：2025年11月12日">体育组青年教师汇报课</a></li><li><span class="date">2025-11-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22251.aspx" target="_self" title="标题：高三校模拟考时间安排&#xD;点击数：192&#xD;发表时间：2025年11月12日">高三校模拟考时间安排</a></li><li><span class="date">2025-11-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22195.aspx" target="_self" title="标题：高一、高二期中考考试范围和考试时间（更新完整版）&#xD;点击数：425&#xD;发表时间：2025年11月04日">高一、高二期中考考试范围和考试时间（更新完整版）</a></li><li class="split"></li><li><span class="date">2025-11-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22194.aspx" target="_self" title="标题：11.05高三诊断性考试监考安排和学生考场安排&#xD;点击数：313&#xD;发表时间：2025年11月03日">11.05高三诊断性考试监考安排和学生考场安排</a></li><li><span class="date">2025-11-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22193.aspx" target="_self" title="标题：11.05高三诊断性考试考场布置及相关要求&#xD;点击数：73&#xD;发表时间：2025年11月03日">11.05高三诊断性考试考场布置及相关要求</a></li><li><span class="date">2025-11-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22187.aspx" target="_self" title="标题：美术教研活动通知&#xD;点击数：83&#xD;发表时间：2025年11月03日">美术教研活动通知</a></li><li><span class="date">2025-11-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22182.aspx" target="_self" title="标题：棒球体验选拔活动通知&#xD;点击数：94&#xD;发表时间：2025年11月03日">棒球体验选拔活动通知</a></li><li><span class="date">2025-10-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22151.aspx" target="_self" title="标题：高二、高三班主任会议通知（会议重要请勿请假）&#xD;点击数：249&#xD;发表时间：2025年10月29日">高二、高三班主任会议通知（会议重要请勿请假）</a></li><li class="split"></li><li><span class="date">2025-10-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22152.aspx" target="_self" title="标题：数学组外出教研活动通知&#xD;点击数：220&#xD;发表时间：2025年10月28日">数学组外出教研活动通知</a></li><li><span class="date">2025-10-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22145.aspx" target="_self" title="标题：关于10月28日作息时间调整的通知&#xD;点击数：186&#xD;发表时间：2025年10月27日">关于10月28日作息时间调整的通知</a></li><li><span class="date">2025-10-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22140.aspx" target="_self" title="标题：空军招飞宣讲会参会通知&#xD;点击数：113&#xD;发表时间：2025年10月27日">空军招飞宣讲会参会通知</a></li><li><span class="date">2025-10-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22136.aspx" target="_self" title="标题：高三2025体质健康抽测名单&#xD;点击数：120&#xD;发表时间：2025年10月27日">高三2025体质健康抽测名单</a></li><li><span class="date">2025-10-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22135.aspx" target="_self" title="标题：高三诊断性考试时间安排&#xD;点击数：176&#xD;发表时间：2025年10月25日">高三诊断性考试时间安排</a></li><li class="split"></li><li><span class="date">2025-10-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22134.aspx" target="_self" title="标题：新教师招聘面试教室布置要求&#xD;点击数：217&#xD;发表时间：2025年10月24日">新教师招聘面试教室布置要求</a></li><li><span class="date">2025-10-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22120.aspx" target="_self" title="标题：绍兴市第四届中学生田径运动会比赛通知&#xD;点击数：217&#xD;发表时间：2025年10月23日">绍兴市第四届中学生田径运动会比赛通知</a></li><li><span class="date">2025-10-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22112.aspx" target="_self" title="标题：体育组全体外出参加教研活动通知&#xD;点击数：173&#xD;发表时间：2025年10月22日">体育组全体外出参加教研活动通知</a></li><li><span class="date">2025-10-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22111.aspx" target="_self" title="标题：关于高三英语组教研活动的通知&#xD;点击数：73&#xD;发表时间：2025年10月21日">关于高三英语组教研活动的通知</a></li><li class="last"><span class="date">2025-10-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22068.aspx" target="_self" title="标题：化学教研活动通知&#xD;点击数：122&#xD;发表时间：2025年10月15日">化学教研活动通知</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_4.aspx">上一页</a>
- <a href="Index.aspx">1</a> <a href="Index_2.aspx">2</a> <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <b><a href="Index_5.aspx">5</a></b> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <a href="Index_10.aspx">10</a> <a href="Index_11.aspx">11</a> 
-<a href="Index_6.aspx">下一页</a>
- <a href="Index_101.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">关于25级、26级国旗队队员开会通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月03日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23589"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23589},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23589";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p>    请2025级，2026级国旗队员于<span style="background-color: rgb(255, 255, 0);">今天下午第九节课</span>到德育处旁阶梯教室4106开会，开会携带纸笔。</p><p>    附国旗队名单：
+</p><p>2026级：</p><p style="text-align: justify; font-size: 14px; text-wrap-mode: wrap; line-height: 21px;"><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">102</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">谢之恒、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">103</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">孙浩然、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">104</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">赵泽恺、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">105  </span></span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">周铭皓</span><span style="line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">、</span></span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">张煜霖、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">106</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">赵梓佑、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">107</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">陈鸿杰、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">108</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">蒋成宇、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">110</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">陈泓杰、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">114</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">吕宇航、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">115</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">潘纯一、</span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;"><span style="font-family:Calibri">119</span></span><span style="font-family: Calibri; line-height: 24px; font-size: 16px;">  </span><span style="font-family: 宋体; line-height: 24px; font-size: 16px;">龚昱伦</span></p><p>2025级：</p><p>201  高金琦、203  何思成、胡峻青、赵晗清、<span style="text-wrap-mode: wrap;">204  周霄航、<span style="text-wrap-mode: wrap;">208  方森浩、</span></span>210  傅子恒、张童铭、211  俞琳皓、付俊豪、215  黄子宵、诸熠恒</p><p>
+</p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23587.aspx" target="_self" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：54&#xD;发表时间：26年09月02日">关于开展美丽教室评比活动的通知</a>[ 09-02 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23592.aspx" target="_self" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：1&#xD;发表时间：26年09月03日">寻物启事两则（笔袋/课本）</a>[ 09-03 ]</div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +484,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

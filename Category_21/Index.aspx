@@ -369,7 +369,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：53&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：13&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防…</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：39&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召…</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/23547.aspx" target="_blank" title="标题：锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！&#xD;点击数：32&#xD;发表时间：2026年08月24日">锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴…</a><span class="dateRight">[08-24]</span></li><li class="last"><a href="/Item/23524.aspx" target="_blank" title="标题：从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会&#xD;点击数：44&#xD;发表时间：2026年08月20日">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一…</a><span class="dateRight">[08-20]</span></li>
+            <li class="first"><a href="/Item/23591.aspx" target="_blank" title="标题：训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行&#xD;点击数：4&#xD;发表时间：2026年09月03日">训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2…</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：53&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：14&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防…</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：39&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召…</a><span class="dateRight">[08-25]</span></li><li class="last"><a href="/Item/23547.aspx" target="_blank" title="标题：锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！&#xD;点击数：32&#xD;发表时间：2026年08月24日">锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴…</a><span class="dateRight">[08-24]</span></li>
           
 		</ul>
 	</div>
@@ -424,6 +424,15 @@ function GetUserInfo1(response){
 </ul>
 <ul class="slideCon">
   <li>
+    <div class="pe_u_thumb"><a href="/Item/23591.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609030931023552_600_340.jpg" alt="训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行"></a></div>
+    <p class="pe_u_thumb_title"><a href="/Item/23591.aspx" target="_blank">训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行</a></p>
+    <p class="intro">骄阳砺少年，迷彩铸锋芒。绍兴一中教育集团2026级新生，以热血赴淬炼，以笃行赴新程！ 近日，绍兴一中教育集团2026级新生军训…<a href="/Item/23591.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
+  <li>
+    <div class="pe_u_thumb"><a href="/Item/23590.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609030928346826_600_340.jpg" alt="赓续长征精神，唱响新征程——绍兴一中教育集团2026级新生军训合唱比赛圆满举行"></a></div>
+    <p class="pe_u_thumb_title"><a href="/Item/23590.aspx" target="_blank">赓续长征精神，唱响新征程——绍兴一中教育集团2026级新生军训合唱比赛圆满举行</a></p>
+    <p class="intro">
+ 传承长征精神，淬炼坚毅品格。8月27日下午，绍兴一中教育集团2026级高一新生“赓续长征精神，唱响新征程”军训合唱比赛在体…<a href="/Item/23590.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
+  <li>
     <div class="pe_u_thumb"><a href="/Item/23567.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608311615450135_600_340.jpg" alt="防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动"></a></div>
     <p class="pe_u_thumb_title"><a href="/Item/23567.aspx" target="_blank">防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动</a></p>
     <p class="intro">
@@ -433,16 +442,6 @@ function GetUserInfo1(response){
     <p class="pe_u_thumb_title"><a href="/Item/23554.aspx" target="_blank">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会</a></p>
     <p class="intro">
  近日，绍兴一中教育集团五大学科竞赛工作研讨会在树兰楼三楼会议室二顺利召开。绍兴一中党委副书记、校长蒋明，绍兴一中龙…<a href="/Item/23554.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23531.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608201654388325_600_340.jpg" alt="第三篇：大爱与归心——校友与母校的双向奔赴（下）"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23531.aspx" target="_blank">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></p>
-    <p class="intro">
-【编者按】在上一篇中，我们讲述了鲁家贤先生与车越乔先生的母校情缘。而在朱雯校长的回忆里，还有两位校友的故事同样令人动…<a href="/Item/23531.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23524.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608201636152630_600_340.JPG" alt="从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23524.aspx" target="_blank">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会</a></p>
-    <p class="intro">
-盛夏逐梦，启航新章！为帮助2026级高一新生尽快融入校园环境、适应高中学习生活，搭建家校共育桥梁，绍兴一中教育集团开展高…<a href="/Item/23524.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
 </ul>
           
         </div>
@@ -472,7 +471,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：13&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防…</a></li><li><span class="date">08-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：39&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召…</a></li><li><span class="date">08-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23547.aspx" target="_blank" title="标题：锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！&#xD;点击数：32&#xD;发表时间：2026年08月24日">锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴…</a></li><li><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：42&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></li><li><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23524.aspx" target="_blank" title="标题：从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会&#xD;点击数：44&#xD;发表时间：2026年08月20日">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一…</a></li><li class="last"><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23523.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，以德育人，以爱赋能&#xD;点击数：44&#xD;发表时间：2026年08月20日">博雅育人 | 德育楷模风采录（第三期）顾秀芳：深耕杏坛，…</a></li>
+            <li class="first"><span class="date">09-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23591.aspx" target="_blank" title="标题：训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行&#xD;点击数：4&#xD;发表时间：2026年09月03日">训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2…</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">09-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23590.aspx" target="_blank" title="标题：赓续长征精神，唱响新征程——绍兴一中教育集团2026级新生军训合唱比赛圆满举行&#xD;点击数：1&#xD;发表时间：2026年09月03日">赓续长征精神，唱响新征程——绍兴一中教育集团2026级新…</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：14&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防…</a></li><li><span class="date">08-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：39&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召…</a></li><li><span class="date">08-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23547.aspx" target="_blank" title="标题：锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！&#xD;点击数：32&#xD;发表时间：2026年08月24日">锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴…</a></li><li class="last"><span class="date">08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：42&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a></li>
           
                             </ul>
                         </div>
