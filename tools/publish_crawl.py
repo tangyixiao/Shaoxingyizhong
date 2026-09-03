@@ -135,9 +135,39 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
             source = source_root / relative_path_from_url(url)
             if source.is_file():
                 candidates.append(source)
+    root_aliases = [
+        path
+        for path in source_root.iterdir()
+        if path.is_file() and path.name.casefold() == "default.aspx"
+    ]
+    root_source = None
+    requested_root_sources = [
+        path
+        for path in candidates
+        if len(path.relative_to(source_root).parts) == 1
+        and path.name.casefold() == "default.aspx"
+    ]
+    if requested_root_sources:
+        root_source = requested_root_sources[0]
+    elif root_aliases:
+        root_source = max(
+            root_aliases,
+            key=lambda path: (path.stat().st_mtime_ns, path.name == "Default.aspx"),
+        )
+    root_synced = False
     for source in candidates:
         relative = source.relative_to(source_root)
         if not is_publishable(relative):
+            continue
+        if len(relative.parts) == 1 and relative.name.casefold() == "default.aspx":
+            if root_synced or not source.samefile(root_source):
+                continue
+            root_content = source.read_bytes()
+            for alias_name in ("Default.aspx", "default.aspx"):
+                destination = repo_root / alias_name
+                if copy_bytes_if_changed(source, destination, root_content):
+                    changed.append(alias_name)
+            root_synced = True
             continue
         destination = repo_root / relative
         content = None

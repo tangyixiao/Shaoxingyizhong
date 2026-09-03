@@ -200,6 +200,35 @@ class IncrementalSyncTests(unittest.TestCase):
             self.assertTrue((repo / "Item" / "1.aspx").exists())
             self.assertFalse((repo / "Item" / "2.aspx").exists())
 
+    def test_publish_crawl_keeps_root_case_aliases_in_sync(self):
+        """A refreshed root response must update both tracked case aliases."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            source.mkdir()
+            repo.mkdir()
+            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
+            (source / "default.aspx").write_text("stale homepage", encoding="utf-8")
+            (repo / "Default.aspx").write_text("old uppercase", encoding="utf-8")
+            (repo / "default.aspx").write_text("old lowercase", encoding="utf-8")
+
+            changed = sync_crawl_paths(
+                source,
+                repo,
+                ["http://example.test/Default.aspx"],
+            )
+
+            self.assertEqual(changed, ["Default.aspx", "default.aspx"])
+            self.assertEqual(
+                (repo / "Default.aspx").read_text(encoding="utf-8"),
+                "fresh homepage",
+            )
+            self.assertEqual(
+                (repo / "default.aspx").read_text(encoding="utf-8"),
+                "fresh homepage",
+            )
+
     def test_recent_branch_seed_includes_branch_containing_waterline_item(self):
         """A category page holding the latest published leaf must be revisited for new leaves."""
         with tempfile.TemporaryDirectory() as tmp:
