@@ -125,14 +125,14 @@ class IncrementalSyncTests(unittest.TestCase):
             self.assertEqual((output / "index.html").read_text(encoding="utf-8"), "fresh homepage")
             self.assertEqual((output / "Default.html").read_text(encoding="utf-8"), "fresh homepage")
 
-    def test_build_site_prefers_uppercase_default_when_case_variants_disagree(self):
-        """Case-sensitive CI must not let a stale lowercase alias overwrite the fresh root."""
+    def test_build_site_prefers_crawler_default_when_case_variants_disagree(self):
+        """Case-sensitive CI must build the root from the crawler's lowercase response."""
         with tempfile.TemporaryDirectory() as tmp:
             source = Path(tmp) / "source"
             output = Path(tmp) / "output"
             source.mkdir()
-            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
-            (source / "default.aspx").write_text("stale lowercase alias", encoding="utf-8")
+            (source / "Default.aspx").write_text("stale uppercase alias", encoding="utf-8")
+            (source / "default.aspx").write_text("fresh homepage", encoding="utf-8")
             (source / "index.html").write_text("stale html alias", encoding="utf-8")
 
             build_site(source, output)

@@ -127,10 +127,17 @@ def build_site(
 
         root_default = source / "Default.aspx"
         lower_root_default = source / "default.aspx"
-        if relative == Path("default.aspx") and root_default.exists():
+        preferred_root_default = (
+            lower_root_default if lower_root_default.exists() else root_default
+        )
+        if (
+            len(relative.parts) == 1
+            and path.name.lower() == "default.aspx"
+            and path != preferred_root_default
+        ):
             skipped += 1
             continue
-        if relative == Path("index.html") and (root_default.exists() or lower_root_default.exists()):
+        if relative == Path("index.html") and preferred_root_default.exists():
             skipped += 1
             continue
         if (
