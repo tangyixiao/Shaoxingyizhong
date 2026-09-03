@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于开展美丽教室评比活动的通知--德育处-绍兴市第一中学</title>
+    <title>校乒乓球队会议通知--教学处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -354,9 +354,9 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23589.aspx" target="_blank" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：56&#xD;发表时间：2026年09月03日">关于25级、26级国旗队队员开会通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23587.aspx" target="_blank" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：82&#xD;发表时间：2026年09月02日">关于开展美丽教室评比活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：321&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23592.aspx" target="_blank" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：36&#xD;发表时间：2026年09月03日">寻物启事两则（笔袋/课本）</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：59&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23594.aspx" target="_blank" title="标题：关于开学仪容仪表检查的通知&#xD;点击数：8&#xD;发表时间：2026年09月03日">关于开学仪容仪表检查的通知</a><span class="dateRight">[09-03]</span></li><li class="last"><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li>
+            <li class="first"><a href="/Item/23586.aspx" target="_blank" title="标题：2025学年奖学金获得者名单&#xD;点击数：118&#xD;发表时间：2026年09月02日">2025学年奖学金获得者名单</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9444&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23593.aspx" target="_blank" title="标题：校乒乓球队会议通知&#xD;点击数：8&#xD;发表时间：2026年09月03日">校乒乓球队会议通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：100&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li class="last"><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：232&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a><span class="dateRight">[08-25]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
+                    <h3>教学处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于开展美丽教室评比活动的通知</h2>
+                        <h2 class="title">校乒乓球队会议通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月02日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23587"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月03日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23593"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23587},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23593},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23587";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23593";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="text-align:center"></p><p><span style="font-family: 宋体;font-size: 19px">全校各班级：</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">为更好地发挥环境育人的功能，充分展示学生的个性特长、体现班级文化建设的特色，营造良好的学习氛围，学校决定举行新学期美丽教室评比活动，具体要求如下</span><span style="font-family:宋体">:</span></span></p><p><span style="font-family: 宋体;font-size: 19px">一、</span><strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">时间安排：</span><span style="font-family:宋体">9月9日</span></span></strong><strong><span style="font-family: 宋体;font-size: 19px">12</span></strong><strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">：</span><span style="font-family:宋体">30</span></span></strong><span style="font-family: 宋体;font-size: 19px">组织评比。</span></p><p><strong><span style="font-family: 宋体;font-size: 19px">二、教室美化核心要求：</span></strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">整体需遵循</span><span style="font-family:宋体">“整洁、文明、生态、愉悦” 原则，突出书香氛围，兼顾实用性与观赏性。</span></span></p><p><strong><span style="font-family: 宋体;font-size: 19px">三、重点区域与细节规范：</span></strong></p><p><span style="font-family: 宋体;font-size: 19px">1、墙面布置</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">教室两侧墙上建议挂字画，有装裱更佳；墙上可适当添加装饰物，装饰物应适合青少年的年龄特点与审美，注重</span><span style="font-family:宋体">“得体适度”，不花哨，不夸张；建议西墙上方挂一口钟；</span></span><strong><span style="font-family: 宋体;font-size: 19px">东墙黑板上方的国旗，班训由学校统一制作，不建议班级更改或添加布置</span></strong><span style="font-family: 宋体;font-size: 19px">。</span></p><p><span style="font-family: 宋体;font-size: 19px">2、讲台与桌面</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px">讲台物品放置整齐，课桌面保持洁净，学生个人书本、文具有序摆放，多余物品存入教室储物柜，严禁将书籍、杂物堆放在地面或三个台面上。</span></p><p><span style="font-family: 宋体;font-size: 19px">3、空间与环境</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px">座位整齐，过道通畅；适当摆放盆景、花卉进行点缀；门口雨伞架物品放置整齐，伞柄朝外。</span></p><p><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 19px">  如需要铲刀，桌面字迹清理剂可来德育处借取。</span></strong></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px"> </span></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px">德育处、各年级年管会</span></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px">202</span><span style="font-family: 宋体;font-size: 19px">6</span><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">年</span><span style="font-family:宋体">9月</span></span><span style="font-family: 宋体;font-size: 19px">2</span><span style="font-family: 宋体;font-size: 19px">日</span></p><p>
+     <p style="text-indent: 37px"><span style=";font-family:宋体;font-size:19px">请高一有乒乓球基础的同学以及全体校乒乓球队队员，于</span><span style=";font-family:宋体;font-size:19px"><span style="font-family:Calibri">9</span><span style="font-family:宋体">月</span><span style="font-family:Calibri">4</span><span style="font-family:宋体">日（周五）中午</span><span style="font-family:Calibri">12</span><span style="font-family:宋体">点</span><span style="font-family:Calibri">20</span><span style="font-family:宋体">到体育馆东面三楼办公室开会。请相互转告！</span></span></p><p style="text-indent: 37px"><span style=";font-family:宋体;font-size:19px">另有乒乓球基础的同学可提前联系郑祥霖老师咨询。</span></p><p style="text-indent: 37px"><span style=";font-family:宋体;font-size:19px">请大家准时参加！</span></p><p>
 </p>
     
     </div><!--endprint-->
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23582.aspx" target="_self" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：321&#xD;发表时间：26年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a>[ 09-02 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23589.aspx" target="_self" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：56&#xD;发表时间：26年09月03日">关于25级、26级国旗队队员开会通知</a>[ 09-03 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23586.aspx" target="_self" title="标题：2025学年奖学金获得者名单&#xD;点击数：118&#xD;发表时间：26年09月02日">2025学年奖学金获得者名单</a>[ 09-02 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 

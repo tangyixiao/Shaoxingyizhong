@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于开展美丽教室评比活动的通知--德育处-绍兴市第一中学</title>
+    <title>关于开学仪容仪表检查的通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -405,21 +405,21 @@ function GetUserInfo1(response){
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于开展美丽教室评比活动的通知</h2>
+                        <h2 class="title">关于开学仪容仪表检查的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月02日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23587"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月03日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23594"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23587},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23594},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23587";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23594";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="text-align:center"></p><p><span style="font-family: 宋体;font-size: 19px">全校各班级：</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">为更好地发挥环境育人的功能，充分展示学生的个性特长、体现班级文化建设的特色，营造良好的学习氛围，学校决定举行新学期美丽教室评比活动，具体要求如下</span><span style="font-family:宋体">:</span></span></p><p><span style="font-family: 宋体;font-size: 19px">一、</span><strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">时间安排：</span><span style="font-family:宋体">9月9日</span></span></strong><strong><span style="font-family: 宋体;font-size: 19px">12</span></strong><strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">：</span><span style="font-family:宋体">30</span></span></strong><span style="font-family: 宋体;font-size: 19px">组织评比。</span></p><p><strong><span style="font-family: 宋体;font-size: 19px">二、教室美化核心要求：</span></strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">整体需遵循</span><span style="font-family:宋体">“整洁、文明、生态、愉悦” 原则，突出书香氛围，兼顾实用性与观赏性。</span></span></p><p><strong><span style="font-family: 宋体;font-size: 19px">三、重点区域与细节规范：</span></strong></p><p><span style="font-family: 宋体;font-size: 19px">1、墙面布置</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">教室两侧墙上建议挂字画，有装裱更佳；墙上可适当添加装饰物，装饰物应适合青少年的年龄特点与审美，注重</span><span style="font-family:宋体">“得体适度”，不花哨，不夸张；建议西墙上方挂一口钟；</span></span><strong><span style="font-family: 宋体;font-size: 19px">东墙黑板上方的国旗，班训由学校统一制作，不建议班级更改或添加布置</span></strong><span style="font-family: 宋体;font-size: 19px">。</span></p><p><span style="font-family: 宋体;font-size: 19px">2、讲台与桌面</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px">讲台物品放置整齐，课桌面保持洁净，学生个人书本、文具有序摆放，多余物品存入教室储物柜，严禁将书籍、杂物堆放在地面或三个台面上。</span></p><p><span style="font-family: 宋体;font-size: 19px">3、空间与环境</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px">座位整齐，过道通畅；适当摆放盆景、花卉进行点缀；门口雨伞架物品放置整齐，伞柄朝外。</span></p><p><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 19px">  如需要铲刀，桌面字迹清理剂可来德育处借取。</span></strong></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px"> </span></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px">德育处、各年级年管会</span></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px">202</span><span style="font-family: 宋体;font-size: 19px">6</span><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">年</span><span style="font-family:宋体">9月</span></span><span style="font-family: 宋体;font-size: 19px">2</span><span style="font-family: 宋体;font-size: 19px">日</span></p><p>
+     <p style=";padding: 0"><span style="font-family: 宋体;font-size: 21px">全校各班级</span><span style="font-family: 宋体;font-size: 21px">：</span></p><p style=";text-indent: 43px;padding: 0"><span style="font-family: 宋体;font-size: 21px">为进一步规范校园管理，维护优良校风校貌，展现绍兴一中学子良好精神风貌，学校将在</span><span style="font-family: 宋体;font-size: 21px">下周</span><span style="font-family: 宋体;font-size: 21px">开展仪容仪表专项检查</span><span style="font-family: 宋体;font-size: 21px">。</span></p><p style=";padding: 0"><strong><span style="font-family: 宋体;font-size: 21px">一、</span></strong><strong><span style="font-family: 宋体;font-size: 21px">校服穿着要求</span></strong></p><p style=";text-indent: 43px;padding: 0"><span style="font-family: 宋体;font-size: 21px">学生在校期间须统一</span><span style="font-family: 宋体;font-size: 21px">穿着全套校服，</span><span style="font-family: 宋体;font-size: 21px">即</span><span style="font-family: 宋体;font-size: 21px">上下装、内外</span><span style="font-family: 宋体;font-size: 21px">衣均为校服，做到</span><span style="font-family: 宋体;font-size: 21px">规范完整，</span><span style="font-family: 宋体;font-size: 21px">保持校服干净整洁、无破损污渍。</span></p><p style=";padding: 0"><strong><span style="font-family: 宋体;font-size: 21px">二、</span></strong><strong><span style="font-family: 宋体;font-size: 21px">发型仪容要求</span></strong></p><p style=";text-indent: 43px;padding: 0"><strong><span style="font-family: 宋体;font-size: 21px">男生：</span></strong><span style="font-family: 宋体;font-size: 21px">发型清爽利落，做到前不扫眉、旁不遮耳、后不过领，不烫发、不染发，不留长发、怪异发型。</span></p><p style=";text-indent: 43px;padding: 0"><strong><span style="font-family: 宋体;font-size: 21px">女生：</span></strong><span style="font-family: 宋体;font-size: 21px">前额刘海不遮眉，发型自然大方，不烫发、不染发</span><span style="font-family: 宋体;font-size: 21px">，长发须扎束整齐。</span></p><p style=";padding: 0"><strong><span style="font-family: 宋体;font-size: 21px">三、</span></strong><strong><span style="font-family: 宋体;font-size: 21px">妆容饰品要求</span></strong></p><p style=";text-indent: 43px;padding: 0"><span style="font-family: 宋体;font-size: 21px">全体学生不得化妆，不佩戴各类饰品，</span><span style="font-family: 宋体;font-size: 21px">包括耳饰、项链、戒指、手链等，</span><span style="font-family: 宋体;font-size: 21px">保持</span><span style="font-family: 宋体;font-size: 21px">朴素大方、文明得体</span><span style="font-family: 宋体;font-size: 21px">、</span><span style="font-family: 宋体;font-size: 21px">阳光健康的中学生形象。</span></p><p style=";text-indent: 43px;padding: 0"><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">如有违反，</span></strong><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">学校</span></strong><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">将按相关规定予以处理</span></strong><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 16px">。</span></strong></p><p style=";padding: 0"><span style="font-family: 宋体;font-size: 21px"> </span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;text-align:right"><span style="font-family: 宋体;font-size: 21px">德育处</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;text-align:right"><span style="font-family: 宋体;font-size: 21px">2026年9月3日</span></p><p style=";padding: 0"><span style="font-family: 宋体;font-size: 21px"> </span></p><p>
 </p>
     
     </div><!--endprint-->
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23582.aspx" target="_self" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：321&#xD;发表时间：26年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a>[ 09-02 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23589.aspx" target="_self" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：56&#xD;发表时间：26年09月03日">关于25级、26级国旗队队员开会通知</a>[ 09-03 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23592.aspx" target="_self" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：36&#xD;发表时间：26年09月03日">寻物启事两则（笔袋/课本）</a>[ 09-03 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 

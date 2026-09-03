@@ -430,7 +430,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23568.aspx" target="_self" title="标题：每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩观学习教育成果&#xD;点击数：1&#xD;发表时间：26年08月31日">每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩…</a>[ 08-31 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23568.aspx" target="_self" title="标题：每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩观学习教育成果&#xD;点击数：2&#xD;发表时间：26年08月31日">每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩…</a>[ 08-31 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
