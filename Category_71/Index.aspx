@@ -372,7 +372,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/2537.aspx" target="_blank" title="标题：名师工作室&#xD;点击数：68996&#xD;发表时间：2010年09月26日">名师工作室</a><span class="dateRight">[09-26]</span></li>
+            <li class="first"><a href="/Item/2537.aspx" target="_blank" title="标题：名师工作室&#xD;点击数：68998&#xD;发表时间：2010年09月26日">名师工作室</a><span class="dateRight">[09-26]</span></li>
           
 		</ul>
 	</div>
@@ -430,7 +430,7 @@ function GetUserInfo1(response){
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2024-01-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19411.aspx" target="_self" title="标题：“学习教育家精神 培养教育名师”暨绍兴市2020年名师工作室三年成果总结展示活动在我校举行&#xD;点击数：184&#xD;发表时间：2024年01月24日">“学习教育家精神 培养教育名师”暨绍兴市2020年名师工作室三年成果总结展示活动在我校举行</a></li><li><span class="date">2023-09-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18526.aspx" target="_self" title="标题：我校虞金龙老师做客直播间谈高中数学学习方法&#xD;点击数：298&#xD;发表时间：2023年09月21日">我校虞金龙老师做客直播间谈高中数学学习方法</a></li><li><span class="date">2023-04-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18537.aspx" target="_self" title="标题：张叠高中历史名师工作室举行“新课程新教材与教研论文”主题教研活动&#xD;点击数：402&#xD;发表时间：2023年04月19日">张叠高中历史名师工作室举行“新课程新教材与教研论文”主题教研活动</a></li><li class="last"><span class="date">2010-09-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/2537.aspx" target="_self" title="标题：名师工作室&#xD;点击数：68996&#xD;发表时间：2010年09月26日">名师工作室</a></li>
+            <li class="first"><span class="date">2024-01-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/19411.aspx" target="_self" title="标题：“学习教育家精神 培养教育名师”暨绍兴市2020年名师工作室三年成果总结展示活动在我校举行&#xD;点击数：184&#xD;发表时间：2024年01月24日">“学习教育家精神 培养教育名师”暨绍兴市2020年名师工作室三年成果总结展示活动在我校举行</a></li><li><span class="date">2023-09-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18526.aspx" target="_self" title="标题：我校虞金龙老师做客直播间谈高中数学学习方法&#xD;点击数：299&#xD;发表时间：2023年09月21日">我校虞金龙老师做客直播间谈高中数学学习方法</a></li><li><span class="date">2023-04-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18537.aspx" target="_self" title="标题：张叠高中历史名师工作室举行“新课程新教材与教研论文”主题教研活动&#xD;点击数：403&#xD;发表时间：2023年04月19日">张叠高中历史名师工作室举行“新课程新教材与教研论文”主题教研活动</a></li><li class="last"><span class="date">2010-09-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/2537.aspx" target="_self" title="标题：名师工作室&#xD;点击数：68998&#xD;发表时间：2010年09月26日">名师工作室</a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->

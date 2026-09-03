@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>创新学部-绍兴市第一中学</title>
+    <title>关于开展美丽教室评比活动的通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -356,14 +356,14 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11 on"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：27&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：135&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：313&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：59&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23587.aspx" target="_blank" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：36&#xD;发表时间：2026年09月02日">关于开展美丽教室评比活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/20170.aspx" target="_blank" title="标题：2026学年第一学期绍兴一中包干区分配方案及打扫要求&#xD;点击数：1945&#xD;发表时间：2024年09月02日"><font style="font-weight:bold;font-style:normal;;">2026学年第一学期绍兴一中包干区分配方案及打扫要求</font></a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=393>创新学部</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,60 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_393/Index.aspx" target="_self">创新学部</a></div>
-                    <h3>创新学部</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23588.aspx" target="_self" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：27&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a></li><li class="last"><span class="date">2026-09-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23576.aspx" target="_self" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：135&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">关于开展美丽教室评比活动的通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月02日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23587"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23587},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23587";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align:center"></p><p><span style="font-family: 宋体;font-size: 19px">全校各班级：</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">为更好地发挥环境育人的功能，充分展示学生的个性特长、体现班级文化建设的特色，营造良好的学习氛围，学校决定举行新学期美丽教室评比活动，具体要求如下</span><span style="font-family:宋体">:</span></span></p><p><span style="font-family: 宋体;font-size: 19px">一、</span><strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">时间安排：</span><span style="font-family:宋体">9月9日</span></span></strong><strong><span style="font-family: 宋体;font-size: 19px">12</span></strong><strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">：</span><span style="font-family:宋体">30</span></span></strong><span style="font-family: 宋体;font-size: 19px">组织评比。</span></p><p><strong><span style="font-family: 宋体;font-size: 19px">二、教室美化核心要求：</span></strong><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">整体需遵循</span><span style="font-family:宋体">“整洁、文明、生态、愉悦” 原则，突出书香氛围，兼顾实用性与观赏性。</span></span></p><p><strong><span style="font-family: 宋体;font-size: 19px">三、重点区域与细节规范：</span></strong></p><p><span style="font-family: 宋体;font-size: 19px">1、墙面布置</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">教室两侧墙上建议挂字画，有装裱更佳；墙上可适当添加装饰物，装饰物应适合青少年的年龄特点与审美，注重</span><span style="font-family:宋体">“得体适度”，不花哨，不夸张；建议西墙上方挂一口钟；</span></span><strong><span style="font-family: 宋体;font-size: 19px">东墙黑板上方的国旗，班训由学校统一制作，不建议班级更改或添加布置</span></strong><span style="font-family: 宋体;font-size: 19px">。</span></p><p><span style="font-family: 宋体;font-size: 19px">2、讲台与桌面</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px">讲台物品放置整齐，课桌面保持洁净，学生个人书本、文具有序摆放，多余物品存入教室储物柜，严禁将书籍、杂物堆放在地面或三个台面上。</span></p><p><span style="font-family: 宋体;font-size: 19px">3、空间与环境</span></p><p style="text-indent: 37px"><span style="font-family: 宋体;font-size: 19px">座位整齐，过道通畅；适当摆放盆景、花卉进行点缀；门口雨伞架物品放置整齐，伞柄朝外。</span></p><p><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 19px">  如需要铲刀，桌面字迹清理剂可来德育处借取。</span></strong></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px"> </span></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px">德育处、各年级年管会</span></p><p style="text-align:right"><span style="font-family: 宋体;font-size: 19px">202</span><span style="font-family: 宋体;font-size: 19px">6</span><span style="font-family: 宋体;font-size: 19px"><span style="font-family:宋体">年</span><span style="font-family:宋体">9月</span></span><span style="font-family: 宋体;font-size: 19px">2</span><span style="font-family: 宋体;font-size: 19px">日</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23582.aspx" target="_self" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：313&#xD;发表时间：26年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a>[ 09-02 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +482,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

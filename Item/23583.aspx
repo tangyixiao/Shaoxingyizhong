@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23583.aspx" target="_blank" title="标题：关于组织参加第六届应急管理新媒体作品征集展播活动的通知&#xD;点击数：65&#xD;发表时间：2026年09月02日">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23572.aspx" target="_blank" title="标题：关于2026年度教工体检的通知&#xD;点击数：135&#xD;发表时间：2026年09月01日">关于2026年度教工体检的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23161.aspx" target="_blank" title="标题：关于组织开展2026年中小学生（幼儿）“预防溺水”专题教育活动的通知&#xD;点击数：53&#xD;发表时间：2026年05月07日">关于组织开展2026年中小学生（幼儿）“预防溺水”专题教…</a><span class="dateRight">[05-07]</span></li><li><a href="/Item/18265.aspx" target="_blank" title="标题：关于2023年度教工体检的通知&#xD;点击数：101&#xD;发表时间：2023年08月15日">关于2023年度教工体检的通知</a><span class="dateRight">[08-15]</span></li><li><a href="/Item/16968.aspx" target="_blank" title="标题：关于健康教育资料领取的通知&#xD;点击数：116&#xD;发表时间：2022年12月02日">关于健康教育资料领取的通知</a><span class="dateRight">[12-02]</span></li><li><a href="/Item/23197.aspx" target="_blank" title="标题：关于组织开展2026年第一次视力普查的通知&#xD;点击数：208&#xD;发表时间：2026年05月13日">关于组织开展2026年第一次视力普查的通知</a><span class="dateRight">[05-13]</span></li><li class="last"><a href="/Item/19545.aspx" target="_blank" title="标题：关于开展春季火灾疏散演练的通知&#xD;点击数：250&#xD;发表时间：2024年03月25日">关于开展春季火灾疏散演练的通知</a><span class="dateRight">[03-25]</span></li>
+            <li class="first"><a href="/Item/23572.aspx" target="_blank" title="标题：关于2026年度教工体检的通知&#xD;点击数：138&#xD;发表时间：2026年09月01日">关于2026年度教工体检的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23161.aspx" target="_blank" title="标题：关于组织开展2026年中小学生（幼儿）“预防溺水”专题教育活动的通知&#xD;点击数：53&#xD;发表时间：2026年05月07日">关于组织开展2026年中小学生（幼儿）“预防溺水”专题教…</a><span class="dateRight">[05-07]</span></li><li><a href="/Item/18265.aspx" target="_blank" title="标题：关于2023年度教工体检的通知&#xD;点击数：101&#xD;发表时间：2023年08月15日">关于2023年度教工体检的通知</a><span class="dateRight">[08-15]</span></li><li><a href="/Item/16968.aspx" target="_blank" title="标题：关于健康教育资料领取的通知&#xD;点击数：116&#xD;发表时间：2022年12月02日">关于健康教育资料领取的通知</a><span class="dateRight">[12-02]</span></li><li><a href="/Item/23583.aspx" target="_blank" title="标题：关于组织参加第六届应急管理新媒体作品征集展播活动的通知&#xD;点击数：88&#xD;发表时间：2026年09月02日">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23197.aspx" target="_blank" title="标题：关于组织开展2026年第一次视力普查的通知&#xD;点击数：208&#xD;发表时间：2026年05月13日">关于组织开展2026年第一次视力普查的通知</a><span class="dateRight">[05-13]</span></li><li class="last"><a href="/Item/19545.aspx" target="_blank" title="标题：关于开展春季火灾疏散演练的通知&#xD;点击数：250&#xD;发表时间：2024年03月25日">关于开展春季火灾疏散演练的通知</a><span class="dateRight">[03-25]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23572.aspx" target="_self" title="标题：关于2026年度教工体检的通知&#xD;点击数：135&#xD;发表时间：26年09月01日">关于2026年度教工体检的通知</a>[ 09-01 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23572.aspx" target="_self" title="标题：关于2026年度教工体检的通知&#xD;点击数：138&#xD;发表时间：26年09月01日">关于2026年度教工体检的通知</a>[ 09-01 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

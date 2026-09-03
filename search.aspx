@@ -350,56 +350,56 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-09-02</span><a href="/Item/23586.aspx" target="_blank" title="标题：2025学年奖学金获得者名单&#xD;点击数：11&#xD;发表时间：2026年09月02日">2025学年奖学金获得者名单</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/14001.aspx" target="_blank" title="标题：综合实践与心理组&#xD;点击数：1292&#xD;发表时间：2026年09月02日">综合实践与心理组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13981.aspx" target="_blank" title="标题：语文教研组&#xD;点击数：3322&#xD;发表时间：2026年09月02日">语文教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13997.aspx" target="_blank" title="标题：历史教研组&#xD;点击数：2167&#xD;发表时间：2026年09月02日">历史教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13986.aspx" target="_blank" title="标题：英语教研组&#xD;点击数：3346&#xD;发表时间：2026年09月02日">英语教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13994.aspx" target="_blank" title="标题：化学教研组&#xD;点击数：2762&#xD;发表时间：2026年09月02日">化学教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/14000.aspx" target="_blank" title="标题：体艺教研组&#xD;点击数：3432&#xD;发表时间：2026年09月02日">体艺教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13996.aspx" target="_blank" title="标题：政治教研组&#xD;点击数：2878&#xD;发表时间：2026年09月02日">政治教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13985.aspx" target="_blank" title="标题：数学教研组&#xD;点击数：3904&#xD;发表时间：2026年09月02日">数学教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13998.aspx" target="_blank" title="标题：地理教研组&#xD;点击数：2478&#xD;发表时间：2026年09月02日">地理教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/23585.aspx" target="_blank" title="标题：新学期开学典礼通知&#xD;点击数：85&#xD;发表时间：2026年09月02日">新学期开学典礼通知</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/23583.aspx" target="_blank" title="标题：关于组织参加第六届应急管理新媒体作品征集展播活动的通知&#xD;点击数：65&#xD;发表时间：2026年09月02日">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13993.aspx" target="_blank" title="标题：物理教研组&#xD;点击数：3140&#xD;发表时间：2026年09月02日">物理教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/13999.aspx" target="_blank" title="标题：技术教研组&#xD;点击数：2361&#xD;发表时间：2026年09月02日">技术教研组</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：203&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：155&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/23580.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定&#xD;点击数：139&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定</a></li>
-<li><span class="date">2026-09-02</span><a href="/Item/23579.aspx" target="_blank" title="标题：绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法&#xD;点击数：112&#xD;发表时间：2026年09月02日">绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法</a></li>
-<li><span class="date">2026-09-01</span><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：57&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a></li>
-<li><span class="date">2026-09-01</span><a href="/Item/23569.aspx" target="_blank" title="标题：浙江省教师教育规划课题结题和申报通知&#xD;点击数：121&#xD;发表时间：2026年09月01日">浙江省教师教育规划课题结题和申报通知</a></li>
-<li><span class="date">2026-09-01</span><a href="/Item/23577.aspx" target="_blank" title="标题：研究院2026年9月份市直活动安排&#xD;点击数：143&#xD;发表时间：2026年09月01日">研究院2026年9月份市直活动安排</a></li>
-<li><span class="date">2026-09-01</span><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：128&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a></li>
-<li><span class="date">2026-09-01</span><a href="/Item/23573.aspx" target="_blank" title="标题：关于文明办公室检查的通知&#xD;点击数：91&#xD;发表时间：2026年09月01日">关于文明办公室检查的通知</a></li>
-<li><span class="date">2026-09-01</span><a href="/Item/23572.aspx" target="_blank" title="标题：关于2026年度教工体检的通知&#xD;点击数：135&#xD;发表时间：2026年09月01日">关于2026年度教工体检的通知</a></li>
-<li><span class="date">2026-09-01</span><a href="/Item/23571.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：51&#xD;发表时间：2026年09月01日">高一大扫除通知</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23570.aspx" target="_blank" title="标题：协作体校领导巡考安排&#xD;点击数：109&#xD;发表时间：2026年08月31日">协作体校领导巡考安排</a></li>
+  <li><span class="date">2026-09-02</span><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：27&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23587.aspx" target="_blank" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：36&#xD;发表时间：2026年09月02日">关于开展美丽教室评比活动的通知</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23586.aspx" target="_blank" title="标题：2025学年奖学金获得者名单&#xD;点击数：94&#xD;发表时间：2026年09月02日">2025学年奖学金获得者名单</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/14001.aspx" target="_blank" title="标题：综合实践与心理组&#xD;点击数：1298&#xD;发表时间：2026年09月02日">综合实践与心理组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13981.aspx" target="_blank" title="标题：语文教研组&#xD;点击数：3327&#xD;发表时间：2026年09月02日">语文教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13997.aspx" target="_blank" title="标题：历史教研组&#xD;点击数：2171&#xD;发表时间：2026年09月02日">历史教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13986.aspx" target="_blank" title="标题：英语教研组&#xD;点击数：3351&#xD;发表时间：2026年09月02日">英语教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13994.aspx" target="_blank" title="标题：化学教研组&#xD;点击数：2766&#xD;发表时间：2026年09月02日">化学教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/14000.aspx" target="_blank" title="标题：体艺教研组&#xD;点击数：3436&#xD;发表时间：2026年09月02日">体艺教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13996.aspx" target="_blank" title="标题：政治教研组&#xD;点击数：2880&#xD;发表时间：2026年09月02日">政治教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13985.aspx" target="_blank" title="标题：数学教研组&#xD;点击数：3910&#xD;发表时间：2026年09月02日">数学教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13998.aspx" target="_blank" title="标题：地理教研组&#xD;点击数：2480&#xD;发表时间：2026年09月02日">地理教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23585.aspx" target="_blank" title="标题：新学期开学典礼通知&#xD;点击数：209&#xD;发表时间：2026年09月02日">新学期开学典礼通知</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23583.aspx" target="_blank" title="标题：关于组织参加第六届应急管理新媒体作品征集展播活动的通知&#xD;点击数：88&#xD;发表时间：2026年09月02日">关于组织参加第六届应急管理新媒体作品征集展播活动的通知</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13993.aspx" target="_blank" title="标题：物理教研组&#xD;点击数：3145&#xD;发表时间：2026年09月02日">物理教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/13999.aspx" target="_blank" title="标题：技术教研组&#xD;点击数：2366&#xD;发表时间：2026年09月02日">技术教研组</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：313&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：192&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23580.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定&#xD;点击数：177&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定</a></li>
+<li><span class="date">2026-09-02</span><a href="/Item/23579.aspx" target="_blank" title="标题：绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法&#xD;点击数：144&#xD;发表时间：2026年09月02日">绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法</a></li>
+<li><span class="date">2026-09-01</span><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：59&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a></li>
+<li><span class="date">2026-09-01</span><a href="/Item/23569.aspx" target="_blank" title="标题：浙江省教师教育规划课题结题和申报通知&#xD;点击数：123&#xD;发表时间：2026年09月01日">浙江省教师教育规划课题结题和申报通知</a></li>
+<li><span class="date">2026-09-01</span><a href="/Item/23577.aspx" target="_blank" title="标题：研究院2026年9月份市直活动安排&#xD;点击数：150&#xD;发表时间：2026年09月01日">研究院2026年9月份市直活动安排</a></li>
+<li><span class="date">2026-09-01</span><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：135&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a></li>
+<li><span class="date">2026-09-01</span><a href="/Item/23573.aspx" target="_blank" title="标题：关于文明办公室检查的通知&#xD;点击数：93&#xD;发表时间：2026年09月01日">关于文明办公室检查的通知</a></li>
+<li><span class="date">2026-09-01</span><a href="/Item/23572.aspx" target="_blank" title="标题：关于2026年度教工体检的通知&#xD;点击数：138&#xD;发表时间：2026年09月01日">关于2026年度教工体检的通知</a></li>
+<li><span class="date">2026-09-01</span><a href="/Item/23571.aspx" target="_blank" title="标题：高一大扫除通知&#xD;点击数：52&#xD;发表时间：2026年09月01日">高一大扫除通知</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23570.aspx" target="_blank" title="标题：协作体校领导巡考安排&#xD;点击数：111&#xD;发表时间：2026年08月31日">协作体校领导巡考安排</a></li>
 <li><span class="date">2026-08-31</span><a href="/Item/23568.aspx" target="_blank" title="标题：每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩观学习教育成果&#xD;点击数：1&#xD;发表时间：2026年08月31日">每周一学（2026年8月31日-9月6日）巩固拓展树立和践行正确政绩观学习教育成果</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：11&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：313&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23566.aspx" target="_blank" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：114&#xD;发表时间：2026年08月31日">高二晚自修（8.30-9.4）</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：103&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23564.aspx" target="_blank" title="标题：高三09.01协作体监考安排和学生考场安排&#xD;点击数：263&#xD;发表时间：2026年08月31日">高三09.01协作体监考安排和学生考场安排</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：99&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a></li>
-<li><span class="date">2026-08-31</span><a href="/Item/23561.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：56&#xD;发表时间：2026年08月31日">高二、高三大扫除通知</a></li>
-<li><span class="date">2026-08-29</span><a href="/Item/23560.aspx" target="_blank" title="标题：高一晚自修（8.31-9.4）&#xD;点击数：72&#xD;发表时间：2026年08月29日">高一晚自修（8.31-9.4）</a></li>
-<li><span class="date">2026-08-29</span><a href="/Item/23559.aspx" target="_blank" title="标题：绍兴一中教育集团2026级新生军训各项先进表彰&#xD;点击数：104&#xD;发表时间：2026年08月29日">绍兴一中教育集团2026级新生军训各项先进表彰</a></li>
-<li><span class="date">2026-08-28</span><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：16&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a></li>
-<li><span class="date">2026-08-26</span><a href="/Item/23553.aspx" target="_blank" title="标题：关于绍兴龙山书院学生奖学金获奖公示&#xD;点击数：205&#xD;发表时间：2026年08月26日">关于绍兴龙山书院学生奖学金获奖公示</a></li>
-<li><span class="date">2026-08-26</span><a href="/Item/23557.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排&#xD;点击数：133&#xD;发表时间：2026年08月26日">“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排</a></li>
-<li><span class="date">2026-08-26</span><a href="/Item/23556.aspx" target="_blank" title="标题：主持人选拔通知&#xD;点击数：67&#xD;发表时间：2026年08月26日">主持人选拔通知</a></li>
-<li><span class="date">2026-08-25</span><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：38&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会</a></li>
-<li><span class="date">2026-08-25</span><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：304&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知</a></li>
-<li><span class="date">2026-08-25</span><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：229&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：13&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：322&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23566.aspx" target="_blank" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：120&#xD;发表时间：2026年08月31日">高二晚自修（8.30-9.4）</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23564.aspx" target="_blank" title="标题：高三09.01协作体监考安排和学生考场安排&#xD;点击数：268&#xD;发表时间：2026年08月31日">高三09.01协作体监考安排和学生考场安排</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：100&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a></li>
+<li><span class="date">2026-08-31</span><a href="/Item/23561.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：57&#xD;发表时间：2026年08月31日">高二、高三大扫除通知</a></li>
+<li><span class="date">2026-08-29</span><a href="/Item/23560.aspx" target="_blank" title="标题：高一晚自修（8.31-9.4）&#xD;点击数：77&#xD;发表时间：2026年08月29日">高一晚自修（8.31-9.4）</a></li>
+<li><span class="date">2026-08-29</span><a href="/Item/23559.aspx" target="_blank" title="标题：绍兴一中教育集团2026级新生军训各项先进表彰&#xD;点击数：105&#xD;发表时间：2026年08月29日">绍兴一中教育集团2026级新生军训各项先进表彰</a></li>
+<li><span class="date">2026-08-28</span><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：17&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a></li>
+<li><span class="date">2026-08-26</span><a href="/Item/23553.aspx" target="_blank" title="标题：关于绍兴龙山书院学生奖学金获奖公示&#xD;点击数：206&#xD;发表时间：2026年08月26日">关于绍兴龙山书院学生奖学金获奖公示</a></li>
+<li><span class="date">2026-08-26</span><a href="/Item/23557.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排&#xD;点击数：134&#xD;发表时间：2026年08月26日">“赓续长征精神·唱响新征程”纪念红军长征胜利90周年红歌比赛方案及工作安排</a></li>
+<li><span class="date">2026-08-26</span><a href="/Item/23556.aspx" target="_blank" title="标题：主持人选拔通知&#xD;点击数：70&#xD;发表时间：2026年08月26日">主持人选拔通知</a></li>
+<li><span class="date">2026-08-25</span><a href="/Item/23554.aspx" target="_blank" title="标题：集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会&#xD;点击数：39&#xD;发表时间：2026年08月25日">集智聚力谋竞赛 深耕笃行启新程  ——绍兴一中教育集团召开五大学科竞赛工作研讨会</a></li>
+<li><span class="date">2026-08-25</span><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：306&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知</a></li>
+<li><span class="date">2026-08-25</span><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：232&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：146&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23549.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：78&#xD;发表时间：2026年08月24日">高二、高三大扫除通知</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23548.aspx" target="_blank" title="标题：全校党员名单（2026年8月更新）&#xD;点击数：30&#xD;发表时间：2026年08月24日">全校党员名单（2026年8月更新）</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23547.aspx" target="_blank" title="标题：锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！&#xD;点击数：32&#xD;发表时间：2026年08月24日">锚定新赛道，打造新高地——聚焦拔尖创新人才培养，绍兴一中教育集团创新学部正式启航！</a></li>
 <li><span class="date">2026-08-24</span><a href="/Item/23546.aspx" target="_blank" title="标题：每周一学（2026年8月24日-8月30日）习近平在纪念江泽民同志诞辰100周年大会上的讲话&#xD;点击数：2&#xD;发表时间：2026年08月24日">每周一学（2026年8月24日-8月30日）习近平在纪念江泽民同志诞辰100周年大会上的讲话</a></li>
-<li><span class="date">2026-08-23</span><a href="/Item/23545.aspx" target="_blank" title="标题：通知两则&#xD;点击数：221&#xD;发表时间：2026年08月23日">通知两则</a></li>
-<li><span class="date">2026-08-23</span><a href="/Item/23544.aspx" target="_blank" title="标题：“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛&#xD;点击数：133&#xD;发表时间：2026年08月23日">“赓续长征精神·唱响新征程”绍兴一中纪念红军长征胜利90周年红歌比赛</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
