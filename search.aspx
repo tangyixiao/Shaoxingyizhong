@@ -350,8 +350,8 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-09-03</span><a href="/Item/23594.aspx" target="_blank" title="标题：关于开学仪容仪表检查的通知&#xD;点击数：8&#xD;发表时间：2026年09月03日">关于开学仪容仪表检查的通知</a></li>
-<li><span class="date">2026-09-03</span><a href="/Item/23593.aspx" target="_blank" title="标题：校乒乓球队会议通知&#xD;点击数：8&#xD;发表时间：2026年09月03日">校乒乓球队会议通知</a></li>
+  <li><span class="date">2026-09-03</span><a href="/Item/23594.aspx" target="_blank" title="标题：关于开学仪容仪表检查的通知&#xD;点击数：9&#xD;发表时间：2026年09月03日">关于开学仪容仪表检查的通知</a></li>
+<li><span class="date">2026-09-03</span><a href="/Item/23593.aspx" target="_blank" title="标题：校乒乓球队会议通知&#xD;点击数：9&#xD;发表时间：2026年09月03日">校乒乓球队会议通知</a></li>
 <li><span class="date">2026-09-03</span><a href="/Item/23592.aspx" target="_blank" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：36&#xD;发表时间：2026年09月03日">寻物启事两则（笔袋/课本）</a></li>
 <li><span class="date">2026-09-03</span><a href="/Item/23591.aspx" target="_blank" title="标题：训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行&#xD;点击数：33&#xD;发表时间：2026年09月03日">训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行</a></li>
 <li><span class="date">2026-09-03</span><a href="/Item/23590.aspx" target="_blank" title="标题：赓续长征精神，唱响新征程——绍兴一中教育集团2026级新生军训合唱比赛圆满举行&#xD;点击数：9&#xD;发表时间：2026年09月03日">赓续长征精神，唱响新征程——绍兴一中教育集团2026级新生军训合唱比赛圆满举行</a></li>

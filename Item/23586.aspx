@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23586.aspx" target="_blank" title="标题：2025学年奖学金获得者名单&#xD;点击数：118&#xD;发表时间：2026年09月02日">2025学年奖学金获得者名单</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9444&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23593.aspx" target="_blank" title="标题：校乒乓球队会议通知&#xD;点击数：8&#xD;发表时间：2026年09月03日">校乒乓球队会议通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：100&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li class="last"><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：232&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a><span class="dateRight">[08-25]</span></li>
+            <li class="first"><a href="/Item/23586.aspx" target="_blank" title="标题：2025学年奖学金获得者名单&#xD;点击数：118&#xD;发表时间：2026年09月02日">2025学年奖学金获得者名单</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9444&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23593.aspx" target="_blank" title="标题：校乒乓球队会议通知&#xD;点击数：9&#xD;发表时间：2026年09月03日">校乒乓球队会议通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23562.aspx" target="_blank" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：100&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li class="last"><a href="/Item/23551.aspx" target="_blank" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：232&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a><span class="dateRight">[08-25]</span></li>
           
                     </ul>
                 </div>
@@ -443,7 +443,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23570.aspx" target="_self" title="标题：协作体校领导巡考安排&#xD;点击数：111&#xD;发表时间：26年08月31日">协作体校领导巡考安排</a>[ 08-31 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23593.aspx" target="_self" title="标题：校乒乓球队会议通知&#xD;点击数：8&#xD;发表时间：26年09月03日">校乒乓球队会议通知</a>[ 09-03 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23593.aspx" target="_self" title="标题：校乒乓球队会议通知&#xD;点击数：9&#xD;发表时间：26年09月03日">校乒乓球队会议通知</a>[ 09-03 ]</div>
                         </div>
                     </div>
 
