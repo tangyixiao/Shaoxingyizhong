@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23589.aspx" target="_blank" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：56&#xD;发表时间：2026年09月03日">关于25级、26级国旗队队员开会通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23587.aspx" target="_blank" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：82&#xD;发表时间：2026年09月02日">关于开展美丽教室评比活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：321&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23592.aspx" target="_blank" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：36&#xD;发表时间：2026年09月03日">寻物启事两则（笔袋/课本）</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：59&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23594.aspx" target="_blank" title="标题：关于开学仪容仪表检查的通知&#xD;点击数：9&#xD;发表时间：2026年09月03日">关于开学仪容仪表检查的通知</a><span class="dateRight">[09-03]</span></li><li class="last"><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li>
+            <li class="first"><a href="/Item/23589.aspx" target="_blank" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：56&#xD;发表时间：2026年09月03日">关于25级、26级国旗队队员开会通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23587.aspx" target="_blank" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：84&#xD;发表时间：2026年09月02日">关于开展美丽教室评比活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23592.aspx" target="_blank" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：38&#xD;发表时间：2026年09月03日">寻物启事两则（笔袋/课本）</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23582.aspx" target="_blank" title="标题：绍兴一中教育集团2026学年第一学期开学典礼工作方案&#xD;点击数：321&#xD;发表时间：2026年09月02日">绍兴一中教育集团2026学年第一学期开学典礼工作方案</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23578.aspx" target="_blank" title="标题：关于新学期心理健康教育中心开放的通知&#xD;点击数：59&#xD;发表时间：2026年09月01日">关于新学期心理健康教育中心开放的通知</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23594.aspx" target="_blank" title="标题：关于开学仪容仪表检查的通知&#xD;点击数：15&#xD;发表时间：2026年09月03日">关于开学仪容仪表检查的通知</a><span class="dateRight">[09-03]</span></li><li class="last"><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23592.aspx" target="_self" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：36&#xD;发表时间：26年09月03日">寻物启事两则（笔袋/课本）</a>[ 09-03 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23592.aspx" target="_self" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：38&#xD;发表时间：26年09月03日">寻物启事两则（笔袋/课本）</a>[ 09-03 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
