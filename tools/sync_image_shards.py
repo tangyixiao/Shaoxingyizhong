@@ -62,31 +62,66 @@ def sha256_file(path: Path) -> str:
     return digest.hexdigest()
 
 
+def _image_backend() -> str | None:
+    if shutil.which("vips"):
+        return "vips"
+    if shutil.which("magick"):
+        return "magick"
+    return None
+
+
 def webp_command(source: Path, target: Path, quality: int) -> list[str]:
-    return [
-        "vips",
-        "webpsave",
-        str(source),
-        str(target),
-        "--Q",
-        str(quality),
-        "--strip",
-    ]
+    backend = _image_backend()
+    if backend == "vips":
+        return [
+            "vips",
+            "webpsave",
+            str(source),
+            str(target),
+            "--Q",
+            str(quality),
+            "--strip",
+        ]
+    if backend == "magick":
+        return [
+            "magick",
+            str(source),
+            "-strip",
+            "-quality",
+            str(quality),
+            str(target),
+        ]
+    raise RuntimeError("libvips or ImageMagick is required for image transforms")
 
 
 def thumbnail_command(source: Path, target: Path) -> list[str]:
-    return [
-        "vips",
-        "thumbnail",
-        str(source),
-        str(target),
-        "600",
-        "--height",
-        "340",
-        "--crop",
-        "centre",
-        "--linear",
-    ]
+    backend = _image_backend()
+    if backend == "vips":
+        return [
+            "vips",
+            "thumbnail",
+            str(source),
+            str(target),
+            "600",
+            "--height",
+            "340",
+            "--crop",
+            "centre",
+            "--linear",
+        ]
+    if backend == "magick":
+        return [
+            "magick",
+            str(source),
+            "-resize",
+            "600x340^",
+            "-gravity",
+            "center",
+            "-extent",
+            "600x340",
+            str(target),
+        ]
+    raise RuntimeError("libvips or ImageMagick is required for image transforms")
 
 
 def build_inventory(
@@ -109,8 +144,8 @@ def build_inventory(
         if routed.transform:
             if routed.transform.get("format") != "webp":
                 raise ValueError(f"unsupported transform for {source_path}")
-            if shutil.which("vips") is None:
-                raise RuntimeError("vips is required for WebP transforms")
+            if _image_backend() is None:
+                raise RuntimeError("libvips or ImageMagick is required for WebP transforms")
             transform = json.dumps(
                 routed.transform, ensure_ascii=False, sort_keys=True, separators=(",", ":")
             )
@@ -153,8 +188,8 @@ def materialize_missing_thumbnails(
     already archived in a shard, create the same public path locally before
     inventory scanning so the thumbnail is published alongside it.
     """
-    if shutil.which("vips") is None:
-        raise RuntimeError("libvips is required for missing thumbnails")
+    if _image_backend() is None:
+        raise RuntimeError("libvips or ImageMagick is required for missing thumbnails")
     candidates: set[str] = set()
     for page in sorted(source_root.rglob("*")):
         if not page.is_file() or page.suffix.lower() not in TEXT_SUFFIXES:

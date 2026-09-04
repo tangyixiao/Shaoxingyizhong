@@ -85,13 +85,30 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertIn("600x340", header)
 
     def test_thumbnail_command_uses_bounded_vips_thumbnail(self):
-        self.assertEqual(
-            thumbnail_command(Path("source.jpg"), Path("target.jpg")),
-            [
-                "vips", "thumbnail", "source.jpg", "target.jpg", "600",
-                "--height", "340", "--crop", "centre", "--linear",
-            ],
-        )
+        with mock.patch(
+            "tools.sync_image_shards.shutil.which",
+            side_effect=lambda name: "/usr/bin/vips" if name == "vips" else None,
+        ):
+            self.assertEqual(
+                thumbnail_command(Path("source.jpg"), Path("target.jpg")),
+                [
+                    "vips", "thumbnail", "source.jpg", "target.jpg", "600",
+                    "--height", "340", "--crop", "centre", "--linear",
+                ],
+            )
+
+    def test_thumbnail_command_falls_back_to_imagemagick(self):
+        with mock.patch(
+            "tools.sync_image_shards.shutil.which",
+            side_effect=lambda name: "/usr/bin/magick" if name == "magick" else None,
+        ):
+            self.assertEqual(
+                thumbnail_command(Path("source.jpg"), Path("target.jpg")),
+                [
+                    "magick", "source.jpg", "-resize", "600x340^", "-gravity",
+                    "center", "-extent", "600x340", "target.jpg",
+                ],
+            )
 
     def test_untransformed_image_is_hashed_only_once(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -132,18 +149,22 @@ class ImageShardSyncTests(unittest.TestCase):
             validate_repository_sizes(entries, 10)
 
     def test_webp_command_preserves_dimensions_and_uses_quality_90(self):
-        self.assertEqual(
-            webp_command(Path("source.png"), Path("target.webp"), quality=90),
-            [
-                "vips",
-                "webpsave",
-                "source.png",
-                "target.webp",
-                "--Q",
-                "90",
-                "--strip",
-            ],
-        )
+        with mock.patch(
+            "tools.sync_image_shards.shutil.which",
+            side_effect=lambda name: "/usr/bin/vips" if name == "vips" else None,
+        ):
+            self.assertEqual(
+                webp_command(Path("source.png"), Path("target.webp"), quality=90),
+                [
+                    "vips",
+                    "webpsave",
+                    "source.png",
+                    "target.webp",
+                    "--Q",
+                    "90",
+                    "--strip",
+                ],
+            )
 
     def test_sync_is_resumable_and_preserves_images_omitted_by_incremental_source(self):
         with tempfile.TemporaryDirectory() as tmp:
