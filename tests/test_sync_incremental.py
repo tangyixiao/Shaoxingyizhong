@@ -276,6 +276,74 @@ class IncrementalSyncTests(unittest.TestCase):
                     "fresh homepage",
                 )
 
+    def test_publish_crawl_syncs_root_when_visited_url_is_only_site_root(self):
+        """The root URL must publish even when the crawler saves it as Default.aspx."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            source.mkdir()
+            repo.mkdir()
+            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
+            for relative in (
+                "Default.aspx",
+                "default.aspx",
+                "index.html",
+                "Default.html",
+                "default.html",
+            ):
+                (repo / relative).write_text("old homepage", encoding="utf-8")
+
+            changed = sync_crawl_paths(source, repo, ["http://example.test/"])
+
+            self.assertEqual(
+                changed,
+                [
+                    "Default.aspx",
+                    "default.aspx",
+                    "index.html",
+                    "Default.html",
+                    "default.html",
+                ],
+            )
+            for relative in (
+                "Default.aspx",
+                "default.aspx",
+                "index.html",
+                "Default.html",
+                "default.html",
+            ):
+                self.assertEqual(
+                    (repo / relative).read_text(encoding="utf-8"),
+                    "fresh homepage",
+                )
+
+    def test_publish_crawl_refreshes_stale_root_html_aliases_when_aspx_is_current(self):
+        """HTML aliases must catch up even if ASPX was copied before this publish."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            source.mkdir()
+            repo.mkdir()
+            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
+            for relative in ("Default.aspx", "default.aspx"):
+                (repo / relative).write_text("fresh homepage", encoding="utf-8")
+            for relative in ("index.html", "Default.html", "default.html"):
+                (repo / relative).write_text("stale homepage", encoding="utf-8")
+
+            changed = sync_crawl_paths(source, repo, ["http://example.test/"])
+
+            self.assertEqual(
+                changed,
+                ["index.html", "Default.html", "default.html"],
+            )
+            for relative in ("index.html", "Default.html", "default.html"):
+                self.assertEqual(
+                    (repo / relative).read_text(encoding="utf-8"),
+                    "fresh homepage",
+                )
+
     def test_publish_crawl_refreshes_html_alias_for_changed_aspx_page(self):
         """A changed ASPX page must not leave its checked-in HTML alias stale."""
         with tempfile.TemporaryDirectory() as tmp:

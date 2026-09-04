@@ -1,6 +1,7 @@
 import contextlib
 import io
 import json
+import shutil
 import subprocess
 import tempfile
 import unittest
@@ -15,11 +16,13 @@ from tools.sync_image_shards import (
     build_inventory,
     configure_repository,
     main,
+    materialize_missing_thumbnails,
     push_repository,
     sync_repository,
     validate_casefold_paths,
     validate_repository_sizes,
     verify_repository,
+    thumbnail_command,
     webp_command,
     _remote_smoke_test,
 )
@@ -49,6 +52,46 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertEqual(entries[0].source_path, "UploadFiles/xwzx/2026/7/a.JPG")
             self.assertEqual(entries[0].repository, "Shaoxingyizhong-img-xwzx-2026-h2")
             self.assertEqual(entries[0].sha256, "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d")
+
+    @unittest.skipUnless(shutil.which("vips"), "libvips is required")
+    def test_materializes_missing_thumbnail_from_existing_shard_original(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            temp = Path(tmp)
+            source = temp / "source"
+            workspace = temp / "workspace"
+            page = source / "Category_1" / "Index.aspx"
+            page.parent.mkdir(parents=True)
+            page.write_text(
+                '<img src="/UploadFiles/xwzx/2026/7/a_600_340.jpg">',
+                encoding="utf-8",
+            )
+            original = (
+                workspace
+                / "Shaoxingyizhong-img-xwzx-2026-h2"
+                / "UploadFiles/xwzx/2026/7/a.jpg"
+            )
+            original.parent.mkdir(parents=True)
+            subprocess.run(
+                ["vips", "black", str(original), "20", "10"],
+                check=True,
+            )
+
+            created = materialize_missing_thumbnails(source, self.routes, workspace)
+
+            thumbnail = source / "UploadFiles/xwzx/2026/7/a_600_340.jpg"
+            self.assertEqual(created, 1)
+            self.assertTrue(thumbnail.is_file())
+            header = subprocess.check_output(["vipsheader", str(thumbnail)], text=True)
+            self.assertIn("600x340", header)
+
+    def test_thumbnail_command_uses_bounded_vips_thumbnail(self):
+        self.assertEqual(
+            thumbnail_command(Path("source.jpg"), Path("target.jpg")),
+            [
+                "vips", "thumbnail", "source.jpg", "target.jpg", "600",
+                "--height", "340", "--crop", "centre", "--linear",
+            ],
+        )
 
     def test_untransformed_image_is_hashed_only_once(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -102,7 +145,7 @@ class ImageShardSyncTests(unittest.TestCase):
             ],
         )
 
-    def test_sync_is_resumable_and_records_deletions_without_removing_images(self):
+    def test_sync_is_resumable_and_preserves_images_omitted_by_incremental_source(self):
         with tempfile.TemporaryDirectory() as tmp:
             temp = Path(tmp)
             source = temp / "source"
@@ -125,9 +168,9 @@ class ImageShardSyncTests(unittest.TestCase):
 
             image.unlink()
             result = sync_repository([], repo, max_commit_bytes=100, push=False)
-            self.assertEqual(result["deleted_paths"], 1)
+            self.assertEqual(result["deleted_paths"], 0)
             self.assertTrue((repo / entries[0].target_path).exists())
-            self.assertIn(entries[0].target_path, (repo / "deletions.tsv").read_text())
+            self.assertNotIn(entries[0].target_path, (repo / "deletions.tsv").read_text())
 
     def test_sync_migrates_case_only_extension_without_duplicate_manifest_row(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -283,6 +326,29 @@ class ImageShardSyncTests(unittest.TestCase):
             push_repository(Path("repo"), attempts=2, retry_delay=0)
 
         self.assertEqual(git.call_count, 2)
+
+    def test_push_fast_forwards_when_remote_has_new_commit(self):
+        rejected = subprocess.CompletedProcess(
+            ["git", "push"], 1, "", "Updates were rejected: fetch first"
+        )
+        fetched = subprocess.CompletedProcess(["git", "fetch"], 0, "", "")
+        merged = subprocess.CompletedProcess(["git", "merge"], 0, "", "")
+        succeeded = subprocess.CompletedProcess(["git", "push"], 0, "", "")
+        with mock.patch(
+            "tools.sync_image_shards._git",
+            side_effect=[rejected, fetched, merged, succeeded],
+        ) as git:
+            push_repository(Path("repo"), attempts=3, retry_delay=0)
+
+        self.assertEqual(
+            [call.args[1:] for call in git.call_args_list],
+            [
+                ("push", "origin", "main"),
+                ("fetch", "origin", "main"),
+                ("merge", "--ff-only", "origin/main"),
+                ("push", "origin", "main"),
+            ],
+        )
 
     def test_push_retries_when_external_workspace_temporarily_disappears(self):
         succeeded = subprocess.CompletedProcess(["git", "push"], 0, "", "")

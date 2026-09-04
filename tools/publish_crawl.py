@@ -223,6 +223,14 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
             root_aliases,
             key=lambda path: (path.stat().st_mtime_ns, path.name == "Default.aspx"),
         )
+    if root_source is not None and not any(
+        path.samefile(root_source) for path in candidates
+    ):
+        # A root visit is normalized to ``default.aspx``.  On a case-sensitive
+        # checkout the crawler may nevertheless have saved the response as
+        # ``Default.aspx`` (the intranet filesystem is case-insensitive), so
+        # include the real case variant before publishing aliases.
+        candidates.insert(0, root_source)
     root_synced = False
     for source in candidates:
         relative = source.relative_to(source_root)
@@ -258,7 +266,16 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
         elif content is None and copy_if_changed(source, destination):
             changed.append(relative.as_posix())
     changed.extend(sync_attachment_downloads(source_root, repo_root))
-    changed.extend(sync_html_aliases(repo_root, changed))
+    # Also validate aliases for visited ASPX pages that were already copied by
+    # an earlier step.  Otherwise a fresh ASPX source can coexist with a stale
+    # checked-in HTML alias indefinitely.
+    visited_aspx = [
+        path.relative_to(source_root).as_posix()
+        for path in candidates
+        if is_publishable(path.relative_to(source_root))
+        and path.suffix.lower() == ".aspx"
+    ]
+    changed.extend(sync_html_aliases(repo_root, changed + visited_aspx))
     return changed
 
 

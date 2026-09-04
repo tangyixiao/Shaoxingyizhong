@@ -4,8 +4,8 @@
 
 1. `a.py` 检查首页、分类页等枝干节点，并根据 `Item/数字.aspx` 的编号水位线只抓取新叶子节点。默认以 GitHub 仓库中最大的 Item 编号为基准，再回溯 20 个编号，避免少量临近旧页面漏更新。每个文件先计算 SHA-256，内容没有变化就保留原文件，变化时才原子替换。
 2. `tools/sync_image_shards.py` 把 `UploadFiles` 下的图片按分片仓库同步并校验。
-3. `tools/publish_crawl.py` 比较爬虫目录和仓库目录，复制内容变化的页面、脚本和非图片附件；非图片附件会从 `UploadFiles` 镜像到主仓库的 `downloads/`，然后自动 commit 和 push。原始 `UploadFiles`、图片、爬虫状态和日志不会进入主仓库。
-4. push 后，GitHub Pages Action 自动把 `.aspx` 页面转换为 `.html` 并部署。
+3. `tools/publish_crawl.py` 比较爬虫目录和仓库目录，复制内容变化的页面、脚本和非图片附件；非图片附件会从 `UploadFiles` 镜像到主仓库的 `downloads/`。每个发生变化的 `.aspx` 页面会同时刷新对应的已提交 `.html` 别名（根首页同步 `index.html`、`Default.html`、`default.html`），然后自动 commit 和 push。原始 `UploadFiles`、图片、爬虫状态和日志不会进入主仓库。
+4. push 后，GitHub Pages Action 仍会把完整 `.aspx` 页面树转换为部署用的 `.html`；仓库内的页面 HTML 与发布源同步，避免只更新 `.aspx` 而留下旧页面。
 
 ## 一键更新
 
@@ -39,7 +39,7 @@ python3 tools/update_from_intranet.py --base-url http://10.176.17.2/
 ## 重要行为
 
 - 正常运行不使用 `--resume`，每次都会重新检查页面；这保证旧页面发生变化时也能被发现。
-- 文件内容不变不会产生 Git 修改；新增或内容变化的 `.aspx`、CSS、JS、HTML 等文件才会被提交。
+- 文件内容不变不会产生 Git 修改；新增或内容变化的 `.aspx`、对应 HTML 别名、CSS、JS 等文件才会被提交。HTML 别名只渲染本轮变化的页面，不会每次重建整个仓库。
 - 删除不会自动删除仓库中的历史文件，避免内网站点短暂异常造成误删；如确认需要删除，再手工删除并提交。
 - 运行前需要本机已经完成 GitHub 登录，且仓库工作副本没有未提交的人工修改。
 - 运行日志写在 `/home/tangyixiao/Projects/crawl.log`，爬取断点写在 `/home/tangyixiao/Projects/.crawl_state/`。

@@ -7,6 +7,7 @@ import argparse
 import csv
 import hashlib
 import json
+import re
 import shutil
 import subprocess
 import sys
@@ -18,9 +19,9 @@ from typing import Iterable
 from urllib.parse import quote
 
 try:
-    from tools.attachment_routing import RouteConfig
+    from tools.attachment_routing import RouteConfig, _normalize_attachment_path
 except ModuleNotFoundError:  # Support direct execution as tools/sync_image_shards.py.
-    from attachment_routing import RouteConfig
+    from attachment_routing import RouteConfig, _normalize_attachment_path
 
 
 MANIFEST_FIELDS = (
@@ -32,6 +33,13 @@ MANIFEST_FIELDS = (
     "transform",
 )
 MAX_GIT_OBJECT_BYTES = 100 * 1024 * 1024
+TEXT_SUFFIXES = {".aspx", ".html", ".htm", ".css"}
+ATTACHMENT_VALUE_RE = re.compile(
+    r'''(?:href|src|poster|show-img|zoomfile|original|data-[A-Za-z0-9_-]+)\s*=\s*["']([^"']+)["']''',
+    re.IGNORECASE,
+)
+CSS_ATTACHMENT_RE = re.compile(r'''url\(\s*["']?([^\)"']+)["']?\s*\)''', re.IGNORECASE)
+THUMBNAIL_SUFFIX_RE = re.compile(r"^(?P<stem>.+)_600_340(?P<suffix>\.[^.]+)$", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -63,6 +71,21 @@ def webp_command(source: Path, target: Path, quality: int) -> list[str]:
         "--Q",
         str(quality),
         "--strip",
+    ]
+
+
+def thumbnail_command(source: Path, target: Path) -> list[str]:
+    return [
+        "vips",
+        "thumbnail",
+        str(source),
+        str(target),
+        "600",
+        "--height",
+        "340",
+        "--crop",
+        "centre",
+        "--linear",
     ]
 
 
@@ -118,6 +141,68 @@ def build_inventory(
             )
         )
     return sorted(entries, key=lambda item: (item.repository, item.target_path))
+
+
+def materialize_missing_thumbnails(
+    source_root: Path, routes: RouteConfig, workspace: Path
+) -> int:
+    """Recreate referenced thumbnails from originals already in a shard.
+
+    Category pages can reference server-generated ``_600_340`` files that the
+    incremental crawler does not download.  If the corresponding original is
+    already archived in a shard, create the same public path locally before
+    inventory scanning so the thumbnail is published alongside it.
+    """
+    if shutil.which("vips") is None:
+        raise RuntimeError("libvips is required for missing thumbnails")
+    candidates: set[str] = set()
+    for page in sorted(source_root.rglob("*")):
+        if not page.is_file() or page.suffix.lower() not in TEXT_SUFFIXES:
+            continue
+        try:
+            text = page.read_bytes().decode("utf-8")
+        except UnicodeDecodeError:
+            continue
+        candidates.update(ATTACHMENT_VALUE_RE.findall(text))
+        candidates.update(CSS_ATTACHMENT_RE.findall(text))
+
+    created = 0
+    for value in sorted(candidates):
+        if "uploadfiles/" not in value.lower():
+            continue
+        try:
+            source_path = _normalize_attachment_path(value)
+        except ValueError:
+            continue
+        if source_path is None:
+            continue
+        filename = Path(source_path).name
+        thumbnail_match = THUMBNAIL_SUFFIX_RE.match(filename)
+        if thumbnail_match is None:
+            continue
+        original_name = thumbnail_match.group("stem") + thumbnail_match.group("suffix")
+        original_source_path = str(Path(source_path).with_name(original_name)).replace("\\", "/")
+        thumbnail_path = source_root / source_path
+        if thumbnail_path.is_file():
+            continue
+
+        original = source_root / original_source_path
+        if not original.is_file():
+            routed = routes.resolve(original_source_path)
+            if routed is None:
+                continue
+            original = workspace / routed.repository / routed.target_path
+        if not original.is_file():
+            continue
+
+        thumbnail_path.parent.mkdir(parents=True, exist_ok=True)
+        temporary = thumbnail_path.with_name(
+            thumbnail_path.stem + ".codex-thumbnail" + thumbnail_path.suffix
+        )
+        subprocess.run(thumbnail_command(original, temporary), check=True, timeout=90)
+        temporary.replace(thumbnail_path)
+        created += 1
+    return created
 
 
 def batch_entries(entries: Iterable[ImageEntry], max_bytes: int) -> list[list[ImageEntry]]:
@@ -238,6 +323,7 @@ def push_repository(repo: Path, attempts: int = 5, retry_delay: int = 10) -> Non
     if attempts <= 0:
         raise ValueError("attempts must be positive")
     last_error = ""
+    reconciled = False
     for attempt in range(1, attempts + 1):
         try:
             result = _git(repo, "push", "origin", "main", check=False)
@@ -247,6 +333,14 @@ def push_repository(repo: Path, attempts: int = 5, retry_delay: int = 10) -> Non
             if result.returncode == 0:
                 return
             last_error = result.stderr.strip() or result.stdout.strip()
+            if (
+                not reconciled
+                and ("fetch first" in last_error or "non-fast-forward" in last_error)
+            ):
+                _git(repo, "fetch", "origin", "main")
+                _git(repo, "merge", "--ff-only", "origin/main")
+                reconciled = True
+                continue
         if attempt < attempts and retry_delay:
             time.sleep(retry_delay * attempt)
     raise RuntimeError(
@@ -379,7 +473,11 @@ def sync_repository(
         or rows[target_path]["sha256"] != entry.sha256
         or rows[target_path]["source_sha256"] != entry.source_sha256
     ]
-    deleted = sorted(set(rows) - set(current) - set(migrations.values()))
+    # The intranet crawler is incremental: an absent file means it was not
+    # downloaded in this run, not that an already-published archive file was
+    # deleted.  Keep all previous manifest rows and blobs unless an explicit
+    # case-only migration is being applied.
+    deleted: list[str] = []
     commits = 0
 
     for index, batch in enumerate(batch_entries(changed, max_commit_bytes), 1):
@@ -664,6 +762,11 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     if args.command in {"plan", "sync"}:
+        materialized_thumbnails = 0
+        if args.command == "sync":
+            materialized_thumbnails = materialize_missing_thumbnails(
+                args.source, routes, args.workspace
+            )
         entries = build_inventory(args.source, routes, args.workspace)
         validate_casefold_paths(entries)
         _validate_git_object_sizes(entries)
