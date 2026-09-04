@@ -163,8 +163,12 @@ def build_site(
 
         root_default = source / "Default.aspx"
         lower_root_default = source / "default.aspx"
+        # The crawler writes the fresh root response as ``Default.aspx`` on
+        # the Windows checkout.  GitHub Pages builds on a case-sensitive
+        # filesystem, where a stale lowercase alias can coexist with it.
+        # Prefer the crawler response so a stale alias cannot become /index.html.
         preferred_root_default = (
-            lower_root_default if lower_root_default.exists() else root_default
+            root_default if root_default.exists() else lower_root_default
         )
         if (
             len(relative.parts) == 1
