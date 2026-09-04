@@ -381,7 +381,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：95&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：154&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li>
+            <li class="first"><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：97&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：155&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li>
           
 		</ul>
 	</div>
@@ -441,7 +441,7 @@ function GetUserInfo1(response){
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23588.aspx" target="_self" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：95&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a></li><li class="last"><span class="date">2026-09-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23576.aspx" target="_self" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：154&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a></li>
+            <li class="first"><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23588.aspx" target="_self" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：97&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a></li><li class="last"><span class="date">2026-09-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23576.aspx" target="_self" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：155&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->

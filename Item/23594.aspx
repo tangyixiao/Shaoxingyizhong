@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23595.aspx" target="_blank" title="标题：关于做好2026年度秋季学期开学阶段学生资助工作的通知&#xD;点击数：93&#xD;发表时间：2026年09月03日">关于做好2026年度秋季学期开学阶段学生资助工作的通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23594.aspx" target="_blank" title="标题：关于开学仪容仪表检查的通知&#xD;点击数：70&#xD;发表时间：2026年09月03日">关于开学仪容仪表检查的通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23587.aspx" target="_blank" title="标题：关于开展美丽教室评比活动的通知&#xD;点击数：103&#xD;发表时间：2026年09月02日">关于开展美丽教室评比活动的通知</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23589.aspx" target="_blank" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：71&#xD;发表时间：2026年09月03日">关于25级、26级国旗队队员开会通知</a><span class="dateRight">[09-03]</span></li><li class="last"><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li>
+            <li class="first"><a href="/Item/23594.aspx" target="_blank" title="标题：关于开学仪容仪表检查的通知&#xD;点击数：70&#xD;发表时间：2026年09月03日">关于开学仪容仪表检查的通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23589.aspx" target="_blank" title="标题：关于25级、26级国旗队队员开会通知&#xD;点击数：71&#xD;发表时间：2026年09月03日">关于25级、26级国旗队队员开会通知</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23592.aspx" target="_self" title="标题：寻物启事两则（笔袋/课本）&#xD;点击数：48&#xD;发表时间：26年09月03日">寻物启事两则（笔袋/课本）</a>[ 09-03 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23595.aspx" target="_self" title="标题：关于做好2026年度秋季学期开学阶段学生资助工作的通知&#xD;点击数：93&#xD;发表时间：26年09月03日">关于做好2026年度秋季学期开学阶段学生资助工作的通知</a>[ 09-03 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23595.aspx" target="_self" title="标题：关于做好2026年度秋季学期开学阶段学生资助工作的通知&#xD;点击数：94&#xD;发表时间：26年09月03日">关于做好2026年度秋季学期开学阶段学生资助工作的通知</a>[ 09-03 ]</div>
                         </div>
                     </div>
 
