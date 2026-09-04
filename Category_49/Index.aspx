@@ -376,7 +376,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17394&#xD;发表时间：2009年11月24日">一中校歌</a><span class="dateRight">[11-24]</span></li>
+            <li class="first"><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17395&#xD;发表时间：2009年11月24日">一中校歌</a><span class="dateRight">[11-24]</span></li>
           
 		</ul>
 	</div>
@@ -434,7 +434,7 @@ function GetUserInfo1(response){
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2009-11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/622.aspx" target="_self" title="标题：一中校歌&#xD;点击数：17394&#xD;发表时间：2009年11月24日">一中校歌</a></li>
+            <li class="first"><span class="date">2009-11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/622.aspx" target="_self" title="标题：一中校歌&#xD;点击数：17395&#xD;发表时间：2009年11月24日">一中校歌</a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->

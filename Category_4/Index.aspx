@@ -375,7 +375,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146629&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：93&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a><span class="dateRight">[03-18]</span></li><li><a href="/Item/10571.aspx" target="_blank" title="标题：绍兴市第一中学“鲁家贤奖学金”奖励办法&#xD;点击数：173&#xD;发表时间：2019年09月18日"><font style=";">绍兴市第一中学“鲁家贤奖学金”奖励办法</font></a><span class="dateRight">[09-18]</span></li><li><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17394&#xD;发表时间：2009年11月24日">一中校歌</a><span class="dateRight">[11-24]</span></li><li><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2578&#xD;发表时间：2024年03月26日">管理团队</a><span class="dateRight">[03-26]</span></li><li><a href="/Item/13531.aspx" target="_blank" title="标题：30年代老校门&#xD;点击数：608&#xD;发表时间：2021年05月31日">30年代老校门</a><span class="dateRight">[05-31]</span></li><li class="last"><a href="/Item/12403.aspx" target="_blank" title="标题：校园风光6&#xD;点击数：194&#xD;发表时间：2017年10月12日">校园风光6</a><span class="dateRight">[10-12]</span></li>
+            <li class="first"><a href="/Item/10571.aspx" target="_blank" title="标题：绍兴市第一中学“鲁家贤奖学金”奖励办法&#xD;点击数：173&#xD;发表时间：2019年09月18日"><font style=";">绍兴市第一中学“鲁家贤奖学金”奖励办法</font></a><span class="dateRight">[09-18]</span></li><li><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146631&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：94&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a><span class="dateRight">[03-18]</span></li><li><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2578&#xD;发表时间：2024年03月26日">管理团队</a><span class="dateRight">[03-26]</span></li><li><a href="/Item/13531.aspx" target="_blank" title="标题：30年代老校门&#xD;点击数：608&#xD;发表时间：2021年05月31日">30年代老校门</a><span class="dateRight">[05-31]</span></li><li><a href="/Item/12403.aspx" target="_blank" title="标题：校园风光6&#xD;点击数：194&#xD;发表时间：2017年10月12日">校园风光6</a><span class="dateRight">[10-12]</span></li><li class="last"><a href="/Item/12402.aspx" target="_blank" title="标题：校园风光5&#xD;点击数：147&#xD;发表时间：2017年10月12日">校园风光5</a><span class="dateRight">[10-12]</span></li>
           
 		</ul>
 	</div>
@@ -480,7 +480,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146629&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
+            <li class="first"><span class="date">09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146631&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
           
                             </ul>
                         </div>
@@ -494,7 +494,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">08-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23541.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：193&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一…</a></li><li><span class="date">03-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：93&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a></li><li><span class="date">09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21914.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学 关于明确校班子成员分工的通知&#xD;点击数：361&#xD;发表时间：2025年09月02日">中共绍兴市第一中学委员会  绍兴市第一中学 关于明确校班…</a></li><li><span class="date">03-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21134.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于明确校班子成员分工的通知&#xD;点击数：391&#xD;发表时间：2025年03月21日">中共绍兴市第一中学委员会  绍兴市第一中学关于明确校班…</a></li><li><span class="date">09-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20319.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于明确校班子成员分工的通知&#xD;点击数：514&#xD;发表时间：2024年09月11日">中共绍兴市第一中学委员会 绍兴市第一中学关于明确校班子…</a></li><li class="last"><span class="date">03-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2578&#xD;发表时间：2024年03月26日">管理团队</a></li>
+            <li class="first"><span class="date">08-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23541.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：195&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一…</a></li><li><span class="date">03-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：94&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a></li><li><span class="date">09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21914.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学 关于明确校班子成员分工的通知&#xD;点击数：361&#xD;发表时间：2025年09月02日">中共绍兴市第一中学委员会  绍兴市第一中学 关于明确校班…</a></li><li><span class="date">03-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21134.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于明确校班子成员分工的通知&#xD;点击数：391&#xD;发表时间：2025年03月21日">中共绍兴市第一中学委员会  绍兴市第一中学关于明确校班…</a></li><li><span class="date">09-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20319.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于明确校班子成员分工的通知&#xD;点击数：514&#xD;发表时间：2024年09月11日">中共绍兴市第一中学委员会 绍兴市第一中学关于明确校班子…</a></li><li class="last"><span class="date">03-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2578&#xD;发表时间：2024年03月26日">管理团队</a></li>
           
                             </ul>
                         </div>
@@ -508,7 +508,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17394&#xD;发表时间：2009年11月24日">一中校歌</a></li>
+            <li class="first"><span class="date">11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17395&#xD;发表时间：2009年11月24日">一中校歌</a></li>
           
                             </ul>
                         </div>
