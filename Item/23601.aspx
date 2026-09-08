@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：70&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23612.aspx" target="_blank" title="标题：全校宣传委员会议通知&#xD;点击数：30&#xD;发表时间：2026年09月08日">全校宣传委员会议通知</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li>
+            <li class="first"><a href="/Item/23612.aspx" target="_blank" title="标题：全校宣传委员会议通知&#xD;点击数：62&#xD;发表时间：2026年09月08日">全校宣传委员会议通知</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：91&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23613.aspx" target="_blank" title="标题：绍兴一中教育集团大课间跑操组织规程、跑操方案及评分细则组织规程&#xD;点击数：46&#xD;发表时间：2026年09月08日">绍兴一中教育集团大课间跑操组织规程、跑操方案及评分细…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23602.aspx" target="_blank" title="标题：关于升旗仪式的进退场、站位及相关要求的通知&#xD;点击数：112&#xD;发表时间：2026年09月07日">关于升旗仪式的进退场、站位及相关要求的通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li>
           
                     </ul>
                 </div>
@@ -442,7 +442,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23595.aspx" target="_self" title="标题：关于做好2026年度秋季学期开学阶段学生资助工作的通知&#xD;点击数：112&#xD;发表时间：26年09月03日">关于做好2026年度秋季学期开学阶段学生资助工作的通知</a>[ 09-03 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23602.aspx" target="_self" title="标题：关于升旗仪式的进退场、站位及相关要求的通知&#xD;点击数：110&#xD;发表时间：26年09月07日">关于升旗仪式的进退场、站位及相关要求的通知</a>[ 09-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23602.aspx" target="_self" title="标题：关于升旗仪式的进退场、站位及相关要求的通知&#xD;点击数：112&#xD;发表时间：26年09月07日">关于升旗仪式的进退场、站位及相关要求的通知</a>[ 09-07 ]</div>
                         </div>
                     </div>
 
