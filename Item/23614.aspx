@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>高三晚自修（9.7-9.23）--高三-绍兴市第一中学</title>
+    <title>越民奖学金获奖公示--教学处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -354,7 +354,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
@@ -366,7 +366,7 @@ function GetUserInfo1(response){
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last on"><a href="/Category_35/Index.aspx">高三</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23599.aspx" target="_blank" title="标题：高三晚自修（9.7-9.23）&#xD;点击数：93&#xD;发表时间：2026年09月04日">高三晚自修（9.7-9.23）</a><span class="dateRight">[09-04]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23499.aspx" target="_blank" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：123&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a><span class="dateRight">[08-12]</span></li><li><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：184&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/21001.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（3.9-3.21）&#xD;点击数：107&#xD;发表时间：2025年03月03日">高三晚自修+答疑管理安排（3.9-3.21）</a><span class="dateRight">[03-03]</span></li><li><a href="/Item/23503.aspx" target="_blank" title="标题：8.14讲座通知&#xD;点击数：168&#xD;发表时间：2026年08月14日">8.14讲座通知</a><span class="dateRight">[08-14]</span></li><li class="last"><a href="/Item/23311.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（6.1--6.9）&#xD;点击数：117&#xD;发表时间：2026年05月29日">高三晚自修+答疑管理安排（6.1--6.9）</a><span class="dateRight">[05-29]</span></li>
+            <li class="first"><a href="/Item/23614.aspx" target="_blank" title="标题：越民奖学金获奖公示&#xD;点击数：99&#xD;发表时间：2026年09月08日">越民奖学金获奖公示</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9485&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23611.aspx" target="_blank" title="标题：高一高二美术生上课通知&#xD;点击数：94&#xD;发表时间：2026年09月08日">高一高二美术生上课通知</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：328&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li class="last"><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_35/Index.aspx" target="_self">高三</a></div>
-                    <h3>高三</h3>
+    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
+                    <h3>教学处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">高三晚自修（9.7-9.23）</h2>
+                        <h2 class="title">越民奖学金获奖公示</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月04日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23599"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月08日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23614"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23599},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23614},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23599";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23614";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,10 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><img src="/UploadFiles/xwzx/2026/9/202609041306433324.png" style="max-width: 100%; " title="202609041306433324.png" /></p>
+     <p style="text-align:center"><span style="font-size:24px;line-height:115%">关于越民奖学金获奖公示</span></p><p style="text-indent:29px">依据绍兴市第一中学越民奖学金实施办法，将对在数学、化学、生物学科竞赛中获国际奥林匹克竞赛和全国中学生竞赛决赛金牌、银牌、铜牌的获得者及指导教师，以及在全国竞赛浙江赛区中获得一等奖的学生进行奖励。</p><p style="text-indent:29px">现将25学年的获奖学生、奖项公示如下：</p><p style="text-indent:29px">获得2026年全国高中生物学联赛（省级赛区）一等奖的学生：金易楠。</p><p style="text-indent:28px">祝贺以上同学！</p><p>
+</p><p>
+</p><p>
+</p><p>                                                                                                                                 教学处</p><p>                                                                                                                             2026年9月</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,7 +439,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23534.aspx" target="_self" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：184&#xD;发表时间：26年08月21日">高三晚自修（8.24-9.6）</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23611.aspx" target="_self" title="标题：高一高二美术生上课通知&#xD;点击数：94&#xD;发表时间：26年09月08日">高一高二美术生上课通知</a>[ 09-08 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

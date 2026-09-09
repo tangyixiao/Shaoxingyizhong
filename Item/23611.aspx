@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23611.aspx" target="_blank" title="标题：高一高二美术生上课通知&#xD;点击数：52&#xD;发表时间：2026年09月08日">高一高二美术生上课通知</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：328&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li class="last"><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9476&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li>
+            <li class="first"><a href="/Item/23614.aspx" target="_blank" title="标题：越民奖学金获奖公示&#xD;点击数：99&#xD;发表时间：2026年09月08日">越民奖学金获奖公示</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9485&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23611.aspx" target="_blank" title="标题：高一高二美术生上课通知&#xD;点击数：94&#xD;发表时间：2026年09月08日">高一高二美术生上课通知</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23563.aspx" target="_blank" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：328&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a><span class="dateRight">[08-31]</span></li><li class="last"><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23593.aspx" target="_self" title="标题：校乒乓球队会议通知&#xD;点击数：67&#xD;发表时间：26年09月03日">校乒乓球队会议通知</a>[ 09-03 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23614.aspx" target="_self" title="标题：越民奖学金获奖公示&#xD;点击数：99&#xD;发表时间：26年09月08日">越民奖学金获奖公示</a>[ 09-08 ]</div>
                         </div>
                     </div>
 

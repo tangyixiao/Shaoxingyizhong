@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>高三晚自修（9.7-9.23）--高三-绍兴市第一中学</title>
+    <title>9.7班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -356,7 +356,7 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -366,7 +366,7 @@ function GetUserInfo1(response){
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last on"><a href="/Category_35/Index.aspx">高三</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23599.aspx" target="_blank" title="标题：高三晚自修（9.7-9.23）&#xD;点击数：93&#xD;发表时间：2026年09月04日">高三晚自修（9.7-9.23）</a><span class="dateRight">[09-04]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23499.aspx" target="_blank" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：123&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a><span class="dateRight">[08-12]</span></li><li><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：184&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/21001.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（3.9-3.21）&#xD;点击数：107&#xD;发表时间：2025年03月03日">高三晚自修+答疑管理安排（3.9-3.21）</a><span class="dateRight">[03-03]</span></li><li><a href="/Item/23503.aspx" target="_blank" title="标题：8.14讲座通知&#xD;点击数：168&#xD;发表时间：2026年08月14日">8.14讲座通知</a><span class="dateRight">[08-14]</span></li><li class="last"><a href="/Item/23311.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（6.1--6.9）&#xD;点击数：117&#xD;发表时间：2026年05月29日">高三晚自修+答疑管理安排（6.1--6.9）</a><span class="dateRight">[05-29]</span></li>
+            <li class="first"><a href="/Item/23604.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：79&#xD;发表时间：2026年09月07日">大扫除通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/18424.aspx" target="_blank" title="标题：绍兴一中教育集团班级日常检查内容及扣分标准&#xD;点击数：2180&#xD;发表时间：2024年09月11日"><font style="font-weight:bold;font-style:normal;;">绍兴一中教育集团班级日常检查内容及扣分标准</font></a><span class="dateRight">[09-11]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li class="last"><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_35/Index.aspx" target="_self">高三</a></div>
-                    <h3>高三</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">高三晚自修（9.7-9.23）</h2>
+                        <h2 class="title">9.7班级一日考核</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月04日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23599"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月08日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23616"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23599},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23616},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23599";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23616";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><img src="/UploadFiles/xwzx/2026/9/202609041306433324.png" style="max-width: 100%; " title="202609041306433324.png" /></p>
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609081622003502.png" style="max-width: 100%; " title="202609081622003502.png" /></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,7 +436,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23534.aspx" target="_self" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：184&#xD;发表时间：26年08月21日">高三晚自修（8.24-9.6）</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23613.aspx" target="_self" title="标题：绍兴一中教育集团大课间跑操组织规程、跑操方案及评分细则组织规程&#xD;点击数：142&#xD;发表时间：26年09月08日">绍兴一中教育集团大课间跑操组织规程、跑操方案及评分细则组织…</a>[ 09-08 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

@@ -403,7 +403,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23312.aspx">如题</a></td>
     <td>JM天堂</td>
-    <td>44</td>
+    <td>45</td>
     <td>2026-05-29</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
