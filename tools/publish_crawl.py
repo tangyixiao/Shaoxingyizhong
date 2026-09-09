@@ -232,6 +232,8 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
         # include the real case variant before publishing aliases.
         candidates.insert(0, root_source)
     root_synced = False
+    root_alias_names = ("Default.aspx", "default.aspx")
+    root_alias_changed = False
     for source in candidates:
         relative = source.relative_to(source_root)
         if not is_publishable(relative):
@@ -240,10 +242,11 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
             if root_synced or not source.samefile(root_source):
                 continue
             root_content = source.read_bytes()
-            for alias_name in ("Default.aspx", "default.aspx"):
+            for alias_name in root_alias_names:
                 destination = repo_root / alias_name
                 if copy_bytes_if_changed(source, destination, root_content):
                     changed.append(alias_name)
+                    root_alias_changed = True
             root_synced = True
             continue
         destination = repo_root / relative
@@ -265,6 +268,15 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
             changed.append(relative.as_posix())
         elif content is None and copy_if_changed(source, destination):
             changed.append(relative.as_posix())
+    if root_alias_changed:
+        first_root_index = min(
+            index for index, path in enumerate(changed) if path in root_alias_names
+        )
+        changed = (
+            changed[:first_root_index]
+            + list(root_alias_names)
+            + [path for path in changed if path not in root_alias_names]
+        )
     changed.extend(sync_attachment_downloads(source_root, repo_root))
     # Also validate aliases for visited ASPX pages that were already copied by
     # an earlier step.  Otherwise a fresh ASPX source can coexist with a stale

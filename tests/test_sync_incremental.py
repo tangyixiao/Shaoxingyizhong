@@ -1,6 +1,7 @@
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
 from tools.build_pages import build_site
@@ -275,6 +276,39 @@ class IncrementalSyncTests(unittest.TestCase):
                     (repo / relative).read_text(encoding="utf-8"),
                     "fresh homepage",
                 )
+
+    def test_publish_records_case_alias_when_first_copy_updates_samefile(self):
+        """A case-insensitive checkout must stage both names of one root file."""
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "crawl"
+            repo = root / "repo"
+            source.mkdir()
+            repo.mkdir()
+            (source / "Default.aspx").write_text("fresh homepage", encoding="utf-8")
+            (repo / "Default.aspx").write_text("old homepage", encoding="utf-8")
+            (repo / "default.aspx").write_text("old homepage", encoding="utf-8")
+
+            with mock.patch(
+                "tools.publish_crawl.copy_bytes_if_changed",
+                side_effect=[True, False],
+            ):
+                changed = sync_crawl_paths(
+                    source,
+                    repo,
+                    ["http://example.test/Default.aspx"],
+                )
+
+            self.assertEqual(
+                changed,
+                [
+                    "Default.aspx",
+                    "default.aspx",
+                    "index.html",
+                    "Default.html",
+                    "default.html",
+                ],
+            )
 
     def test_publish_crawl_syncs_root_when_visited_url_is_only_site_root(self):
         """The root URL must publish even when the crawler saves it as Default.aspx."""

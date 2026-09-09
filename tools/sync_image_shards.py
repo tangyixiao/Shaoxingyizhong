@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import io
 import json
 import re
 import shutil
@@ -288,7 +289,26 @@ def validate_casefold_paths(entries: Iterable[ImageEntry]) -> None:
 def _load_manifest(path: Path) -> dict[str, dict[str, str]]:
     if not path.exists():
         return {}
-    with path.open("r", encoding="utf-8", newline="") as handle:
+
+    # A removable-volume interruption can truncate a checked-out manifest
+    # after Git has already committed the previous complete version.  Recover
+    # that version instead of treating the empty worktree file as a new,
+    # incompatible manifest.
+    if path.stat().st_size == 0:
+        recovered = subprocess.run(
+            ["git", "show", f"HEAD:{path.name}"],
+            cwd=path.parent,
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+        if recovered.returncode == 0 and recovered.stdout:
+            handle = io.StringIO(recovered.stdout)
+        else:
+            return {}
+    else:
+        handle = path.open("r", encoding="utf-8", newline="")
+    with handle:
         reader = csv.DictReader(handle, delimiter="\t")
         if tuple(reader.fieldnames or ()) != MANIFEST_FIELDS:
             raise ValueError(f"invalid manifest header in {path}")
@@ -351,6 +371,72 @@ def configure_repository(repo: Path) -> None:
     }
     for key, value in settings.items():
         _git(repo, "config", key, value)
+
+
+def _git_repository_is_usable(repo: Path) -> bool:
+    """Return whether Git can actually open the local repository metadata."""
+    if not (repo / ".git").is_dir():
+        return False
+    try:
+        result = _git(repo, "rev-parse", "--is-inside-work-tree", check=False)
+    except OSError:
+        return False
+    if result.returncode != 0 or result.stdout.strip() != "true":
+        return False
+    try:
+        index = _git(repo, "ls-files", check=False)
+    except OSError:
+        return False
+    return index.returncode == 0
+
+
+def _repair_local_repository(repo: Path, origin: str) -> None:
+    """Rebuild truncated Git metadata while preserving the local object store."""
+    try:
+        _git(repo, "init", "-b", "main")
+        head_path = repo / ".git" / "HEAD"
+        head_path.write_text("ref: refs/heads/main\n", encoding="utf-8")
+        configure_repository(repo)
+        remote = _git(repo, "remote", "get-url", "origin", check=False)
+        if remote.returncode:
+            _git(repo, "remote", "add", "origin", origin)
+        elif remote.stdout.strip() != origin:
+            _git(repo, "remote", "set-url", "origin", origin)
+
+        local_head = _git(
+            repo, "rev-parse", "--verify", "refs/heads/main", check=False
+        )
+        if local_head.returncode:
+            local_ref = repo / ".git" / "refs" / "heads" / "main"
+            if local_ref.exists():
+                local_ref.unlink()
+            remote_head = _git(
+                repo,
+                "rev-parse",
+                "--verify",
+                "refs/remotes/origin/main",
+                check=False,
+            )
+            if remote_head.returncode:
+                _git(repo, "fetch", "origin", "main")
+                remote_head = _git(repo, "rev-parse", "--verify", "FETCH_HEAD")
+            _git(repo, "update-ref", "refs/heads/main", remote_head.stdout.strip())
+        _git(repo, "symbolic-ref", "HEAD", "refs/heads/main")
+        # Recreate an index truncated by the same removable-volume failure.
+        index_path = repo / ".git" / "index"
+        if index_path.exists():
+            index_path.unlink()
+        _git(repo, "reset", "--mixed", "refs/heads/main")
+    except (OSError, subprocess.CalledProcessError) as error:
+        details = ""
+        if isinstance(error, subprocess.CalledProcessError):
+            details = (error.stderr or error.stdout or "").strip()
+        suffix = f": {details}" if details else ""
+        raise RuntimeError(
+            f"local Git metadata is unusable and could not be repaired: {repo}{suffix}"
+        ) from error
+    if not _git_repository_is_usable(repo):
+        raise RuntimeError(f"local Git repository remains unusable after repair: {repo}")
 
 
 def push_repository(repo: Path, attempts: int = 5, retry_delay: int = 10) -> None:
@@ -618,6 +704,9 @@ def bootstrap_repository(routes: RouteConfig, repository: str, workspace: Path) 
         if is_git_repo or attempt == 4:
             break
         time.sleep(2 * (attempt + 1))
+    expected_origin = f"git@github.com:{full_name}.git"
+    if is_git_repo and not _git_repository_is_usable(repo):
+        _repair_local_repository(repo, expected_origin)
     if is_git_repo:
         origin = _git(repo, "remote", "get-url", "origin").stdout.strip()
         expected_suffixes = (

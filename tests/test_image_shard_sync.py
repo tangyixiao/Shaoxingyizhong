@@ -193,6 +193,31 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertTrue((repo / entries[0].target_path).exists())
             self.assertNotIn(entries[0].target_path, (repo / "deletions.tsv").read_text())
 
+    def test_sync_recovers_empty_manifest_from_git_head(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            temp = Path(tmp)
+            repo = temp / "repo"
+            image = repo / "UploadFiles" / "xwzx" / "2026" / "7" / "a.jpg"
+            self._init_repo(repo)
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"image")
+            manifest = (
+                "source_path\ttarget_path\tsize\tsha256\tsource_sha256\ttransform\n"
+                "UploadFiles/xwzx/2026/7/a.jpg\tUploadFiles/xwzx/2026/7/a.jpg\t5\t"
+                "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d\t"
+                "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d\t\n"
+            )
+            (repo / "manifest.tsv").write_text(manifest, encoding="utf-8")
+            (repo / "deletions.tsv").write_text("target_path\n", encoding="utf-8")
+            self._git(repo, "add", ".")
+            self._git(repo, "commit", "-m", "seed manifest")
+
+            (repo / "manifest.tsv").write_bytes(b"")
+            result = sync_repository([], repo, max_commit_bytes=100, push=False)
+
+            self.assertEqual(result["changed_files"], 0)
+            self.assertEqual((repo / "manifest.tsv").read_text(encoding="utf-8"), manifest)
+
     def test_sync_migrates_case_only_extension_without_duplicate_manifest_row(self):
         with tempfile.TemporaryDirectory() as tmp:
             temp = Path(tmp)
@@ -438,6 +463,92 @@ class ImageShardSyncTests(unittest.TestCase):
                 result = bootstrap_repository(self.routes, name, workspace)
 
             self.assertEqual(result, repo)
+            run.assert_not_called()
+
+    def test_bootstrap_repairs_clone_with_truncated_git_metadata(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            workspace = Path(tmp)
+            name = "Shaoxingyizhong-img-xwzx-2026-h2"
+            repo = workspace / name
+            self._init_repo(repo)
+            self._git(
+                repo,
+                "remote",
+                "add",
+                "origin",
+                f"git@github.com:{self.routes.owner}/{name}.git",
+            )
+            (repo / "README.md").write_text(
+                "# 绍兴一中归档图片\n\n"
+                "本仓库是绍兴一中静态归档站点的公开图片路径分片。\n",
+                encoding="utf-8",
+            )
+            (repo / ".gitattributes").write_text(
+                "*.jpg -text -diff\n*.jpeg -text -diff\n*.png -text -diff\n"
+                "*.bmp -text -diff\n*.gif -text -diff\n*.webp -text -diff\n",
+                encoding="utf-8",
+            )
+            self._git(repo, "add", "README.md", ".gitattributes")
+            self._git(repo, "commit", "-m", "initialize")
+
+            # This matches the removable-volume failure mode: the object store
+            # survives, while Git's small metadata files are truncated.
+            commit = self._git(repo, "rev-parse", "HEAD")
+            (repo / ".git" / "refs" / "heads" / "main").write_text(
+                "", encoding="utf-8"
+            )
+            remote_ref = repo / ".git" / "refs" / "remotes" / "origin" / "main"
+            remote_ref.parent.mkdir(parents=True)
+            remote_ref.write_text(commit + "\n", encoding="utf-8")
+            (repo / ".git" / "HEAD").write_text("", encoding="utf-8")
+            (repo / ".git" / "config").write_text("", encoding="utf-8")
+            (repo / ".git" / "index").write_bytes(b"")
+
+            with mock.patch("tools.sync_image_shards._run") as run:
+                result = bootstrap_repository(self.routes, name, workspace)
+
+            self.assertEqual(result, repo)
+            self.assertEqual(self._git(repo, "rev-parse", "--abbrev-ref", "HEAD"), "main")
+            self.assertEqual(
+                self._git(repo, "remote", "get-url", "origin"),
+                f"git@github.com:{self.routes.owner}/{name}.git",
+            )
+            self.assertIn("README.md", self._git(repo, "ls-files").splitlines())
+            run.assert_not_called()
+
+    def test_bootstrap_repairs_clone_with_only_truncated_index(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            workspace = Path(tmp)
+            name = "Shaoxingyizhong-img-xwzx-2026-h2"
+            repo = workspace / name
+            self._init_repo(repo)
+            self._git(
+                repo,
+                "remote",
+                "add",
+                "origin",
+                f"git@github.com:{self.routes.owner}/{name}.git",
+            )
+            (repo / "README.md").write_text(
+                "# 绍兴一中归档图片\n\n"
+                "本仓库是绍兴一中静态归档站点的公开图片路径分片。\n",
+                encoding="utf-8",
+            )
+            (repo / ".gitattributes").write_text(
+                "*.jpg -text -diff\n*.jpeg -text -diff\n*.png -text -diff\n"
+                "*.bmp -text -diff\n*.gif -text -diff\n*.webp -text -diff\n",
+                encoding="utf-8",
+            )
+            self._git(repo, "add", "README.md", ".gitattributes")
+            self._git(repo, "commit", "-m", "initialize")
+
+            (repo / ".git" / "index").write_bytes(b"")
+
+            with mock.patch("tools.sync_image_shards._run") as run:
+                result = bootstrap_repository(self.routes, name, workspace)
+
+            self.assertEqual(result, repo)
+            self.assertIn("README.md", self._git(repo, "ls-files").splitlines())
             run.assert_not_called()
 
     @staticmethod
