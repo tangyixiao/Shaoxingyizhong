@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：75&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：81&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23275.aspx" target="_blank" title="标题：社团义卖产品预告&#xD;点击数：358&#xD;发表时间：2026年05月25日">社团义卖产品预告</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23279.aspx" target="_blank" title="标题：高考喊楼志愿者彩排通知&#xD;点击数：243&#xD;发表时间：2026年05月26日">高考喊楼志愿者彩排通知</a><span class="dateRight">[05-26]</span></li><li><a href="/Item/23265.aspx" target="_blank" title="标题：2026上半年新发展团员开会通知&#xD;点击数：150&#xD;发表时间：2026年05月25日">2026上半年新发展团员开会通知</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23255.aspx" target="_blank" title="标题：诗词大赛决赛结果公布&#xD;点击数：151&#xD;发表时间：2026年05月21日">诗词大赛决赛结果公布</a><span class="dateRight">[05-21]</span></li><li class="last"><a href="/Item/23247.aspx" target="_blank" title="标题：周六招生考试志愿者会议&#xD;点击数：207&#xD;发表时间：2026年05月20日">周六招生考试志愿者会议</a><span class="dateRight">[05-20]</span></li>
+            <li class="first"><a href="/Item/23617.aspx" target="_blank" title="标题：高一社团报名通知&#xD;点击数：67&#xD;发表时间：2026年09月09日">高一社团报名通知</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：76&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23275.aspx" target="_blank" title="标题：社团义卖产品预告&#xD;点击数：358&#xD;发表时间：2026年05月25日">社团义卖产品预告</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：83&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：77&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23279.aspx" target="_blank" title="标题：高考喊楼志愿者彩排通知&#xD;点击数：243&#xD;发表时间：2026年05月26日">高考喊楼志愿者彩排通知</a><span class="dateRight">[05-26]</span></li><li class="last"><a href="/Item/23265.aspx" target="_blank" title="标题：2026上半年新发展团员开会通知&#xD;点击数：150&#xD;发表时间：2026年05月25日">2026上半年新发展团员开会通知</a><span class="dateRight">[05-25]</span></li>
           
                     </ul>
                 </div>
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23606.aspx" target="_self" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：70&#xD;发表时间：26年09月07日">招贤令2：团学联干部、干事招聘启事</a>[ 09-07 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23606.aspx" target="_self" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：76&#xD;发表时间：26年09月07日">招贤令2：团学联干部、干事招聘启事</a>[ 09-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23617.aspx" target="_self" title="标题：高一社团报名通知&#xD;点击数：67&#xD;发表时间：26年09月09日">高一社团报名通知</a>[ 09-09 ]</div>
                         </div>
                     </div>
 
