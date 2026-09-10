@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23603.aspx" target="_blank" title="标题：关于升旗仪式的相关通知&#xD;点击数：110&#xD;发表时间：2026年09月07日">关于升旗仪式的相关通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：227&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：184&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li><li><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：317&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23580.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学年校级先进名单的决定&#xD;点击数：195&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会 绍兴市第一中学关于公布2025学…</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23514.aspx" target="_blank" title="标题：开学工作行事历&#xD;点击数：356&#xD;发表时间：2026年08月19日">开学工作行事历</a><span class="dateRight">[08-19]</span></li>
+            <li class="first"><a href="/Item/23622.aspx" target="_blank" title="标题：2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）&#xD;点击数：200&#xD;发表时间：2026年09月10日">2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/23603.aspx" target="_blank" title="标题：关于升旗仪式的相关通知&#xD;点击数：110&#xD;发表时间：2026年09月07日">关于升旗仪式的相关通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：189&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li><li><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：230&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：317&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/23493.aspx" target="_blank" title="标题：2025学年各项先进推优名单公示&#xD;点击数：155&#xD;发表时间：2026年07月13日">2025学年各项先进推优名单公示</a><span class="dateRight">[07-13]</span></li><li class="last"><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li>
           
                     </ul>
                 </div>
@@ -439,7 +439,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23585.aspx" target="_self" title="标题：新学期开学典礼通知&#xD;点击数：232&#xD;发表时间：26年09月02日">新学期开学典礼通知</a>[ 09-02 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23622.aspx" target="_self" title="标题：2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）&#xD;点击数：200&#xD;发表时间：26年09月10日">2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）</a>[ 09-10 ]</div>
                         </div>
                     </div>
 

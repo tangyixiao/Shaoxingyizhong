@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>大扫除通知--德育处-绍兴市第一中学</title>
+    <title>关于历史组教研活动的通知--教科室-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -355,8 +355,8 @@ function GetUserInfo1(response){
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li3 on"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23621.aspx" target="_blank" title="标题：9.8班级一日考核&#xD;点击数：77&#xD;发表时间：2026年09月09日">9.8班级一日考核</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：107&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：171&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23613.aspx" target="_blank" title="标题：绍兴一中教育集团大课间跑操组织规程、跑操方案及评分细则组织规程&#xD;点击数：184&#xD;发表时间：2026年09月08日">绍兴一中教育集团大课间跑操组织规程、跑操方案及评分细…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
+            <li class="first"><a href="/Item/23625.aspx" target="_blank" title="标题：关于历史组教研活动的通知&#xD;点击数：43&#xD;发表时间：2026年09月10日">关于历史组教研活动的通知</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/23615.aspx" target="_blank" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：87&#xD;发表时间：2026年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23505.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励人员名单及结果公示&#xD;点击数：222&#xD;发表时间：2026年08月15日">关于2026年“名师激励”岗位考核激励人员名单及结果公示</a><span class="dateRight">[08-15]</span></li><li><a href="/Item/23487.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市教育技术论文征集的预通知&#xD;点击数：82&#xD;发表时间：2026年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市教育技术…</a><span class="dateRight">[07-07]</span></li><li><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23030.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：139&#xD;发表时间：2026年04月14日">英语教研活动通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/22992.aspx" target="_blank" title="标题：转发2026年浙江省省级职工职业技能竞赛高中学科教师命题能力赛项实施方案&#xD;点击数：216&#xD;发表时间：2026年04月07日">转发2026年浙江省省级职工职业技能竞赛高中学科教师命题…</a><span class="dateRight">[04-07]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_36/Index.aspx" target="_self">教科室</a></div>
+                    <h3>教科室</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">大扫除通知</h2>
+                        <h2 class="title">关于历史组教研活动的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月07日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23604"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月10日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23625"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23604},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23625},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23604";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23625";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,8 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <article><span style="color: rgb(51, 51, 51); font-family: 微软雅黑, sans-serif; font-size: 18px; background-color: white;">全校各班级：</span></article><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 12px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">         </span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">本周各年段大扫除在劳动课时间正常开展，包括教室、包干区（走班教室，阶梯教室及其它功能教室）。</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">特别注意：</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">1</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">、清理桌面涂鸦，课桌文化整理</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">2</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">、座位下不存放个人小垃圾袋；</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">3</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">、仪容仪表问题</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">      </span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">最后10分钟德育处将组织值周班人员进行进行<span style="background: yellow">大扫除及仪容仪表检查</span>，检查结果计入班级量化考核。</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;text-align: right;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">德育处 </span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;text-align: right;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">2026</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">年9月7日</span></p><p>
-</p>
+     <p><span style="color: rgb(93, 76, 75); font-family: 微软雅黑; font-size: 18.6667px; text-align: justify; text-indent: 37.44px; background-color: rgb(255, 255, 255);">     9月14日（周一），<span style="color: rgb(93, 76, 75); font-family: 微软雅黑; font-size: 18.6667px; text-align: justify; text-indent: 37.44px; background-color: rgb(255, 255, 255);">历史组</span>全体教师外出参加16学时教研活动，历史课改自修。</span></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -437,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23602.aspx" target="_self" title="标题：关于升旗仪式的进退场、站位及相关要求的通知&#xD;点击数：120&#xD;发表时间：26年09月07日">关于升旗仪式的进退场、站位及相关要求的通知</a>[ 09-07 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23610.aspx" target="_self" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：171&#xD;发表时间：26年09月07日">2026秋季全体学生心理普查安排通知</a>[ 09-07 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23615.aspx" target="_self" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：87&#xD;发表时间：26年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科…</a>[ 09-08 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 

@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>大扫除通知--德育处-绍兴市第一中学</title>
+    <title>寻物启事（饭卡）--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -405,21 +405,21 @@ function GetUserInfo1(response){
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">大扫除通知</h2>
+                        <h2 class="title">寻物启事（饭卡）</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月07日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23604"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月10日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23626"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23604},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23626},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23604";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23626";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,11 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <article><span style="color: rgb(51, 51, 51); font-family: 微软雅黑, sans-serif; font-size: 18px; background-color: white;">全校各班级：</span></article><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 12px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">         </span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">本周各年段大扫除在劳动课时间正常开展，包括教室、包干区（走班教室，阶梯教室及其它功能教室）。</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">特别注意：</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">1</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">、清理桌面涂鸦，课桌文化整理</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">2</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">、座位下不存放个人小垃圾袋；</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">3</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(192, 0, 0)">、仪容仪表问题</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">      </span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">最后10分钟德育处将组织值周班人员进行进行<span style="background: yellow">大扫除及仪容仪表检查</span>，检查结果计入班级量化考核。</span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;text-align: right;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">德育处 </span></p><p style="margin-right: 0;margin-left: 0;font-size: 16px;font-family: Calibri, sans-serif;text-wrap-mode: wrap;margin-bottom: 20px;text-align: right;background: white"><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">2026</span><span style="font-size: 18px;font-family: 微软雅黑, sans-serif;color: rgb(51, 51, 51)">年9月7日</span></p><p>
+     <p style="white-space: normal;">       9月3日下午，高二（2）班王宇勋同学在食堂或体育馆，不慎遗失一张饭卡，饭卡封面为黑色卡通人物。请拾到饭卡的同学及时送还至高二（2）班，谢谢！</p><p style="white-space: normal;">
+</p><p style="white-space: normal;">
+</p><p style="white-space: normal;">
+</p><p style="white-space: normal;">
+</p><p style="white-space: normal;">                                                                                                            德育处</p><p style="white-space: normal;">                                                                                                   2026年9月10日</p><p>
 </p>
     
     </div><!--endprint-->
@@ -437,8 +441,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23602.aspx" target="_self" title="标题：关于升旗仪式的进退场、站位及相关要求的通知&#xD;点击数：120&#xD;发表时间：26年09月07日">关于升旗仪式的进退场、站位及相关要求的通知</a>[ 09-07 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23610.aspx" target="_self" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：171&#xD;发表时间：26年09月07日">2026秋季全体学生心理普查安排通知</a>[ 09-07 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23621.aspx" target="_self" title="标题：9.8班级一日考核&#xD;点击数：77&#xD;发表时间：26年09月09日">9.8班级一日考核</a>[ 09-09 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
