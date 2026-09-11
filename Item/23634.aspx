@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：137&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23634.aspx" target="_blank" title="标题：创新学部9月13日至9月24日晚自习安排&#xD;点击数：4&#xD;发表时间：2026年09月11日">创新学部9月13日至9月24日晚自习安排</a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：157&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li>
+            <li class="first"><a href="/Item/23634.aspx" target="_blank" title="标题：创新学部9月13日至9月24日晚自习安排&#xD;点击数：5&#xD;发表时间：2026年09月11日">创新学部9月13日至9月24日晚自习安排</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：137&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：157&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li>
           
                     </ul>
                 </div>
