@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>大课间跑操考核员招募通知--德育处-绍兴市第一中学</title>
+    <title>高一晚自修（9.13-9.18）--高一-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -356,7 +356,7 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -364,7 +364,7 @@ function GetUserInfo1(response){
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li12 on"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23630.aspx" target="_blank" title="标题：今天（周五）中午跑操考核员会议通知&#xD;点击数：39&#xD;发表时间：2026年09月11日">今天（周五）中午跑操考核员会议通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23627.aspx" target="_blank" title="标题：9.9班级一日考核&#xD;点击数：62&#xD;发表时间：2026年09月10日">9.9班级一日考核</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23621.aspx" target="_blank" title="标题：9.8班级一日考核&#xD;点击数：86&#xD;发表时间：2026年09月09日">9.8班级一日考核</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li>
+            <li class="first"><a href="/Item/23631.aspx" target="_blank" title="标题：高一晚自修（9.13-9.18）&#xD;点击数：10&#xD;发表时间：2026年09月11日">高一晚自修（9.13-9.18）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23596.aspx" target="_blank" title="标题：高一晚自修（9.6-9.11）&#xD;点击数：92&#xD;发表时间：2026年09月03日">高一晚自修（9.6-9.11）</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23369.aspx" target="_blank" title="标题：高一学考模拟考监考安排和学生考场安排（6月13日）&#xD;点击数：262&#xD;发表时间：2026年06月12日">高一学考模拟考监考安排和学生考场安排（6月13日）</a><span class="dateRight">[06-12]</span></li><li><a href="/Item/22977.aspx" target="_blank" title="标题：高一晚自修值班（4.6-4.17）&#xD;点击数：107&#xD;发表时间：2026年04月02日">高一晚自修值班（4.6-4.17）</a><span class="dateRight">[04-02]</span></li><li><a href="/Item/22335.aspx" target="_blank" title="标题：高一家长会注意事项及晚自修安排&#xD;点击数：174&#xD;发表时间：2025年11月25日">高一家长会注意事项及晚自修安排</a><span class="dateRight">[11-25]</span></li><li><a href="/Item/20955.aspx" target="_blank" title="标题：高一晚自修值班安排（2.17-2.28）&#xD;点击数：161&#xD;发表时间：2025年02月21日">高一晚自修值班安排（2.17-2.28）</a><span class="dateRight">[02-21]</span></li><li class="last"><a href="/Item/20911.aspx" target="_blank" title="标题：高一晚自修值班安排（2.12-2.16）&#xD;点击数：146&#xD;发表时间：2025年02月12日">高一晚自修值班安排（2.12-2.16）</a><span class="dateRight">[02-12]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_33/Index.aspx" target="_self">高一</a></div>
+                    <h3>高一</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">大课间跑操考核员招募通知</h2>
+                        <h2 class="title">高一晚自修（9.13-9.18）</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年03月06日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23619"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23631"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23619},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23631},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23619";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23631";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,9 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 20px;">高一、高二各班级：</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 37px; margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 20px;">  为规范大课间跑操秩序，现招募跑操考核员，具体事宜通知如下：</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 37px; margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 20px;">  1、推荐人数：高一每班推荐 2人，高二每班推荐1人；</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 37px; margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 20px;">  2、基本要求：责任心强、时间观念好、公平公正、自身纪律良好；</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 37px; margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 20px;">  3、工作内容：考核各班跑操出勤率、整齐度等，记录结果并上报，协助维持秩序；</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 37px; margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 20px;">  4、荣誉激励：工作优秀者将评为 “校荐工作之星”；</span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 37px; margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 20px;">  5、报名方式：请于本周四（9月10日）17:00 前向班主任报名。</span></p><p style="text-align:right">
-</p><p style="text-align:right"><span style="font-family: 宋体; font-size: 20px;">德育处</span></p><p style="text-align:right"><span style="font-family: 宋体; font-size: 20px;">2026年9月9日</span></p><p style="text-align:right"><span style=";font-family:宋体;font-size:14px"> </span></p><p style="padding: 0px; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-indent: 37px; margin-bottom: 20px !important;"><span style="font-family: 宋体; font-size: 19px;"></span>
-</p><p>
+     <p><img src="/UploadFiles/xwzx/2026/9/202609111045082783.png" style="max-width: 100%; " title="202609111045082783.png" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609111045085955.png" style="max-width: 100%; " title="202609111045085955.png" /></p><p>
 </p>
     
     </div><!--endprint-->
@@ -439,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23618.aspx" target="_self" title="标题：大课间跑操考核员招募通知&#xD;点击数：86&#xD;发表时间：26年03月06日">大课间跑操考核员招募通知</a>[ 03-06 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23620.aspx" target="_self" title="标题：大课间跑操考核员招募通知&#xD;点击数：119&#xD;发表时间：26年09月09日">大课间跑操考核员招募通知</a>[ 09-09 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23596.aspx" target="_self" title="标题：高一晚自修（9.6-9.11）&#xD;点击数：92&#xD;发表时间：26年09月03日">高一晚自修（9.6-9.11）</a>[ 09-03 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
