@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>组织机构-绍兴市第一中学</title>
+    <title>今天（周五）中午跑操考核员会议通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -155,11 +154,11 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID389">
   <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
   <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
-<li class="li2 on2" id="liID44">
+<li class="li2" id="liID44">
   <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
@@ -342,25 +341,32 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_4/Index.aspx">走进一中</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_43/Index.aspx">学校概览</a></li>
-<li class="li2 on"><a href="/Category_44/Index.aspx">组织机构</a></li>
-<li class="li3"><a href="/Category_45/Index.aspx">管理团队</a></li>
-<li class="li4"><a href="/Category_49/Index.aspx">—中校歌</a></li>
-<li class="li5"><a href="/Category_41/Index.aspx">校园风光</a></li>
-<li class="li6"><a href="/Category_10/Index.aspx">奖教奖学</a></li>
-<li class="li7"><a href="/Category_42/Index.aspx">学校荣誉</a></li>
-<li class="li8 last"><a href="/Category_379/Index.aspx">领导关怀</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -368,90 +374,83 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146656&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23630.aspx" target="_blank" title="标题：今天（周五）中午跑操考核员会议通知&#xD;点击数：24&#xD;发表时间：2026年09月11日">今天（周五）中午跑操考核员会议通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23627.aspx" target="_blank" title="标题：9.9班级一日考核&#xD;点击数：61&#xD;发表时间：2026年09月10日">9.9班级一日考核</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23621.aspx" target="_blank" title="标题：9.8班级一日考核&#xD;点击数：86&#xD;发表时间：2026年09月09日">9.8班级一日考核</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=44>组织机构</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Category_4/Index.aspx" target="_self">走进一中</a>&gt;
-    <a href="/Category_44/Index.aspx" target="_self">组织机构</a></div>
-                    <h3>组织机构</h3>
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2022-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_self" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146656&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">今天（周五）中午跑操考核员会议通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23630"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23630},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23630";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 18px;">各班跑操考核员：</span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap;text-indent: 28px"><span style="font-family: 宋体; font-size: 18px;">为规范跑操检查流程，提升考核效率。本学期跑操考核员由各班级推荐，现决定召开专题会议部署相关工作，具体事宜通知如下：</span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 14px;">一、<span style="font-size: 18px; font-family: 宋体;">会议时间：</span><span style="font-family: 宋体; font-size: 14px; background-color: rgb(255, 255, 0);"><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: Calibri;">2026</span><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: 宋体;">年</span><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: Calibri;">9</span><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: 宋体;">月</span><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: Calibri;">11</span><span style="background-color: rgb(255, 255, 0); font-family: 宋体; font-size: 18px;">日（今天）星期五</span><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: Calibri;">12</span><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: 宋体;">：</span><span style="background-color: rgb(255, 255, 0); font-size: 18px; font-family: Calibri;">30</span></span></span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 18px; font-family: 宋体;">二、会议地点：阶梯教室</span><span style="font-size: 18px; font-family: Calibri;">4106</span></span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 18px;">三、参会人员：各班跑操考核员、具体名单见附件（若因特殊原因无法参会，委托班级另一名负责同学代为参会）</span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 18px;">四、注意事项：请参会人员携带笔，按时到会，不得无故缺席。</span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 18px;"> </span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 18px;"> </span></p><p style=";text-align: right;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 18px;">德育处</span></p><p style=";text-align: right;font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 18px; font-family: Calibri;">2026</span>年<span style="font-size: 18px; font-family: Calibri;">9</span>月<span style="font-size: 18px; font-family: Calibri;">11</span>日</span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-family: 宋体; font-size: 18px;">附件：参会名单</span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">101</span><span style="font-family: 宋体; font-size: 19px;">吴宇哲、</span><span style="font-family: 宋体; font-size: 19px;">俞哲瀚           102</span><span style="font-family: 宋体; font-size: 19px;">盛诺昊、</span><span style="font-family: 宋体; font-size: 19px;">倪浩轩</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">103</span><span style="font-family: 宋体; font-size: 19px;">朱绍轩、</span><span style="font-family: 宋体; font-size: 19px;">林致远           104</span><span style="font-family: 宋体; font-size: 19px;">凌霄宇、</span><span style="font-family: 宋体; font-size: 19px;">张蕴韬</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">105</span><span style="font-family: 宋体; font-size: 19px;">胡言昊、</span><span style="font-family: 宋体; font-size: 19px;">宋思泽           106</span><span style="font-family: 宋体; font-size: 19px;">冯明哲、</span><span style="font-family: 宋体; font-size: 19px;">王鸿涛</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">107</span><span style="font-family: 宋体; font-size: 19px;">董林源、</span><span style="font-family: 宋体; font-size: 19px;">朱冰洁           108</span><span style="font-family: 宋体; font-size: 19px;">陈凌菲、</span><span style="font-family: 宋体; font-size: 19px;">孟昊泽</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">109</span><span style="font-family: 宋体; font-size: 19px;">侯懿林、</span><span style="font-family: 宋体; font-size: 19px;">彭嘉怡           110</span><span style="font-family: 宋体; font-size: 19px;">曾睿杰、</span><span style="font-family: 宋体; font-size: 19px;">娄梁涛</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">111</span><span style="font-family: 宋体; font-size: 19px;">王润健、</span><span style="font-family: 宋体; font-size: 19px;">孟余昊           112</span><span style="font-family: 宋体; font-size: 19px;">蔡知非、</span><span style="font-family: 宋体; font-size: 19px;">章臻希</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">113</span><span style="font-family: 宋体; font-size: 19px;">陈翼一、</span><span style="font-family: 宋体; font-size: 19px;">姚未雪           114</span><span style="font-family: 宋体; font-size: 19px;">江欣乐、</span><span style="font-family: 宋体; font-size: 19px;">沈子涵</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">115</span><span style="font-family: 宋体; font-size: 19px;">潘纯一、</span><span style="font-family: 宋体; font-size: 19px;">金一诺           116</span><span style="font-family: 宋体; font-size: 19px;">钟翊楠、</span><span style="font-family: 宋体; font-size: 19px;">梁志豪</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">117</span><span style="font-family: 宋体; font-size: 19px;">戴诚骏、</span><span style="font-family: 宋体; font-size: 19px;">单一天           118</span><span style="font-family: 宋体; font-size: 19px;">刘思宇、</span><span style="font-family: 宋体; font-size: 19px;">金灵珊</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">119</span><span style="font-family: 宋体; font-size: 19px;">陈晨、</span><span style="font-family: 宋体; font-size: 19px;">黄一诺</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">201</span><span style="font-family: 宋体; font-size: 19px;">             202</span><span style="font-family: 宋体; font-size: 19px;">         203</span><span style="font-family: 宋体; font-size: 19px;">潘泓宇     204</span><span style="font-family: 宋体; font-size: 19px;">何梓豪</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">205</span><span style="font-family: 宋体; font-size: 19px;">陈智远   206</span><span style="font-family: 宋体; font-size: 19px;">          207</span><span style="font-family: 宋体; font-size: 19px;">             208</span><span style="font-family: 宋体; font-size: 19px;">沈鼎</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">209</span><span style="font-family: 宋体; font-size: 19px;">张佳雨   210</span><span style="font-family: 宋体; font-size: 19px;">          211</span><span style="font-family: 宋体; font-size: 19px;">张一弛      212</span><span style="font-family: 宋体; font-size: 19px;">谭卓文</span></span></p><p style=";font-family: Calibri;font-size: 14px;text-wrap-mode: wrap"><span style="font-size: 18px;"><span style="font-family: 宋体; font-size: 19px;">213</span><span style="font-family: 宋体; font-size: 19px;">姚俊赋   214</span><span style="font-family: 宋体; font-size: 19px;">赵家乐   215</span><span style="font-family: 宋体; font-size: 19px;">陈煜骐</span></span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23627.aspx" target="_self" title="标题：9.9班级一日考核&#xD;点击数：61&#xD;发表时间：26年09月10日">9.9班级一日考核</a>[ 09-10 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -483,6 +482,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

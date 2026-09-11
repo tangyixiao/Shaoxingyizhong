@@ -375,7 +375,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/10571.aspx" target="_blank" title="标题：绍兴市第一中学“鲁家贤奖学金”奖励办法&#xD;点击数：173&#xD;发表时间：2019年09月18日"><font style=";">绍兴市第一中学“鲁家贤奖学金”奖励办法</font></a><span class="dateRight">[09-18]</span></li><li><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146653&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：94&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a><span class="dateRight">[03-18]</span></li><li><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2579&#xD;发表时间：2024年03月26日">管理团队</a><span class="dateRight">[03-26]</span></li><li><a href="/Item/13531.aspx" target="_blank" title="标题：30年代老校门&#xD;点击数：608&#xD;发表时间：2021年05月31日">30年代老校门</a><span class="dateRight">[05-31]</span></li><li><a href="/Item/12403.aspx" target="_blank" title="标题：校园风光6&#xD;点击数：194&#xD;发表时间：2017年10月12日">校园风光6</a><span class="dateRight">[10-12]</span></li><li class="last"><a href="/Item/12402.aspx" target="_blank" title="标题：校园风光5&#xD;点击数：147&#xD;发表时间：2017年10月12日">校园风光5</a><span class="dateRight">[10-12]</span></li>
+            <li class="first"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146656&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/10571.aspx" target="_blank" title="标题：绍兴市第一中学“鲁家贤奖学金”奖励办法&#xD;点击数：173&#xD;发表时间：2019年09月18日"><font style=";">绍兴市第一中学“鲁家贤奖学金”奖励办法</font></a><span class="dateRight">[09-18]</span></li><li><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17397&#xD;发表时间：2009年11月24日">一中校歌</a><span class="dateRight">[11-24]</span></li><li><a href="/Item/22884.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班子成员分工的通知&#xD;点击数：94&#xD;发表时间：2026年03月18日">中共绍兴市第一中学委员会  绍兴市第一中学关于调整校班…</a><span class="dateRight">[03-18]</span></li><li><a href="/Item/20140.aspx" target="_blank" title="标题：管理团队&#xD;点击数：2579&#xD;发表时间：2024年03月26日">管理团队</a><span class="dateRight">[03-26]</span></li><li><a href="/Item/13531.aspx" target="_blank" title="标题：30年代老校门&#xD;点击数：608&#xD;发表时间：2021年05月31日">30年代老校门</a><span class="dateRight">[05-31]</span></li><li class="last"><a href="/Item/12403.aspx" target="_blank" title="标题：校园风光6&#xD;点击数：194&#xD;发表时间：2017年10月12日">校园风光6</a><span class="dateRight">[10-12]</span></li>
           
 		</ul>
 	</div>
@@ -480,7 +480,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146653&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
+            <li class="first"><span class="date">09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146656&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
           
                             </ul>
                         </div>
@@ -508,7 +508,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17395&#xD;发表时间：2009年11月24日">一中校歌</a></li>
+            <li class="first"><span class="date">11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/622.aspx" target="_blank" title="标题：一中校歌&#xD;点击数：17397&#xD;发表时间：2009年11月24日">一中校歌</a></li>
           
                             </ul>
                         </div>
@@ -536,7 +536,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">09-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20305.aspx" target="_blank" title="标题：奖教助学 传递大爱|杰出校友王卫列回母校设立“越民奖学金”并投入使用&#xD;点击数：158&#xD;发表时间：2024年09月14日">奖教助学 传递大爱|杰出校友王卫列回母校设立“越民奖学…</a></li><li><span class="date">09-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18527.aspx" target="_blank" title="标题：叶军院士回访母校捐资一百万元设立奖学金&#xD;点击数：175&#xD;发表时间：2023年09月18日">叶军院士回访母校捐资一百万元设立奖学金</a></li><li><span class="date">08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16603.aspx" target="_blank" title="标题：2021学年奖学金获得者名单&#xD;点击数：608&#xD;发表时间：2022年08月31日">2021学年奖学金获得者名单</a></li><li><span class="date">08-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16602.aspx" target="_blank" title="标题：2020学年奖学金获得者名单&#xD;点击数：305&#xD;发表时间：2021年08月28日">2020学年奖学金获得者名单</a></li><li><span class="date">09-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16605.aspx" target="_blank" title="标题：关于公布绍兴一中教育基金会审计报告的通知&#xD;点击数：276&#xD;发表时间：2020年09月29日">关于公布绍兴一中教育基金会审计报告的通知</a></li><li class="last"><span class="date">08-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16601.aspx" target="_blank" title="标题：2019学年奖学金获得者名单&#xD;点击数：541&#xD;发表时间：2020年08月28日">2019学年奖学金获得者名单</a></li>
+            <li class="first"><span class="date">09-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20305.aspx" target="_blank" title="标题：奖教助学 传递大爱|杰出校友王卫列回母校设立“越民奖学金”并投入使用&#xD;点击数：158&#xD;发表时间：2024年09月14日">奖教助学 传递大爱|杰出校友王卫列回母校设立“越民奖学…</a></li><li><span class="date">09-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18527.aspx" target="_blank" title="标题：叶军院士回访母校捐资一百万元设立奖学金&#xD;点击数：176&#xD;发表时间：2023年09月18日">叶军院士回访母校捐资一百万元设立奖学金</a></li><li><span class="date">08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16603.aspx" target="_blank" title="标题：2021学年奖学金获得者名单&#xD;点击数：608&#xD;发表时间：2022年08月31日">2021学年奖学金获得者名单</a></li><li><span class="date">08-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16602.aspx" target="_blank" title="标题：2020学年奖学金获得者名单&#xD;点击数：305&#xD;发表时间：2021年08月28日">2020学年奖学金获得者名单</a></li><li><span class="date">09-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16605.aspx" target="_blank" title="标题：关于公布绍兴一中教育基金会审计报告的通知&#xD;点击数：276&#xD;发表时间：2020年09月29日">关于公布绍兴一中教育基金会审计报告的通知</a></li><li class="last"><span class="date">08-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16601.aspx" target="_blank" title="标题：2019学年奖学金获得者名单&#xD;点击数：541&#xD;发表时间：2020年08月28日">2019学年奖学金获得者名单</a></li>
           
                             </ul>
                         </div>

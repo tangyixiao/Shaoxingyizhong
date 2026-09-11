@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>组织机构-绍兴市第一中学</title>
+    <title>高二晚自习(9.13-9.18)--高二-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -155,11 +154,11 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID389">
   <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
   <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
-<li class="li2 on2" id="liID44">
+<li class="li2" id="liID44">
   <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
@@ -344,23 +343,30 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_4/Index.aspx">走进一中</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_43/Index.aspx">学校概览</a></li>
-<li class="li2 on"><a href="/Category_44/Index.aspx">组织机构</a></li>
-<li class="li3"><a href="/Category_45/Index.aspx">管理团队</a></li>
-<li class="li4"><a href="/Category_49/Index.aspx">—中校歌</a></li>
-<li class="li5"><a href="/Category_41/Index.aspx">校园风光</a></li>
-<li class="li6"><a href="/Category_10/Index.aspx">奖教奖学</a></li>
-<li class="li7"><a href="/Category_42/Index.aspx">学校荣誉</a></li>
-<li class="li8 last"><a href="/Category_379/Index.aspx">领导关怀</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13 on"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -368,90 +374,84 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146656&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23629.aspx" target="_blank" title="标题：高二晚自习(9.13-9.18)&#xD;点击数：26&#xD;发表时间：2026年09月11日">高二晚自习(9.13-9.18)</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：146&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/20257.aspx" target="_blank" title="标题：高二晚自修答疑值班安排（9.22-9.27）&#xD;点击数：209&#xD;发表时间：2024年09月20日">高二晚自修答疑值班安排（9.22-9.27）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23597.aspx" target="_blank" title="标题：高二晚自修（9.6-9.11）&#xD;点击数：125&#xD;发表时间：2026年09月04日">高二晚自修（9.6-9.11）</a><span class="dateRight">[09-04]</span></li><li><a href="/Item/23566.aspx" target="_blank" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：141&#xD;发表时间：2026年08月31日">高二晚自修（8.30-9.4）</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23436.aspx" target="_blank" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：163&#xD;发表时间：2026年06月26日">高二晚自修（6.29-7.10）</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23391.aspx" target="_blank" title="标题：高二晚自修（6.21-6.28）&#xD;点击数：102&#xD;发表时间：2026年06月18日">高二晚自修（6.21-6.28）</a><span class="dateRight">[06-18]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=44>组织机构</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Category_4/Index.aspx" target="_self">走进一中</a>&gt;
-    <a href="/Category_44/Index.aspx" target="_self">组织机构</a></div>
-                    <h3>组织机构</h3>
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_34/Index.aspx" target="_self">高二</a></div>
+                    <h3>高二</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2022-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_self" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146656&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">高二晚自习(9.13-9.18)</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23629"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23629},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23629";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <article><p>
+</p><p><img src="https://static.dingtalk.com/media/lQLPJxSykGtIC1vNAerNAr2whxQd1uPbtYwKdCan_Xz3AA_701_490.png" width="482" height="331" style="width: 482px; height: 331px;" /></p><p><img src="https://static.dingtalk.com/media/lQLPKGd6KPW7zFvNATPNAe-whW8bX_E-vrMKdCan9ea1AA_495_307.png" width="495" height="307" /></p></article><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23597.aspx" target="_self" title="标题：高二晚自修（9.6-9.11）&#xD;点击数：125&#xD;发表时间：26年09月04日">高二晚自修（9.6-9.11）</a>[ 09-04 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -483,6 +483,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
