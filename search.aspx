@@ -351,11 +351,11 @@ function GetUserInfo1(response){
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
   <li><span class="date">2026-09-11</span><a href="/Item/23634.aspx" target="_blank" title="标题：创新学部9月13日至9月24日晚自习安排&#xD;点击数：5&#xD;发表时间：2026年09月11日">创新学部9月13日至9月24日晚自习安排</a></li>
-<li><span class="date">2026-09-11</span><a href="/Item/23633.aspx" target="_blank" title="标题：网上报名操作说明&#xD;点击数：26&#xD;发表时间：2026年09月11日">网上报名操作说明</a></li>
-<li><span class="date">2026-09-11</span><a href="/Item/23632.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：39&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a></li>
+<li><span class="date">2026-09-11</span><a href="/Item/23633.aspx" target="_blank" title="标题：网上报名操作说明&#xD;点击数：28&#xD;发表时间：2026年09月11日">网上报名操作说明</a></li>
+<li><span class="date">2026-09-11</span><a href="/Item/23632.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：40&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a></li>
 <li><span class="date">2026-09-11</span><a href="/Item/23630.aspx" target="_blank" title="标题：今天（周五）中午跑操考核员会议通知&#xD;点击数：41&#xD;发表时间：2026年09月11日">今天（周五）中午跑操考核员会议通知</a></li>
 <li><span class="date">2026-09-11</span><a href="/Item/23629.aspx" target="_blank" title="标题：高二晚自习(9.13-9.18)&#xD;点击数：34&#xD;发表时间：2026年09月11日">高二晚自习(9.13-9.18)</a></li>
-<li><span class="date">2026-09-11</span><a href="/Item/23628.aspx" target="_blank" title="标题：关于开展9月支部主题党日活动的通知&#xD;点击数：74&#xD;发表时间：2026年09月11日">关于开展9月支部主题党日活动的通知</a></li>
+<li><span class="date">2026-09-11</span><a href="/Item/23628.aspx" target="_blank" title="标题：关于开展9月支部主题党日活动的通知&#xD;点击数：75&#xD;发表时间：2026年09月11日">关于开展9月支部主题党日活动的通知</a></li>
 <li><span class="date">2026-09-10</span><a href="/Item/23627.aspx" target="_blank" title="标题：9.9班级一日考核&#xD;点击数：62&#xD;发表时间：2026年09月10日">9.9班级一日考核</a></li>
 <li><span class="date">2026-09-10</span><a href="/Item/23626.aspx" target="_blank" title="标题：寻物启事（饭卡）&#xD;点击数：47&#xD;发表时间：2026年09月10日">寻物启事（饭卡）</a></li>
 <li><span class="date">2026-09-10</span><a href="/Item/23625.aspx" target="_blank" title="标题：关于历史组教研活动的通知&#xD;点击数：89&#xD;发表时间：2026年09月10日">关于历史组教研活动的通知</a></li>
