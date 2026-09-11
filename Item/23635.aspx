@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于开展9月支部主题党日活动的通知--党政办-绍兴市第一中学</title>
+    <title>关于创新学部协作体考试成绩分析会议的通知--创新学部-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -353,7 +353,7 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
@@ -363,7 +363,7 @@ function GetUserInfo1(response){
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li11 on"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23628.aspx" target="_blank" title="标题：关于开展9月支部主题党日活动的通知&#xD;点击数：80&#xD;发表时间：2026年09月11日">关于开展9月支部主题党日活动的通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23622.aspx" target="_blank" title="标题：2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）&#xD;点击数：266&#xD;发表时间：2026年09月10日">2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：233&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：313&#xD;发表时间：2026年08月12日">教学楼办公室调整公告(有修改)</a><span class="dateRight">[08-12]</span></li><li><a href="/Item/23448.aspx" target="_blank" title="标题：关于开展6月支部主题党日活动的通知&#xD;点击数：54&#xD;发表时间：2026年06月29日">关于开展6月支部主题党日活动的通知</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Item/22894.aspx" target="_blank" title="标题：2026年“全国最美教师”推荐和“浙江省最美教师” 的通知&#xD;点击数：207&#xD;发表时间：2026年03月20日">2026年“全国最美教师”推荐和“浙江省最美教师” 的通知</a><span class="dateRight">[03-20]</span></li>
+            <li class="first"><a href="/Item/23635.aspx" target="_blank" title="标题：关于创新学部协作体考试成绩分析会议的通知&#xD;点击数：15&#xD;发表时间：2026年09月11日">关于创新学部协作体考试成绩分析会议的通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23634.aspx" target="_blank" title="标题：创新学部9月13日至9月24日晚自习安排&#xD;点击数：15&#xD;发表时间：2026年09月11日">创新学部9月13日至9月24日晚自习安排</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：137&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：157&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
-                    <h3>党政办</h3>
+    <a href="/Category_393/Index.aspx" target="_self">创新学部</a></div>
+                    <h3>创新学部</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于开展9月支部主题党日活动的通知</h2>
+                        <h2 class="title">关于创新学部协作体考试成绩分析会议的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23628"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23635"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23628},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23635},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23628";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23635";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,9 +427,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style=";text-align:center;line-height:33px;background:white"><span style="font-size:29px;font-family:方正小标宋简体;color:#333333">关于开展9月支部主题党日活动的通知</span></p><p style=";line-height:33px;background:white"><span style="font-size:21px;font-family:仿宋;color:#333333"> </span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><strong><span style="font-size:21px;font-family: 黑体;color:#333333;font-weight:normal">一、活动主题</span></strong></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><span style="font-size:21px;font-family:仿宋;color:black">以党建精神铸魂育人，为基础教育强基固本</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><strong><span style="font-size:21px;font-family: 黑体;color:#333333;font-weight:normal">二、活动形式</span></strong></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><span style="font-size:21px;font-family:仿宋;color:black">支部集中学习</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><strong><span style="font-size:21px;font-family: 黑体;color:#333333;font-weight:normal">三、时间地点</span></strong></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><span style="font-size:21px;font-family: 仿宋;color:#333333">9</span><span style="font-size:21px;font-family:仿宋;color:#333333">月11日-17日（各支部择日开展）</span><strong><span style="font-size:21px;font-family:黑体;color:#333333;font-weight:normal">，</span></strong><span style="font-size:21px;font-family: 仿宋;color:black">各支部活动室</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><strong><span style="font-size:21px;font-family: 黑体;color:#333333;font-weight:normal">四、活动安排</span></strong></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white"><span style="font-size:21px;font-family:仿宋;color:black">1.</span><span style="font-size:21px;font-family:仿宋;color:black">第一议题学习：习近平作出重要指示强调巩固拓展树立和践行正确政绩观学习教育成果努力创造经得起实践人民历史检验的实绩</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white"><span style="font-size:21px;font-family:仿宋;color:black">2.</span><span style="font-size:21px;font-family:仿宋;color:black">视频学习“七一勋章”获得者事迹（马善祥）</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white"><span style="font-size:21px;font-family:仿宋;color:black">3.</span><span style="font-size:21px;font-family:仿宋;color:black">学习习近平关于基础教育工作的重要指示精神</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white"><span style="font-size:21px;font-family:仿宋;color:black">4.</span><span style="font-size:21px;font-family:仿宋;color:black">学习习近平党建精神</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background:white"><strong><span style="font-size:21px;font-family: 黑体;color:#333333;font-weight:normal">五、注意事项</span></strong></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white"><span style="font-size:21px;font-family:仿宋;color:black">1.</span><span style="font-size:21px;font-family:仿宋;color:black">各支部要结合实际制定方案并组织好活动。同时，按要求在《组织生活记录本》上做好签到和记录工作，于9月18日17:00前将签到页面照片，及活动图文资料报党政办。</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white"><span style="font-size:21px;font-family:仿宋;color:black">2.</span><span style="font-size:21px;font-family:仿宋;color:black">各支部请提前完成党员组织关系调整后的相应联络工作。</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white"><span style="font-size:21px;font-family:仿宋;color:black">3.</span><span style="font-size:21px;font-family:仿宋;color:black">请全体党员将学习内容在《党员笔记》上做好记录。</span></p><p style=";text-align:justify;text-justify:inter-ideograph;text-indent:42px;line-height:33px;background: white">
-</p><p style=";text-align:right;text-indent:42px;line-height:33px;background:white"><span style="font-size:21px;font-family:仿宋;color:#333333"> </span></p><p style=";text-align:right;text-indent:42px;line-height:33px;background:white"><span style="font-size:21px;font-family:仿宋;color:#333333">中共绍兴市第一中学委员会</span></p><p style=";text-align:right;text-indent:42px;line-height:33px;background:white"><span style="font-size:21px;font-family:仿宋;color:#333333">2026</span><span style="font-size:21px;font-family:仿宋;color:#333333">年9月11日    </span></p><p>
-</p>
+     <ol class=" list-paddingleft-2" style="list-style-type: decimal;"><li style="list-style-type: decimal;"><p>时间：9月11日下午第九节课</p></li><li style="list-style-type: decimal;"><p>地点：学部一楼阶梯教室（4112室）</p></li><li style="list-style-type: decimal;"><p>参加对象：各高二高三创新班的任课教师及高一（1）班任课教师
+</p></li></ol>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -438,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23622.aspx" target="_self" title="标题：2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）&#xD;点击数：266&#xD;发表时间：26年09月10日">2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）</a>[ 09-10 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23634.aspx" target="_self" title="标题：创新学部9月13日至9月24日晚自习安排&#xD;点击数：15&#xD;发表时间：26年09月11日">创新学部9月13日至9月24日晚自习安排</a>[ 09-11 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
