@@ -49,6 +49,9 @@ python3 tools/update_from_intranet.py --base-url http://10.176.17.2/
 图片附件单独存放在 14 个公开 GitHub 仓库中，站点构建时依据
 `attachment_routes.json` 把 `UploadFiles` 下的图片地址改写为对应 GitHub 仓库的
 jsDelivr CDN 地址（`cdn.jsdelivr.net/gh`），由 CDN 按图片扩展名返回可直接显示的 MIME。
+图片同步还会扫描页面中的第三方图片外链，将其下载到
+`UploadFiles/legacy/external/<host>/...` 后再按同一规则发布，避免构建结果引用
+已经失效或无法由 GitHub Pages 直接依赖的外部图片地址。
 PDF、Word、压缩包等非图片附件不进入图片仓库；它们会同步到主仓库的
 `downloads/`，页面构建时把 `/UploadFiles/...` 改写为站点下的
 `/downloads/...`，因此可以直接下载。

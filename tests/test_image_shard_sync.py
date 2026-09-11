@@ -1,10 +1,12 @@
 import contextlib
 import io
 import json
+import threading
 import shutil
 import subprocess
 import tempfile
 import unittest
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from unittest import mock
 
@@ -17,6 +19,7 @@ from tools.sync_image_shards import (
     configure_repository,
     main,
     materialize_missing_thumbnails,
+    mirror_external_image_attachments,
     push_repository,
     sync_repository,
     validate_casefold_paths,
@@ -52,6 +55,49 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertEqual(entries[0].source_path, "UploadFiles/xwzx/2026/7/a.JPG")
             self.assertEqual(entries[0].repository, "Shaoxingyizhong-img-xwzx-2026-h2")
             self.assertEqual(entries[0].sha256, "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d")
+
+    def test_mirrors_external_images_into_the_routed_attachment_path(self):
+        image_bytes = b"fake png bytes"
+
+        class ImageHandler(BaseHTTPRequestHandler):
+            def do_GET(self):  # noqa: N802 - standard library handler API
+                self.send_response(200)
+                self.send_header("Content-Type", "image/png")
+                self.send_header("Content-Length", str(len(image_bytes)))
+                self.end_headers()
+                self.wfile.write(image_bytes)
+
+            def log_message(self, *_args):
+                return
+
+        server = ThreadingHTTPServer(("127.0.0.1", 0), ImageHandler)
+        thread = threading.Thread(target=server.serve_forever, daemon=True)
+        thread.start()
+        try:
+            with tempfile.TemporaryDirectory() as tmp:
+                source = Path(tmp) / "source"
+                page = source / "Item" / "1.aspx"
+                page.parent.mkdir(parents=True)
+                image_url = f"http://127.0.0.1:{server.server_port}/media/test.png"
+                page.write_text(f'<img src="{image_url}">', encoding="utf-8")
+
+                mirrored = mirror_external_image_attachments(source, self.routes)
+
+                target = (
+                    source
+                    / "UploadFiles"
+                    / "legacy"
+                    / "external"
+                    / f"127.0.0.1_{server.server_port}"
+                    / "media"
+                    / "test.png"
+                )
+                self.assertEqual(mirrored, 1)
+                self.assertEqual(target.read_bytes(), image_bytes)
+        finally:
+            server.shutdown()
+            server.server_close()
+            thread.join(timeout=5)
 
     @unittest.skipUnless(shutil.which("vips"), "libvips is required")
     def test_materializes_missing_thumbnail_from_existing_shard_original(self):

@@ -12,12 +12,13 @@ import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import time
 import urllib.request
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import quote
+from urllib.parse import quote, urlsplit
 
 try:
     from tools.attachment_routing import RouteConfig, _normalize_attachment_path
@@ -41,6 +42,8 @@ ATTACHMENT_VALUE_RE = re.compile(
 )
 CSS_ATTACHMENT_RE = re.compile(r'''url\(\s*["']?([^\)"']+)["']?\s*\)''', re.IGNORECASE)
 THUMBNAIL_SUFFIX_RE = re.compile(r"^(?P<stem>.+)_600_340(?P<suffix>\.[^.]+)$", re.IGNORECASE)
+MAX_EXTERNAL_IMAGE_BYTES = 100 * 1024 * 1024
+EXTERNAL_IMAGE_TIMEOUT_SECONDS = 30
 
 
 @dataclass(frozen=True)
@@ -179,6 +182,82 @@ def build_inventory(
     return sorted(entries, key=lambda item: (item.repository, item.target_path))
 
 
+def _page_attachment_candidates(source_root: Path) -> set[str]:
+    candidates: set[str] = set()
+    for page in sorted(source_root.rglob("*")):
+        if not page.is_file() or page.suffix.lower() not in TEXT_SUFFIXES:
+            continue
+        try:
+            text = page.read_bytes().decode("utf-8")
+        except UnicodeDecodeError:
+            continue
+        candidates.update(ATTACHMENT_VALUE_RE.findall(text))
+        candidates.update(CSS_ATTACHMENT_RE.findall(text))
+    return candidates
+
+
+def mirror_external_image_attachments(
+    source_root: Path,
+    routes: RouteConfig,
+    timeout: int = EXTERNAL_IMAGE_TIMEOUT_SECONDS,
+) -> int:
+    """Download third-party image references into the routed source tree."""
+    mirrored = 0
+    for value in sorted(_page_attachment_candidates(source_root)):
+        parsed = urlsplit(value.replace("\\", "/"))
+        if parsed.scheme.lower() not in {"http", "https"} or not parsed.netloc:
+            continue
+        routed = routes.resolve(value)
+        if routed is None or not routed.source_path.startswith(
+            "UploadFiles/legacy/external/"
+        ):
+            continue
+
+        destination = source_root / routed.source_path
+        if destination.is_file():
+            continue
+
+        request = urllib.request.Request(
+            value,
+            headers={"User-Agent": "Shaoxingyizhong-image-sync/1.0"},
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=timeout) as response:
+                content_type = response.headers.get_content_type()
+                if not content_type.startswith("image/"):
+                    raise ValueError(
+                        f"unexpected content type {content_type!r}"
+                    )
+                content = response.read(MAX_EXTERNAL_IMAGE_BYTES + 1)
+                if len(content) > MAX_EXTERNAL_IMAGE_BYTES:
+                    raise ValueError(
+                        f"response exceeds {MAX_EXTERNAL_IMAGE_BYTES} bytes"
+                    )
+        except Exception as error:
+            raise RuntimeError(
+                f"failed to mirror external image {value} -> "
+                f"{routed.source_path}: {error}"
+            ) from error
+
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        temporary: Path | None = None
+        try:
+            with tempfile.NamedTemporaryFile(
+                dir=destination.parent,
+                prefix=f".{destination.name}.",
+                suffix=".codex-download",
+                delete=False,
+            ) as handle:
+                temporary = Path(handle.name)
+                handle.write(content)
+            temporary.replace(destination)
+        finally:
+            if temporary is not None and temporary.exists():
+                temporary.unlink()
+        mirrored += 1
+    return mirrored
+
+
 def materialize_missing_thumbnails(
     source_root: Path, routes: RouteConfig, workspace: Path
 ) -> int:
@@ -191,16 +270,7 @@ def materialize_missing_thumbnails(
     """
     if _image_backend() is None:
         raise RuntimeError("libvips or ImageMagick is required for missing thumbnails")
-    candidates: set[str] = set()
-    for page in sorted(source_root.rglob("*")):
-        if not page.is_file() or page.suffix.lower() not in TEXT_SUFFIXES:
-            continue
-        try:
-            text = page.read_bytes().decode("utf-8")
-        except UnicodeDecodeError:
-            continue
-        candidates.update(ATTACHMENT_VALUE_RE.findall(text))
-        candidates.update(CSS_ATTACHMENT_RE.findall(text))
+    candidates = _page_attachment_candidates(source_root)
 
     created = 0
     for value in sorted(candidates):
@@ -888,6 +958,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.command in {"plan", "sync"}:
         materialized_thumbnails = 0
         if args.command == "sync":
+            mirror_external_image_attachments(args.source, routes)
             materialized_thumbnails = materialize_missing_thumbnails(
                 args.source, routes, args.workspace
             )
