@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>结对帮扶搭平台 专题培训促成长  ——绍兴一中教育集团隆重举行新教师师徒结对仪式暨新入职教师第二期培训--学校新闻-绍兴市第一中学</title>
+    <title>关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知--党政办-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,12 +349,24 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
-<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
+			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -369,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23624.aspx" target="_blank" title="标题：结对帮扶搭平台 专题培训促成长  ——绍兴一中教育集团隆重举行新教师师徒结对仪式暨新入职教师第二期培训&#xD;点击数：57&#xD;发表时间：2026年09月10日">结对帮扶搭平台 专题培训促成长  ——绍兴一中教育集团隆…</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/23590.aspx" target="_blank" title="标题：赓续长征精神，唱响新征程——绍兴一中教育集团2026级新生军训合唱比赛圆满举行&#xD;点击数：45&#xD;发表时间：2026年09月03日">赓续长征精神，唱响新征程——绍兴一中教育集团2026级新…</a><span class="dateRight">[09-03]</span></li><li><a href="/Item/23531.aspx" target="_blank" title="标题：第三篇：大爱与归心——校友与母校的双向奔赴（下）&#xD;点击数：56&#xD;发表时间：2026年08月20日">第三篇：大爱与归心——校友与母校的双向奔赴（下）</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23524.aspx" target="_blank" title="标题：从优秀走向卓越，在一中成就最美｜我校举行2026级新高一始业教育和家长会&#xD;点击数：55&#xD;发表时间：2026年08月20日">从优秀走向卓越，在一中成就最美｜我校举行2026级新高一…</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：163&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li><li class="last"><a href="/Item/23383.aspx" target="_blank" title="标题：与心相逢，向阳生长｜我校举行心理健康月系列活动&#xD;点击数：86&#xD;发表时间：2026年06月15日">与心相逢，向阳生长｜我校举行心理健康月系列活动</a><span class="dateRight">[06-15]</span></li>
+            <li class="first"><a href="/Item/23628.aspx" target="_blank" title="标题：关于开展9月支部主题党日活动的通知&#xD;点击数：106&#xD;发表时间：2026年09月11日">关于开展9月支部主题党日活动的通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23637.aspx" target="_blank" title="标题：关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知&#xD;点击数：24&#xD;发表时间：2026年09月11日">关于公布《绍兴一中教育集团2026/2027学年第一学期行事历…</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23622.aspx" target="_blank" title="标题：2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）&#xD;点击数：271&#xD;发表时间：2026年09月10日">2026年绍兴一中教育集团庆祝教师节活动 （方案代通知）</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：234&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：321&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：192&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li>
           
                     </ul>
                 </div>
@@ -384,30 +396,30 @@ function GetUserInfo1(response){
     
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
-    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
-                    <h3>学校新闻</h3>
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
+                    <h3>党政办</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">结对帮扶搭平台 专题培训促成长  ——绍兴一中教育集团隆重举行新教师师徒结对仪式暨新入职教师第二期培训</h2>
+                        <h2 class="title">关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月10日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23624"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23637"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23624},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23637},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23624";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23637";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -415,8 +427,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="font-family: 黑体;font-size: 16pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
-</p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">为充分发挥骨干教师的示范引领作用，助力青年教师快速成长，9月7日下午，绍兴一中教育集团隆重举行了2026年拜师结对仪式暨新入职教师第二期培训。</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">校党委副书记、校长蒋明，纪委书记、副校长杨佩琼，副校长冯王亮，龙山校区副校长、<span style="font-family: 宋体; font-size: 14.6667px; text-indent: 29.76px;">高一年管会主任</span>祝智浩，以及结对新老教师共同参与本次活动，教科室副主任赵正瑜主持活动。</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-size: 11pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950432685.Jpeg" style="width: 4.429167in; height: 2.429167in" alt="202609100950437204.Jpeg" /></span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">环节一：师徒结对启新程</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">为使青年教师尽快适应教学岗位和教学环境，我校举行了新教师师徒结对仪式，祝</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">智浩</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">现场公布师徒结对名单。随后，</span><a href="http://new.chinareports.org.cn/index.php/index/news/53427.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">在全场热烈的掌声中，</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">蒋明、杨佩琼、冯王亮、祝智浩</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">分别</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">为指导教师们颁发聘书，并合影留念</span><a href="https://www.hsxedu.com/jyky/jyhd/content_18124.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。一纸聘书，承载的是学校的信任与重托，更是沉甸甸的责任</span><a href="http://www.zjteacher.net/info/1078/11570.htm"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950432356.Png" style="width: 4.627778in; height: 2.875695in" alt="202609100950436543.Png" /></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950434296.Png" style="width: 2.465972in; height: 1.600694in" alt="202609100950439680.Png" /></span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">  </span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950438412.Png" style="width: 2.477083in; height: 1.582639in" alt="202609100950431408.Png" /></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">  </span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950435680.Png" style="width: 2.494444in; height: 1.660417in" alt="202609100950437160.Png" /></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">   </span><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950431190.Png" style="width: 2.417361in; height: 1.679167in" alt="202609100950436229.Png" /></span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;"><span style="font-size: 11pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">环节二：师徒心声共融通</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">在代表发言环节，导师代</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">表章思怡老师</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">郑重表示，将以身作则，倾囊相授，在教育教学的各个环节尽职尽责做好指导，与青年教师平等交流、互学共进</span><a href="http://www.zjteacher.net/info/1078/11570.htm"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><a href="https://www.hsxedu.com/jyky/jyhd/content_18124.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。新教师代</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">表姜文清老师则表</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">达了对学校搭建成长平台、对导师悉心指导的感激之情，并表示将以导师为榜样，虚心求教、勤学善思、勇于实践，力争早日站稳讲台、站好讲台</span><a href="http://www.zjteacher.net/info/1078/11570.htm"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><a href="https://www.hsxedu.com/jyky/jyhd/content_18124.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 11pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950434935.Jpeg" style="width: 2.630556in; height: 1.755556in" alt="202609100950431603.Jpeg" /></span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">   </span><span style="font-size: 11pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950435072.Jpeg" style="width: 2.677778in; height: 1.7875in" alt="202609100950432338.Jpeg" /></span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">环节三：领导寄语催奋进</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">蒋明作总结寄语。他指出，教师结对帮扶是学校加强教师队伍建设的重要举措，是教育薪火相传的生动实践</span><a href="https://www.hsxedu.com/jyky/jyhd/content_18124.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。他希望导师们切实履行“传、帮、带”职责，以高尚的师德和精湛的业务做好示范引领，守正创新</span><a href="https://jtj.tl.gov.cn/tlsjyhtyj/c00126/pc/content/content_2096772298145849344.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。他还勉励青年教师珍惜机遇、勤学笃行，在磨砺中实现专业成长</span><a href="https://jtj.tl.gov.cn/tlsjyhtyj/c00126/pc/content/content_2096772298145849344.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">，期待师徒双方携手同行、教学相长，共同为学校教育事业高质量发展贡献力量</span><a href="http://www.zjteacher.net/info/1078/11570.htm"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><a href="https://www.hsxedu.com/jyky/jyhd/content_18124.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 11pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950436412.Jpeg" style="width: 4.020139in; height: 2.683333in" alt="202609100950433151.Jpeg" /></span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">环节四：谆谆分享启新思</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">师徒结对仪式结束后，学校随即开展了青年教师专题培训，本次培训邀请了冯王亮主讲。培训伊始，冯王亮便语重心长地指出，教师这份职业既是一份荣誉，更是一份沉甸甸的挑战。首先，面对家长因孩子优秀而产生的殷切期待与无形压力，青年教师要学会换位思考，理解家长的焦虑与关切，将压力转化为家校共育的动力。其次，在备课层面，他强调备课不仅要吃透教材，更要在提问设计上下功夫，问题要问到点子上、关键处，吸引学生抬头思考、主动探究，真正激发课堂兴趣。他特别提醒要关注学生心理健康，指出教育需要长期的耐心与深刻的理解。最后，冯王亮还对青年教师提出了殷切期望，勉励大家要主动担当、积极作为，养成主动请教的习惯，同时心怀感恩，</span><span style="background: #FFFFFF;color: #0F1115;font-family: 宋体;font-size: 11pt;letter-spacing: 0;margin: 0;padding: 0;">在互帮互助中传承教育的温度与力量。</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="background: #FFFFFF;color: #0F1115;font-size: 11pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609100950439059.Jpeg" style="width: 3.076389in; height: 2.426389in" alt="202609100950438742.Jpeg" /></span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.31in;"><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">此次新教师拜师结对仪式的成功举行，不仅为青年教师的专业成长注入了强劲动力，也为学校教师队伍建设增添了薪火相传的温暖底色</span><a href="https://www.hsxedu.com/jyky/jyhd/content_18124.html"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"><span style="font-size: 11pt;margin: 0;padding: 0;"></span></span></span></a><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">。骨干教师</span><span style="background: #FFFFFF;color: #0F1115;font-family: 宋体;font-size: 11pt;letter-spacing: 0;margin: 0;padding: 0;">为初登讲台的青年教师指明了方向，让他们在榜样的引领下学有标杆、行有示范，</span><span style="font-family: 宋体;font-size: 11pt;margin: 0;padding: 0;">相信在骨干教师的悉心引领下，青年教师必将快速成长，成为学校发展的中坚力量，共同谱写教育新篇章。</span></p><p style="font-family: 宋体;font-size: 11pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;text-indent: 0.31in;"><span style="font-size: 11pt;margin: 0;padding: 0;"> </span></p>
+     <p><img src="/UploadFiles/xwzx/2026/9/202609111610248601.png" style="max-width: 100%; " title="202609111610248601.png" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609111610246397.png" style="max-width: 100%; " title="202609111610246397.png" /></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -425,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23591.aspx" target="_self" title="标题：训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行&#xD;点击数：73&#xD;发表时间：26年09月03日">训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级…</a>[ 09-03 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23628.aspx" target="_self" title="标题：关于开展9月支部主题党日活动的通知&#xD;点击数：106&#xD;发表时间：26年09月11日">关于开展9月支部主题党日活动的通知</a>[ 09-11 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

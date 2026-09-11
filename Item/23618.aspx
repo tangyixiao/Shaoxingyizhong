@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23630.aspx" target="_blank" title="标题：今天（周五）中午跑操考核员会议通知&#xD;点击数：59&#xD;发表时间：2026年09月11日">今天（周五）中午跑操考核员会议通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23627.aspx" target="_blank" title="标题：9.9班级一日考核&#xD;点击数：69&#xD;发表时间：2026年09月10日">9.9班级一日考核</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：181&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23626.aspx" target="_blank" title="标题：寻物启事（饭卡）&#xD;点击数：49&#xD;发表时间：2026年09月10日">寻物启事（饭卡）</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/18424.aspx" target="_blank" title="标题：绍兴一中教育集团班级日常检查内容及扣分标准&#xD;点击数：2195&#xD;发表时间：2024年09月11日"><font style="font-weight:bold;font-style:normal;;">绍兴一中教育集团班级日常检查内容及扣分标准</font></a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/23621.aspx" target="_blank" title="标题：9.8班级一日考核&#xD;点击数：86&#xD;发表时间：2026年09月09日">9.8班级一日考核</a><span class="dateRight">[09-09]</span></li>
+            <li class="first"><a href="/Item/23630.aspx" target="_blank" title="标题：今天（周五）中午跑操考核员会议通知&#xD;点击数：71&#xD;发表时间：2026年09月11日">今天（周五）中午跑操考核员会议通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23636.aspx" target="_blank" title="标题：关于公布新学期获得“美丽教室”荣誉的班级的通知&#xD;点击数：36&#xD;发表时间：2026年09月11日">关于公布新学期获得“美丽教室”荣誉的班级的通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23627.aspx" target="_blank" title="标题：9.9班级一日考核&#xD;点击数：72&#xD;发表时间：2026年09月10日">9.9班级一日考核</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：188&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23626.aspx" target="_blank" title="标题：寻物启事（饭卡）&#xD;点击数：51&#xD;发表时间：2026年09月10日">寻物启事（饭卡）</a><span class="dateRight">[09-10]</span></li><li><a href="/Item/18424.aspx" target="_blank" title="标题：绍兴一中教育集团班级日常检查内容及扣分标准&#xD;点击数：2197&#xD;发表时间：2024年09月11日"><font style="font-weight:bold;font-style:normal;;">绍兴一中教育集团班级日常检查内容及扣分标准</font></a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/23621.aspx" target="_blank" title="标题：9.8班级一日考核&#xD;点击数：87&#xD;发表时间：2026年09月09日">9.8班级一日考核</a><span class="dateRight">[09-09]</span></li>
           
                     </ul>
                 </div>
@@ -439,7 +439,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23616.aspx" target="_self" title="标题：9.7班级一日考核&#xD;点击数：80&#xD;发表时间：26年09月08日">9.7班级一日考核</a>[ 09-08 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23616.aspx" target="_self" title="标题：9.7班级一日考核&#xD;点击数：81&#xD;发表时间：26年09月08日">9.7班级一日考核</a>[ 09-08 ]</div>
                             <div class="next"><span>下一篇：</span><a href="/Item/23619.aspx" target="_self" title="标题：大课间跑操考核员招募通知&#xD;点击数：87&#xD;发表时间：26年03月06日">大课间跑操考核员招募通知</a>[ 03-06 ]</div>
                         </div>
                     </div>
