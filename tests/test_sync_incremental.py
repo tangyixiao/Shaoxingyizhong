@@ -60,7 +60,6 @@ class IncrementalSyncTests(unittest.TestCase):
                 "/project/repo/attachment_routes.json",
                 "--workspace",
                 "/project/shards",
-                "--prune-missing",
             ],
         )
     def test_selects_only_2026_or_newer_attachment_paths(self):
