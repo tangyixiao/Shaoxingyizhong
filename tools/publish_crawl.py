@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import os
 import shutil
 import subprocess
 import tempfile
@@ -295,11 +296,56 @@ def run_git(repo: Path, *args: str) -> None:
     subprocess.run(["git", *args], cwd=repo, check=True)
 
 
-def commit_changes(repo: Path, changed: list[str], message: str, push: bool) -> None:
-    if not changed:
+def deleted_tracked_paths(repo: Path) -> list[str]:
+    """Return tracked files absent from the worktree without running git status."""
+    tracked_output = subprocess.run(
+        ["git", "ls-files", "-z"],
+        cwd=repo,
+        check=True,
+        capture_output=True,
+    ).stdout
+    tracked = {
+        os.fsdecode(path)
+        for path in tracked_output.split(b"\0")
+        if path
+    }
+    present: set[str] = set()
+    for directory, directory_names, file_names in os.walk(repo):
+        directory_names[:] = [name for name in directory_names if name != ".git"]
+        for name in file_names:
+            path = Path(os.path.relpath(os.path.join(directory, name), repo))
+            present.add(path.as_posix())
+    return sorted(tracked - present)
+
+
+def add_paths(repo: Path, paths: list[str]) -> None:
+    """Stage only explicit paths, including paths deleted from the worktree."""
+    if not paths:
+        return
+    pathspec = "\0".join(paths) + "\0"
+    subprocess.run(
+        ["git", "add", "--all", "--pathspec-from-file=-", "--pathspec-file-nul"],
+        cwd=repo,
+        check=True,
+        input=pathspec,
+        text=True,
+        capture_output=True,
+    )
+
+
+def commit_changes(
+    repo: Path,
+    changed: list[str],
+    message: str,
+    push: bool,
+    include_deletions: bool = False,
+) -> None:
+    deletions = deleted_tracked_paths(repo) if include_deletions else []
+    paths = list(dict.fromkeys(changed + deletions))
+    if not paths:
         print("没有变化，不创建 commit")
         return
-    run_git(repo, "add", "--", *changed)
+    add_paths(repo, paths)
     run_git(repo, "commit", "-m", message)
     if push:
         run_git(repo, "push")
@@ -311,6 +357,11 @@ def main() -> int:
     parser.add_argument("--repo", type=Path, required=True, help="GitHub 仓库工作副本")
     parser.add_argument("--commit", action="store_true", help="自动创建 commit")
     parser.add_argument("--push", action="store_true", help="commit 后推送到 origin")
+    parser.add_argument(
+        "--include-deletions",
+        action="store_true",
+        help="显式收集并提交工作区中已删除的受跟踪文件",
+    )
     parser.add_argument("--message", default="chore: update crawled site files")
     parser.add_argument("--visited-file", type=Path, help="只同步本轮爬取 visited.json 中的 URL")
     args = parser.parse_args()
@@ -323,7 +374,13 @@ def main() -> int:
     changed = sync_crawl_paths(args.source, args.repo, urls)
     print(f"changed_files={len(changed)}")
     if args.commit:
-        commit_changes(args.repo, changed, args.message, args.push)
+        commit_changes(
+            args.repo,
+            changed,
+            args.message,
+            args.push,
+            include_deletions=args.include_deletions,
+        )
     return 0
 
 

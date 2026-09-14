@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>团学动态-绍兴市第一中学</title>
+    <title>学时登记：2026暑期模拟联合国志愿者学分--实践学分-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -260,11 +259,11 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID380">
   <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1 on1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
   <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
 </li>
-<li class="li2 on2" id="liID99">
+<li class="li2" id="liID99">
   <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
@@ -342,9 +341,9 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202101182102504635.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -355,11 +354,11 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_98/Index.aspx">学生之星</a></li>
-<li class="li2 on"><a href="/Category_99/Index.aspx">团学动态</a></li>
+<li class="li2"><a href="/Category_99/Index.aspx">团学动态</a></li>
 <li class="li3"><a href="/Category_100/Index.aspx">社团风采</a></li>
 <li class="li4"><a href="/Category_103/Index.aspx">艺术教育</a></li>
 <li class="li5"><a href="/Category_105/Index.aspx">校园安全</a></li>
-<li class="li6"><a href="/Category_368/Index.aspx">实践学分</a></li>
+<li class="li6 on"><a href="/Category_368/Index.aspx">实践学分</a></li>
 <li class="li7"><a href="/Category_369/Index.aspx">饮水思源</a></li>
 <li class="li8"><a href="/Category_388/Index.aspx">志愿活动</a></li>
 <li class="li9 last"><a href="/Category_382/Index.aspx">校园活动</a></li>
@@ -370,90 +369,81 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/17343.aspx" target="_blank" title="标题：【宣传部】开会通知&#xD;点击数：52&#xD;发表时间：2023年02月23日">【宣传部】开会通知</a><span class="dateRight">[02-23]</span></li><li><a href="/Item/17293.aspx" target="_blank" title="标题：【广电部】高一干事会议通知&#xD;点击数：81&#xD;发表时间：2023年02月15日">【广电部】高一干事会议通知</a><span class="dateRight">[02-15]</span></li><li><a href="/Item/16449.aspx" target="_blank" title="标题：【宣传部】开会通知&#xD;点击数：50&#xD;发表时间：2022年10月27日">【宣传部】开会通知</a><span class="dateRight">[10-27]</span></li><li><a href="/Item/16370.aspx" target="_blank" title="标题：【商社】社团课通知&#xD;点击数：93&#xD;发表时间：2022年10月15日">【商社】社团课通知</a><span class="dateRight">[10-15]</span></li><li><a href="/Item/16109.aspx" target="_blank" title="标题：【广电部】排练通知&#xD;点击数：79&#xD;发表时间：2022年09月06日">【广电部】排练通知</a><span class="dateRight">[09-06]</span></li><li><a href="/Item/15998.aspx" target="_blank" title="标题：新团员发展基本流程&#xD;点击数：605&#xD;发表时间：2023年05月27日"><font style="font-weight:bold;font-style:normal;;">新团员发展基本流程</font></a><span class="dateRight">[05-27]</span></li><li class="last"><a href="/Item/15113.aspx" target="_blank" title="标题：【权益部】检查活动通知&#xD;点击数：95&#xD;发表时间：2022年03月09日">【权益部】检查活动通知</a><span class="dateRight">[03-09]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23641.aspx" target="_blank" title="标题：学时登记：2026.5.30 高三喊楼活动&#xD;点击数：3&#xD;发表时间：2026年09月12日">学时登记：2026.5.30 高三喊楼活动</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23640.aspx" target="_blank" title="标题：学时登记：2026暑期模拟联合国志愿者学分&#xD;点击数：3&#xD;发表时间：2026年09月12日">学时登记：2026暑期模拟联合国志愿者学分</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/16837.aspx" target="_blank" title="标题：学时登记：2022暑期职业体验&#xD;点击数：107&#xD;发表时间：2022年11月14日">学时登记：2022暑期职业体验</a><span class="dateRight">[11-14]</span></li><li><a href="/Item/23642.aspx" target="_blank" title="标题：学时登记：2026.6高考志愿者&#xD;点击数：2&#xD;发表时间：2026年09月12日">学时登记：2026.6高考志愿者</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23274.aspx" target="_blank" title="标题：学时登记：2026.5.23招生考试&#xD;点击数：44&#xD;发表时间：2026年05月25日">学时登记：2026.5.23招生考试</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/22926.aspx" target="_blank" title="标题：学时登记：摄影社寒假模拟联合国活动&#xD;点击数：25&#xD;发表时间：2026年03月26日">学时登记：摄影社寒假模拟联合国活动</a><span class="dateRight">[03-26]</span></li><li class="last"><a href="/Item/22882.aspx" target="_blank" title="标题：学时登记：寒假模拟联合国学分&#xD;点击数：37&#xD;发表时间：2026年03月18日">学时登记：寒假模拟联合国学分</a><span class="dateRight">[03-18]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=99>团学动态</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
     <a href="/Category_9/Index.aspx" target="_self">莘莘学子</a>&gt;
-    <a href="/Category_99/Index.aspx" target="_self">团学动态</a></div>
-                    <h3>团学动态</h3>
+    <a href="/Category_368/Index.aspx" target="_self">实践学分</a></div>
+                    <h3>实践学分</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2023-05-27</span><img src="/images/elite1.gif" alt="推荐"><a href="/Item/15998.aspx" target="_self" title="标题：新团员发展基本流程&#xD;点击数：605&#xD;发表时间：2023年05月27日"><font style="font-weight:bold;font-style:normal;;">新团员发展基本流程</font></a></li><li><span class="date">2021-09-19</span><img src="/images/elite1.gif" alt="推荐"><a href="/Item/13968.aspx" target="_self" title="标题：团支部考核细则&#xD;点击数：559&#xD;发表时间：2021年09月19日"><font style="font-weight:bold;font-style:normal;;">团支部考核细则</font></a></li><li><span class="date">2025-09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21992.aspx" target="_self" title="标题：我校第二十六次学生代表大会暨第二十六届团学联主席团选举大会顺利举行&#xD;点击数：13&#xD;发表时间：2025年09月28日">我校第二十六次学生代表大会暨第二十六届团学联主席团选举大会顺利举行</a></li><li><span class="date">2023-02-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17343.aspx" target="_self" title="标题：【宣传部】开会通知&#xD;点击数：52&#xD;发表时间：2023年02月23日">【宣传部】开会通知</a></li><li><span class="date">2023-02-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17293.aspx" target="_self" title="标题：【广电部】高一干事会议通知&#xD;点击数：81&#xD;发表时间：2023年02月15日">【广电部】高一干事会议通知</a></li><li class="split"></li><li><span class="date">2022-10-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16449.aspx" target="_self" title="标题：【宣传部】开会通知&#xD;点击数：50&#xD;发表时间：2022年10月27日">【宣传部】开会通知</a></li><li><span class="date">2022-10-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16370.aspx" target="_self" title="标题：【商社】社团课通知&#xD;点击数：93&#xD;发表时间：2022年10月15日">【商社】社团课通知</a></li><li><span class="date">2022-09-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16109.aspx" target="_self" title="标题：【广电部】排练通知&#xD;点击数：79&#xD;发表时间：2022年09月06日">【广电部】排练通知</a></li><li><span class="date">2022-03-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/15113.aspx" target="_self" title="标题：【权益部】检查活动通知&#xD;点击数：95&#xD;发表时间：2022年03月09日">【权益部】检查活动通知</a></li><li><span class="date">2022-02-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14983.aspx" target="_self" title="标题：【毕业视频】筹备会议&#xD;点击数：105&#xD;发表时间：2022年02月21日">【毕业视频】筹备会议</a></li><li class="split"></li><li><span class="date">2022-02-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14942.aspx" target="_self" title="标题：【权益部】今天中午开会通知&#xD;点击数：31&#xD;发表时间：2022年02月16日">【权益部】今天中午开会通知</a></li><li><span class="date">2021-11-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14507.aspx" target="_self" title="标题：【纪检部】干事会议通知&#xD;点击数：63&#xD;发表时间：2021年11月25日">【纪检部】干事会议通知</a></li><li><span class="date">2021-11-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14428.aspx" target="_self" title="标题：【权益部】干事会议通知&#xD;点击数：33&#xD;发表时间：2021年11月16日">【权益部】干事会议通知</a></li><li><span class="date">2021-11-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14412.aspx" target="_self" title="标题：【宣传部】全体干事会议通知&#xD;点击数：35&#xD;发表时间：2021年11月15日">【宣传部】全体干事会议通知</a></li><li><span class="date">2021-10-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14160.aspx" target="_self" title="标题：【纪检部】开会通知&#xD;点击数：50&#xD;发表时间：2021年10月13日">【纪检部】开会通知</a></li><li class="split"></li><li><span class="date">2021-10-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14095.aspx" target="_self" title="标题：【宣传部】新干事会议通知&#xD;点击数：42&#xD;发表时间：2021年10月06日">【宣传部】新干事会议通知</a></li><li><span class="date">2021-09-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13971.aspx" target="_self" title="标题：主题团课、团日活动材料上传要求&#xD;点击数：95&#xD;发表时间：2021年09月19日"><font style="font-weight:bold;font-style:normal;;">主题团课、团日活动材料上传要求</font></a></li><li><span class="date">2021-03-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13031.aspx" target="_self" title="标题：课间音乐投放规则&#xD;点击数：573&#xD;发表时间：2021年03月31日"><font style="font-weight:bold;font-style:normal;;">课间音乐投放规则</font></a></li><li><span class="date">2021-03-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12931.aspx" target="_self" title="标题：【文艺部】开会通知&#xD;点击数：47&#xD;发表时间：2021年03月22日">【文艺部】开会通知</a></li><li><span class="date">2020-11-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12138.aspx" target="_self" title="标题：【文艺部】部门会议通知&#xD;点击数：123&#xD;发表时间：2020年11月12日"><font style=";">【文艺部】部门会议通知</font></a></li><li class="split"></li><li><span class="date">2020-10-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/11966.aspx" target="_self" title="标题：第21届团学联主要学生干部&#xD;点击数：613&#xD;发表时间：2020年10月09日">第21届团学联主要学生干部</a></li><li><span class="date">2020-09-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/11909.aspx" target="_self" title="标题：2020学年团学联高一新干事名单（试用）&#xD;点击数：337&#xD;发表时间：2020年09月26日"><font style=";">2020学年团学联高一新干事名单（试用）</font></a></li><li><span class="date">2019-10-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/10843.aspx" target="_self" title="标题：2019团学联新干事培训会圆满举行&#xD;点击数：445&#xD;发表时间：2019年10月24日">2019团学联新干事培训会圆满举行</a></li><li><span class="date">2019-10-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/10686.aspx" target="_self" title="标题：第20届团学联高一新干事名单（试用）&#xD;点击数：931&#xD;发表时间：2019年10月10日"><font style=";">第20届团学联高一新干事名单（试用）</font></a></li><li><span class="date">2019-01-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/9700.aspx" target="_self" title="标题：2019迎新牛轧糖DIY活动圆满举行&#xD;点击数：641&#xD;发表时间：2019年01月21日"><font style=";">2019迎新牛轧糖DIY活动圆满举行</font></a></li><li class="split"></li><li><span class="date">2018-05-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/8598.aspx" target="_self" title="标题：高二（9）班张杨含笑在第25期课余党校开班仪式上的发言&#xD;点击数：873&#xD;发表时间：2018年05月21日"><font style=";">高二（9）班张杨含笑在第25期课余党校开班仪式上的发言</font></a></li><li><span class="date">2018-05-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/8597.aspx" target="_self" title="标题：高三（8）班王可青在第24期课余党校结业仪式上的发言&#xD;点击数：1581&#xD;发表时间：2018年05月21日"><font style=";">高三（8）班王可青在第24期课余党校结业仪式上的发言</font></a></li><li><span class="date">2018-05-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/8537.aspx" target="_self" title="标题：博闻&amp;#8226;博雅——第三届“博雅杯”知识竞赛顺利进行&#xD;点击数：831&#xD;发表时间：2018年05月14日"><font style=";">博闻&amp;#8226;博雅——第三届“博雅杯”知识竞赛顺利进行</font></a></li><li><span class="date">2018-01-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/7954.aspx" target="_self" title="标题：绍兴市第一中学成功举办第二届“博雅杯”诗词大会&#xD;点击数：678&#xD;发表时间：2018年01月15日"><font style=";">绍兴市第一中学成功举办第二届“博雅杯”诗词大会</font></a></li><li><span class="date">2018-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/7939.aspx" target="_self" title="标题：元旦牛轧糖DIY活动圆满结束&#xD;点击数：693&#xD;发表时间：2018年01月10日"><font style=";">元旦牛轧糖DIY活动圆满结束</font></a></li><li class="split"></li><li><span class="date">2018-01-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/7937.aspx" target="_self" title="标题：2018年首次团学联例会顺利举行&#xD;点击数：364&#xD;发表时间：2018年01月10日"><font style=";">2018年首次团学联例会顺利举行</font></a></li><li><span class="date">2017-11-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/7655.aspx" target="_self" title="标题：博雅学子，共发“金声”&#xD;点击数：1389&#xD;发表时间：2017年11月20日"><font style=";">博雅学子，共发“金声”</font></a></li><li><span class="date">2016-09-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/5559.aspx" target="_self" title="标题：“我们的节日&amp;#8226;中秋”活动集锦&#xD;点击数：592&#xD;发表时间：2016年09月20日"><font style=";">“我们的节日&amp;#8226;中秋”活动集锦</font></a></li><li><span class="date">2011-06-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/4222.aspx" target="_self" title="标题：学弟学妹，我们在这里!&#xD;点击数：17767&#xD;发表时间：2011年06月23日"><font style=";">学弟学妹，我们在这里!</font></a></li><li class="last"><span class="date">2011-05-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/4079.aspx" target="_self" title="标题：团委纪检部对放学时段排队上公交车情况进行检查&#xD;点击数：11135&#xD;发表时间：2011年05月31日"><font style=";">团委纪检部对放学时段排队上公交车情况进行检查</font></a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> <a href="Index_2.aspx">2</a> <a href="Index_3.aspx">3</a> 
-<a href="Index_2.aspx">下一页</a>
- <a href="Index_3.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">学时登记：2026暑期模拟联合国志愿者学分</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月12日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23640"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23640},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23640";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;">请相关班级的团支书及时登记、更新下列同学的学分登记表，</span><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;">登记在“志愿服务”栏内。</span></p><p><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;"></span></p><table width="144"><colgroup><col width="48" span="3" style="width: 48pt;" /></colgroup><tbody><tr style="height: 17.6pt;" class="firstRow"><td class="et2 selectTdClass" width="48" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">班级</td><td class="et2 selectTdClass" width="48" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">姓名</td><td class="et2 selectTdClass" width="48" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">学分</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">106</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">陈泽颖</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.5</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">111</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">任清兰</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.35</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">112</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">莫晓熙</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.25</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">现203</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">张寒河</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.35</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">现210</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">王思杰</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.75</td></tr></tbody></table><p><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;"></span>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23274.aspx" target="_self" title="标题：学时登记：2026.5.23招生考试&#xD;点击数：44&#xD;发表时间：26年05月25日">学时登记：2026.5.23招生考试</a>[ 05-25 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23641.aspx" target="_self" title="标题：学时登记：2026.5.30 高三喊楼活动&#xD;点击数：3&#xD;发表时间：26年09月12日">学时登记：2026.5.30 高三喊楼活动</a>[ 09-12 ]</div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -485,6 +475,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

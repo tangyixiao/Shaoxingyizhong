@@ -16,6 +16,7 @@ from tools.sync_image_shards import (
     batch_entries,
     bootstrap_repository,
     build_inventory,
+    clone_repository_command,
     configure_repository,
     main,
     materialize_missing_thumbnails,
@@ -55,6 +56,24 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertEqual(entries[0].source_path, "UploadFiles/xwzx/2026/7/a.JPG")
             self.assertEqual(entries[0].repository, "Shaoxingyizhong-img-xwzx-2026-h2")
             self.assertEqual(entries[0].sha256, "6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d")
+
+    def test_clone_command_uses_blobless_no_checkout_mode(self):
+        self.assertEqual(
+            clone_repository_command(
+                "tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1",
+                Path("/tmp/shard"),
+            ),
+            [
+                "gh",
+                "repo",
+                "clone",
+                "tangyixiao/Shaoxingyizhong-img-xwzx-2022-h1",
+                "/tmp/shard",
+                "--",
+                "--filter=blob:none",
+                "--no-checkout",
+            ],
+        )
 
     def test_mirrors_external_images_into_the_routed_attachment_path(self):
         image_bytes = b"fake png bytes"
@@ -238,6 +257,32 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertEqual(result["deleted_paths"], 0)
             self.assertTrue((repo / entries[0].target_path).exists())
             self.assertNotIn(entries[0].target_path, (repo / "deletions.tsv").read_text())
+
+    def test_sync_prunes_manifested_images_only_when_explicitly_requested(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            temp = Path(tmp)
+            source = temp / "source"
+            workspace = temp / "workspace"
+            repo = temp / "repo"
+            image = source / "UploadFiles" / "xwzx" / "2026" / "7" / "a.jpg"
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"first image")
+            self._init_repo(repo)
+
+            entries = build_inventory(source, self.routes, workspace)
+            sync_repository(entries, repo, max_commit_bytes=100, push=False)
+            image.unlink()
+
+            result = sync_repository(
+                [], repo, max_commit_bytes=100, push=False, prune_missing=True
+            )
+
+            self.assertEqual(result["deleted_paths"], 1)
+            self.assertFalse((repo / entries[0].target_path).exists())
+            self.assertIn(
+                entries[0].target_path,
+                (repo / "deletions.tsv").read_text(encoding="utf-8"),
+            )
 
     def test_sync_recovers_empty_manifest_from_git_head(self):
         with tempfile.TemporaryDirectory() as tmp:

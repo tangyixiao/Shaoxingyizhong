@@ -1,16 +1,48 @@
 import tempfile
 import unittest
+import subprocess
 from pathlib import Path
 from unittest import mock
 
 from tools.sync_incremental import assign_shards, is_selected_attachment, load_manifest
 from tools.build_pages import build_site
-from tools.publish_crawl import sync_crawl, sync_crawl_paths
+from tools.publish_crawl import commit_changes, sync_crawl, sync_crawl_paths
 from tools.update_from_intranet import recent_branch_paths
 from tools.update_from_intranet import image_sync_command
 
 
 class IncrementalSyncTests(unittest.TestCase):
+    def test_commit_can_stage_explicitly_requested_deleted_tracked_files(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp) / "repo"
+            repo.mkdir()
+            subprocess.run(["git", "init", "-b", "main"], cwd=repo, check=True, capture_output=True)
+            subprocess.run(["git", "config", "user.name", "Test"], cwd=repo, check=True)
+            subprocess.run(["git", "config", "user.email", "test@example.invalid"], cwd=repo, check=True)
+            old = repo / "Item" / "100.aspx"
+            old.parent.mkdir()
+            old.write_text("old", encoding="utf-8")
+            subprocess.run(["git", "add", "--", "Item/100.aspx"], cwd=repo, check=True)
+            subprocess.run(["git", "commit", "-m", "seed"], cwd=repo, check=True, capture_output=True)
+
+            old.unlink()
+            commit_changes(
+                repo,
+                [],
+                "remove old archive",
+                push=False,
+                include_deletions=True,
+            )
+
+            tracked = subprocess.run(
+                ["git", "ls-files", "--", "Item/100.aspx"],
+                cwd=repo,
+                check=True,
+                capture_output=True,
+                text=True,
+            ).stdout
+            self.assertEqual(tracked, "")
+
     def test_image_sync_command_uses_existing_shard_workspace(self):
         self.assertEqual(
             image_sync_command(
