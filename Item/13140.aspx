@@ -1,0 +1,504 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>【2020年11月学习材料】--学习专栏-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Shaoxingyizhong/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Shaoxingyizhong/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Shaoxingyizhong/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Shaoxingyizhong/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Shaoxingyizhong/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23163.aspx" target="_blank" title="标题：每周一学（2026年5月4日-5月10日）着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全&#xD;点击数：20&#xD;发表时间：2026年05月07日">每周一学（2026年5月4日-5月10日）着力提高防范应对自然…</a><span class="dateRight">[05-07]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    <a href="/Shaoxingyizhong/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Shaoxingyizhong/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+                    <h3>学习专栏</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">【2020年11月学习材料】</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2020年11月05日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=13140"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:13140},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=13140";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="margin-top:30px;text-align:left;background:white"><strong><span style="font-size:16px;font-family:'微软雅黑',sans-serif;color:#333333">绍兴一中党委理论学习中心组学习材料第十专题</span></strong></p><p style="margin-top:30px;text-align:left;background:white"><strong><span style="font-size:16px;font-family:'微软雅黑',sans-serif;color:#333333"></span></strong></p><h1 style="margin: 20px auto 15px; padding: 0px; font-size: 24px; text-align: center; font-family: 微软雅黑; line-height: 32px; white-space: normal; background-color: rgb(255, 255, 255);">中共十九届五中全会在京举行</h1><h2 style="margin: 0px auto 10px; padding: 0px; font-size: 16px; text-align: center; font-family: 宋体; white-space: normal; background-color: rgb(255, 255, 255);">中央政治局主持会议 中央委员会总书记习近平作重要讲话
+全会听取和讨论了习近平受中央政治局委托作的工作报告
+全会审议通过了《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》
+全会号召，全党全国各族人民要紧密团结在以习近平同志为核心的党中央周围，同心同德，顽强奋斗，夺取全面建设社会主义现代化国家新胜利</h2><p class="sou" style="margin: 10px auto 0px; padding: 0px; width: 639.609px; text-align: center; font-family: 宋体; font-size: 12px; white-space: normal; background-color: rgb(255, 255, 255);">2020年10月30日07:48    来源：<a href="http://paper.people.com.cn/rmrb/html/2020-10/30/nw.D110000renmrb_20201030_1-01.htm" target="_blank" style="color: rgb(0, 0, 0); text-decoration-line: none;">人民网－人民日报</a></p><table class="pci_c" width="400"><tbody><tr class="firstRow"><td align="center" style="margin: 0px; padding: 0px;"></td></tr><tr><td style="margin: 0px; padding: 0px;"><p style="margin: 10px auto; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">中国共产党第十九届中央委员会第五次全体会议，于2020年10月26日至29日在北京举行。中央委员会总书记习近平作重要讲话。
+　　新华社记者 鞠 鹏摄</p></td></tr></tbody></table><table class="pci_c" width="400"><tbody><tr class="firstRow"><td align="center" style="margin: 0px; padding: 0px;"><img src="/Shaoxingyizhong/UploadFiles/dw/2021/4/202104102011132669.jpg" style="border: none;" /></td></tr><tr><td style="margin: 0px; padding: 0px;"><p style="margin: 10px auto; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">中国共产党第十九届中央委员会第五次全体会议，于2020年10月26日至29日在北京举行。中央政治局主持会议。
+　　新华社记者 殷博古摄</p></td></tr></tbody></table><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会一致认为，面对错综复杂的国际形势、艰巨繁重的国内改革发展稳定任务特别是新冠肺炎疫情严重冲击，以习近平同志为核心的党中央不忘初心、牢记使命，团结带领全党全国各族人民砥砺前行、开拓创新，奋发有为推进党和国家各项事业，战胜各种风险挑战，中国特色社会主义的航船继续乘风破浪、坚毅前行。实践再次证明，有习近平同志作为党中央的核心、全党的核心领航掌舵，有全党全国各族人民团结一心、顽强奋斗，我们就一定能够战胜前进道路上出现的各种艰难险阻，一定能够在新时代把中国特色社会主义更加有力地推向前进</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">新华社北京10月29日电  中国共产党第十九届中央委员会第五次全体会议公报</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">（2020年10月29日中国共产党第十九届中央委员会第五次全体会议通过）</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">中国共产党第十九届中央委员会第五次全体会议，于2020年10月26日至29日在北京举行。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">出席这次全会的有，中央委员198人，候补中央委员166人。中央纪律检查委员会常务委员会委员和有关方面负责同志列席会议。党的十九大代表中的部分基层同志和专家学者也列席会议。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会由中央政治局主持。中央委员会总书记习近平作了重要讲话。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会听取和讨论了习近平受中央政治局委托作的工作报告，审议通过了《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》。习近平就《建议（讨论稿）》向全会作了说明。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会充分肯定党的十九届四中全会以来中央政治局的工作。一致认为，一年来，中央政治局高举中国特色社会主义伟大旗帜，坚持以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社会主义思想为指导，全面贯彻党的十九大和十九届二中、三中、四中全会精神，增强“四个意识”、坚定“四个自信”、做到“两个维护”，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，坚持稳中求进工作总基调，坚持新发展理念，坚定不移推进改革开放，沉着有力应对各种风险挑战，统筹新冠肺炎疫情防控和经济社会发展工作，把人民生命安全和身体健康放在第一位，把握扩大内需这个战略基点，深化供给侧结构性改革，加大宏观政策应对力度，扎实做好“六稳”工作、全面落实“六保”任务，坚决维护国家主权、安全、发展利益，疫情防控工作取得重大战略成果，三大攻坚战扎实推进，经济增长好于预期，人民生活得到有力保障，社会大局保持稳定，中国特色大国外交积极推进，党和国家各项事业取得新的重大成就。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会一致认为，面对错综复杂的国际形势、艰巨繁重的国内改革发展稳定任务特别是新冠肺炎疫情严重冲击，以习近平同志为核心的党中央不忘初心、牢记使命，团结带领全党全国各族人民砥砺前行、开拓创新，奋发有为推进党和国家各项事业，战胜各种风险挑战，中国特色社会主义的航船继续乘风破浪、坚毅前行。实践再次证明，有习近平同志作为党中央的核心、全党的核心领航掌舵，有全党全国各族人民团结一心、顽强奋斗，我们就一定能够战胜前进道路上出现的各种艰难险阻，一定能够在新时代把中国特色社会主义更加有力地推向前进。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会高度评价决胜全面建成小康社会取得的决定性成就。“十三五”时期，全面深化改革取得重大突破，全面依法治国取得重大进展，全面从严治党取得重大成果，国家治理体系和治理能力现代化加快推进，中国共产党领导和我国社会主义制度优势进一步彰显；经济实力、科技实力、综合国力跃上新的大台阶，经济运行总体平稳，经济结构持续优化，预计二〇二〇年国内生产总值突破一百万亿元；脱贫攻坚成果举世瞩目，五千五百七十五万农村贫困人口实现脱贫；粮食年产量连续五年稳定在一万三千亿斤以上；污染防治力度加大，生态环境明显改善；对外开放持续扩大，共建“一带一路”成果丰硕；人民生活水平显著提高，高等教育进入普及化阶段，城镇新增就业超过六千万人，建成世界上规模最大的社会保障体系，基本医疗保险覆盖超过十三亿人，基本养老保险覆盖近十亿人，新冠肺炎疫情防控取得重大战略成果；文化事业和文化产业繁荣发展；国防和军队建设水平大幅提升，军队组织形态实现重大变革；国家安全全面加强，社会保持和谐稳定。“十三五”规划目标任务即将完成，全面建成小康社会胜利在望，中华民族伟大复兴向前迈出了新的一大步，社会主义中国以更加雄伟的身姿屹立于世界东方。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会强调，全党全国各族人民要再接再厉、一鼓作气，确保如期打赢脱贫攻坚战，确保如期全面建成小康社会、实现第一个百年奋斗目标，为开启全面建设社会主义现代化国家新征程奠定坚实基础。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会深入分析了我国发展环境面临的深刻复杂变化，认为当前和今后一个时期，我国发展仍然处于重要战略机遇期，但机遇和挑战都有新的发展变化。当今世界正经历百年未有之大变局，新一轮科技革命和产业变革深入发展，国际力量对比深刻调整，和平与发展仍然是时代主题，人类命运共同体理念深入人心，同时国际环境日趋复杂，不稳定性不确定性明显增加。我国已转向高质量发展阶段，制度优势显著，治理效能提升，经济长期向好，物质基础雄厚，人力资源丰富，市场空间广阔，发展韧性强劲，社会大局稳定，继续发展具有多方面优势和条件，同时我国发展不平衡不充分问题仍然突出，重点领域关键环节改革任务仍然艰巨，创新能力不适应高质量发展要求，农业基础还不稳固，城乡区域发展和收入分配差距较大，生态环保任重道远，民生保障存在短板，社会治理还有弱项。全党要统筹中华民族伟大复兴战略全局和世界百年未有之大变局，深刻认识我国社会主要矛盾变化带来的新特征新要求，深刻认识错综复杂的国际环境带来的新矛盾新挑战，增强机遇意识和风险意识，立足社会主义初级阶段基本国情，保持战略定力，办好自己的事，认识和把握发展规律，发扬斗争精神，树立底线思维，准确识变、科学应变、主动求变，善于在危机中育先机、于变局中开新局，抓住机遇，应对挑战，趋利避害，奋勇前进。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出了到二〇三五年基本实现社会主义现代化远景目标，这就是：我国经济实力、科技实力、综合国力将大幅跃升，经济总量和城乡居民人均收入将再迈上新的大台阶，关键核心技术实现重大突破，进入创新型国家前列；基本实现新型工业化、信息化、城镇化、农业现代化，建成现代化经济体系；基本实现国家治理体系和治理能力现代化，人民平等参与、平等发展权利得到充分保障，基本建成法治国家、法治政府、法治社会；建成文化强国、教育强国、人才强国、体育强国、健康中国，国民素质和社会文明程度达到新高度，国家文化软实力显著增强；广泛形成绿色生产生活方式，碳排放达峰后稳中有降，生态环境根本好转，美丽中国建设目标基本实现；形成对外开放新格局，参与国际经济合作和竞争新优势明显增强；人均国内生产总值达到中等发达国家水平，中等收入群体显著扩大，基本公共服务实现均等化，城乡区域发展差距和居民生活水平差距显著缩小；平安中国建设达到更高水平，基本实现国防和军队现代化；人民生活更加美好，人的全面发展、全体人民共同富裕取得更为明显的实质性进展。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出了“十四五”时期经济社会发展指导思想和必须遵循的原则，强调要高举中国特色社会主义伟大旗帜，深入贯彻党的十九大和十九届二中、三中、四中、五中全会精神，坚持以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社会主义思想为指导，全面贯彻党的基本理论、基本路线、基本方略，统筹推进经济建设、政治建设、文化建设、社会建设、生态文明建设的总体布局，协调推进全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党的战略布局，坚定不移贯彻创新、协调、绿色、开放、共享的新发展理念，坚持稳中求进工作总基调，以推动高质量发展为主题，以深化供给侧结构性改革为主线，以改革创新为根本动力，以满足人民日益增长的美好生活需要为根本目的，统筹发展和安全，加快建设现代化经济体系，加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局，推进国家治理体系和治理能力现代化，实现经济行稳致远、社会安定和谐，为全面建设社会主义现代化国家开好局、起好步。坚持党的全面领导，坚持和完善党领导经济社会发展的体制机制，坚持和完善中国特色社会主义制度，不断提高贯彻新发展理念、构建新发展格局能力和水平，为实现高质量发展提供根本保证。坚持以人民为中心，坚持新发展理念，坚持深化改革开放，坚持系统观念。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出了“十四五”时期经济社会发展主要目标，这就是：经济发展取得新成效，在质量效益明显提升的基础上实现经济持续健康发展，增长潜力充分发挥，国内市场更加强大，经济结构更加优化，创新能力显著提升，产业基础高级化、产业链现代化水平明显提高，农业基础更加稳固，城乡区域发展协调性明显增强，现代化经济体系建设取得重大进展；改革开放迈出新步伐，社会主义市场经济体制更加完善，高标准市场体系基本建成，市场主体更加充满活力，产权制度改革和要素市场化配置改革取得重大进展，公平竞争制度更加健全，更高水平开放型经济新体制基本形成；社会文明程度得到新提高，社会主义核心价值观深入人心，人民思想道德素质、科学文化素质和身心健康素质明显提高，公共文化服务体系和文化产业体系更加健全，人民精神文化生活日益丰富，中华文化影响力进一步提升，中华民族凝聚力进一步增强；生态文明建设实现新进步，国土空间开发保护格局得到优化，生产生活方式绿色转型成效显著，能源资源配置更加合理、利用效率大幅提高，主要污染物排放总量持续减少，生态环境持续改善，生态安全屏障更加牢固，城乡人居环境明显改善；民生福祉达到新水平，实现更加充分更高质量就业，居民收入增长和经济增长基本同步，分配结构明显改善，基本公共服务均等化水平明显提高，全民受教育程度不断提升，多层次社会保障体系更加健全，卫生健康体系更加完善，脱贫攻坚成果巩固拓展，乡村振兴战略全面推进；国家治理效能得到新提升，社会主义民主法治更加健全，社会公平正义进一步彰显，国家行政体系更加完善，政府作用更好发挥，行政效率和公信力显著提升，社会治理特别是基层治理水平明显提高，防范化解重大风险体制机制不断健全，突发公共事件应急能力显著增强，自然灾害防御水平明显提升，发展安全保障更加有力，国防和军队现代化迈出重大步伐。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，坚持创新在我国现代化建设全局中的核心地位，把科技自立自强作为国家发展的战略支撑，面向世界科技前沿、面向经济主战场、面向国家重大需求、面向人民生命健康，深入实施科教兴国战略、人才强国战略、创新驱动发展战略，完善国家创新体系，加快建设科技强国。要强化国家战略科技力量，提升企业技术创新能力，激发人才创新活力，完善科技创新体制机制。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，加快发展现代产业体系，推动经济体系优化升级。坚持把发展经济着力点放在实体经济上，坚定不移建设制造强国、质量强国、网络强国、数字中国，推进产业基础高级化、产业链现代化，提高经济质量效益和核心竞争力。要提升产业链供应链现代化水平，发展战略性新兴产业，加快发展现代服务业，统筹推进基础设施建设，加快建设交通强国，推进能源革命，加快数字化发展。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，形成强大国内市场，构建新发展格局。坚持扩大内需这个战略基点，加快培育完整内需体系，把实施扩大内需战略同深化供给侧结构性改革有机结合起来，以创新驱动、高质量供给引领和创造新需求。要畅通国内大循环，促进国内国际双循环，全面促进消费，拓展投资空间。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，全面深化改革，构建高水平社会主义市场经济体制。坚持和完善社会主义基本经济制度，充分发挥市场在资源配置中的决定性作用，更好发挥政府作用，推动有效市场和有为政府更好结合。要激发各类市场主体活力，完善宏观经济治理，建立现代财税金融体制，建设高标准市场体系，加快转变政府职能。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，优先发展农业农村，全面推进乡村振兴。坚持把解决好“三农”问题作为全党工作重中之重，走中国特色社会主义乡村振兴道路，全面实施乡村振兴战略，强化以工补农、以城带乡，推动形成工农互促、城乡互补、协调发展、共同繁荣的新型工农城乡关系，加快农业农村现代化。要保障国家粮食安全，提高农业质量效益和竞争力，实施乡村建设行动，深化农村改革，实现巩固拓展脱贫攻坚成果同乡村振兴有效衔接。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，优化国土空间布局，推进区域协调发展和新型城镇化。坚持实施区域重大战略、区域协调发展战略、主体功能区战略，健全区域协调发展体制机制，完善新型城镇化战略，构建高质量发展的国土空间布局和支撑体系。要构建国土空间开发保护新格局，推动区域协调发展，推进以人为核心的新型城镇化。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，繁荣发展文化事业和文化产业，提高国家文化软实力。坚持马克思主义在意识形态领域的指导地位，坚定文化自信，坚持以社会主义核心价值观引领文化建设，加强社会主义精神文明建设，围绕举旗帜、聚民心、育新人、兴文化、展形象的使命任务，促进满足人民文化需求和增强人民精神力量相统一，推进社会主义文化强国建设。要提高社会文明程度，提升公共文化服务水平，健全现代文化产业体系。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，推动绿色发展，促进人与自然和谐共生。坚持绿水青山就是金山银山理念，坚持尊重自然、顺应自然、保护自然，坚持节约优先、保护优先、自然恢复为主，守住自然生态安全边界。深入实施可持续发展战略，完善生态文明领域统筹协调机制，构建生态文明体系，促进经济社会发展全面绿色转型，建设人与自然和谐共生的现代化。要加快推动绿色低碳发展，持续改善环境质量，提升生态系统质量和稳定性，全面提高资源利用效率。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，实行高水平对外开放，开拓合作共赢新局面。坚持实施更大范围、更宽领域、更深层次对外开放，依托我国大市场优势，促进国际合作，实现互利共赢。要建设更高水平开放型经济新体制，全面提高对外开放水平，推动贸易和投资自由化便利化，推进贸易创新发展，推动共建“一带一路”高质量发展，积极参与全球经济治理体系改革。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，改善人民生活品质，提高社会建设水平。坚持把实现好、维护好、发展好最广大人民根本利益作为发展的出发点和落脚点，尽力而为、量力而行，健全基本公共服务体系，完善共建共治共享的社会治理制度，扎实推动共同富裕，不断增强人民群众获得感、幸福感、安全感，促进人的全面发展和社会全面进步。要提高人民收入水平，强化就业优先政策，建设高质量教育体系，健全多层次社会保障体系，全面推进健康中国建设，实施积极应对人口老龄化国家战略，加强和创新社会治理。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，统筹发展和安全，建设更高水平的平安中国。坚持总体国家安全观，实施国家安全战略，维护和塑造国家安全，统筹传统安全和非传统安全，把安全发展贯穿国家发展各领域和全过程，防范和化解影响我国现代化进程的各种风险，筑牢国家安全屏障。要加强国家安全体系和能力建设，确保国家经济安全，保障人民生命安全，维护社会稳定和安全。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会提出，加快国防和军队现代化，实现富国和强军相统一。贯彻习近平强军思想，贯彻新时代军事战略方针，坚持党对人民军队的绝对领导，坚持政治建军、改革强军、科技强军、人才强军、依法治军，加快机械化信息化智能化融合发展，全面加强练兵备战，提高捍卫国家主权、安全、发展利益的战略能力，确保二〇二七年实现建军百年奋斗目标。要提高国防和军队现代化质量效益，促进国防实力和经济实力同步提升，构建一体化国家战略体系和能力，推动重点区域、重点领域、新兴领域协调发展，优化国防科技工业布局，巩固军政军民团结。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会强调，实现“十四五”规划和二〇三五年远景目标，必须坚持党的全面领导，充分调动一切积极因素，广泛团结一切可以团结的力量，形成推动发展的强大合力。要加强党中央集中统一领导，推进社会主义政治建设，健全规划制定和落实机制。要保持香港、澳门长期繁荣稳定，推进两岸关系和平发展和祖国统一。要高举和平、发展、合作、共赢旗帜，积极营造良好外部环境，推动构建新型国际关系和人类命运共同体。</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;">全会号召，全党全国各族人民要紧密团结在以习近平同志为核心的党中央周围，同心同德，顽强奋斗，夺取全面建设社会主义现代化国家新胜利！</p><p style="margin: 10px auto; padding: 0px; text-indent: 2em; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 18px; line-height: 36px; font-family: 微软雅黑;"><span style="text-indent: 2em; display: block;">《 人民日报 》（ 2020年10月30日 01 版）</span></p><p style="margin-top:30px;text-align:left;background:white"><strong><span style="font-size:16px;font-family:'微软雅黑',sans-serif;color:#333333">
+</span></strong>
+</p><p style="margin-top:30px;text-align:left;background:white"><strong><span style="font-size:16px;font-family:'微软雅黑',sans-serif;color:#333333"></span></strong></p><p style="margin-top:20px;text-align:center;line-height:42px;background:white"><strong><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">在纪念中国人民志愿军抗美援朝出国作战70周年大会上的讲话</span></strong></p><p style="margin-top:20px;text-align:center;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">习近平</span></p><p style="margin-top:20px;text-align:left;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">同志们，朋友们：</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　今天，我们在这里隆重集会，纪念中国人民志愿军抗美援朝出国作战70周年。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　70年前，由中华优秀儿女组成的中国人民志愿军，肩负着人民的重托、民族的期望，高举保卫和平、反抗侵略的正义旗帜，雄赳赳、气昂昂，跨过鸭绿江，发扬伟大的爱国主义精神和革命英雄主义精神，同朝鲜人民和军队一道，历经两年零9个月艰苦卓绝的浴血奋战，赢得了抗美援朝战争伟大胜利。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　伟大的抗美援朝战争，抵御了帝国主义侵略扩张，捍卫了新中国安全，保卫了中国人民和平生活，稳定了朝鲜半岛局势，维护了亚洲和世界和平。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　抗美援朝战争伟大胜利，将永远铭刻在中华民族的史册上！永远铭刻在人类和平、发展、进步的史册上！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——70年来，我们始终没有忘记老一辈革命家为维护国际正义、捍卫世界和平、保卫新生共和国所建立的不朽功勋，始终没有忘记党中央和毛泽东同志当年作出中国人民志愿军出国作战重大决策的深远意义。此时此刻，我们要向老一辈革命家，表示最深切的怀念！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——70年来，我们始终没有忘记谱写了气壮山河英雄赞歌的中国人民志愿军将士，以及所有为这场战争胜利作出贡献的人们。我代表党中央、国务院和中央军委，向所有健在的中国人民志愿军老战士、老同志、伤残荣誉军人，向当年支援抗美援朝战争的全国各族人民特别是参战支前人员，向中国人民志愿军烈属、军属，致以最诚挚的问候！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——70年来，我们始终没有忘记在抗美援朝战争中英勇牺牲的烈士们。19万7千多名英雄儿女为了祖国、为了人民、为了和平献出了宝贵生命。烈士们的功绩彪炳千秋，烈士们的英名万古流芳！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　在抗美援朝战争中，朝鲜党、政府、人民关心、爱护、支援中国人民志愿军，中朝两国人民和军队休戚与共、生死相依，用鲜血凝结成了伟大战斗友谊。世界上一切爱好和平的国家和人民、友好组织和友好人士，对中国人民志愿军入朝作战给予了有力支援和支持。我代表中国党、政府、军队，向他们表示衷心的感谢！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　同志们、朋友们！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　中华民族是爱好和平的民族，中国人民是爱好和平的人民。近代以后，中国人民饱受列强侵略之害、饱经战火蹂躏之苦，更是深深懂得战争的残酷、和平的宝贵。新中国成立之初，百废待兴，百业待举，中国人民无比渴望和平安宁。但是，中国人民的这个愿望却受到了粗暴挑战，帝国主义侵略者将战争强加在了中国人民头上。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　1950年6月25日，朝鲜内战爆发。美国政府从其全球战略和冷战思维出发，作出武装干涉朝鲜内战的决定，并派遣第七舰队侵入台湾海峡。1950年10月初，美军不顾中国政府一再警告，悍然越过三八线，把战火烧到中朝边境。侵朝美军飞机多次轰炸中国东北边境地区，给人民生命财产造成严重损失，我国安全面临严重威胁。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　值此危急关头，应朝鲜党和政府请求，中国党和政府以非凡气魄和胆略作出抗美援朝、保家卫国的历史性决策。1950年10月19日，中国人民志愿军在彭德怀司令员兼政治委员率领下进入朝鲜战场。这是以正义之师行正义之举。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　抗美援朝战争，是在交战双方力量极其悬殊条件下进行的一场现代化战争。当时，中美两国国力相差巨大。在这样极不对称、极为艰难的情况下，中国人民志愿军同朝鲜军民密切配合，首战两水洞、激战云山城、会战清川江、鏖战长津湖等，连续进行5次战役，此后又构筑起铜墙铁壁般的纵深防御阵地，实施多次进攻战役，粉碎“绞杀战”、抵御“细菌战”、血战上甘岭，创造了威武雄壮的战争伟业。全国各族人民由衷称赞志愿军将士为“最可爱的人”！经过艰苦卓绝的战斗，中朝军队打败了武装到牙齿的对手，打破了美军不可战胜的神话，迫使不可一世的侵略者于1953年7月27日在停战协定上签字。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　在抗美援朝战争期间，党中央统揽全局，实施有力的战争动员和正确的战争指导，采取边打、边稳、边建的方针，开展了波澜壮阔的抗美援朝运动，全国各族人民举国同心支撑起这场事关国家和民族前途命运的伟大抗争，最终用伟大胜利向世界宣告“西方侵略者几百年来只要在东方一个海岸上架起几尊大炮就可霸占一个国家的时代是一去不复返了”！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　同志们、朋友们！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　抗美援朝战争伟大胜利，是中国人民站起来后屹立于世界东方的宣言书，是中华民族走向伟大复兴的重要里程碑，对中国和世界都有着重大而深远的意义。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　经此一战，中国人民粉碎了侵略者陈兵国门、进而将新中国扼杀在摇篮之中的图谋，可谓“打得一拳开，免得百拳来”，帝国主义再也不敢作出武力进犯新中国的尝试，新中国真正站稳了脚跟。这一战，拼来了山河无恙、家国安宁，充分展示了中国人民不畏强暴的钢铁意志！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　经此一战，中国人民彻底扫除了近代以来任人宰割、仰人鼻息的百年耻辱，彻底扔掉了“东亚病夫”的帽子，中国人民真正扬眉吐气了。这一战，打出了中国人民的精气神，充分展示了中国人民万众一心的顽强品格！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　经此一战，中国人民打败了侵略者，震动了全世界，奠定了新中国在亚洲和国际事务中的重要地位，彰显了新中国的大国地位。这一战，让全世界对中国刮目相看，充分展示了中国人民维护世界和平的坚定决心！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　经此一战，人民军队在战争中学习战争，愈战愈勇，越打越强，取得了重要军事经验，实现了由单一军种向诸军兵种合成军队转变，极大促进了国防和军队现代化。这一战，人民军队战斗力威震世界，充分展示了敢打必胜的血性铁骨！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　经此一战，第二次世界大战结束后亚洲乃至世界的战略格局得到深刻塑造，全世界被压迫民族和人民争取民族独立和人民解放的正义事业受到极大鼓舞，有力推动了世界和平与人类进步事业。它用铁一般的事实告诉世人，任何一个国家、任何一支军队，不论多么强大，如果站在世界发展潮流的对立面，恃强凌弱、倒行逆施、侵略扩张，必然会碰得头破血流。这一战，再次证明正义必定战胜强权，和平发展是不可阻挡的历史潮流！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　同志们、朋友们！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　在波澜壮阔的抗美援朝战争中，英雄的中国人民志愿军始终发扬祖国和人民利益高于一切、为了祖国和民族的尊严而奋不顾身的爱国主义精神，英勇顽强、舍生忘死的革命英雄主义精神，不畏艰难困苦、始终保持高昂士气的革命乐观主义精神，为完成祖国和人民赋予的使命、慷慨奉献自己一切的革命忠诚精神，为了人类和平与正义事业而奋斗的国际主义精神，锻造了伟大抗美援朝精神。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　伟大抗美援朝精神跨越时空、历久弥新，必须永续传承、世代发扬。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——无论时代如何发展，我们都要砥砺不畏强暴、反抗强权的民族风骨。70年前，帝国主义侵略者将战火烧到了新中国的家门口。中国人民深知，对待侵略者，就得用他们听得懂的语言同他们对话，这就是以战止战、以武止戈，用胜利赢得和平、赢得尊重。中国人民不惹事也不怕事，在任何困难和风险面前，腿肚子不会抖，腰杆子不会弯，中华民族是吓不倒、压不垮的！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——无论时代如何发展，我们都要汇聚万众一心、勠力同心的民族力量。在抗美援朝战争中，中国人民在爱国主义旗帜感召下，同仇敌忾、同心协力，让世界见证了蕴含在中国人民之中的磅礴力量，让世界知道了“现在中国人民已经组织起来了，是惹不得的。如果惹翻了，是不好办的”！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——无论时代如何发展，我们都要锻造舍生忘死、向死而生的民族血性。在朝鲜战场上，志愿军将士面对强大而凶狠的作战对手，身处恶劣而残酷的战场环境，抛头颅、洒热血，以“钢少气多”力克“钢多气少”，谱写了惊天地、泣鬼神的雄壮史诗。志愿军将士冒着枪林弹雨勇敢冲锋，顶着狂轰滥炸坚守阵地，用胸膛堵枪眼，以身躯作人梯，抱起炸药包、手握爆破筒冲入敌群，忍饥受冻绝不退缩，烈火烧身岿然不动，敢于“空中拼刺刀”。在他们中涌现出杨根思、黄继光、邱少云等30多万名英雄功臣和近6000个功臣集体。英雄们说：我们的身后就是祖国，为了祖国人民的和平，我们不能后退一步！这种血性令敌人胆寒，让天地动容！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——无论时代如何发展，我们都要激发守正创新、奋勇向前的民族智慧。勇于创新者进，善于创造者胜。志愿军将士面对陌生的战场、陌生的敌人，坚持“你打你的，我打我的，你打原子弹，我打手榴弹”，把灵活机动战略战术发挥得淋漓尽致。面对来自各方面的风险挑战，面对各种阻力压力，中国人民总能逢山开路、遇水架桥，总能展现大智大勇、锐意开拓进取，“杀出一条血路”！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　同志们、朋友们！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　抗美援朝战争胜利60多年来，在中国共产党坚强领导下，中国发生了前所未有的历史巨变，中国特色社会主义进入了新时代，中华民族迎来了从站起来、富起来到强起来的伟大飞跃。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　今天，我们正站在实现“两个一百年”奋斗目标的历史交汇点上，全面建成小康社会胜利在望，全面建设社会主义现代化国家前景光明。前进道路不会一帆风顺。我们要铭记抗美援朝战争的艰辛历程和伟大胜利，敢于斗争、善于斗争，知难而进、坚韧向前，把新时代中国特色社会主义伟大事业不断推向前进。</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——铭记伟大胜利，推进伟大事业，必须坚持中国共产党领导，把党锻造得更加坚强有力。抗美援朝战争伟大胜利再次证明，没有任何一支政治力量能像中国共产党这样，为了民族复兴、人民幸福，不惜流血牺牲，不懈努力奋斗，团结凝聚亿万群众不断走向胜利。只要我们不忘初心、牢记使命，以自我革命精神全面推进党的建设新的伟大工程，不断增强党的政治领导力、思想引领力、群众组织力、社会号召力，就一定能够使党始终成为中国人民最可靠、最坚强的主心骨！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——铭记伟大胜利，推进伟大事业，必须坚持以人民为中心，一切为了人民、一切依靠人民。历史是人民创造的。中国共产党的力量，人民军队的力量，根基在人民。我们要坚持全心全意为人民服务的根本宗旨，为民谋利，为民尽责，为民担当，把人民对美好生活的向往作为始终不渝的奋斗目标，始终保持党同人民群众的血肉联系。只要我们始终坚持人民立场、人民至上，就一定能够激发出无往而不胜的强大力量，就一定能够不断书写中华民族伟大复兴的精彩华章！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——铭记伟大胜利，推进伟大事业，必须坚持推进经济社会发展，不断壮大我国综合国力。落后就要挨打，发展才能自强。新中国成立70多年来，我国用几十年时间走完了发达国家几百年走过的发展历程，创造了举世瞩目的发展奇迹。当前，我国将进入新发展阶段，面对新机遇新挑战，只要我们统筹推进“五位一体”总体布局、协调推进“四个全面”战略布局，坚定不移贯彻新发展理念，构建新发展格局，就一定能够实现更高质量、更有效率、更加公平、更可持续、更为安全的发展，不断创造让世界惊叹的更大奇迹！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——铭记伟大胜利，推进伟大事业，必须加快推进国防和军队现代化，把人民军队全面建成世界一流军队。没有一支强大的军队，就不可能有强大的祖国。坚持和发展中国特色社会主义，必须统筹发展和安全、富国和强军。要贯彻新时代党的强军思想，贯彻新时代军事战略方针，毫不动摇坚持党对人民军队的绝对领导，坚持政治建军、改革强军、科技强军、人才强军、依法治军，全面提高捍卫国家主权、安全、发展利益的战略能力，更好履行新时代人民军队使命任务。只要我们与时俱进加强国防和军队建设，向着党在新时代的强军目标阔步前行，就一定能够为实现中华民族伟大复兴提供更为坚强的战略支撑！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　——铭记伟大胜利，推进伟大事业，必须维护世界和平和正义，推动构建人类命运共同体。中华民族历来秉持“亲仁善邻”的理念。作为负责任大国，中国坚守和平、发展、公平、正义、民主、自由的全人类共同价值，坚持共商共建共享的全球治理观，坚定不移走和平发展、开放发展、合作发展、共同发展道路。只要坚持走和平发展道路，同各国人民一道推动构建人类命运共同体，就一定能够迎来人类和平与发展的美好未来！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　同志们、朋友们！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　世界是各国人民的世界，世界面临的困难和挑战需要各国人民同舟共济、携手应对，和平发展、合作共赢才是人间正道。当今世界，任何单边主义、保护主义、极端利己主义，都是根本行不通的！任何讹诈、封锁、极限施压的方式，都是根本行不通的！任何我行我素、唯我独尊的行径，任何搞霸权、霸道、霸凌的行径，都是根本行不通的！不仅根本行不通，最终必然是死路一条！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　中国一贯奉行防御性国防政策，中国军队始终是维护世界和平的坚定力量。中国永远不称霸、不扩张，坚决反对霸权主义和强权政治。我们决不会坐视国家主权、安全、发展利益受损，决不会允许任何人任何势力侵犯和分裂祖国的神圣领土。一旦发生这样的严重情况，中国人民必将予以迎头痛击！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　同志们、朋友们！</span></p><p style="margin-top:20px;line-height:42px;background:white"><span style="font-size:18px;font-family:'微软雅黑',sans-serif;color:#333333">　　回望70年前伟大的抗美援朝战争，进行具有许多新的历史特点的伟大斗争，瞻望中华民族伟大复兴的光明前景，我们无比坚定、无比自信。让我们更加紧密地团结在党中央周围，弘扬伟大抗美援朝精神，雄赳赳、气昂昂，向着全面建设社会主义现代化国家新征程，向着实现中华民族伟大复兴的中国梦，继续奋勇前进！</span></p><p> </p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/13139.aspx" target="_self" title="标题：【2020年10月学习材料】&#xD;点击数：48&#xD;发表时间：20年10月05日">【2020年10月学习材料】</a>[ 10-05 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/13141.aspx" target="_self" title="标题：【2020年12月学习材料】&#xD;点击数：51&#xD;发表时间：20年12月01日">【2020年12月学习材料】</a>[ 12-01 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

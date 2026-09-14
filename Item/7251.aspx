@@ -1,0 +1,1771 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>本学期师训选课开始的通知--教科室-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first"><a href="/Shaoxingyizhong/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_26/Index.aspx">教学处</a></li>
+<li class="li3 on"><a href="/Shaoxingyizhong/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Shaoxingyizhong/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Shaoxingyizhong/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Shaoxingyizhong/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Shaoxingyizhong/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Shaoxingyizhong/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Shaoxingyizhong/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Shaoxingyizhong/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Shaoxingyizhong/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Shaoxingyizhong/Category_35/Index.aspx">高三</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23506.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：104&#xD;发表时间：2026年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单…</a><span class="dateRight">[08-18]</span></li><li><a href="/Shaoxingyizhong/Item/23505.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励人员名单及结果公示&#xD;点击数：141&#xD;发表时间：2026年08月15日">关于2026年“名师激励”岗位考核激励人员名单及结果公示</a><span class="dateRight">[08-15]</span></li><li><a href="/Shaoxingyizhong/Item/23488.aspx" target="_blank" title="标题：2026 年全市高中学校教师学科综合素养比武方案（转发）&#xD;点击数：170&#xD;发表时间：2026年07月07日">2026 年全市高中学校教师学科综合素养比武方案（转发）</a><span class="dateRight">[07-07]</span></li><li><a href="/Shaoxingyizhong/Item/23477.aspx" target="_blank" title="标题：关于配合完成教育部“县域普通高中振兴行动计划”线上问卷调查工作的通知&#xD;点击数：120&#xD;发表时间：2026年07月06日">关于配合完成教育部“县域普通高中振兴行动计划”线上问…</a><span class="dateRight">[07-06]</span></li><li><a href="/Shaoxingyizhong/Item/23035.aspx" target="_blank" title="标题：物理组外出参加培训活动的通知&#xD;点击数：121&#xD;发表时间：2026年04月14日">物理组外出参加培训活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Shaoxingyizhong/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23030.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：139&#xD;发表时间：2026年04月14日">英语教研活动通知</a><span class="dateRight">[04-14]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Shaoxingyizhong/Category_36/Index.aspx" target="_self">教科室</a></div>
+                    <h3>教科室</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">本学期师训选课开始的通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：本站原创</span> <span>作者：佚名</span> <span>发布时间：2017年08月29日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=7251"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:7251},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=7251";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <P class=MsoSubtitle style="MARGIN: 12pt 0cm 3pt"><STRONG><FONT size=5><FONT face=等线></FONT></FONT></STRONG> </P>
+<P class=MsoSubtitle style="MARGIN: 12pt 0cm 3pt"><SPAN style="FONT-FAMILY: 宋体"><FONT size=3>全体教工：<SPAN lang=EN-US><?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN style="FONT-FAMILY: 宋体"><FONT size=3>本学期师训平台选课现已开始，请各位老师及时完成相关选课工作，现将有关事项通知如下：<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=EN-US style="FONT-FAMILY: 宋体">1.</SPAN><SPAN style="FONT-FAMILY: 宋体">时间：本轮选课<SPAN lang=EN-US style="COLOR: red">9</SPAN><SPAN style="COLOR: red">月<SPAN lang=EN-US>5</SPAN>日</SPAN>截止，请尽快完成，逾期无法补报！<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=EN-US style="FONT-FAMILY: 宋体">2.</SPAN><SPAN style="FONT-FAMILY: 宋体">上学期有部分学科的培训项目没有完成评价，请务必先评价，再进行选课。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=EN-US style="FONT-FAMILY: 宋体">3.</SPAN><SPAN style="FONT-FAMILY: 宋体">选课项目：本次选课必报<SPAN lang=EN-US>3</SPAN>个项目，包括<SPAN style="COLOR: red">学科主题研修<SPAN lang=EN-US>16</SPAN>学分培训</SPAN>（全体教师必选）、<SPAN style="COLOR: red">信息能力提升工程<SPAN lang=EN-US>50</SPAN>学分培训（</SPAN>除体育、信息、通用技术、音乐、美术等学科去年已参加的老师之外，其他学科的老师必须报名）和<SPAN style="COLOR: red">心理健康教育<SPAN lang=EN-US>C</SPAN>证培训</SPAN>（除已持有<SPAN lang=EN-US>C</SPAN>证并续期的老师之外所有老师必须报名，有证但超过有效期的老师也需要重新报名）。<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=EN-US style="FONT-FAMILY: 宋体">4.</SPAN><SPAN style="FONT-FAMILY: 宋体">我校教师心理健康教育<SPAN lang=EN-US>C</SPAN>证取得情况如下：</SPAN></FONT></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN style="FONT-FAMILY: 宋体">
+<TABLE style="WIDTH: 439pt; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 width=584 border=0>
+<COLGROUP>
+<COL style="WIDTH: 22pt; mso-width-source: userset; mso-width-alt: 928" width=29>
+<COL style="WIDTH: 50pt; mso-width-source: userset; mso-width-alt: 2144" width=67>
+<COL style="WIDTH: 36pt; mso-width-source: userset; mso-width-alt: 1536" width=48>
+<COL style="WIDTH: 53pt; mso-width-source: userset; mso-width-alt: 2272" width=71>
+<COL style="WIDTH: 55pt; mso-width-source: userset; mso-width-alt: 2336" width=73>
+<COL style="WIDTH: 11pt; mso-width-source: userset; mso-width-alt: 448" width=14>
+<COL style="WIDTH: 23pt; mso-width-source: userset; mso-width-alt: 992" width=31>
+<COL style="WIDTH: 47pt; mso-width-source: userset; mso-width-alt: 2016" width=63>
+<COL style="WIDTH: 35pt; mso-width-source: userset; mso-width-alt: 1472" width=46>
+<COL style="WIDTH: 53pt; mso-width-source: userset; mso-width-alt: 2240" width=70>
+<COL style="WIDTH: 54pt; mso-width-source: userset; mso-width-alt: 2304" width=72>
+<TBODY>
+<TR style="HEIGHT: 21.75pt; mso-height-source: userset" height=29>
+<TD class=xl72 style="BORDER-TOP: windowtext 0.5pt solid; HEIGHT: 21.75pt; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 22pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=29 width=29><STRONG><FONT size=3 face=等线>序号</FONT></STRONG></TD>
+<TD class=xl72 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 50pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=67><STRONG><FONT size=3 face=等线>教师姓名</FONT></STRONG></TD>
+<TD class=xl72 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 36pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=48><STRONG><FONT size=3 face=等线>学科</FONT></STRONG></TD>
+<TD class=xl72 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 53pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=71><STRONG><FONT size=3 face=等线>已取得C证</FONT></STRONG></TD>
+<TD class=xl73 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 55pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=73><FONT color=#ff0000 size=3 face=等线><STRONG>未取得C证</STRONG></FONT></TD>
+<TD class=xl77 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 11pt; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent" width=14></TD>
+<TD class=xl72 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 23pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=31><STRONG><FONT size=3 face=等线>序号</FONT></STRONG></TD>
+<TD class=xl75 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 47pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent" width=63><STRONG><FONT size=3 face=等线>教师姓名</FONT></STRONG></TD>
+<TD class=xl72 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 35pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=46><STRONG><FONT size=3 face=等线>学科</FONT></STRONG></TD>
+<TD class=xl72 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 53pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=70><STRONG><FONT size=3 face=等线>已取得C证</FONT></STRONG></TD>
+<TD class=xl73 style="BORDER-TOP: windowtext 0.5pt solid; BORDER-RIGHT: windowtext 0.5pt solid; WIDTH: 54pt; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent" width=72><STRONG><FONT color=#ff0000 size=3 face=等线>未取得C证</FONT></STRONG></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>1</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>胡唯亚</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>102</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>何海明</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>2</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张豪</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>103</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>张小娟</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>3</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>104</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>周文阳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>4</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张伟丰</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>105</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>黄伟中</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>5</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>黄先辉</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>106</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>杨国平</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>6</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王月</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>107</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>楼开颜</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>7</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>徐雯</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>108</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>胡建国</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>8</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>丁嫣然</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>109</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈丹燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>9</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>马作菁</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>110</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>冯王亮</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>10</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张超</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>111</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈锋</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>11</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>郭志威</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>地理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>112</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>张叶</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>12</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>李岳信</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>113</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈义兵</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>13</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>金建忠</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>114</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>朱时妙</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>14</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王学文</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>115</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>祝智浩</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>15</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>蒋明</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>116</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>施卡祥</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>16</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>叶望尧</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>117</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>秦黎</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>17</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>丁素琴</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>118</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈浩</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>18</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张江</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>119</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>翁鹏飞</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>物理</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>19</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>胡勇</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>120</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈合力</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>信息</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>20</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>施笑程</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>121</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>董烨华</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>信息</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>21</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王炜荣</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>122</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>邓倬霖</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>信息</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>22</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>何凯</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>123</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈微微</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>信息</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>23</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>俞霞</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>124</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>孟玲燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>信息</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>24</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>周文龙</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>125</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>余栋材</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>信息</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>25</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>邢婷</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>126</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>童莉芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>音乐</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>26</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张璐吉</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>127</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王海燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>音乐</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>27</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>沈洋铭</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>128</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>黄金裕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>28</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>冯莹</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>129</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>桑美娟</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>29</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>沈超华</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>化学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>130</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>杨菊妃</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>30</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>何珠芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>131</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>楼立青</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>31</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>陈昌勇</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>132</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>杨大为</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>32</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王法新</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>133</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>金喜青</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl66 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>33</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张叠</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>134</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王玉宇</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>34</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>金华元</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>135</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>顾向晖</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>35</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>平建树</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>136</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>邢秀英</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>36</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王姗姗</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>137</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>叶建引</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>37</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>韩陈萍</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>138</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>蔡红</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>38</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>邵张彬</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>139</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>孔君</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>39</FONT></TD>
+<TD class=xl66 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>赵寅芬</FONT></TD>
+<TD class=xl66 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3><SPAN style="mso-spacerun: yes"> </SPAN>历史</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>140</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>钱虹燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>40</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>舒凤</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>美术</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>141</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>谢月明</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>41</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>胡红燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>美术</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>142</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>高英</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>42</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王宁</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>美术</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>143</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>顾秀芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>43</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>冯报春</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>144</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王晶晶</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>44</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>沈初见</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>过期</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>145</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>刘淑芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>45</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>丁泾芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>过期</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>146</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>裘洪萍</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>46</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>陈龙珠</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>147</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>杨晶晶</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>47</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>陈依</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>148</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>徐立旦</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>过期</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>48</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>范捷</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>149</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>沈剑蕾</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>49</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>俞宝根</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>150</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>章赟</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>50</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>陶佳卉</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>151</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>谢静超</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>51</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>马丹娜</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>152</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>廖烨</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>52</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>严淇</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>153</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>傅红霞</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>53</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>吕海燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>154</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王维</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>54</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>赵正瑜</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>155</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>傅芳芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>英语</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>55</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>刘军霞</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>156</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王新东</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>56</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>郑晴晴</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>生物</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>157</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>蒋抗力</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>57</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>吴军芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>实验</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>158</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王月琴</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>58</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>侯磊</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>实验</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>159</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>郑小平</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>59</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张帆</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>实验</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>160</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>傅雅飞</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>60</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>叶建强</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>161</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>朱水军</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>61</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>金江虹</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>162</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>吴巍巍</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>62</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>刘夏进</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>163</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈美琴</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>过期</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>63</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>杨瑞敏</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>164</FONT></TD>
+<TD class=xl80 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>谢<SPAN style="mso-spacerun: yes">  </SPAN>澹</FONT></TD>
+<TD class=xl66 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>64</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>俞建种</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>165</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>范玲玲</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>65</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>陈连原</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>166</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>洪波</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>66</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>张祖农</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>167</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>骆惠新</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>67</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>虞金龙</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>168</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈雪萍</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>68</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>孟伟强</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>169</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>许敏</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>69</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>郦章华</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>170</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>余子兰</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>70</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>丁灿耀</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>171</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>俞苗锋</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>71</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>杨国仁</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>172</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>朱谷兰</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>72</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>刘晓牛</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>173</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>唐海燕</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>73</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>孔祥新</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>174</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>钟惠军</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>74</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>言利水</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>175</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>张洁慧</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>75</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>杨佩琼</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>176</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>叶建红</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>76</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>徐萍</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>177</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>鲁豪然</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>77</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>傅丽娜</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>178</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>刘明玉</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>78</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>丁金美</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>179</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈佳骏</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>79</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>韩小红</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>180</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈忆宁</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>80</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>苏卫军</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>181</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>程加加</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>81</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>凌晓锋</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>过期</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>182</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>夏帅波</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>82</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>宣泳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>183</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王新璐</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>语文</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>83</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>沈栋啸</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>184</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>邱静娥</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>84</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王一行</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>185</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>张越爱</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>85</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>顾飞飞</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>186</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>金笛</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>86</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>陈华</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>187</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>叶佩莉</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>87</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>金佳琳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>数学</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>188</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>胡桂兰</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>88</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>阮国华</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>189</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>许琪玫</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>89</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>方大林</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>190</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>陈国成</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>90</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>周国才</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>191</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>彭爱波</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>91</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>沈祥土</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>192</FONT></TD>
+<TD class=xl79 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>吴益妃</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl68 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 15pt" height=20>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 15pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=20><FONT size=3>92</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>何伟丹</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>193</FONT></TD>
+<TD class=xl81 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>王芳芳</FONT></TD>
+<TD class=xl82 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl83 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl84 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 15pt" height=20>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 15pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=20><FONT size=3>93</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>吴丽娟</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3>194</FONT></TD>
+<TD class=xl87 style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"><FONT size=3>孙彩凤</FONT></TD>
+<TD class=xl88 style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>政治</FONT></TD>
+<TD class=xl89 style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl90 style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>94</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>何隽豪</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>过期</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl76 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3 face=等线>　</FONT></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>95</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>俞笑晨</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl76 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3 face=等线>　</FONT></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>96</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>孟德超</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD class=xl76 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT size=3 face=等线>　</FONT></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>97</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王琼娜</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>98</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>王冰洁</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>体育</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR>
+<TR style="HEIGHT: 14.25pt" height=19>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 14.25pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=19><FONT size=3>99</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>白宗刚</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>通用</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>▲</FONT></TD>
+<TD class=xl70 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>　</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR>
+<TR style="HEIGHT: 15pt" height=20>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 15pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=20><FONT size=3>100</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>蔡继芳</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>通用</FONT></TD>
+<TD class=xl65 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl84 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR>
+<TR style="HEIGHT: 15pt" height=20>
+<TD class=xl65 style="BORDER-TOP: windowtext; HEIGHT: 15pt; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" height=20><FONT size=3>101</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>许婷</FONT></TD>
+<TD class=xl67 style="BORDER-TOP: windowtext; BORDER-RIGHT: windowtext 0.5pt solid; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>通用</FONT></TD>
+<TD class=xl85 style="BORDER-TOP: windowtext; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: windowtext 0.5pt solid; BORDER-LEFT: windowtext; BACKGROUND-COLOR: transparent"><FONT size=3>　</FONT></TD>
+<TD class=xl86 style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; BACKGROUND-COLOR: transparent"><FONT color=#ff0000 size=3>▲</FONT></TD>
+<TD class=xl74 style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD>
+<TD style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent"></TD></TR></TBODY></TABLE></SPAN></FONT></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN style="FONT-FAMILY: 宋体"></SPAN></FONT> </P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN style="FONT-FAMILY: 宋体"></SPAN></FONT><FONT face=宋体><FONT size=3><SPAN lang=EN-US style="COLOR: black">5.</SPAN><SPAN style="COLOR: black">具体操作：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></FONT></P>
+<P class=MsoNormal style="WORD-BREAK: break-all; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 170%"><SPAN style="COLOR: black"><FONT face=等线><FONT size=3>（<SPAN lang=EN-US>1</SPAN>）登录省师训管理平台（<SPAN lang=EN-US><A href="http://pxglpt.zjedu.gov.cn/"><U><FONT color=#0563c1>http://pxglpt.zjedu.gov.cn</FONT></U></A></SPAN>）。忘记密码的老师请通过“忘记密码”功能找回。登录后，进入“自主选课——自主选课报名”页面<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P class=MsoNormal style="WORD-BREAK: break-all; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 170%"><SPAN lang=EN-US style="COLOR: black"><o:p><FONT size=3 face=等线> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN style="COLOR: black"><FONT face=等线><FONT size=3>（<SPAN lang=EN-US>2</SPAN>）学科主题培训：点击更多培训筛选，住宿选否，面向学段选高中，培训学科选所在学科（默认），培训机构选<SPAN lang=EN-US>013</SPAN>绍兴市教研院，点击查询，即出现班级列表。请选择对应<SPAN lang=EN-US>16</SPAN>学分项目。</FONT></FONT></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN style="COLOR: black"></SPAN><SPAN lang=EN-US style="mso-no-proof: yes"><?xml:namespace prefix = "v" ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype></SPAN><SPAN lang=EN-US style="COLOR: black"><o:p><A href="/Shaoxingyizhong/UploadFiles/UploadFiles/201708/2017082910464799.png" target=_blank><IMG onload=resizepic(this) onmousewheel="return bbimg(this)" border=0 src="/Shaoxingyizhong/UploadFiles/UploadFiles/201708/2017082910464799.png" width=1034 height=574> </A></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN style="COLOR: black"><FONT face=等线><FONT size=3>（<SPAN lang=EN-US>3</SPAN>）信息能力提升工程培训：点击更多培训筛选，住宿选否，面向学段选高中，培训学科选所在学科（默认），培训机构选<SPAN lang=EN-US>002</SPAN>浙江师范大学，项目名称输入“<SPAN lang=EN-US>2017</SPAN>年能力提升工程”，点击查询，即出现班级列表。请选择对应<SPAN lang=EN-US>50</SPAN>学分项目。<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="mso-no-proof: yes"></SPAN><SPAN lang=EN-US style="COLOR: black"><o:p><A href="/Shaoxingyizhong/UploadFiles/UploadFiles/201708/2017082910465933.png" target=_blank><IMG onload=resizepic(this) onmousewheel="return bbimg(this)" border=0 src="/Shaoxingyizhong/UploadFiles/UploadFiles/201708/2017082910465933.png" width=1021 height=519> </A></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="COLOR: black"><o:p><FONT size=3 face=等线> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN style="COLOR: black"><FONT face=等线><FONT size=3>（<SPAN lang=EN-US>4</SPAN>）心理健康教育<SPAN lang=EN-US>C</SPAN>证培训：点击更多培训筛选，住宿选否，面向学段选高中，培训学科选高中全部，培训机构选<SPAN lang=EN-US>013</SPAN>绍兴市教研院，项目名称输入“<SPAN lang=EN-US>C</SPAN>证”，点击查询，即出现班级列表。请选择对应<SPAN lang=EN-US>56</SPAN>学分项目。<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="mso-no-proof: yes"></SPAN><SPAN lang=EN-US style="COLOR: black"><o:p></o:p></SPAN> </P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="COLOR: black"><o:p><A href="/Shaoxingyizhong/UploadFiles/UploadFiles/201708/2017082910471647.png" target=_blank><IMG onload=resizepic(this) onmousewheel="return bbimg(this)" border=0 src="/Shaoxingyizhong/UploadFiles/UploadFiles/201708/2017082910471647.png" width=1049 height=633> </A></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US style="FONT-FAMILY: 宋体"><o:p><FONT size=3> </FONT></o:p></SPAN></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US><o:p><FONT size=3 face=等线> </FONT></o:p></SPAN></P>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/7240.aspx" target="_self" title="标题：会议通知&#xD;点击数：296&#xD;发表时间：17年08月24日">会议通知</a>[ 08-24 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/7276.aspx" target="_self" title="标题：2017学年第一学期市直普通高中教研组长会议安排&#xD;点击数：199&#xD;发表时间：17年09月04日">2017学年第一学期市直普通高中教研组长会议安排</a>[ 09-04 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>

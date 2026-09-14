@@ -1,0 +1,1287 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="绍兴市第一中学" name="Keywords" />
+    <meta content="绍兴市第一中学" name="Description" />
+    <title>2010-9-10下午教师节大会刷卡记录公布--党政办-绍兴市第一中学</title>
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <!-- 网站变灰
+<style>
+*{
+-webkit-filter:grayscale(100%)!important;
+-moz-filter:grayscale(100%)!important;
+-ms-filter:grayscale(100%)!important;
+-o-filter:grayscale(100%)!important;
+filter:grayscale(100%)!important;
+filter:gray!important;
+filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}
+</style>
+ -->
+
+<script type="text/javascript">
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+</script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+
+
+
+
+</head>
+<div id="top">
+	<div class="siteWidth">
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+                            <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
+                            <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
+                            <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
+                            <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
+	</div>
+</div>
+<!-- header S -->
+<div id="header">
+    <div class="siteWidth">
+			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
+					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+			</h1>
+			<div class="link">
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+<span id="topLoginStatus">
+</span>
+<script language="javascript" type="text/javascript">
+CheckIsLogin1();
+
+function CheckIsLogin1(){
+    document.getElementById('topLoginStatus').innerHTML = "<img src=\"/Template/Default/Skin/Images/loading.gif\" alt=\"\"/>";
+    jQuery.pe.ajax('logincheck',{params:{},
+	  success:function(response){
+		 switch (jQuery(response).find('status').text()) {
+			case "ok":
+				document.getElementById('topLoginStatus').style.display = "";
+				document.getElementById('topLoginFrom').style.display = "none";
+				document.getElementById('topLoginStatus').innerHTML = GetUserInfo1(response);
+				break;
+			default:
+				document.getElementById('topLoginStatus').style.display = "none";
+            	document.getElementById('topLoginFrom').style.display = "";
+				break;
+		}
+	  }}
+	);
+}
+
+function GetUserInfo1(response){
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
+    userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
+    return userInfo;
+}
+</script>
+
+                            
+                        
+
+<!-- 				<a class="setHome" onClick="SetHome(this,'@Power.Url.SiteUrl(currentSite.Subdomain)')">设为首页</a> | <a class="fav" href="javascript:AddFavorite('@Power.Url.SiteUrl(currentSite.Subdomain)','@CurrentSite.Instance.SiteTitle')">加入收藏</a> -->
+			</div>
+
+
+
+			        <div class="s-form">
+            <input id="keyword2" class="from-control" onfocus="this.value='';" maxlength="100" size="30" value="请输入关键词" name="Keyword">
+            <input id="Submit" class="btn" type="button" name="Submit" value="搜索" onclick="OnSearchCheckAndSubmit();">
+            <script language="javascript" type="text/javascript">
+            document.getElementById("keyword2").onkeydown = function(e) {
+                e = e || window.event;
+                if (e.keyCode == 13) { OnSearchCheckAndSubmit() }
+            }
+
+            function OnSearchCheckAndSubmit() {
+                var keyword2 = document.getElementById("keyword2").value;
+                if (keyword2 == '' || keyword2 == null) {
+                    alert("请输入关键词");
+                    return;
+                } else {
+
+                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                }
+            }
+            </script>
+        </div>
+
+
+    </div>
+</div>
+<!-- header E -->
+<div class="nav">
+	<div class="siteWidth">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+</li>
+<li class="li2" id="liID21">
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+</li>
+<li class="li2" id="liID22">
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+</li>
+<li class="li2" id="liID23">
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+</li>
+<li class="li2 last2" id="liID24">
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+				<li class="li2 first2" id="liID112">
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+</li>
+<li class="li2" id="liID113">
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+</li>
+<li class="li2" id="liID376">
+  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
+</li>
+<li class="li2 last2" id="liID389">
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+				<li class="li2 first2" id="liID43">
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+</li>
+<li class="li2" id="liID44">
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+</li>
+<li class="li2" id="liID45">
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+</li>
+<li class="li2" id="liID49">
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+</li>
+<li class="li2" id="liID41">
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+</li>
+<li class="li2" id="liID10">
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+</li>
+<li class="li2" id="liID42">
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+</li>
+<li class="li2 last2" id="liID379">
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+</li>
+<li class="li2" id="liID54">
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+</li>
+<li class="li2" id="liID55">
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+</li>
+<li class="li2" id="liID56">
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+</li>
+<li class="li2" id="liID58">
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+</li>
+<li class="li2 last2" id="liID60">
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+				<li class="li2 first2" id="liID377">
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+</li>
+<li class="li2" id="liID68">
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+</li>
+<li class="li2" id="liID69">
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+</li>
+<li class="li2 last2" id="liID71">
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+				<li class="li2 first2" id="liID381">
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+</li>
+<li class="li2" id="liID386">
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+</li>
+<li class="li2" id="liID102">
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+</li>
+<li class="li2 last2" id="liID104">
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+				<li class="li2 first2" id="liID72">
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+</li>
+<li class="li2" id="liID73">
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+</li>
+<li class="li2" id="liID74">
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+</li>
+<li class="li2" id="liID75">
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+</li>
+<li class="li2" id="liID76">
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+</li>
+<li class="li2" id="liID373">
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+</li>
+<li class="li2 last2" id="liID378">
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+</li>
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+				<li class="li2 first2" id="liID77">
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+</li>
+<li class="li2" id="liID383">
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+</li>
+<li class="li2" id="liID387">
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+</li>
+<li class="li2 last2" id="liID380">
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+</li>
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+				<li class="li2 first2" id="liID98">
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+</li>
+<li class="li2" id="liID99">
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+</li>
+<li class="li2" id="liID100">
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+</li>
+<li class="li2" id="liID103">
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+</li>
+<li class="li2" id="liID105">
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+</li>
+<li class="li2" id="liID368">
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+</li>
+<li class="li2" id="liID369">
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+</li>
+<li class="li2" id="liID388">
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+</li>
+<li class="li2 last2" id="liID382">
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+</li>
+			</ul></li></ul><script type="text/javascript">
+			jQuery(function($){
+				var navST;
+				var name='mainNav';
+				var t=200;
+				var type='2';
+				var removeOn='false';
+				var effect='slide';
+				var appendItem = '#';
+				var li="#"+name+" li";
+
+				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
+				if(type=='1'){ li="#"+name+" .li1"; }
+				if( appendItem!='#'){ //插入内容
+				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
+
+				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
+
+				$(li).hover(function(){
+					var curItem = $(this);
+					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
+					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
+					navST = setTimeout(function(){//延时触发
+					
+					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
+						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
+						else $("ul:first",curItem).slideDown(t);
+					};
+					navST = null;
+					},t);
+				}, function(){
+					if(navST!=null)clearTimeout(navST);
+					if(type=='1' || type=='2'){ 
+						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
+						else $(this).find("ul").first().slideUp(t); 
+					}
+					if (removeOn=='true') {  $(this).removeClass("on1"); }
+					},t); //end hover
+			});
+			</script>
+	</div>
+</div>
+
+<script>
+    var linum=jQuery("#mainNav .li1").length;
+    var bfb=1/linum*100;
+    jQuery("#mainNav .li1").css({ "width":bfb + '%' });
+
+//(function(w){if(w.screen.availWidth>=1280)document.body.className = 'wrapIn1280';})(window);
+
+</script>
+
+
+    <div class="banner">        
+        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+    </div>
+
+<div id="content">
+    <div class="siteWidth">
+        <div class="side">
+            <div id="sideMenu">
+        <div class="hd">
+        <h3><a href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h3>
+      </div>
+	<div class="bd">
+		<ul class="">
+			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Shaoxingyizhong/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Shaoxingyizhong/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Shaoxingyizhong/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Shaoxingyizhong/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Shaoxingyizhong/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Shaoxingyizhong/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Shaoxingyizhong/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Shaoxingyizhong/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Shaoxingyizhong/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Shaoxingyizhong/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Shaoxingyizhong/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Shaoxingyizhong/Category_35/Index.aspx">高三</a></li>
+		</ul>
+	</div>
+</div>
+	<script type="text/javascript">
+		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
+	</script>
+
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Shaoxingyizhong/Item/23507.aspx" target="_blank" title="标题：教育集团全体教职工大会通知&#xD;点击数：61&#xD;发表时间：2026年08月18日">教育集团全体教职工大会通知</a><span class="dateRight">[08-18]</span></li><li><a href="/Shaoxingyizhong/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(定)&#xD;点击数：174&#xD;发表时间：2026年08月12日"><font style="font-weight:bold;font-style:italic ;;">教学楼办公室调整公告(定)</font></a><span class="dateRight">[08-12]</span></li><li><a href="/Shaoxingyizhong/Item/23504.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一中教育集团领导班子成员分工的通知&#xD;点击数：144&#xD;发表时间：2026年08月14日">中共绍兴市第一中学委员会 绍兴市第一中学关于调整绍兴一…</a><span class="dateRight">[08-14]</span></li><li><a href="/Shaoxingyizhong/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Shaoxingyizhong/Item/23493.aspx" target="_blank" title="标题：2025学年各项先进推优名单公示&#xD;点击数：118&#xD;发表时间：2026年07月13日">2025学年各项先进推优名单公示</a><span class="dateRight">[07-13]</span></li><li><a href="/Shaoxingyizhong/Item/23448.aspx" target="_blank" title="标题：关于开展6月支部主题党日活动的通知&#xD;点击数：54&#xD;发表时间：2026年06月29日">关于开展6月支部主题党日活动的通知</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/22833.aspx" target="_blank" title="标题：绍兴市第一中学 2026年度“养新”党建活动方案&#xD;点击数：149&#xD;发表时间：2026年03月11日">绍兴市第一中学 2026年度“养新”党建活动方案</a><span class="dateRight">[03-11]</span></li>
+          
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- mainContent S -->
+        <div class="mainContent">
+            <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Shaoxingyizhong/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Shaoxingyizhong/Category_25/Index.aspx" target="_self">党政办</a></div>
+                    <h3>党政办</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">2010-9-10下午教师节大会刷卡记录公布</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span>2010-9-10下午教师节大会刷卡记录公布</span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：本站原创</span> <span>作者：佚名</span> <span>发布时间：2010年10月10日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=2613"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:2613},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=2613";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <TABLE style="WIDTH: 450pt; BORDER-COLLAPSE: collapse" cellSpacing=0 cellPadding=0 width=594 border=0 x:str>
+<COLGROUP>
+<COL style="WIDTH: 25pt; mso-width-source: userset; mso-width-alt: 1056" span=18 width=33>
+<TBODY>
+<TR style="HEIGHT: 30.75pt; mso-height-source: userset" height=41>
+<TD class=xl26 style="BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; BORDER-LEFT: #ece9d8; WIDTH: 450pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 30.75pt; BACKGROUND-COLOR: transparent" width=594 colSpan=18 height=41><FONT face=宋体 size=3><STRONG>    据一卡中心数据提供，2010-9-10下午教师节大会刷卡记录如下,请未能刷卡教师及时与校办沟通事因,否则要扣加班工资。</STRONG></FONT></TD></TR>
+<TR style="HEIGHT: 18pt" height=24>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 18pt; BACKGROUND-COLOR: transparent" width=33 height=24><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>姓名</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>进场时间</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>金建忠</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:08 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>高英</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:38 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈昌勇</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:47 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘夏进</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>卡坏了</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶佩莉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:08 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>傅雅飞</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:35 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>顾秀芹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:53 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王晶晶</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:29 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>邹晓燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:23 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>金建忠</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>高英</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈昌勇</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘夏进</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶佩莉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>傅雅飞</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>顾秀芹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王晶晶</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>邹晓燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>郭艳合</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:13 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>彭爱波</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:57 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>丁泾芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>施笑程</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　14:03:08 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>石谷颖</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:43 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王岚</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:23 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>钟慧军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:02 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张小娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:30 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈雪萍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:33 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>郭艳合</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>彭爱波</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>丁泾芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>施笑程</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>石谷颖</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王岚</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>钟慧军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张小娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈雪萍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>邵红祥</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:15 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>卢燎亚</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:20 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞霞</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:30 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>许敏</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:34 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周文阳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:03:10 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>金喜青</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:28 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>孔君</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:39 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈初见</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:53 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周文龙</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:37 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>邵红祥</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>卢燎亚</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞霞</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>许敏</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周文阳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>金喜青</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>孔君</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈初见</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周文龙</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>宣泳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:12 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王月琴</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:07 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞渭鑫</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>何珠芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:03:09 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>朱国强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:26 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>顾秀芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:35 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>赵寅芬</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:05 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>冯报春</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:08:02 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>谢澹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:30 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>宣泳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王月琴</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞渭鑫</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>何珠芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>朱国强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>顾秀芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>赵寅芬</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>冯报春</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>谢澹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>钱虹燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:36 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘明玉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:03:13 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王炜荣</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:39 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张祖农</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:47 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张江</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:28 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张蕾</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:01 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>骆惠新</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:05 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>黄先辉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:25 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘淑芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 17.25pt; mso-height-source: userset" height=23>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 17.25pt; BACKGROUND-COLOR: transparent" width=33 height=23><FONT face=宋体 size=1>钱虹燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘明玉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王炜荣</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张祖农</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张江</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张蕾</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>骆惠新</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>黄先辉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘淑芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>祝建强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:11 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>余子兰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:30 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>倪军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:05:22 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>傅韶松</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>教委报帐</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>裘洪萍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>金华元</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:53 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张款</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>黄伟中</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:06 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶建强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:13 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>祝建强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>余子兰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>倪军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>傅韶松</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>裘洪萍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>金华元</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张款</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>黄伟中</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶建强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>胡勇</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:29 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶望尧</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:28 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈树敏</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:26 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨大为</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:58 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈美琴</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:00 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>邱静娥</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:57 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>金江虹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:42 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>李岳信</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:59 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈连原</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:16 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>胡勇</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶望尧</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈树敏</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨大为</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈美琴</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>邱静娥</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>金江虹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>李岳信</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈连原</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>卢卫红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:59 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>凌晓锋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:24 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>郑益芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:40 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>黄金裕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:45 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨佩琼</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:54 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王幼青</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:05:24 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>祁倩</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:56 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>费艳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:33 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>桑美娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:28 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>卢卫红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>凌晓锋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>郑益芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>黄金裕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨佩琼</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王幼青</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>祁倩</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>费艳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>桑美娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>范捷</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:24 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>邢秀英</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:33 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈银伟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:46 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>韩小红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:59 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>劳王夫</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:21 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张豪</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:02 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>李文明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张叠</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:28 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张叶</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:43 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>范捷</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>邢秀英</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈银伟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>韩小红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>劳王夫</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张豪</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>李文明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张叠</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张叶</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>许琪玫</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>胡桂兰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>孟伟强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张尧</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:38 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王海燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:41 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>李峰红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:04 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王学文</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨国仁</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:28 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞苗锋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:35 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>许琪玫</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>胡桂兰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>孟伟强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张尧</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王海燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>李峰红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王学文</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨国仁</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞苗锋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>朱玛莉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:34 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨国平</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:48 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>顾向晖</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:23 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>冯王亮</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:56 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>单华康</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:46 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蔡继芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:55:58 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈祥土</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:03:01 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蒋抗力</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:40 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>卓铭阳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:03 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>朱玛莉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨国平</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>顾向晖</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>冯王亮</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>单华康</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蔡继芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈祥土</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蒋抗力</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>卓铭阳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 54pt; BACKGROUND-COLOR: transparent" width=33 height=72 rowSpan=2><FONT face=宋体 size=1>王柏根</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>07:28:03 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>宣方军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:51:19 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蒋卫江</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:40 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>何海明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:56 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>范玲玲</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:16 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>言利水</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:31 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周国才</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:44 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞自强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>市里安全会</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶建红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:57 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>13:56:08 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>宣方军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蒋卫江</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>何海明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>范玲玲</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>言利水</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周国才</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞自强</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶建红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>王柏根</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>徐萍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:31 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨瑞敏</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:55 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈锋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:44 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>胡唯亚</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:51 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>郦章华</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:58 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴丽娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:07:52 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王法新</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:04 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈杰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:10 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>丁素琴</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:49 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>徐萍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨瑞敏</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈锋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>胡唯亚</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>郦章华</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴丽娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王法新</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈杰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>丁素琴</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>章其炎</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:51:21 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨菊妃</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:05:40 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>楼开颜</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:36 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>孔祥新</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:45 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴万胜</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:51:20 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>阮国华</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:25 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蒋明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:08 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周敏杰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:21 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>何凯</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:09 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>章其炎</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨菊妃</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>楼开颜</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>孔祥新</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴万胜</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>阮国华</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>蒋明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>周敏杰</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>何凯</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈龙珠</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:42 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴益妃</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:58 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>唐海燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:51:25 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>宋建伟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:34 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>郑小平</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:14 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>何伟丹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:07:50 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘晓牛</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:16 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>胡红燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:53 进/出</FONT></TD></TR>
+<TR style="PAGE-BREAK-BEFORE: always; HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>董烨华</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:19 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈龙珠</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴益妃</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>唐海燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>宋建伟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>郑小平</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>何伟丹</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>刘晓牛</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>胡红燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>董烨华</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>洪波</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:20 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞建种</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:18 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33 rowSpan=2><FONT face=宋体 size=1>吴军芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:56:45 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>丁金美</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:48 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>范国娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:31 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>方大林</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:01 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>焦大伟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:20 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴巍巍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:56:59 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>陈义兵</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:59 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>洪波</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>俞建种</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:29 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>丁金美</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>范国娟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>方大林</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>焦大伟</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴巍巍</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>陈义兵</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨晶晶</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:49 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>马德尧</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:59 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>吴军芳</FONT></TD>
+<TD class=xl24 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王新东</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:38 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈合力</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:55 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>童莉芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:44 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张越爱</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:26 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>梁边</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:39 进/出</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>张木红</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:36 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>杨晶晶</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>马德尧</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王月</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:21 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王新东</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈合力</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>童莉芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张越爱</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>梁边</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>张木红</FONT></TD>
+<TD class=xl24 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张冬蕾</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:55 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>朱水军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:59:06 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王月</FONT></TD>
+<TD class=xl24 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>游光辉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:58:30 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>许婷</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:35 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陶佳卉</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>未</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>平建树</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>未</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>章欢欣</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>楼立青</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:02:56 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张冬蕾</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>朱水军</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>游光辉</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>许婷</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>沈剑蕾</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>能</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王姗姗</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>能</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>章欢欣</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD></TR>
+<TR style="HEIGHT: 27pt" height=36>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 27pt; BACKGROUND-COLOR: transparent" width=33 height=36><FONT face=宋体 size=1>楼立青</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>樊志芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:01:45 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>谢月明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:51 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>余丽芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>13:57:11 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>虞金龙</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>15:01:22 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈丹燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:37 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>徐立旦</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>领</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>徐雯</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>领</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王燕</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>未</FONT></TD></TR>
+<TR style="HEIGHT: 10.5pt" height=14>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 10.5pt; BACKGROUND-COLOR: transparent" width=33 height=14><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>樊志芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>谢月明</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>余丽芳</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>虞金龙</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>陈丹燕</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>王玉宇</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>领</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>张璐吉</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>领</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>郑伟</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>能</FONT></TD></TR>
+<TR style="HEIGHT: 25.5pt; mso-height-source: userset" height=34>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 25.5pt; BACKGROUND-COLOR: transparent" width=33 height=34><FONT face=宋体 size=1>蒋建棋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:34 进/出</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶建引</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>14:00:53 进/出</FONT></TD>
+<TD class=xl22 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl22 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>胡建国</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>卡</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>何隽豪</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>卡</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>朱谷兰</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>领</FONT></TD></TR>
+<TR style="HEIGHT: 16.5pt; mso-height-source: userset" height=22>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext 0.5pt solid; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; HEIGHT: 16.5pt; BACKGROUND-COLOR: transparent" width=33 height=22><FONT face=宋体 size=1>蒋建棋</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>叶建引</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl22 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl22 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>　</FONT></TD>
+<TD class=xl23 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; WIDTH: 25pt; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent" width=33><FONT face=宋体 size=1>邢婷</FONT></TD>
+<TD class=xl25 style="BORDER-RIGHT: windowtext 0.5pt solid; BORDER-TOP: windowtext; BORDER-LEFT: windowtext; BORDER-BOTTOM: windowtext 0.5pt solid; BACKGROUND-COLOR: transparent"><FONT face=宋体>卡</FONT></TD></TR></TBODY></TABLE>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/2611.aspx" target="_self" title="标题：关于高二年级党支部委员选举结果的批复&#xD;点击数：820&#xD;发表时间：10年10月10日">关于高二年级党支部委员选举结果的批复</a>[ 10-10 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/2614.aspx" target="_self" title="标题：2010年下半年市区窗口行业从业人员普通话培训与水平测试的通知&#xD;点击数：1688&#xD;发表时间：10年10月10日">2010年下半年市区窗口行业从业人员普通话培训与水平测试的通知</a>[ 10-10 ]</div>
+                        </div>
+                    </div>
+
+                    <!-- 正文内容 E -->
+                </div>
+            </div>
+        </div>
+        <!-- mainContent E -->
+    </div>
+</div>
+<!--content-->
+
+<!-- footer S -->
+<div id="footer">
+  <div class="siteWidth">
+
+      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+
+      <ul class="footerNav">
+        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="spe">|</li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="spe">|</li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="spe">|</li>
+<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="spe">|</li>
+<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+      </ul>
+
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+  </div>  
+</div>
+<!-- footer E -->
+
+
+
+
+
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
+
+
+</body>
+
+</html>
