@@ -44,6 +44,8 @@ CSS_ATTACHMENT_RE = re.compile(r'''url\(\s*["']?([^\)"']+)["']?\s*\)''', re.IGNO
 THUMBNAIL_SUFFIX_RE = re.compile(r"^(?P<stem>.+)_600_340(?P<suffix>\.[^.]+)$", re.IGNORECASE)
 MAX_EXTERNAL_IMAGE_BYTES = 100 * 1024 * 1024
 EXTERNAL_IMAGE_TIMEOUT_SECONDS = 30
+GIT_COMMAND_TIMEOUT_SECONDS = 180
+CLONE_TIMEOUT_SECONDS = 300
 
 
 @dataclass(frozen=True)
@@ -423,7 +425,22 @@ def _git(repo: Path, *args: str, check: bool = True) -> subprocess.CompletedProc
         check=check,
         capture_output=True,
         text=True,
+        timeout=GIT_COMMAND_TIMEOUT_SECONDS,
     )
+
+
+def clone_repository_command(full_name: str, repo: Path) -> list[str]:
+    """Clone metadata and trees without downloading historical image blobs."""
+    return [
+        "gh",
+        "repo",
+        "clone",
+        full_name,
+        str(repo),
+        "--",
+        "--filter=blob:none",
+        "--no-checkout",
+    ]
 
 
 def configure_repository(repo: Path) -> None:
@@ -458,6 +475,11 @@ def _git_repository_is_usable(repo: Path) -> bool:
     except OSError:
         return False
     return index.returncode == 0
+
+
+def _is_partial_clone(repo: Path) -> bool:
+    result = _git(repo, "config", "--get", "remote.origin.promisor", check=False)
+    return result.returncode == 0 and result.stdout.strip().lower() == "true"
 
 
 def _repair_local_repository(repo: Path, origin: str) -> None:
@@ -518,6 +540,8 @@ def push_repository(repo: Path, attempts: int = 5, retry_delay: int = 10) -> Non
     for attempt in range(1, attempts + 1):
         try:
             result = _git(repo, "push", "origin", "main", check=False)
+        except subprocess.TimeoutExpired:
+            last_error = f"git push timed out after {GIT_COMMAND_TIMEOUT_SECONDS}s"
         except OSError as error:
             last_error = str(error)
         else:
@@ -594,7 +618,21 @@ def _commit(
     if _git(repo, "diff", "--cached", "--quiet", check=False).returncode == 0:
         return False
     try:
-        _git(repo, "commit", "-m", message)
+        if _is_partial_clone(repo):
+            tree = _git(repo, "write-tree", "--missing-ok").stdout.strip()
+            parent = _git(repo, "rev-parse", "HEAD").stdout.strip()
+            commit = subprocess.run(
+                ["git", "commit-tree", tree, "-p", parent],
+                cwd=repo,
+                check=True,
+                input=message + "\n",
+                text=True,
+                capture_output=True,
+                timeout=GIT_COMMAND_TIMEOUT_SECONDS,
+            ).stdout.strip()
+            _git(repo, "update-ref", "refs/heads/main", commit, parent)
+        else:
+            _git(repo, "commit", "-m", message)
     except subprocess.CalledProcessError as error:
         details = (error.stderr or "") + (error.stdout or "")
         if "promisor" not in details and "could not fetch" not in details:
@@ -623,6 +661,7 @@ def sync_repository(
     repo: Path,
     max_commit_bytes: int,
     push: bool = True,
+    prune_missing: bool = False,
 ) -> dict[str, int]:
     if not (repo / ".git").exists():
         raise FileNotFoundError(f"not a Git repository: {repo}")
@@ -664,11 +703,15 @@ def sync_repository(
         or rows[target_path]["sha256"] != entry.sha256
         or rows[target_path]["source_sha256"] != entry.source_sha256
     ]
-    # The intranet crawler is incremental: an absent file means it was not
-    # downloaded in this run, not that an already-published archive file was
-    # deleted.  Keep all previous manifest rows and blobs unless an explicit
-    # case-only migration is being applied.
-    deleted: list[str] = []
+    # The intranet crawler is incremental by default: an absent file means it
+    # was not downloaded in this run.  A deliberate cleanup can opt into
+    # pruning every manifested image absent from the complete inventory.
+    deleted = sorted(set(rows) - set(current)) if prune_missing else []
+    for target_path in deleted:
+        target = repo / target_path
+        if target.exists():
+            target.unlink()
+        rows.pop(target_path, None)
     commits = 0
 
     for index, batch in enumerate(batch_entries(changed, max_commit_bytes), 1):
@@ -703,15 +746,16 @@ def sync_repository(
         ):
             commits += 1
 
-    if not changed or stale_case_paths:
+    if not changed or stale_case_paths or deleted:
         _write_manifest(manifest_path, rows)
         _write_deletions(deletions_path, deleted)
         if _commit(
             repo,
             "chore: record archived image inventory",
-            ["manifest.tsv", "deletions.tsv"],
+            ["manifest.tsv", "deletions.tsv"] + deleted,
             push,
-            remove_paths=stale_case_paths,
+            chmod_paths=["manifest.tsv", "deletions.tsv"],
+            remove_paths=stale_case_paths + deleted,
         ):
             commits += 1
 
@@ -756,6 +800,7 @@ def _run(args: list[str], cwd: Path | None = None, check: bool = True) -> subpro
         check=check,
         capture_output=True,
         text=True,
+        timeout=CLONE_TIMEOUT_SECONDS if args[:3] == ["gh", "repo", "clone"] else GIT_COMMAND_TIMEOUT_SECONDS,
     )
 
 
@@ -817,7 +862,7 @@ def bootstrap_repository(routes: RouteConfig, repository: str, workspace: Path) 
         if repo.exists() and any(repo.iterdir()):
             raise RuntimeError(f"non-empty clone target is not a Git repository: {repo}")
         repo.parent.mkdir(parents=True, exist_ok=True)
-        _run(["gh", "repo", "clone", full_name, str(repo)])
+        _run(clone_repository_command(full_name, repo))
     configure_repository(repo)
     _git(repo, "branch", "-M", "main")
 
@@ -943,6 +988,11 @@ def main(argv: list[str] | None = None) -> int:
     _common_arguments(bootstrap_parser)
     sync_parser = subparsers.add_parser("sync", help="upload new or changed images")
     _common_arguments(sync_parser, source=True)
+    sync_parser.add_argument(
+        "--prune-missing",
+        action="store_true",
+        help="删除 manifest 中但完整源目录已不再存在的图片",
+    )
     verify_parser = subparsers.add_parser("verify", help="verify local clones and remote samples")
     _common_arguments(verify_parser)
     args = parser.parse_args(argv)
@@ -978,6 +1028,7 @@ def main(argv: list[str] | None = None) -> int:
                 repo,
                 routes.max_commit_bytes,
                 push=True,
+                prune_missing=args.prune_missing,
             )
         print(json.dumps(results, ensure_ascii=False, sort_keys=True))
         return 0

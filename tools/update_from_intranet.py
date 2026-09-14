@@ -34,6 +34,7 @@ def image_sync_command(
         str(repo_root / "attachment_routes.json"),
         "--workspace",
         str(workspace),
+        "--prune-missing",
     ]
 
 
@@ -129,6 +130,7 @@ def main() -> int:
         str(INCREMENTAL_STATE / "visited.json"),
         "--commit",
         "--push",
+        "--include-deletions",
         "--message",
         args.message,
     ]

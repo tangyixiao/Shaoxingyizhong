@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>组织机构-绍兴市第一中学</title>
+    <title>学时登记：2026暑期模拟联合国志愿者学分--实践学分-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -155,11 +154,11 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID389">
   <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
   <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
-<li class="li2 on2" id="liID44">
+<li class="li2" id="liID44">
   <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
@@ -342,25 +341,27 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202101182102504635.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_4/Index.aspx">走进一中</a></h3>
+        <h3><a href="/Category_9/Index.aspx">莘莘学子</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_43/Index.aspx">学校概览</a></li>
-<li class="li2 on"><a href="/Category_44/Index.aspx">组织机构</a></li>
-<li class="li3"><a href="/Category_45/Index.aspx">管理团队</a></li>
-<li class="li4"><a href="/Category_49/Index.aspx">—中校歌</a></li>
-<li class="li5"><a href="/Category_41/Index.aspx">校园风光</a></li>
-<li class="li6"><a href="/Category_10/Index.aspx">奖教奖学</a></li>
-<li class="li7"><a href="/Category_42/Index.aspx">学校荣誉</a></li>
-<li class="li8 last"><a href="/Category_379/Index.aspx">领导关怀</a></li>
+			<li class="li1 first"><a href="/Category_98/Index.aspx">学生之星</a></li>
+<li class="li2"><a href="/Category_99/Index.aspx">团学动态</a></li>
+<li class="li3"><a href="/Category_100/Index.aspx">社团风采</a></li>
+<li class="li4"><a href="/Category_103/Index.aspx">艺术教育</a></li>
+<li class="li5"><a href="/Category_105/Index.aspx">校园安全</a></li>
+<li class="li6 on"><a href="/Category_368/Index.aspx">实践学分</a></li>
+<li class="li7"><a href="/Category_369/Index.aspx">饮水思源</a></li>
+<li class="li8"><a href="/Category_388/Index.aspx">志愿活动</a></li>
+<li class="li9 last"><a href="/Category_382/Index.aspx">校园活动</a></li>
 		</ul>
 	</div>
 </div>
@@ -368,90 +369,81 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/1380.aspx" target="_blank" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146662&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a><span class="dateRight">[09-07]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/16837.aspx" target="_blank" title="标题：学时登记：2022暑期职业体验&#xD;点击数：107&#xD;发表时间：2022年11月14日">学时登记：2022暑期职业体验</a><span class="dateRight">[11-14]</span></li><li><a href="/Item/23642.aspx" target="_blank" title="标题：学时登记：2026.6高考志愿者&#xD;点击数：1&#xD;发表时间：2026年09月12日">学时登记：2026.6高考志愿者</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23641.aspx" target="_blank" title="标题：学时登记：2026.5.30 高三喊楼活动&#xD;点击数：1&#xD;发表时间：2026年09月12日">学时登记：2026.5.30 高三喊楼活动</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23640.aspx" target="_blank" title="标题：学时登记：2026暑期模拟联合国志愿者学分&#xD;点击数：1&#xD;发表时间：2026年09月12日">学时登记：2026暑期模拟联合国志愿者学分</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23274.aspx" target="_blank" title="标题：学时登记：2026.5.23招生考试&#xD;点击数：44&#xD;发表时间：2026年05月25日">学时登记：2026.5.23招生考试</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/22926.aspx" target="_blank" title="标题：学时登记：摄影社寒假模拟联合国活动&#xD;点击数：24&#xD;发表时间：2026年03月26日">学时登记：摄影社寒假模拟联合国活动</a><span class="dateRight">[03-26]</span></li><li class="last"><a href="/Item/22882.aspx" target="_blank" title="标题：学时登记：寒假模拟联合国学分&#xD;点击数：37&#xD;发表时间：2026年03月18日">学时登记：寒假模拟联合国学分</a><span class="dateRight">[03-18]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=44>组织机构</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Category_4/Index.aspx" target="_self">走进一中</a>&gt;
-    <a href="/Category_44/Index.aspx" target="_self">组织机构</a></div>
-                    <h3>组织机构</h3>
+    <a href="/Category_9/Index.aspx" target="_self">莘莘学子</a>&gt;
+    <a href="/Category_368/Index.aspx" target="_self">实践学分</a></div>
+                    <h3>实践学分</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2022-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/1380.aspx" target="_self" title="标题：绍兴一中教育集团教工办公电话一览表&#xD;点击数：146662&#xD;发表时间：2022年09月07日">绍兴一中教育集团教工办公电话一览表</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">学时登记：2026暑期模拟联合国志愿者学分</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月12日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23640"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23640},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23640";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;">请相关班级的团支书及时登记、更新下列同学的学分登记表，</span><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;">登记在“志愿服务”栏内。</span></p><p><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;"></span></p><table width="144"><colgroup><col width="48" span="3" style="width: 48pt;" /></colgroup><tbody><tr style="height: 17.6pt;" class="firstRow"><td class="et2 selectTdClass" width="48" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">班级</td><td class="et2 selectTdClass" width="48" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">姓名</td><td class="et2 selectTdClass" width="48" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">学分</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">106</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">陈泽颖</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.5</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">111</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">任清兰</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.35</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">112</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">莫晓熙</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.25</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">现203</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">张寒河</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.35</td></tr><tr style="height: 17.6pt;"><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">现210</td><td class="et2 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">王思杰</td><td class="et3 selectTdClass" style="padding-top: 1px; padding-left: 1px; padding-right: 1px; font-size: 12pt; font-family: 宋体; border-width: 1px; border-color: rgb(0, 0, 0); vertical-align: middle; white-space: nowrap; border-style: solid;">0.75</td></tr></tbody></table><p><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; font-family: 宋体; text-align: justify; background-color: rgb(255, 255, 255); margin: 0px; padding: 0px;"></span>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23274.aspx" target="_self" title="标题：学时登记：2026.5.23招生考试&#xD;点击数：44&#xD;发表时间：26年05月25日">学时登记：2026.5.23招生考试</a>[ 05-25 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23641.aspx" target="_self" title="标题：学时登记：2026.5.30 高三喊楼活动&#xD;点击数：1&#xD;发表时间：26年09月12日">学时登记：2026.5.30 高三喊楼活动</a>[ 09-12 ]</div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -483,6 +475,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
