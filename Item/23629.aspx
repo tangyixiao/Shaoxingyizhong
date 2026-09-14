@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23629.aspx" target="_blank" title="标题：高二晚自习(9.13-9.18)&#xD;点击数：58&#xD;发表时间：2026年09月11日">高二晚自习(9.13-9.18)</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23597.aspx" target="_blank" title="标题：高二晚自修（9.6-9.11）&#xD;点击数：127&#xD;发表时间：2026年09月04日">高二晚自修（9.6-9.11）</a><span class="dateRight">[09-04]</span></li><li><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：146&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/20257.aspx" target="_blank" title="标题：高二晚自修答疑值班安排（9.22-9.27）&#xD;点击数：209&#xD;发表时间：2024年09月20日">高二晚自修答疑值班安排（9.22-9.27）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23566.aspx" target="_blank" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：141&#xD;发表时间：2026年08月31日">高二晚自修（8.30-9.4）</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23436.aspx" target="_blank" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：163&#xD;发表时间：2026年06月26日">高二晚自修（6.29-7.10）</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23391.aspx" target="_blank" title="标题：高二晚自修（6.21-6.28）&#xD;点击数：102&#xD;发表时间：2026年06月18日">高二晚自修（6.21-6.28）</a><span class="dateRight">[06-18]</span></li>
+            <li class="first"><a href="/Item/23597.aspx" target="_blank" title="标题：高二晚自修（9.6-9.11）&#xD;点击数：137&#xD;发表时间：2026年09月04日">高二晚自修（9.6-9.11）</a><span class="dateRight">[09-04]</span></li><li><a href="/Item/23629.aspx" target="_blank" title="标题：高二晚自习(9.13-9.18)&#xD;点击数：161&#xD;发表时间：2026年09月14日">高二晚自习(9.13-9.18)</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23566.aspx" target="_blank" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：148&#xD;发表时间：2026年08月31日">高二晚自修（8.30-9.4）</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/20257.aspx" target="_blank" title="标题：高二晚自修答疑值班安排（9.22-9.27）&#xD;点击数：209&#xD;发表时间：2024年09月20日">高二晚自修答疑值班安排（9.22-9.27）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：149&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/23436.aspx" target="_blank" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：164&#xD;发表时间：2026年06月26日">高二晚自修（6.29-7.10）</a><span class="dateRight">[06-26]</span></li><li class="last"><a href="/Item/23391.aspx" target="_blank" title="标题：高二晚自修（6.21-6.28）&#xD;点击数：102&#xD;发表时间：2026年06月18日">高二晚自修（6.21-6.28）</a><span class="dateRight">[06-18]</span></li>
           
                     </ul>
                 </div>
@@ -411,7 +411,7 @@ function GetUserInfo1(response){
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月14日</span> <span>点击数：
     <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23629"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
@@ -427,8 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <article><p>
-</p><p><img src="https://static.dingtalk.com/media/lQLPJxSykGtIC1vNAerNAr2whxQd1uPbtYwKdCan_Xz3AA_701_490.png" width="482" height="331" style="width: 482px; height: 331px;" /></p><p><img src="https://static.dingtalk.com/media/lQLPKGd6KPW7zFvNATPNAe-whW8bX_E-vrMKdCan9ea1AA_495_307.png" width="495" height="307" /></p></article><p>
+     <p><img src="/UploadFiles/xwzx/2026/9/202609140833144796.png" style="max-width: 100%; " title="202609140833144796.png" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609140833146310.png" style="max-width: 100%; " title="202609140833146310.png" /></p><p>
 </p>
     
     </div><!--endprint-->
@@ -438,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23597.aspx" target="_self" title="标题：高二晚自修（9.6-9.11）&#xD;点击数：127&#xD;发表时间：26年09月04日">高二晚自修（9.6-9.11）</a>[ 09-04 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23597.aspx" target="_self" title="标题：高二晚自修（9.6-9.11）&#xD;点击数：137&#xD;发表时间：26年09月04日">高二晚自修（9.6-9.11）</a>[ 09-04 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
