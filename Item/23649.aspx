@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>组织架构-绍兴市第一中学</title>
+    <title>微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生--学校新闻-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -180,8 +179,8 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID379">
   <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
-				<li class="li2 first2 on2" id="liID53">
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+				<li class="li2 first2" id="liID53">
   <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
@@ -342,24 +341,20 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_50/Index.aspx">党建引领</a></h3>
+        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Category_53/Index.aspx">组织架构</a></li>
-<li class="li2"><a href="/Category_54/Index.aspx">清廉学校</a></li>
-<li class="li3"><a href="/Category_55/Index.aspx">学习专栏</a></li>
-<li class="li4"><a href="/Category_56/Index.aspx">先锋故事</a></li>
-<li class="li5"><a href="/Category_58/Index.aspx">课余党校</a></li>
-<li class="li6 last"><a href="/Category_60/Index.aspx">党建网站</a></li>
+			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
 </div>
@@ -367,90 +362,83 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23548.aspx" target="_blank" title="标题：全校党员名单（2026年8月更新）&#xD;点击数：35&#xD;发表时间：2026年08月24日">全校党员名单（2026年8月更新）</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/22999.aspx" target="_blank" title="标题：全校党员名单（2026年4月更新）&#xD;点击数：77&#xD;发表时间：2026年04月07日">全校党员名单（2026年4月更新）</a><span class="dateRight">[04-07]</span></li><li><a href="/Item/22698.aspx" target="_blank" title="标题：全校党员名单（2026年1月更新）&#xD;点击数：59&#xD;发表时间：2026年01月23日">全校党员名单（2026年1月更新）</a><span class="dateRight">[01-23]</span></li><li><a href="/Item/21781.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会组织架构&#xD;点击数：67&#xD;发表时间：2025年08月26日">中共绍兴市第一中学委员会组织架构</a><span class="dateRight">[08-26]</span></li><li><a href="/Item/10476.aspx" target="_blank" title="标题：党支部组织架构&#xD;点击数：396&#xD;发表时间：2024年09月28日">党支部组织架构</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/8274.aspx" target="_blank" title="标题：离退休支部&#xD;点击数：159&#xD;发表时间：2018年04月04日"><font style=";">离退休支部</font></a><span class="dateRight">[04-04]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23648.aspx" target="_blank" title="标题：凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会&#xD;点击数：22&#xD;发表时间：2026年09月14日">凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见…</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23567.aspx" target="_blank" title="标题：防患未“燃”，护航成长——绍兴一中2026级高一新生消防安全教育培训活动&#xD;点击数：29&#xD;发表时间：2026年08月31日">防患未“燃”，护航成长——绍兴一中2026级高一新生消防…</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23649.aspx" target="_blank" title="标题：微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生&#xD;点击数：29&#xD;发表时间：2026年09月14日">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23646.aspx" target="_blank" title="标题：百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会&#xD;点击数：25&#xD;发表时间：2026年09月14日">百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42…</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23624.aspx" target="_blank" title="标题：结对帮扶搭平台 专题培训促成长  ——绍兴一中教育集团隆重举行新教师师徒结对仪式暨新入职教师第二期培训&#xD;点击数：66&#xD;发表时间：2026年09月10日">结对帮扶搭平台 专题培训促成长  ——绍兴一中教育集团隆…</a><span class="dateRight">[09-10]</span></li><li class="last"><a href="/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：165&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=53>组织架构</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
-    <a href="/Category_53/Index.aspx" target="_self">组织架构</a></div>
-                    <h3>组织架构</h3>
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+                    <h3>学校新闻</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-08-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23548.aspx" target="_self" title="标题：全校党员名单（2026年8月更新）&#xD;点击数：35&#xD;发表时间：2026年08月24日">全校党员名单（2026年8月更新）</a></li><li><span class="date">2026-04-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22999.aspx" target="_self" title="标题：全校党员名单（2026年4月更新）&#xD;点击数：77&#xD;发表时间：2026年04月07日">全校党员名单（2026年4月更新）</a></li><li><span class="date">2026-01-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22698.aspx" target="_self" title="标题：全校党员名单（2026年1月更新）&#xD;点击数：59&#xD;发表时间：2026年01月23日">全校党员名单（2026年1月更新）</a></li><li><span class="date">2025-08-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21781.aspx" target="_self" title="标题：中共绍兴市第一中学委员会组织架构&#xD;点击数：67&#xD;发表时间：2025年08月26日">中共绍兴市第一中学委员会组织架构</a></li><li><span class="date">2024-09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/10476.aspx" target="_self" title="标题：党支部组织架构&#xD;点击数：396&#xD;发表时间：2024年09月28日">党支部组织架构</a></li><li class="split"></li><li class="last"><span class="date">2018-04-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/8274.aspx" target="_self" title="标题：离退休支部&#xD;点击数：159&#xD;发表时间：2018年04月04日"><font style=";">离退休支部</font></a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月14日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23649"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23649},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23649";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="font-family: Calibri;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
+</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">世间大爱，从不在声势浩大的宣言里，而在岁岁年年的坚守中；真正的仁者，从不求声名喧赫，只愿以己之力，照亮他人前路。王卫列先生，便是这样一位以善为恒、以教为念的躬行者。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">生于书香之家的他，自幼浸润正直向善的家风，深知教育是寒门学子破局成长的唯一星光，是托起未来、点亮希望的根本力量。半生深耕事业，凭勤勉与睿智收获成就，却始终恪守简朴本心，生活低调淡然，不逐浮华、不尚奢靡。可在助学济困、成全学子梦想的路上，他向来慷慨无私，倾尽热忱与担当。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">自2012年始，一颗助学的初心悄然启程，十余载风雨兼程，从未停歇。心怀桑梓、情系教育的王卫列先生，始终聚焦贫困学子的求学困境，默默扎根公益助学之路。他牵挂每一位寒门学子的前路，不忍让一腔求学热忱被清贫桎梏，不让年少梦想因窘迫落幕。十余年间，他持续奔走助学，精准帮扶家境贫寒、勤学上进的学子，助力无数孩子安稳走完求学之路。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">从结对帮扶寒门大学生，提前足额拨付助学资金，免除学子学业后顾之忧；到回馈母校桑梓，设立专项奖学金，深耕本土教育沃土；日复一日的坚守，年复一年的付出，汇聚成滚烫的公益暖流。经年累计，他为助学事业捐资超两千余万元，用真金白银的付出、持之以恒的善意，为数百名贫困学子搭建起通往山海的求学桥梁，让无数困顿中的青春，得以向阳生长、逐光前行。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">最动人的从不是捐赠的数额，而是藏在善举背后的赤诚初心。王卫列先生从不张扬善行，不求名利赞誉，只是默默坚守、躬身践行。于他而言，助学不是一时的热忱，而是一生的执念；行善不是刻意的标榜，而是刻入心底的修养。他深知一束微光力量微薄，便以岁月为薪、以初心为火，岁岁坚守、久久为功，让点点善意汇聚成燎原星火，照亮漫漫求学长路。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">教育有声，大爱无言。王卫列先生以凡人之躯，行非凡之事，用十余载坚守诠释着“崇文重教、乐善好施”的真谛。他褪去浮华，留存纯粹，以微薄己力渡人，以赤诚丹心育人，让善意跨越岁月，让书香延续希望。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">山河不语，见证初心；时光无声，镌刻善行。致敬王卫列先生！愿这份温润纯粹的助学大爱，生生不息、薪火相传，照亮更多学子的逐梦之路，温暖世间每一份向上的奔赴。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> <img src="/UploadFiles/xwzx/2026/9/202609141031492215.jpg" style="max-width: 100%; " title="202609141031492215.jpg" /></span></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23648.aspx" target="_self" title="标题：凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会&#xD;点击数：22&#xD;发表时间：26年09月14日">凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会</a>[ 09-14 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -482,6 +470,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
