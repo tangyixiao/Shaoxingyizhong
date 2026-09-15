@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23655.aspx" target="_blank" title="标题：地理教研活动通知&#xD;点击数：65&#xD;发表时间：2026年09月15日">地理教研活动通知</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23643.aspx" target="_blank" title="标题：体育教研活动通知&#xD;点击数：139&#xD;发表时间：2026年09月14日">体育教研活动通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23632.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：423&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23633.aspx" target="_blank" title="标题：网上报名操作说明&#xD;点击数：184&#xD;发表时间：2026年09月11日">网上报名操作说明</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23611.aspx" target="_blank" title="标题：高一高二美术生上课通知&#xD;点击数：111&#xD;发表时间：2026年09月08日">高一高二美术生上课通知</a><span class="dateRight">[09-08]</span></li><li class="last"><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li>
+            <li class="first"><a href="/Item/23655.aspx" target="_blank" title="标题：地理教研活动通知&#xD;点击数：93&#xD;发表时间：2026年09月15日">地理教研活动通知</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23632.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：435&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23643.aspx" target="_blank" title="标题：体育教研活动通知&#xD;点击数：141&#xD;发表时间：2026年09月14日">体育教研活动通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23633.aspx" target="_blank" title="标题：网上报名操作说明&#xD;点击数：186&#xD;发表时间：2026年09月11日">网上报名操作说明</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23611.aspx" target="_blank" title="标题：高一高二美术生上课通知&#xD;点击数：111&#xD;发表时间：2026年09月08日">高一高二美术生上课通知</a><span class="dateRight">[09-08]</span></li><li class="last"><a href="/Item/23463.aspx" target="_blank" title="标题：2026年7月学考试场布置要求&#xD;点击数：242&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a><span class="dateRight">[07-01]</span></li>
           
                     </ul>
                 </div>
@@ -436,7 +436,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23643.aspx" target="_self" title="标题：体育教研活动通知&#xD;点击数：139&#xD;发表时间：26年09月14日">体育教研活动通知</a>[ 09-14 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23643.aspx" target="_self" title="标题：体育教研活动通知&#xD;点击数：141&#xD;发表时间：26年09月14日">体育教研活动通知</a>[ 09-14 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
