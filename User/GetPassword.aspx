@@ -59,7 +59,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <input type="hidden" name="__REFRESH_FIELD" id="__REFRESH_FIELD" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="NXYg4FBwo3cP4pBf5guMED4MwBaPTEkEjTzhf2YI09Pmy0+dQyUFpXiSaNjtEDEdCB5Xu7FYSy+qHpNEVTQ/94N80tt3zucWgLkYIfEBTj5Phcnqrx9dsJAhWvWoMMAg3U14xUqkthAa6fcsXyPaITGtlxJRQeFEunA2m7a4q2TSJET0vyzQN2DJDSjAFhhpUk7P8FM0Qf9wq3EhbwfcsKwyvfpsbgB3eEOQUNyx3qfmD4i8kxueUQ5De6aLu0RmMqmMZkkVM4rMyiqqaTs0MhRZfqWax7P+oOzyIuo8tD9WEdTn/vXBQJ58gk+H9IvZtFegWQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="AIFpKnWtgsMBb98Xzx+FJLpo2RoVTCbOjfzst884GI7fQl9aXkQ3JK2A5jSzNaDCa57EQXAb7RTwRkGuMd6XkRXPAi1Iw57zKcTp+HcdzgwzxRPH/fuFs/rpRKS8dkqYs/0K9jJCwoRgC4Vnvj+bsN+TWNJi2hOUjUrSFrSOjgpN7frDEbC1b0gq6XQ7vylRTWoWkn7a1Lcsp1qbDYUG2YTQuV3uEtIi6Fy2Fwt2vbxuEisuoFkMSmJG+owjeja2LrS9Q0Htm1aNHgVx/Tt9AyARYkNpvysIdPgLl61UhPtOdR4BKvcqqjnWj0YHbeAHxp5QmQ==" />
 </div>
 
 <script type="text/javascript">
@@ -96,7 +96,7 @@ return true;
 <div>
 
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="sYu3ixXGCjEIenVmSqnQVhhi9f8qbSLyzOUp6oXD1Tw6y3VoM3XOk4JKQLpMXX8yfNAyaj4wwCeRwCqBBvNIP50Uxupz29tPEZCdg5uMX4dhmj1r" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vTiHsEQYapHVCTRiOoy24g9BS8gFAPLJA6OvX2fa+2mPOyFknC34DnpJICHX2CF/NRVjaNnkX8a5P3TOsflxUunq3hMcImmpzxpAs7Y2AX7Ubn1w" />
 </div> 
                 <ul>
                     <li><label>请输入用户名：</label><input name="TxtUserName" type="text" id="TxtUserName" class="inputxt" /><span style="color:Red;">* </span><span id="ValrTxtUserName" style="color:Red;display:none;">请输入用户名！</span></li>

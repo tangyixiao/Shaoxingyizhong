@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23645.aspx" target="_blank" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：211&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23644.aspx" target="_blank" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：152&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：129&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23617.aspx" target="_blank" title="标题：高一社团报名通知&#xD;点击数：134&#xD;发表时间：2026年09月09日">高一社团报名通知</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：91&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：101&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23598.aspx" target="_blank" title="标题：高一年级周六讲座通知&#xD;点击数：144&#xD;发表时间：2026年09月04日">高一年级周六讲座通知</a><span class="dateRight">[09-04]</span></li>
+            <li class="first"><a href="/Item/23645.aspx" target="_blank" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：219&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23644.aspx" target="_blank" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：153&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：129&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23617.aspx" target="_blank" title="标题：高一社团报名通知&#xD;点击数：134&#xD;发表时间：2026年09月09日">高一社团报名通知</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：102&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：91&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23598.aspx" target="_blank" title="标题：高一年级周六讲座通知&#xD;点击数：144&#xD;发表时间：2026年09月04日">高一年级周六讲座通知</a><span class="dateRight">[09-04]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23644.aspx" target="_self" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：152&#xD;发表时间：26年09月14日">关于2026暑期社会实践交流评比的通知</a>[ 09-14 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23644.aspx" target="_self" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：153&#xD;发表时间：26年09月14日">关于2026暑期社会实践交流评比的通知</a>[ 09-14 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

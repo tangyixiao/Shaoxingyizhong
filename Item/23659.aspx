@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于2026暑期社会实践交流评比的通知--团委-绍兴市第一中学</title>
+    <title>9.14班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -356,8 +356,8 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5 on"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23645.aspx" target="_blank" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：219&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23644.aspx" target="_blank" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：153&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：129&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23617.aspx" target="_blank" title="标题：高一社团报名通知&#xD;点击数：134&#xD;发表时间：2026年09月09日">高一社团报名通知</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：102&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：91&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23598.aspx" target="_blank" title="标题：高一年级周六讲座通知&#xD;点击数：144&#xD;发表时间：2026年09月04日">高一年级周六讲座通知</a><span class="dateRight">[09-04]</span></li>
+            <li class="first"><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：121&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛…</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23653.aspx" target="_blank" title="标题：9.12班级一日考核&#xD;点击数：66&#xD;发表时间：2026年09月14日">9.12班级一日考核</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23652.aspx" target="_blank" title="标题：9.11班级一日考核&#xD;点击数：55&#xD;发表时间：2026年09月14日">9.11班级一日考核</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23658.aspx" target="_blank" title="标题：寻物启事（手表）&#xD;点击数：17&#xD;发表时间：2026年09月15日">寻物启事（手表）</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23636.aspx" target="_blank" title="标题：关于公布新学期获得“美丽教室”荣誉的班级的通知&#xD;点击数：171&#xD;发表时间：2026年09月11日">关于公布新学期获得“美丽教室”荣誉的班级的通知</a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：199&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_30/Index.aspx" target="_self">团委</a></div>
-                    <h3>团委</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于2026暑期社会实践交流评比的通知</h2>
+                        <h2 class="title">9.14班级一日考核</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月14日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23644"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月15日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23659"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23644},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23659},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23644";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23659";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,8 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: center;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>关于</strong></span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>2026</strong></span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>暑期社会实践交流评比</strong></span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>的</strong></span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>通知</strong></span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>一</strong></span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>、评比</strong></span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>时间</strong></span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">高一</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">：</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">9月15</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">日</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">（周二）12：30</span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">高二</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">：</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">9月16日（周三）12：30</span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong><span style="font-size: 12pt; text-indent: 31.68px; margin: 0px; padding: 0px;"><strong>二</strong></span><span style="font-size: 12pt; text-indent: 31.68px; margin: 0px; padding: 0px;"><strong>、评比地点</strong></span></strong></span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><b>阶梯教室4106</b></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>三、评比</strong></span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"><strong>要求</strong></span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">1.各班准备一份用于汇报、展示的PPT/视频/其他形式（提前放至公共文件夹“团委 - 社会实践志愿服务 – 2026</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">暑期社会实践 - 交流评比 - 相应年级”），呈现班级暑期社会实践概况和亮点，每班展示时间不超过</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">2</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">分钟，超时将扣分；如有媒体相关报道，将相关证明上传<span style="font-size: 12pt; text-indent: 31.68px; margin: 0px; padding: 0px;">“团委 - 社会实践志愿服务 – 2026</span><span style="font-size: 12pt; text-indent: 31.68px; margin: 0px; padding: 0px;">暑期社会实践 - 相关报道”</span></span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">2.各班团支部由3名团干部（团支书/副团支书/组织委员/宣传委员）带笔参加，其中1人汇报、2人评分，请准时到场；</span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: justify; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">3.</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">请团委实践部做好筹备、签到、现场组织、会后计分、会议资料备案等工作。</span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: right; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;"></span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: right; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">校团委</span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 0.001pt; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12pt; white-space: normal; font-family: 宋体; line-height: 24px; text-align: right; text-indent: 0.33in;"><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">2026</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">年</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">9</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">月</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">14</span><span style="color: rgb(0, 0, 0); font-size: 12pt; margin: 0px; padding: 0px;">日</span></p><p>
-</p>
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609151617385624.png" style="max-width: 100%; " title="202609151617385624.png" /></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -437,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23617.aspx" target="_self" title="标题：高一社团报名通知&#xD;点击数：134&#xD;发表时间：26年09月09日">高一社团报名通知</a>[ 09-09 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23645.aspx" target="_self" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：219&#xD;发表时间：26年09月14日">关于各班提交2026学生代表名单的通知</a>[ 09-14 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23658.aspx" target="_self" title="标题：寻物启事（手表）&#xD;点击数：17&#xD;发表时间：26年09月15日">寻物启事（手表）</a>[ 09-15 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
