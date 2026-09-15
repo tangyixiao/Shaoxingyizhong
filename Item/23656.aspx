@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>创新学部9月13日至9月24日晚自习安排--创新学部-绍兴市第一中学</title>
+    <title>每周一学（2026年9月14日-9月20日）习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话--学习专栏-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,8 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,24 +350,16 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
+        <h3><a href="/Category_50/Index.aspx">党建引领</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
-<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
-<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
-<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11 on"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
-<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
+			<li class="li1 first"><a href="/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Category_60/Index.aspx">党建网站</a></li>
 		</ul>
 	</div>
 </div>
@@ -381,7 +374,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：142&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：159&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23635.aspx" target="_blank" title="标题：关于创新学部协作体考试成绩分析会议的通知&#xD;点击数：128&#xD;发表时间：2026年09月11日">关于创新学部协作体考试成绩分析会议的通知</a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/23634.aspx" target="_blank" title="标题：创新学部9月13日至9月24日晚自习安排&#xD;点击数：116&#xD;发表时间：2026年09月11日">创新学部9月13日至9月24日晚自习安排</a><span class="dateRight">[09-11]</span></li>
+            <li class="first"><a href="/Item/23584.aspx" target="_blank" title="标题：每周一学（2026年8月17日-8月23日）习近平关于基础教育工作的重要指示精神&#xD;点击数：31&#xD;发表时间：2026年08月17日">每周一学（2026年8月17日-8月23日）习近平关于基础教育工…</a><span class="dateRight">[08-17]</span></li><li><a href="/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li class="last"><a href="/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li>
           
                     </ul>
                 </div>
@@ -394,32 +387,30 @@ function GetUserInfo1(response){
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    
-    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_393/Index.aspx" target="_self">创新学部</a></div>
-                    <h3>创新学部</h3>
+    <a href="/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+                    <h3>学习专栏</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">创新学部9月13日至9月24日晚自习安排</h2>
+                        <h2 class="title">每周一学（2026年9月14日-9月20日）习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23634"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月15日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23656"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23634},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23656},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23634";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23656";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +418,9 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><img src="/UploadFiles/xwzx/2026/9/202609111109218139.png" style="max-width: 100%; " title="202609111109218139.png" /></p>
+     <p style="margin-bottom:0;text-align:center;line-height:36px"><span style="font-size:29px;font-family:方正小标宋简体">习近平出席金砖国家领导人第十八次会晤
+ 第二阶段会议并发表重要讲话</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">新华社新德里9月13日电 当地时间9月13日上午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第二阶段会议，并发表题为《筑牢金砖合作根基 壮大全球南方力量》的重要讲话。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">习近平指出，当前，世界百年变局加速演进，全球南方群体性崛起，成为推动世界多极化的关键动力。与此同时，国际形势变乱交织，各种风险挑战层出不穷。要让世界稳下来、好起来，金砖国家必须把握历史主动，团结广大全球南方国家，在国际事务中发挥积极、稳定、向善作用，增进人类共同福祉。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">习近平强调，全球南方国家要共同捍卫国际法治，维护主权平等、不干涉内政、和平解决争端等国际关系基本准则，确保国际法和国际规则平等适用、不搞双重标准；要高举多边主义旗帜，维护联合国权威和作用，支持多边机构改革增效，推动世界贸易组织改革保持正确方向，改革完善国际金融架构，提高发展中国家代表性和发言权；要坚持以人民为中心的发展思想，推动落实联合国2030年可持续发展议程；要携手推进安全治理，共同应对传统和非传统安全威胁，完善全球气候治理，加快形成具有广泛共识的全球人工智能治理框架、让新兴技术照亮共同繁荣之路。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">习近平指出，“大金砖”要有大作为、实现大发展，就必须筑牢务实合作根基。要发挥背靠新兴市场、联结全球南方的优势，坚持开放合作、互利共赢，维护产业链供应链稳定畅通，培育一体化大市场，打造创新孵化器，升级传统产业，发展新兴产业，布局未来产业。习近平就深化金砖合作提出5项倡议：</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">一是人工智能开源普惠倡议。中方将率先建设金砖国家人工智能开源专区，支持大语言模型开发和应用合作，开展人工智能专题研修培训，构建人工智能开放生态。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">二是贸易投资便利化倡议。中方提议建设金砖国家特殊经济区伙伴关系，设立智能门户，开展政策对接，打造开放发展新高地。中方将于明年举办金砖国家服务贸易论坛，培育经贸合作增长点。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">三是数字产业合作倡议。中方将推动建立金砖国家数字产业云平台，开展数字技能培训、技术交流、产业对接，共促数字经济发展。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">四是智能制造合作倡议。中方愿协助金砖国家建设智能工厂，打造标准规范体系，共同推动制造业转型升级。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">五是科技育才倡议。中方提议建立金砖国家工程师培养联盟，开展工程师联合培养和能力标准互认。中方将实施金砖国家青年科创交流计划，培养更多高端科创人才。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">习近平强调，今年是中国“十五五”开局之年。“十五五”规划既是中国自身的发展蓝图，也是面向世界的合作清单。中国将持续推动高质量发展，扩大高水平对外开放，落实全球发展倡议，推进高质量共建“一带一路”，同世界各国共享机遇、共创繁荣，共同书写全球南方团结自强新篇章。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">俄罗斯总统普京、南非总统拉马福萨、伊朗总统佩泽希齐扬、埃及总统塞西、印度尼西亚总统普拉博沃、埃塞俄比亚总理阿比、阿联酋阿布扎比王储哈立德和巴西、沙特外长，金砖伙伴国和嘉宾国领导人或代表，以及联合国秘书长古特雷斯等国际组织负责人出席，印度总理莫迪主持会议。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">会前，习近平同与会领导人集体合影。</span></p><p style="margin-bottom:0;text-indent:43px;line-height:36px"><span style="font-size: 21px;font-family:仿宋_GB2312">蔡奇、王毅等参加上述活动。</span></p><p style="margin-bottom:0;text-align:right;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family: 仿宋_GB2312">（来源：学习强国）</span></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +429,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23588.aspx" target="_self" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：142&#xD;发表时间：26年09月02日">创新学部9月7日至9月11日晚自习安排</a>[ 09-02 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23635.aspx" target="_self" title="标题：关于创新学部协作体考试成绩分析会议的通知&#xD;点击数：128&#xD;发表时间：26年09月11日">关于创新学部协作体考试成绩分析会议的通知</a>[ 09-11 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23609.aspx" target="_self" title="标题：每周一学（2026年9月7日-9月13日）坚持以习近平党建思想为指引 奋力推进新时代党的建设新的伟大工程&#xD;点击数：5&#xD;发表时间：26年09月07日">每周一学（2026年9月7日-9月13日）坚持以习近平党建思想为指引…</a>[ 09-07 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 

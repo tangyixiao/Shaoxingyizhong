@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>创新学部9月13日至9月24日晚自习安排--创新学部-绍兴市第一中学</title>
+    <title>关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -356,14 +356,14 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11 on"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23588.aspx" target="_blank" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：142&#xD;发表时间：2026年09月02日">创新学部9月7日至9月11日晚自习安排</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/23576.aspx" target="_blank" title="标题：创新学部8月30日至9月4日晚自习安排&#xD;点击数：159&#xD;发表时间：2026年09月01日">创新学部8月30日至9月4日晚自习安排</a><span class="dateRight">[09-01]</span></li><li><a href="/Item/23635.aspx" target="_blank" title="标题：关于创新学部协作体考试成绩分析会议的通知&#xD;点击数：128&#xD;发表时间：2026年09月11日">关于创新学部协作体考试成绩分析会议的通知</a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/23634.aspx" target="_blank" title="标题：创新学部9月13日至9月24日晚自习安排&#xD;点击数：116&#xD;发表时间：2026年09月11日">创新学部9月13日至9月24日晚自习安排</a><span class="dateRight">[09-11]</span></li>
+            <li class="first"><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：39&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛…</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23653.aspx" target="_blank" title="标题：9.12班级一日考核&#xD;点击数：58&#xD;发表时间：2026年09月14日">9.12班级一日考核</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23652.aspx" target="_blank" title="标题：9.11班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月14日">9.11班级一日考核</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：69&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23636.aspx" target="_blank" title="标题：关于公布新学期获得“美丽教室”荣誉的班级的通知&#xD;点击数：169&#xD;发表时间：2026年09月11日">关于公布新学期获得“美丽教室”荣誉的班级的通知</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：199&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_393/Index.aspx" target="_self">创新学部</a></div>
-                    <h3>创新学部</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">创新学部9月13日至9月24日晚自习安排</h2>
+                        <h2 class="title">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月11日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23634"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月15日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23657"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23634},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23657},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23634";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23657";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,10 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><img src="/UploadFiles/xwzx/2026/9/202609111109218139.png" style="max-width: 100%; " title="202609111109218139.png" /></p>
+     <p><span style=";font-family:宋体;font-size:21px">高一各班级</span><span style=";font-family:宋体;font-size:21px">：</span></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px"><span style="font-family:宋体">为积极响应绍兴市教育局</span><span style="font-family:宋体">“越动悦健康”中小学校班级超级联赛工作要求，丰富校园文体生活，落实全员体育运动理念，培育学生阳光健康的精神风貌，增强班级凝聚力，我校</span></span><span style=";font-family:宋体;font-size:21px">需推荐</span><span style=";font-family:宋体;font-size:21px">1个班级参加比赛，请有意向的班主任老师向德育处诸佳英报名截止时间9月18日17点前，先到先得</span><span style=";font-family:宋体;font-size:21px">。现将有关事项通知如下：</span></p><p><strong><span style="font-family: 宋体;font-size: 21px">一、活动宗旨</span></strong></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px">全员参与、以赛促练、以体育人原则，依托低门槛、高参与度的课桌舞特色项目，让每一位学生都能参与体育锻炼、展示自我风采，营造积极向上、活力满满的校园体育氛围。</span></p><p><strong><span style="font-family: 宋体;font-size: 21px">二、参赛对象</span></strong></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px">高一</span><span style=";font-family:宋体;font-size:21px">1个班级</span><span style=";font-family:宋体;font-size:21px">全体学生，以行政班为单位全员参赛，无特殊情况不得缺席，真正实现人人参与、全员运动。</span></p><p><strong><span style="font-family: 宋体;font-size: 21px"><span style="font-family:宋体">三、活动时间</span></span></strong></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px">班级排练：利用</span><span style=";font-family:宋体;font-size:21px">课外</span><span style=";font-family:宋体;font-size:21px">时间开展练习</span></p><p><strong><span style="font-family: 宋体;font-size: 21px">四、比赛要求</span></strong></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px">1.全员参与：编排完整课桌舞节目，全班同学统一动作、全员上场，展现班级整体风貌。</span></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px">2.贴合学情：动作简洁整齐、阳光活力、安全舒展，贴合学生年龄特点，不设计高难度、危险动作，适配教室小场地开展。</span></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px">3.整齐规范：学生全程精神饱满、姿态端正，节奏准确、动作统一，队形整齐有序。</span></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px">4.积极创新：可在基础动作之上，适当融入创意编排，体现班级特色与青春活力。</span></p><p style="text-indent:43px"><span style=";font-family:宋体;font-size:21px"> </span></p><p style="text-indent:43px">
+</p><p style="text-align:right"><span style=";font-family:宋体;font-size:21px"> </span></p><p style="text-align:right"><span style=";font-family:宋体;font-size:21px">绍兴一中德育处</span></p><p style="text-align:right"><span style=";font-family:宋体;font-size:21px">2026</span><span style=";font-family:宋体;font-size:21px">年</span><span style=";font-family:宋体;font-size:21px">9</span><span style=";font-family:宋体;font-size:21px">月</span><span style=";font-family:宋体;font-size:21px">15</span><span style=";font-family:宋体;font-size:21px">日</span></p><p><span style=";font-family:宋体;font-size:21px"></span>
+</p><p style="text-align: center;">
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +439,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23588.aspx" target="_self" title="标题：创新学部9月7日至9月11日晚自习安排&#xD;点击数：142&#xD;发表时间：26年09月02日">创新学部9月7日至9月11日晚自习安排</a>[ 09-02 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23635.aspx" target="_self" title="标题：关于创新学部协作体考试成绩分析会议的通知&#xD;点击数：128&#xD;发表时间：26年09月11日">关于创新学部协作体考试成绩分析会议的通知</a>[ 09-11 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23653.aspx" target="_self" title="标题：9.12班级一日考核&#xD;点击数：58&#xD;发表时间：26年09月14日">9.12班级一日考核</a>[ 09-14 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
