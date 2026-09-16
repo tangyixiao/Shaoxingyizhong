@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教学科研-绍兴市第一中学</title>
+    <title>9.15班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -247,7 +246,7 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID378">
   <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
   <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
 </li>
@@ -342,21 +341,32 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
-    <div id="content">
-        <div class="siteWidth">
+
+<div id="content">
+    <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_8/Index.aspx">教学科研</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_77/Index.aspx">教研成果</a></li>
-<li class="li2"><a href="/Category_383/Index.aspx">教师成长</a></li>
-<li class="li3"><a href="/Category_387/Index.aspx">教科动态</a></li>
-<li class="li4 last"><a href="/Category_380/Index.aspx">校际交流</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -364,168 +374,82 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23472.aspx" target="_blank" title="标题：2025年绍兴市教科规划课题优秀成果我校获奖名单&#xD;点击数：38&#xD;发表时间：2026年07月03日">2025年绍兴市教科规划课题优秀成果我校获奖名单</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：39&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a><span class="dateRight">[08-28]</span></li><li><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：56&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a><span class="dateRight">[08-11]</span></li><li><a href="/Item/23494.aspx" target="_blank" title="标题：2026年绍兴市教师命题能力职业技能竞赛我校获奖名单&#xD;点击数：42&#xD;发表时间：2026年07月14日">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a><span class="dateRight">[07-14]</span></li><li><a href="/Item/23458.aspx" target="_blank" title="标题：2026年绍兴市直高中教学活动评审获奖名单&#xD;点击数：46&#xD;发表时间：2026年07月01日">2026年绍兴市直高中教学活动评审获奖名单</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23014.aspx" target="_blank" title="标题：2025年绍兴市直教师专业阅读活动读后感评比获奖结果&#xD;点击数：65&#xD;发表时间：2026年04月10日">2025年绍兴市直教师专业阅读活动读后感评比获奖结果</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22587.aspx" target="_blank" title="标题：关于公布我校教师在2024年度浙江省教育科学研究优秀成果评比获奖的通知&#xD;点击数：115&#xD;发表时间：2025年12月31日">关于公布我校教师在2024年度浙江省教育科学研究优秀成果…</a><span class="dateRight">[12-31]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：172&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛…</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23667.aspx" target="_blank" title="标题：9.15班级一日考核&#xD;点击数：22&#xD;发表时间：2026年09月16日">9.15班级一日考核</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23666.aspx" target="_blank" title="标题：跑操量化考核（9.16）&#xD;点击数：21&#xD;发表时间：2026年09月16日">跑操量化考核（9.16）</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23659.aspx" target="_blank" title="标题：9.14班级一日考核&#xD;点击数：61&#xD;发表时间：2026年09月15日">9.14班级一日考核</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23658.aspx" target="_blank" title="标题：寻物启事（手表）&#xD;点击数：34&#xD;发表时间：2026年09月15日">寻物启事（手表）</a><span class="dateRight">[09-15]</span></li><li class="last"><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：199&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
-<div class="colSreach" style="margin-bottom:20px;">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=8>教学科研</option><option value=77>&nbsp;&nbsp;教研成果</option><option value=380>&nbsp;&nbsp;校际交流</option><option value=383>&nbsp;&nbsp;教师成长</option><option value=387>&nbsp;&nbsp;教科动态</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-<!--文章焦点图 
-            <div id="pageSlide" class="pageSlide">
-            
-            <ul class="slideNav">
-  <li><a class=" a1">1</a></li>
-  <li><a class=" a2">2</a></li>
-  <li><a class=" a3">3</a></li>
-  <li><a class=" a4">4</a></li>
-</ul>
-<ul class="slideCon">
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23558.aspx" target="_blank"><img src="/UploadFiles/jxky/2026/8/202608281003260195_600_340.png" alt="2026年绍兴市教学论文评比我校获奖名单"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23558.aspx" target="_blank">2026年绍兴市教学论文评比我校获奖名单</a></p>
-    <p class="intro">     2026年绍兴市教育教学论文评比已经结束，我校参赛教师共获得6个一等奖，4个二等奖，4个三等奖，祝贺以下获奖教师和相…<a href="/Item/23558.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23495.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/8/202608110854229228_600_340.png" alt="2026年绍兴市直论文评比我校获奖名单"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23495.aspx" target="_blank">2026年绍兴市直论文评比我校获奖名单</a></p>
-    <p class="intro">       2026年绍兴市直论文评比已经结束，我校参赛教师共获得11个一等奖，8个二等奖，18个三等奖，祝贺以下获奖教师和相应…<a href="/Item/23495.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23494.aspx" target="_blank"><img src="/UploadFiles/jxky/2026/7/202607141634084528_600_340.png" alt="2026年绍兴市教师命题能力职业技能竞赛我校获奖名单"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23494.aspx" target="_blank">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a></p>
-    <p class="intro">  2026年绍兴市教师命题能力职业技能竞赛获奖名单已于日前公示。我校老师共获奖13个，其中一等奖6个，二等奖6个，三等奖1个，…<a href="/Item/23494.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23472.aspx" target="_blank"><img src="/UploadFiles/jxky/2026/7/202607031102190920_600_340.png" alt="2025年绍兴市教科规划课题优秀成果我校获奖名单"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23472.aspx" target="_blank">2025年绍兴市教科规划课题优秀成果我校获奖名单</a></p>
-    <p class="intro">2025年绍兴市教科规划课题优秀成果已于日前公示。我校老师共获奖7个，其中一等奖1个，二等奖3个，三等奖3个，具体名单如下，并…<a href="/Item/23472.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-</ul>
-          
-        </div>
-        <script language="javascript">
-            jQuery("#pageSlide")
-                .slide({ mainCell: ".slideCon", titCell: ".slideNav li", effect: "leftLoop", autoPlay: true, interTime: 4000, delayTime: 600 });
-        </script>
- 文章焦点图-->
-<!-- <script>
-    
-$("#pageSlide span:contains('还没有任何项目！')").hide( function()
-    {
-       $("#pageSlide").hide();
-    });    
-
-</script> -->
-
-
             <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">9.15班级一日考核</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月16日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23667"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23667},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23667";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609161556084908.png" style="max-width: 100%; " title="202609161556084908.png" /></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
 
-                <div class="pageBoxLoop">  
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_77/Index.aspx">更多</a>
-                            <h3><b>教研成果</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">08-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：39&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a></li><li><span class="date">08-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：56&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a></li><li><span class="date">07-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23494.aspx" target="_blank" title="标题：2026年绍兴市教师命题能力职业技能竞赛我校获奖名单&#xD;点击数：42&#xD;发表时间：2026年07月14日">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a></li><li><span class="date">07-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23472.aspx" target="_blank" title="标题：2025年绍兴市教科规划课题优秀成果我校获奖名单&#xD;点击数：38&#xD;发表时间：2026年07月03日">2025年绍兴市教科规划课题优秀成果我校获奖名单</a></li><li><span class="date">07-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23458.aspx" target="_blank" title="标题：2026年绍兴市直高中教学活动评审获奖名单&#xD;点击数：46&#xD;发表时间：2026年07月01日">2026年绍兴市直高中教学活动评审获奖名单</a></li><li class="last"><span class="date">04-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23014.aspx" target="_blank" title="标题：2025年绍兴市直教师专业阅读活动读后感评比获奖结果&#xD;点击数：65&#xD;发表时间：2026年04月10日">2025年绍兴市直教师专业阅读活动读后感评比获奖结果</a></li>
-          
-                            </ul>
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23666.aspx" target="_self" title="标题：跑操量化考核（9.16）&#xD;点击数：21&#xD;发表时间：26年09月16日">跑操量化考核（9.16）</a>[ 09-16 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
-                    
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_383/Index.aspx">更多</a>
-                            <h3><b>教师成长</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23124.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第一期）  唐海燕：行者无疆，德润桃李&#xD;点击数：17&#xD;发表时间：2026年04月29日">博雅育人 | 德育楷模风采录（第一期）  唐海燕：行者无疆…</a></li><li><span class="date">03-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22855.aspx" target="_blank" title="标题：凝心聚力迎新秀，精耕细作育英才  ——我校举行浙江师范大学、绍兴大学实习教师见面会&#xD;点击数：9&#xD;发表时间：2026年03月13日">凝心聚力迎新秀，精耕细作育英才  ——我校举行浙江师范…</a></li><li><span class="date">12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22518.aspx" target="_blank" title="标题：博雅育人 | 德育名师风采录（第四期）&#xD;点击数：48&#xD;发表时间：2025年12月19日">博雅育人 | 德育名师风采录（第四期）</a></li><li><span class="date">11-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22330.aspx" target="_blank" title="标题：以德育博雅 | 德育名师风采录（第三期）&#xD;点击数：12&#xD;发表时间：2025年11月25日">以德育博雅 | 德育名师风采录（第三期）</a></li><li><span class="date">11-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22331.aspx" target="_blank" title="标题：聚焦育人实践，探索专业路径：  绍兴一中“博雅·养新”班主任成长工作坊开班仪式暨专题培训顺利举行&#xD;点击数：6&#xD;发表时间：2025年11月25日">聚焦育人实践，探索专业路径：  绍兴一中“博雅·养新”…</a></li><li class="last"><span class="date">10-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22052.aspx" target="_blank" title="标题：深研经典篇目，共话教学提升  ——语文组开展9月主题校本教研活动&#xD;点击数：7&#xD;发表时间：2025年10月10日">深研经典篇目，共话教学提升  ——语文组开展9月主题校本…</a></li>
-          
-                            </ul>
-                        </div>
-                    </div>
-                    
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_387/Index.aspx">更多</a>
-                            <h3><b>教科动态</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22291.aspx" target="_blank" title="标题：精准分析明方向·凝心聚力再启航——我校召开2026届高三绍兴市诊断性测试分析会&#xD;点击数：6&#xD;发表时间：2025年11月17日">精准分析明方向·凝心聚力再启航——我校召开2026届高三…</a></li><li><span class="date">11-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22211.aspx" target="_blank" title="标题：绍兴市第一中学生物教研组赴仙居中学开展 “县中崛起”交流研讨活动&#xD;点击数：9&#xD;发表时间：2025年11月06日">绍兴市第一中学生物教研组赴仙居中学开展 “县中崛起”交…</a></li><li><span class="date">10-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22038.aspx" target="_blank" title="标题：育人新活力，成长新动力：我校接纳浙师大、杭师大实习教师跟岗锻炼&#xD;点击数：7&#xD;发表时间：2025年10月09日">育人新活力，成长新动力：我校接纳浙师大、杭师大实习教…</a></li><li class="last"><span class="date">09-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21998.aspx" target="_blank" title="标题：立足课堂深研讨 凝心聚力促成长——绍兴一中数学教研组听评课活动纪实&#xD;点击数：13&#xD;发表时间：2025年09月29日">立足课堂深研讨 凝心聚力促成长——绍兴一中数学教研组听…</a></li>
-          
-                            </ul>
-                        </div>
-                    </div>
-                    
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_380/Index.aspx">更多</a>
-                            <h3><b>校际交流</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">03-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22913.aspx" target="_blank" title="标题：校际交流促提升结对帮扶共前行——仙居中学领导班子到访我校并交流研讨&#xD;点击数：8&#xD;发表时间：2026年03月23日">校际交流促提升结对帮扶共前行——仙居中学领导班子到访…</a></li><li><span class="date">12-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22482.aspx" target="_blank" title="标题：跨越山海同上一堂课 ——绍兴一中·仙居中学“县中崛起·新师启航”教科节圆满落幕&#xD;点击数：17&#xD;发表时间：2025年12月15日">跨越山海同上一堂课 ——绍兴一中·仙居中学“县中崛起·…</a></li><li><span class="date">12-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22431.aspx" target="_blank" title="标题：课堂展示显风采   主题报告传经验 —— 绍兴一中物理学科组赴仙居中学开展“县中崛起”交流研讨活动&#xD;点击数：14&#xD;发表时间：2025年12月08日">课堂展示显风采   主题报告传经验 —— 绍兴一中物理学科…</a></li><li><span class="date">12-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22433.aspx" target="_blank" title="标题：交流借鉴，以研促教——绍兴一中体育组赴衢州二中交流教研&#xD;点击数：6&#xD;发表时间：2025年12月08日">交流借鉴，以研促教——绍兴一中体育组赴衢州二中交流教研</a></li><li><span class="date">12-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22434.aspx" target="_blank" title="标题：聚焦核心素养，共研教学新径  ——绍兴一中语文组赴台州中学西校区开展校际教研活动&#xD;点击数：7&#xD;发表时间：2025年12月08日">聚焦核心素养，共研教学新径  ——绍兴一中语文组赴台州…</a></li><li class="last"><span class="date">11-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22212.aspx" target="_blank" title="标题：校际交流促成长，携手同行谋发展——绍兴市第一中学英语教研组赴仙居中学开展“县中崛起”交流研讨活动&#xD;点击数：5&#xD;发表时间：2025年11月06日">校际交流促成长，携手同行谋发展——绍兴市第一中学英语…</a></li>
-          
-                            </ul>
-                        </div>
-                    </div>
-                     
-                    </div>
-            </div>
+
+                    <!-- 正文内容 E -->
+                </div>
             </div>
         </div>
         <!-- mainContent E -->
     </div>
-    <!--main-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -557,6 +481,23 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>

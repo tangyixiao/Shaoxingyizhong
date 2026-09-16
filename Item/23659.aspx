@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：172&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛…</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23659.aspx" target="_blank" title="标题：9.14班级一日考核&#xD;点击数：59&#xD;发表时间：2026年09月15日">9.14班级一日考核</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23658.aspx" target="_blank" title="标题：寻物启事（手表）&#xD;点击数：34&#xD;发表时间：2026年09月15日">寻物启事（手表）</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：199&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23639.aspx" target="_blank" title="标题：9.10班级一日考核&#xD;点击数：79&#xD;发表时间：2026年09月11日">9.10班级一日考核</a><span class="dateRight">[09-11]</span></li>
+            <li class="first"><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：172&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛…</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23667.aspx" target="_blank" title="标题：9.15班级一日考核&#xD;点击数：22&#xD;发表时间：2026年09月16日">9.15班级一日考核</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23666.aspx" target="_blank" title="标题：跑操量化考核（9.16）&#xD;点击数：21&#xD;发表时间：2026年09月16日">跑操量化考核（9.16）</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23659.aspx" target="_blank" title="标题：9.14班级一日考核&#xD;点击数：61&#xD;发表时间：2026年09月15日">9.14班级一日考核</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23658.aspx" target="_blank" title="标题：寻物启事（手表）&#xD;点击数：34&#xD;发表时间：2026年09月15日">寻物启事（手表）</a><span class="dateRight">[09-15]</span></li><li class="last"><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：199&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23658.aspx" target="_self" title="标题：寻物启事（手表）&#xD;点击数：34&#xD;发表时间：26年09月15日">寻物启事（手表）</a>[ 09-15 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23666.aspx" target="_self" title="标题：跑操量化考核（9.16）&#xD;点击数：21&#xD;发表时间：26年09月16日">跑操量化考核（9.16）</a>[ 09-16 ]</div>
                         </div>
                     </div>
 
