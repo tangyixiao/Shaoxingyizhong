@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23664.aspx" target="_blank" title="标题：关于举行第27次学生代表大会暨第27届团学联主席团选举的通知&#xD;点击数：89&#xD;发表时间：2026年09月16日">关于举行第27次学生代表大会暨第27届团学联主席团选举的…</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：54&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23644.aspx" target="_blank" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：169&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：132&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23645.aspx" target="_blank" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：238&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：103&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：91&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li>
+            <li class="first"><a href="/Item/23664.aspx" target="_blank" title="标题：关于举行第27次学生代表大会暨第27届团学联主席团选举的通知&#xD;点击数：112&#xD;发表时间：2026年09月16日">关于举行第27次学生代表大会暨第27届团学联主席团选举的…</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：71&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23644.aspx" target="_blank" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：170&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：132&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23645.aspx" target="_blank" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：240&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：103&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：91&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li>
           
                     </ul>
                 </div>
@@ -456,7 +456,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23662.aspx" target="_self" title="标题：关于学代会筹备会议的通知&#xD;点击数：54&#xD;发表时间：26年09月16日">关于学代会筹备会议的通知</a>[ 09-16 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23662.aspx" target="_self" title="标题：关于学代会筹备会议的通知&#xD;点击数：71&#xD;发表时间：26年09月16日">关于学代会筹备会议的通知</a>[ 09-16 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
