@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生--学校新闻-绍兴市第一中学</title>
+    <title>关于本周开展主题班会活动的通知--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -349,12 +349,24 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
-<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -369,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23649.aspx" target="_blank" title="标题：微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生&#xD;点击数：41&#xD;发表时间：2026年09月14日">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23646.aspx" target="_blank" title="标题：百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会&#xD;点击数：35&#xD;发表时间：2026年09月14日">百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42…</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23648.aspx" target="_blank" title="标题：凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会&#xD;点击数：27&#xD;发表时间：2026年09月14日">凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见…</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23647.aspx" target="_blank" title="标题：致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞&#xD;点击数：22&#xD;发表时间：2026年09月14日">致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学…</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23591.aspx" target="_blank" title="标题：训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2026级新生军训结营仪式暨总结表彰大会顺利举行&#xD;点击数：82&#xD;发表时间：2026年09月03日">训育融合淬风骨，砺志笃行赴韶华  ——绍兴一中教育集团2…</a><span class="dateRight">[09-03]</span></li><li class="last"><a href="/Item/23590.aspx" target="_blank" title="标题：赓续长征精神，唱响新征程——绍兴一中教育集团2026级新生军训合唱比赛圆满举行&#xD;点击数：60&#xD;发表时间：2026年09月03日">赓续长征精神，唱响新征程——绍兴一中教育集团2026级新…</a><span class="dateRight">[09-03]</span></li>
+            <li class="first"><a href="/Item/23667.aspx" target="_blank" title="标题：9.15班级一日考核&#xD;点击数：49&#xD;发表时间：2026年09月16日">9.15班级一日考核</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：174&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛…</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23659.aspx" target="_blank" title="标题：9.14班级一日考核&#xD;点击数：63&#xD;发表时间：2026年09月15日">9.14班级一日考核</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23658.aspx" target="_blank" title="标题：寻物启事（手表）&#xD;点击数：36&#xD;发表时间：2026年09月15日">寻物启事（手表）</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23668.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：52&#xD;发表时间：2026年09月16日">关于本周开展主题班会活动的通知</a><span class="dateRight">[09-16]</span></li><li class="last"><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：199&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li>
           
                     </ul>
                 </div>
@@ -384,30 +396,30 @@ function GetUserInfo1(response){
     
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
-    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
-                    <h3>学校新闻</h3>
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</h2>
+                        <h2 class="title">关于本周开展主题班会活动的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月14日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23649"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月16日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23668"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23649},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23668},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23649";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23668";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -415,8 +427,11 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="font-family: Calibri;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
-</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">世间大爱，从不在声势浩大的宣言里，而在岁岁年年的坚守中；真正的仁者，从不求声名喧赫，只愿以己之力，照亮他人前路。王卫列先生，便是这样一位以善为恒、以教为念的躬行者。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">生于书香之家的他，自幼浸润正直向善的家风，深知教育是寒门学子破局成长的唯一星光，是托起未来、点亮希望的根本力量。半生深耕事业，凭勤勉与睿智收获成就，却始终恪守简朴本心，生活低调淡然，不逐浮华、不尚奢靡。可在助学济困、成全学子梦想的路上，他向来慷慨无私，倾尽热忱与担当。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">自2012年始，一颗助学的初心悄然启程，十余载风雨兼程，从未停歇。心怀桑梓、情系教育的王卫列先生，始终聚焦贫困学子的求学困境，默默扎根公益助学之路。他牵挂每一位寒门学子的前路，不忍让一腔求学热忱被清贫桎梏，不让年少梦想因窘迫落幕。十余年间，他持续奔走助学，精准帮扶家境贫寒、勤学上进的学子，助力无数孩子安稳走完求学之路。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">从结对帮扶寒门大学生，提前足额拨付助学资金，免除学子学业后顾之忧；到回馈母校桑梓，设立专项奖学金，深耕本土教育沃土；日复一日的坚守，年复一年的付出，汇聚成滚烫的公益暖流。经年累计，他为助学事业捐资超两千余万元，用真金白银的付出、持之以恒的善意，为数百名贫困学子搭建起通往山海的求学桥梁，让无数困顿中的青春，得以向阳生长、逐光前行。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">最动人的从不是捐赠的数额，而是藏在善举背后的赤诚初心。王卫列先生从不张扬善行，不求名利赞誉，只是默默坚守、躬身践行。于他而言，助学不是一时的热忱，而是一生的执念；行善不是刻意的标榜，而是刻入心底的修养。他深知一束微光力量微薄，便以岁月为薪、以初心为火，岁岁坚守、久久为功，让点点善意汇聚成燎原星火，照亮漫漫求学长路。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">教育有声，大爱无言。王卫列先生以凡人之躯，行非凡之事，用十余载坚守诠释着“崇文重教、乐善好施”的真谛。他褪去浮华，留存纯粹，以微薄己力渡人，以赤诚丹心育人，让善意跨越岁月，让书香延续希望。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">山河不语，见证初心；时光无声，镌刻善行。致敬王卫列先生！愿这份温润纯粹的助学大爱，生生不息、薪火相传，照亮更多学子的逐梦之路，温暖世间每一份向上的奔赴。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> <img src="/UploadFiles/xwzx/2026/9/202609141031492215.jpg" style="max-width: 100%; " title="202609141031492215.jpg" /></span></p>
+     <p><span style="font-family: 宋体; font-size: 20px;">全校各班：</span></p><p><span style="font-size: 20px;">　　<span style="font-family: 宋体; font-size: 20px;">本周班会课将举行“网络舆论与言论自由的边界”主题班会活动，具体安排如下：</span></span></p><p>
+</p><p><strong><span style="font-family: 宋体; font-size: 20px;">班会主题：</span></strong><span style="font-family: 宋体; font-size: 20px;">网络舆论与言论自由的边界</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">开课地点：</span></strong><span style="font-family: 宋体; font-size: 20px;">各班教室</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">开课时间</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">高一高二</span></strong><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">9</span>月<span style="font-size: 20px; font-family: Calibri;">17</span>日（周四）下午第九节</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">高三</span></strong><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">9</span>月<span style="font-size: 20px; font-family: Calibri;">18</span>日（周五）下午第九节</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">内容说明</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">为了关注学生的网络参与和思想动态，本次班会旨在通过系统引导，帮助学生正确认识网络舆论与言论自由的关系，深入理解言论自由并非毫无边界，而是必须在法律、道德和社会责任框架内行使；同时，着力培养识别网络谣言、网络暴力、隐私侵权等潜在风险的能力，增强法治意识，切实降低因不当言论和盲目跟风带来的不良后果，全面提升自我保护与理性表达能力。</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">活动要求</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p><span style="font-family: 宋体; font-size: 20px;">请各班务必高度重视，结合班级实际精心筹备、认真组织开展本 次主题班会，确保教育实效。（注：德育处已制作主题班会参考 <span style="font-size: 20px; font-family: Calibri;">PPT</span>，存放于公共文件夹<span style="font-size: 20px; font-family: Calibri;">-</span>德育处<span style="font-size: 20px; font-family: Calibri;">-2026</span>主题班会目录内。）</span></p><p><span style="font-family: 宋体; font-size: 20px;">德育处将组织人员观摩、摄影。</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">检查评估要点</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p><strong><span style="font-family: 宋体; font-size: 20px; color: rgb(255, 0, 0);">年管会和德育处将重点检查以下内容：</span></strong></p><p><span style="font-family: 宋体; font-size: 20px; color: rgb(255, 0, 0);"><span style="font-size: 20px; font-family: Calibri;">1. </span>班会实施情况：是否按时开展、认真组织，学生参与度；</span></p><p><span style="font-family: 宋体; font-size: 20px; color: rgb(255, 0, 0);"><span style="color: rgb(255, 0, 0); font-size: 20px; font-family: Calibri;">2. </span>过程材料完整性：班会课件、活动记录、现场照片等材料。</span></p><p><span style="color: rgb(255, 0, 0);"><span style="color: rgb(255, 0, 0); font-family: 宋体; font-size: 20px;">请各班在<span style="color: rgb(255, 0, 0); font-family: Calibri;">9</span>月<span style="color: rgb(255, 0, 0); font-family: Calibri;">22</span>日放学之前将主题活动照片（至少<span style="color: rgb(255, 0, 0); font-family: Calibri;">5</span>张）、活动记录表（写明活动开展时</span><span style="color: rgb(255, 0, 0); font-size: 20px; font-family: 宋体;">间、活动主题、参与对象、活动目的、活动流程等，材料文件以班级命名）上传到公共文件夹。</span></span></p><p><span style="font-size: 20px; font-family: 宋体;">
+</span></p><p><span style="font-size: 20px; font-family: 宋体;">
+</span></p><p><span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">高一上传至：公共文件夹</span><span style="font-size: 20px; font-family: Calibri;">-</span><span style="font-size: 20px; font-family: 宋体;">德</span><span style="font-family: 宋体; font-size: 20px;"><span style="font-family: 宋体;">育处</span><span style="font-family: Calibri;">-2026</span><span style="font-family: 宋体;">主题班会</span><span style="font-family: Calibri;">-2026.9-</span><span style="font-family: 宋体;">高一</span></span></span></p><p><span style="font-family: 宋体; font-size: 20px;">高二上传至：公共文件夹<span style="font-size: 20px; font-family: Calibri;">-</span>德育处<span style="font-size: 20px; font-family: Calibri;">-2026</span>主题班会<span style="font-size: 20px; font-family: Calibri;">-2026.9-</span>高二</span></p><p><span style="font-family: 宋体; font-size: 20px;">高三上传至：公共文件夹<span style="font-size: 20px; font-family: Calibri;">-</span>德育处<span style="font-size: 20px; font-family: Calibri;">-2026</span></span><span style="font-family: 宋体; font-size: 20px;">主题班会</span><span style="font-size: 20px; font-family: Calibri;">-2026.9-</span><span style="font-family: 宋体; font-size: 20px;">高三</span></p><p><span style="font-family: 宋体; font-size: 20px;"> </span></p><p><span style="font-family: 宋体; font-size: 20px;">                              德育处</span></p><p><span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 20px; font-family: Calibri;">                                                                                           </span><span style="font-family: 宋体; font-size: 20px;"><span style="font-family: Calibri;">  2026</span><span style="font-family: 宋体;">年</span><span style="font-family: Calibri;">9</span>月<span style="font-family: Calibri;">16</span><span style="font-family: 宋体;">日</span></span></span></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -425,7 +440,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23648.aspx" target="_self" title="标题：凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会&#xD;点击数：27&#xD;发表时间：26年09月14日">凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会</a>[ 09-14 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23667.aspx" target="_self" title="标题：9.15班级一日考核&#xD;点击数：49&#xD;发表时间：26年09月16日">9.15班级一日考核</a>[ 09-16 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
