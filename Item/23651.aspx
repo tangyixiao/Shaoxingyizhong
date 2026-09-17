@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23669.aspx" target="_blank" title="标题：关于仙居中学教师来访听课、交流的通知&#xD;点击数：56&#xD;发表时间：2026年09月16日">关于仙居中学教师来访听课、交流的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：19&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：151&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：256&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23615.aspx" target="_blank" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：101&#xD;发表时间：2026年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23577.aspx" target="_blank" title="标题：研究院2026年9月份市直活动安排&#xD;点击数：184&#xD;发表时间：2026年09月01日">研究院2026年9月份市直活动安排</a><span class="dateRight">[09-01]</span></li><li class="last"><a href="/Item/23487.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市教育技术论文征集的预通知&#xD;点击数：82&#xD;发表时间：2026年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市教育技术…</a><span class="dateRight">[07-07]</span></li>
+            <li class="first"><a href="/Item/23669.aspx" target="_blank" title="标题：关于仙居中学教师来访听课、交流的通知&#xD;点击数：125&#xD;发表时间：2026年09月16日">关于仙居中学教师来访听课、交流的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：90&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：256&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：154&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23487.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市教育技术论文征集的预通知&#xD;点击数：82&#xD;发表时间：2026年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市教育技术…</a><span class="dateRight">[07-07]</span></li><li><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li><li class="last"><a href="/Item/23030.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：139&#xD;发表时间：2026年04月14日">英语教研活动通知</a><span class="dateRight">[04-14]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23625.aspx" target="_self" title="标题：关于历史组教研活动的通知&#xD;点击数：112&#xD;发表时间：26年09月10日">关于历史组教研活动的通知</a>[ 09-10 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23669.aspx" target="_self" title="标题：关于仙居中学教师来访听课、交流的通知&#xD;点击数：56&#xD;发表时间：26年09月16日">关于仙居中学教师来访听课、交流的通知</a>[ 09-16 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23669.aspx" target="_self" title="标题：关于仙居中学教师来访听课、交流的通知&#xD;点击数：125&#xD;发表时间：26年09月16日">关于仙居中学教师来访听课、交流的通知</a>[ 09-16 ]</div>
                         </div>
                     </div>
 
