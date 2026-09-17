@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于本周开展主题班会活动的通知--德育处-绍兴市第一中学</title>
+    <title>高一晚自修（9.19-9.23）--高一-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -356,7 +356,7 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -364,7 +364,7 @@ function GetUserInfo1(response){
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li12 on"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23673.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：121&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛工作方案</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23671.aspx" target="_blank" title="标题：2026秋季全体学生心理普查重测、补测通知&#xD;点击数：113&#xD;发表时间：2026年09月17日">2026秋季全体学生心理普查重测、补测通知</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23672.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛方案&#xD;点击数：105&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛方案</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23668.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：106&#xD;发表时间：2026年09月16日">关于本周开展主题班会活动的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23666.aspx" target="_blank" title="标题：9.16跑操量化考核&#xD;点击数：69&#xD;发表时间：2026年09月16日">9.16跑操量化考核</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23678.aspx" target="_blank" title="标题：9.17跑操量化考核反馈&#xD;点击数：14&#xD;发表时间：2026年09月17日">9.17跑操量化考核反馈</a><span class="dateRight">[09-17]</span></li><li class="last"><a href="/Item/23677.aspx" target="_blank" title="标题：9.16班级一日考核&#xD;点击数：13&#xD;发表时间：2026年09月17日">9.16班级一日考核</a><span class="dateRight">[09-17]</span></li>
+            <li class="first"><a href="/Item/23679.aspx" target="_blank" title="标题：高一晚自修（9.19-9.23）&#xD;点击数：5&#xD;发表时间：2026年09月17日">高一晚自修（9.19-9.23）</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23638.aspx" target="_blank" title="标题：高一晚自修（9.13-9.18）&#xD;点击数：96&#xD;发表时间：2026年09月11日">高一晚自修（9.13-9.18）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/22977.aspx" target="_blank" title="标题：高一晚自修值班（4.6-4.17）&#xD;点击数：107&#xD;发表时间：2026年04月02日">高一晚自修值班（4.6-4.17）</a><span class="dateRight">[04-02]</span></li><li><a href="/Item/22335.aspx" target="_blank" title="标题：高一家长会注意事项及晚自修安排&#xD;点击数：174&#xD;发表时间：2025年11月25日">高一家长会注意事项及晚自修安排</a><span class="dateRight">[11-25]</span></li><li><a href="/Item/20955.aspx" target="_blank" title="标题：高一晚自修值班安排（2.17-2.28）&#xD;点击数：161&#xD;发表时间：2025年02月21日">高一晚自修值班安排（2.17-2.28）</a><span class="dateRight">[02-21]</span></li><li><a href="/Item/20911.aspx" target="_blank" title="标题：高一晚自修值班安排（2.12-2.16）&#xD;点击数：146&#xD;发表时间：2025年02月12日">高一晚自修值班安排（2.12-2.16）</a><span class="dateRight">[02-12]</span></li><li class="last"><a href="/Item/23596.aspx" target="_blank" title="标题：高一晚自修（9.6-9.11）&#xD;点击数：99&#xD;发表时间：2026年09月03日">高一晚自修（9.6-9.11）</a><span class="dateRight">[09-03]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_33/Index.aspx" target="_self">高一</a></div>
+                    <h3>高一</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于本周开展主题班会活动的通知</h2>
+                        <h2 class="title">高一晚自修（9.19-9.23）</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月16日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23668"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月17日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23679"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23668},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23679},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23668";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23679";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,10 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><span style="font-family: 宋体; font-size: 20px;">全校各班：</span></p><p><span style="font-size: 20px;">　　<span style="font-family: 宋体; font-size: 20px;">本周班会课将举行“网络舆论与言论自由的边界”主题班会活动，具体安排如下：</span></span></p><p>
-</p><p><strong><span style="font-family: 宋体; font-size: 20px;">班会主题：</span></strong><span style="font-family: 宋体; font-size: 20px;">网络舆论与言论自由的边界</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">开课地点：</span></strong><span style="font-family: 宋体; font-size: 20px;">各班教室</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">开课时间</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">高一高二</span></strong><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">9</span>月<span style="font-size: 20px; font-family: Calibri;">17</span>日（周四）下午第九节</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">高三</span></strong><span style="font-family: 宋体; font-size: 20px;"><span style="font-size: 20px; font-family: Calibri;">9</span>月<span style="font-size: 20px; font-family: Calibri;">18</span>日（周五）下午第九节</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">内容说明</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p style="text-indent:28px"><span style="font-family: 宋体; font-size: 20px;">为了关注学生的网络参与和思想动态，本次班会旨在通过系统引导，帮助学生正确认识网络舆论与言论自由的关系，深入理解言论自由并非毫无边界，而是必须在法律、道德和社会责任框架内行使；同时，着力培养识别网络谣言、网络暴力、隐私侵权等潜在风险的能力，增强法治意识，切实降低因不当言论和盲目跟风带来的不良后果，全面提升自我保护与理性表达能力。</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">活动要求</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p><span style="font-family: 宋体; font-size: 20px;">请各班务必高度重视，结合班级实际精心筹备、认真组织开展本 次主题班会，确保教育实效。（注：德育处已制作主题班会参考 <span style="font-size: 20px; font-family: Calibri;">PPT</span>，存放于公共文件夹<span style="font-size: 20px; font-family: Calibri;">-</span>德育处<span style="font-size: 20px; font-family: Calibri;">-2026</span>主题班会目录内。）</span></p><p><span style="font-family: 宋体; font-size: 20px;">德育处将组织人员观摩、摄影。</span></p><p><strong><span style="font-family: 宋体; font-size: 20px;">检查评估要点</span></strong><span style="font-family: 宋体; font-size: 20px;">：</span></p><p><strong><span style="font-family: 宋体; font-size: 20px; color: rgb(255, 0, 0);">年管会和德育处将重点检查以下内容：</span></strong></p><p><span style="font-family: 宋体; font-size: 20px; color: rgb(255, 0, 0);"><span style="font-size: 20px; font-family: Calibri;">1. </span>班会实施情况：是否按时开展、认真组织，学生参与度；</span></p><p><span style="font-family: 宋体; font-size: 20px; color: rgb(255, 0, 0);"><span style="color: rgb(255, 0, 0); font-size: 20px; font-family: Calibri;">2. </span>过程材料完整性：班会课件、活动记录、现场照片等材料。</span></p><p><span style="color: rgb(255, 0, 0);"><span style="color: rgb(255, 0, 0); font-family: 宋体; font-size: 20px;">请各班在<span style="color: rgb(255, 0, 0); font-family: Calibri;">9</span>月<span style="color: rgb(255, 0, 0); font-family: Calibri;">22</span>日放学之前将主题活动照片（至少<span style="color: rgb(255, 0, 0); font-family: Calibri;">5</span>张）、活动记录表（写明活动开展时</span><span style="color: rgb(255, 0, 0); font-size: 20px; font-family: 宋体;">间、活动主题、参与对象、活动目的、活动流程等，材料文件以班级命名）上传到公共文件夹。</span></span></p><p><span style="font-size: 20px; font-family: 宋体;">
-</span></p><p><span style="font-size: 20px; font-family: 宋体;">
-</span></p><p><span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 20px; font-family: 宋体;">高一上传至：公共文件夹</span><span style="font-size: 20px; font-family: Calibri;">-</span><span style="font-size: 20px; font-family: 宋体;">德</span><span style="font-family: 宋体; font-size: 20px;"><span style="font-family: 宋体;">育处</span><span style="font-family: Calibri;">-2026</span><span style="font-family: 宋体;">主题班会</span><span style="font-family: Calibri;">-2026.9-</span><span style="font-family: 宋体;">高一</span></span></span></p><p><span style="font-family: 宋体; font-size: 20px;">高二上传至：公共文件夹<span style="font-size: 20px; font-family: Calibri;">-</span>德育处<span style="font-size: 20px; font-family: Calibri;">-2026</span>主题班会<span style="font-size: 20px; font-family: Calibri;">-2026.9-</span>高二</span></p><p><span style="font-family: 宋体; font-size: 20px;">高三上传至：公共文件夹<span style="font-size: 20px; font-family: Calibri;">-</span>德育处<span style="font-size: 20px; font-family: Calibri;">-2026</span></span><span style="font-family: 宋体; font-size: 20px;">主题班会</span><span style="font-size: 20px; font-family: Calibri;">-2026.9-</span><span style="font-family: 宋体; font-size: 20px;">高三</span></p><p><span style="font-family: 宋体; font-size: 20px;"> </span></p><p><span style="font-family: 宋体; font-size: 20px;">                              德育处</span></p><p><span style="font-family: 宋体; font-size: 14px;"><span style="font-size: 20px; font-family: Calibri;">                                                                                           </span><span style="font-family: 宋体; font-size: 20px;"><span style="font-family: Calibri;">  2026</span><span style="font-family: 宋体;">年</span><span style="font-family: Calibri;">9</span>月<span style="font-family: Calibri;">16</span><span style="font-family: 宋体;">日</span></span></span></p><p>
+     <p><img src="/UploadFiles/xwzx/2026/9/202609171618024561.jpg" style="max-width: 100%; " title="202609171618024561.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609171618030868.jpg" style="max-width: 100%; " title="202609171618030868.jpg" /></p><p>
 </p>
     
     </div><!--endprint-->
@@ -440,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23667.aspx" target="_self" title="标题：9.15班级一日考核&#xD;点击数：61&#xD;发表时间：26年09月16日">9.15班级一日考核</a>[ 09-16 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23671.aspx" target="_self" title="标题：2026秋季全体学生心理普查重测、补测通知&#xD;点击数：113&#xD;发表时间：26年09月17日">2026秋季全体学生心理普查重测、补测通知</a>[ 09-17 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23638.aspx" target="_self" title="标题：高一晚自修（9.13-9.18）&#xD;点击数：96&#xD;发表时间：26年09月11日">高一晚自修（9.13-9.18）</a>[ 09-11 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
