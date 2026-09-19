@@ -12,6 +12,45 @@ from tools.update_from_intranet import image_sync_command
 
 
 class IncrementalSyncTests(unittest.TestCase):
+    def test_commit_pushes_existing_local_commit_when_no_crawl_changes(self):
+        with mock.patch("tools.publish_crawl.push_with_reconcile") as push:
+            commit_changes(
+                Path("repo"),
+                [],
+                "update page",
+                push=True,
+            )
+
+        push.assert_called_once_with(Path("repo"))
+
+    def test_commit_reconciles_remote_commit_before_retrying_push(self):
+        rejected = subprocess.CalledProcessError(
+            1,
+            ["git", "push"],
+            stderr="错误：无法推送一些引用。提示：更新被拒绝，因为远程仓库包含您本地尚不存在的提交。",
+        )
+        with mock.patch("tools.publish_crawl.add_paths"), mock.patch(
+            "tools.publish_crawl.run_git",
+            side_effect=[None, rejected, None, None, None],
+        ) as git:
+            commit_changes(
+                Path("repo"),
+                ["page.html"],
+                "update page",
+                push=True,
+            )
+
+        self.assertEqual(
+            [(call.args[1:], call.kwargs) for call in git.call_args_list],
+            [
+                (("commit", "-m", "update page"), {}),
+                (("push",), {"capture_output": True}),
+                (("fetch", "--no-tags", "--filter=blob:none", "origin", "main"), {}),
+                (("merge", "--no-edit", "origin/main"), {}),
+                (("push",), {}),
+            ],
+        )
+
     def test_commit_can_stage_explicitly_requested_deleted_tracked_files(self):
         with tempfile.TemporaryDirectory() as tmp:
             repo = Path(tmp) / "repo"

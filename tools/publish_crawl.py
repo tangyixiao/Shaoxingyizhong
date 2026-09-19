@@ -12,6 +12,7 @@ import hashlib
 import os
 import shutil
 import subprocess
+import sys
 import tempfile
 from pathlib import Path
 from urllib.parse import urlparse
@@ -292,8 +293,44 @@ def sync_crawl_paths(source_root: Path, repo_root: Path, urls: list[str] | None)
     return changed
 
 
-def run_git(repo: Path, *args: str) -> None:
-    subprocess.run(["git", *args], cwd=repo, check=True)
+def run_git(
+    repo: Path,
+    *args: str,
+    capture_output: bool = False,
+) -> None:
+    subprocess.run(
+        ["git", *args],
+        cwd=repo,
+        check=True,
+        capture_output=capture_output,
+        text=capture_output,
+    )
+
+
+def push_with_reconcile(repo: Path) -> None:
+    try:
+        run_git(repo, "push", capture_output=True)
+    except subprocess.CalledProcessError as error:
+        output = "\n".join(
+            value for value in (error.stdout, error.stderr) if value
+        ).lower()
+        non_fast_forward_markers = (
+            "fetch first",
+            "non-fast-forward",
+            "remote contains work that you do not have locally",
+            "远程仓库包含您本地尚不存在的提交",
+            "非快进",
+            "落后于其对应的远程分支",
+        )
+        if not any(marker in output for marker in non_fast_forward_markers):
+            if error.stdout:
+                print(error.stdout, end="", file=sys.stdout)
+            if error.stderr:
+                print(error.stderr, end="", file=sys.stderr)
+            raise
+        run_git(repo, "fetch", "--no-tags", "--filter=blob:none", "origin", "main")
+        run_git(repo, "merge", "--no-edit", "origin/main")
+        run_git(repo, "push")
 
 
 def deleted_tracked_paths(repo: Path) -> list[str]:
@@ -344,11 +381,13 @@ def commit_changes(
     paths = list(dict.fromkeys(changed + deletions))
     if not paths:
         print("没有变化，不创建 commit")
+        if push:
+            push_with_reconcile(repo)
         return
     add_paths(repo, paths)
     run_git(repo, "commit", "-m", message)
     if push:
-        run_git(repo, "push")
+        push_with_reconcile(repo)
 
 
 def main() -> int:
