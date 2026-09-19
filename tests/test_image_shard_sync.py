@@ -28,6 +28,8 @@ from tools.sync_image_shards import (
     verify_repository,
     thumbnail_command,
     webp_command,
+    _git_repository_is_usable,
+    _repair_local_repository,
     _remote_smoke_test,
 )
 
@@ -464,7 +466,7 @@ class ImageShardSyncTests(unittest.TestCase):
 
         self.assertEqual(git.call_count, 2)
 
-    def test_push_fast_forwards_when_remote_has_new_commit(self):
+    def test_push_merges_remote_commit_without_downloading_image_blobs(self):
         rejected = subprocess.CompletedProcess(
             ["git", "push"], 1, "", "Updates were rejected: fetch first"
         )
@@ -481,11 +483,29 @@ class ImageShardSyncTests(unittest.TestCase):
             [call.args[1:] for call in git.call_args_list],
             [
                 ("push", "origin", "main"),
-                ("fetch", "origin", "main"),
-                ("merge", "--ff-only", "origin/main"),
+                ("fetch", "--no-tags", "--filter=blob:none", "origin", "main"),
+                ("merge", "--no-edit", "origin/main"),
                 ("push", "origin", "main"),
             ],
         )
+
+    def test_push_reconciles_localized_non_fast_forward(self):
+        rejected = subprocess.CompletedProcess(
+            ["git", "push"],
+            1,
+            "",
+            "提示：更新被拒绝，因为您当前分支的最新提交落后于其对应的远程分支。",
+        )
+        fetched = subprocess.CompletedProcess(["git", "fetch"], 0, "", "")
+        merged = subprocess.CompletedProcess(["git", "merge"], 0, "", "")
+        succeeded = subprocess.CompletedProcess(["git", "push"], 0, "", "")
+        with mock.patch(
+            "tools.sync_image_shards._git",
+            side_effect=[rejected, fetched, merged, succeeded],
+        ) as git:
+            push_repository(Path("repo"), attempts=3, retry_delay=0)
+
+        self.assertEqual(git.call_count, 4)
 
     def test_push_retries_when_external_workspace_temporarily_disappears(self):
         succeeded = subprocess.CompletedProcess(["git", "push"], 0, "", "")
@@ -641,6 +661,47 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertEqual(result, repo)
             self.assertIn("README.md", self._git(repo, "ls-files").splitlines())
             run.assert_not_called()
+
+    def test_repository_with_empty_object_is_not_usable(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            repo = Path(tmp) / "repo"
+            self._init_repo(repo)
+            (repo / "README.md").write_text("initial\n", encoding="utf-8")
+            self._git(repo, "add", "README.md")
+            self._git(repo, "commit", "-m", "initialize")
+
+            commit = self._git(repo, "rev-parse", "HEAD")
+            object_path = repo / ".git" / "objects" / commit[:2] / commit[2:]
+            object_path.chmod(0o644)
+            object_path.write_bytes(b"")
+
+            self.assertFalse(_git_repository_is_usable(repo))
+
+    def test_repair_rehydrates_empty_objects_from_origin(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            source = root / "source"
+            repo = root / "repo"
+            self._init_repo(source)
+            (source / "README.md").write_text("initial\n", encoding="utf-8")
+            self._git(source, "add", "README.md")
+            self._git(source, "commit", "-m", "initialize")
+            subprocess.run(
+                ["git", "clone", "--no-hardlinks", str(source), str(repo)],
+                check=True,
+                capture_output=True,
+                text=True,
+            )
+
+            commit = self._git(repo, "rev-parse", "HEAD")
+            object_path = repo / ".git" / "objects" / commit[:2] / commit[2:]
+            object_path.chmod(0o644)
+            object_path.write_bytes(b"")
+
+            _repair_local_repository(repo, str(source))
+
+            self.assertTrue(_git_repository_is_usable(repo))
+            self.assertEqual(self._git(repo, "cat-file", "-t", "HEAD"), "commit")
 
     @staticmethod
     def _entry(path: str, size: int, repository: str = "repo") -> ImageEntry:

@@ -464,6 +464,8 @@ def _git_repository_is_usable(repo: Path) -> bool:
     """Return whether Git can actually open the local repository metadata."""
     if not (repo / ".git").is_dir():
         return False
+    if _empty_loose_objects(repo):
+        return False
     try:
         result = _git(repo, "rev-parse", "--is-inside-work-tree", check=False)
     except OSError:
@@ -477,6 +479,23 @@ def _git_repository_is_usable(repo: Path) -> bool:
     return index.returncode == 0
 
 
+def _empty_loose_objects(repo: Path) -> list[Path]:
+    """Return truncated loose object files left by an interrupted write."""
+    objects = repo / ".git" / "objects"
+    if not objects.is_dir():
+        return []
+    empty: list[Path] = []
+    for prefix in objects.iterdir():
+        if not prefix.is_dir() or len(prefix.name) != 2:
+            continue
+        if any(character not in "0123456789abcdefABCDEF" for character in prefix.name):
+            continue
+        for object_path in prefix.iterdir():
+            if object_path.is_file() and object_path.stat().st_size == 0:
+                empty.append(object_path)
+    return empty
+
+
 def _is_partial_clone(repo: Path) -> bool:
     result = _git(repo, "config", "--get", "remote.origin.promisor", check=False)
     return result.returncode == 0 and result.stdout.strip().lower() == "true"
@@ -485,6 +504,7 @@ def _is_partial_clone(repo: Path) -> bool:
 def _repair_local_repository(repo: Path, origin: str) -> None:
     """Rebuild truncated Git metadata while preserving the local object store."""
     try:
+        empty_objects = _empty_loose_objects(repo)
         _git(repo, "init", "-b", "main")
         head_path = repo / ".git" / "HEAD"
         head_path.write_text("ref: refs/heads/main\n", encoding="utf-8")
@@ -494,6 +514,14 @@ def _repair_local_repository(repo: Path, origin: str) -> None:
             _git(repo, "remote", "add", "origin", origin)
         elif remote.stdout.strip() != origin:
             _git(repo, "remote", "set-url", "origin", origin)
+
+        # A removable-volume interruption can leave loose object files at
+        # zero bytes.  Delete only those unusable placeholders, then let the
+        # remote rehydrate the missing objects before rebuilding the index.
+        for object_path in empty_objects:
+            object_path.unlink()
+        if empty_objects:
+            _git(repo, "fetch", "--no-tags", "origin", "main")
 
         local_head = _git(
             repo, "rev-parse", "--verify", "refs/heads/main", check=False
@@ -550,10 +578,31 @@ def push_repository(repo: Path, attempts: int = 5, retry_delay: int = 10) -> Non
             last_error = result.stderr.strip() or result.stdout.strip()
             if (
                 not reconciled
-                and ("fetch first" in last_error or "non-fast-forward" in last_error)
+                and (
+                    "fetch first" in last_error
+                    or "non-fast-forward" in last_error
+                    or "非快进" in last_error
+                    or "落后于其对应的远程分支" in last_error
+                )
             ):
-                _git(repo, "fetch", "origin", "main")
-                _git(repo, "merge", "--ff-only", "origin/main")
+                # Reconcile only commit/tree metadata.  Shard repositories
+                # contain multi-gigabyte image blobs; downloading those again
+                # just to learn about a remote commit can time out on the
+                # removable exFAT workspace.
+                _git(
+                    repo,
+                    "fetch",
+                    "--no-tags",
+                    "--filter=blob:none",
+                    "origin",
+                    "main",
+                )
+                # The remote may have advanced independently of the local
+                # recovery commit.  A fast-forward-only merge rejects that
+                # legitimate shared-history case; keep both histories and
+                # let Git report real content conflicts instead of overwriting
+                # either side with a force push.
+                _git(repo, "merge", "--no-edit", "origin/main")
                 reconciled = True
                 continue
         if attempt < attempts and retry_delay:
