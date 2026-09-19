@@ -357,7 +357,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-18</span><a href="/Item/23683.aspx" target="_blank" title="标题：关于市教研院来我校调研的通知&#xD;点击数：150&#xD;发表时间：2026年09月18日">关于市教研院来我校调研的通知</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：134&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：138&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a></li>
-<li><span class="date">2026-09-18</span><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：90&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a></li>
+<li><span class="date">2026-09-18</span><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：91&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23675.aspx" target="_blank" title="标题：2026Csp考场布置及相关要求&#xD;点击数：150&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23679.aspx" target="_blank" title="标题：高一晚自修（9.19-9.23）&#xD;点击数：46&#xD;发表时间：2026年09月17日">高一晚自修（9.19-9.23）</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23678.aspx" target="_blank" title="标题：9.17跑操量化考核反馈&#xD;点击数：70&#xD;发表时间：2026年09月17日">9.17跑操量化考核反馈</a></li>
@@ -376,7 +376,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-16</span><a href="/Item/23663.aspx" target="_blank" title="标题：管理团队&#xD;点击数：36&#xD;发表时间：2026年09月16日">管理团队</a></li>
 <li><span class="date">2026-09-16</span><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：108&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a></li>
 <li><span class="date">2026-09-16</span><a href="/Item/23661.aspx" target="_blank" title="标题：关于开展青年教师红十字应急救护员培训的通知&#xD;点击数：165&#xD;发表时间：2026年09月16日">关于开展青年教师红十字应急救护员培训的通知</a></li>
-<li><span class="date">2026-09-15</span><a href="/Item/23660.aspx" target="_blank" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：222&#xD;发表时间：2026年09月15日">9月19日（本周六）csp监考安排</a></li>
+<li><span class="date">2026-09-15</span><a href="/Item/23660.aspx" target="_blank" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：223&#xD;发表时间：2026年09月15日">9月19日（本周六）csp监考安排</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23659.aspx" target="_blank" title="标题：9.14班级一日考核&#xD;点击数：68&#xD;发表时间：2026年09月15日">9.14班级一日考核</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23658.aspx" target="_blank" title="标题：寻物启事（手表）&#xD;点击数：38&#xD;发表时间：2026年09月15日">寻物启事（手表）</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：184&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知</a></li>
