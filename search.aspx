@@ -357,7 +357,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-18</span><a href="/Item/23683.aspx" target="_blank" title="标题：关于市教研院来我校调研的通知&#xD;点击数：151&#xD;发表时间：2026年09月18日">关于市教研院来我校调研的通知</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：134&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：138&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a></li>
-<li><span class="date">2026-09-18</span><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：91&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a></li>
+<li><span class="date">2026-09-18</span><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：92&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23675.aspx" target="_blank" title="标题：2026Csp考场布置及相关要求&#xD;点击数：150&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23679.aspx" target="_blank" title="标题：高一晚自修（9.19-9.23）&#xD;点击数：46&#xD;发表时间：2026年09月17日">高一晚自修（9.19-9.23）</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23678.aspx" target="_blank" title="标题：9.17跑操量化考核反馈&#xD;点击数：70&#xD;发表时间：2026年09月17日">9.17跑操量化考核反馈</a></li>
@@ -376,7 +376,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-16</span><a href="/Item/23663.aspx" target="_blank" title="标题：管理团队&#xD;点击数：36&#xD;发表时间：2026年09月16日">管理团队</a></li>
 <li><span class="date">2026-09-16</span><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：108&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a></li>
 <li><span class="date">2026-09-16</span><a href="/Item/23661.aspx" target="_blank" title="标题：关于开展青年教师红十字应急救护员培训的通知&#xD;点击数：165&#xD;发表时间：2026年09月16日">关于开展青年教师红十字应急救护员培训的通知</a></li>
-<li><span class="date">2026-09-15</span><a href="/Item/23660.aspx" target="_blank" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：223&#xD;发表时间：2026年09月15日">9月19日（本周六）csp监考安排</a></li>
+<li><span class="date">2026-09-15</span><a href="/Item/23660.aspx" target="_blank" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：224&#xD;发表时间：2026年09月15日">9月19日（本周六）csp监考安排</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23659.aspx" target="_blank" title="标题：9.14班级一日考核&#xD;点击数：68&#xD;发表时间：2026年09月15日">9.14班级一日考核</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23658.aspx" target="_blank" title="标题：寻物启事（手表）&#xD;点击数：38&#xD;发表时间：2026年09月15日">寻物启事（手表）</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：184&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知</a></li>
@@ -387,9 +387,9 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-14</span><a href="/Item/23652.aspx" target="_blank" title="标题：9.11班级一日考核&#xD;点击数：61&#xD;发表时间：2026年09月14日">9.11班级一日考核</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：157&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a></li>
-<li><span class="date">2026-09-14</span><a href="/Item/23649.aspx" target="_blank" title="标题：微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生&#xD;点击数：48&#xD;发表时间：2026年09月14日">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</a></li>
-<li><span class="date">2026-09-14</span><a href="/Item/23648.aspx" target="_blank" title="标题：凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会&#xD;点击数：31&#xD;发表时间：2026年09月14日">凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会</a></li>
-<li><span class="date">2026-09-14</span><a href="/Item/23647.aspx" target="_blank" title="标题：致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞&#xD;点击数：26&#xD;发表时间：2026年09月14日">致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞</a></li>
+<li><span class="date">2026-09-14</span><a href="/Item/23649.aspx" target="_blank" title="标题：微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生&#xD;点击数：49&#xD;发表时间：2026年09月14日">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</a></li>
+<li><span class="date">2026-09-14</span><a href="/Item/23648.aspx" target="_blank" title="标题：凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会&#xD;点击数：32&#xD;发表时间：2026年09月14日">凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会</a></li>
+<li><span class="date">2026-09-14</span><a href="/Item/23647.aspx" target="_blank" title="标题：致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞&#xD;点击数：27&#xD;发表时间：2026年09月14日">致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23646.aspx" target="_blank" title="标题：百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会&#xD;点击数：38&#xD;发表时间：2026年09月14日">百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23645.aspx" target="_blank" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：242&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23644.aspx" target="_blank" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：172&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a></li>
