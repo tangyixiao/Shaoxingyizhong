@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23688.aspx" target="_blank" title="标题：新社长开会通知&#xD;点击数：91&#xD;发表时间：2026年09月20日">新社长开会通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：72&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：165&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：79&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：161&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：108&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a><span class="dateRight">[09-16]</span></li><li class="last"><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：100&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a><span class="dateRight">[09-18]</span></li>
+            <li class="first"><a href="/Item/23688.aspx" target="_blank" title="标题：新社长开会通知&#xD;点击数：92&#xD;发表时间：2026年09月20日">新社长开会通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：72&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：166&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：80&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：162&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：108&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a><span class="dateRight">[09-16]</span></li><li class="last"><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：101&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a><span class="dateRight">[09-18]</span></li>
           
                     </ul>
                 </div>
@@ -441,8 +441,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23680.aspx" target="_self" title="标题：CSP志愿者开会通知&#xD;点击数：100&#xD;发表时间：26年09月18日">CSP志愿者开会通知</a>[ 09-18 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23682.aspx" target="_self" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：165&#xD;发表时间：26年09月18日">第二十七届团学联主席团选举结果公示</a>[ 09-18 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23680.aspx" target="_self" title="标题：CSP志愿者开会通知&#xD;点击数：101&#xD;发表时间：26年09月18日">CSP志愿者开会通知</a>[ 09-18 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23682.aspx" target="_self" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：166&#xD;发表时间：26年09月18日">第二十七届团学联主席团选举结果公示</a>[ 09-18 ]</div>
                         </div>
                     </div>
 

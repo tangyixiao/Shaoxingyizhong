@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23683.aspx" target="_blank" title="标题：关于市教研院来我校调研的通知&#xD;点击数：196&#xD;发表时间：2026年09月18日">关于市教研院来我校调研的通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：157&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：256&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23669.aspx" target="_blank" title="标题：关于仙居中学教师来访听课、交流的通知&#xD;点击数：213&#xD;发表时间：2026年09月16日">关于仙居中学教师来访听课、交流的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23615.aspx" target="_blank" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：110&#xD;发表时间：2026年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23372.aspx" target="_blank" title="标题：关于阿克苏地区第二中学教师中学教师来访听课、调课的通知&#xD;点击数：223&#xD;发表时间：2026年06月12日">关于阿克苏地区第二中学教师中学教师来访听课、调课的通知</a><span class="dateRight">[06-12]</span></li><li class="last"><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：164&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li>
+            <li class="first"><a href="/Item/23683.aspx" target="_blank" title="标题：关于市教研院来我校调研的通知&#xD;点击数：197&#xD;发表时间：2026年09月18日">关于市教研院来我校调研的通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：157&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：256&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：165&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23669.aspx" target="_blank" title="标题：关于仙居中学教师来访听课、交流的通知&#xD;点击数：213&#xD;发表时间：2026年09月16日">关于仙居中学教师来访听课、交流的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23615.aspx" target="_blank" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：110&#xD;发表时间：2026年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市…</a><span class="dateRight">[09-08]</span></li><li class="last"><a href="/Item/23372.aspx" target="_blank" title="标题：关于阿克苏地区第二中学教师中学教师来访听课、调课的通知&#xD;点击数：223&#xD;发表时间：2026年06月12日">关于阿克苏地区第二中学教师中学教师来访听课、调课的通知</a><span class="dateRight">[06-12]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23670.aspx" target="_self" title="标题：关于英语教研活动的通知&#xD;点击数：164&#xD;发表时间：26年09月17日">关于英语教研活动的通知</a>[ 09-17 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23670.aspx" target="_self" title="标题：关于英语教研活动的通知&#xD;点击数：165&#xD;发表时间：26年09月17日">关于英语教研活动的通知</a>[ 09-17 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
