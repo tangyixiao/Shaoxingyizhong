@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>高三-绍兴市第一中学</title>
+    <title>新社长开会通知--团委-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -342,8 +341,9 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -357,7 +357,7 @@ function GetUserInfo1(response){
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li5 on"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
@@ -366,7 +366,7 @@ function GetUserInfo1(response){
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
 <li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last on"><a href="/Category_35/Index.aspx">高三</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,59 +374,22 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23676.aspx" target="_blank" title="标题：高三晚自修（9.19-9.29）&#xD;点击数：60&#xD;发表时间：2026年09月17日">高三晚自修（9.19-9.29）</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23499.aspx" target="_blank" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：123&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a><span class="dateRight">[08-12]</span></li><li><a href="/Item/21001.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（3.9-3.21）&#xD;点击数：107&#xD;发表时间：2025年03月03日">高三晚自修+答疑管理安排（3.9-3.21）</a><span class="dateRight">[03-03]</span></li><li><a href="/Item/23599.aspx" target="_blank" title="标题：高三晚自修（9.7-9.23）&#xD;点击数：147&#xD;发表时间：2026年09月04日">高三晚自修（9.7-9.23）</a><span class="dateRight">[09-04]</span></li><li><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：185&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a><span class="dateRight">[08-21]</span></li><li class="last"><a href="/Item/23503.aspx" target="_blank" title="标题：8.14讲座通知&#xD;点击数：168&#xD;发表时间：2026年08月14日">8.14讲座通知</a><span class="dateRight">[08-14]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23688.aspx" target="_blank" title="标题：新社长开会通知&#xD;点击数：43&#xD;发表时间：2026年09月20日">新社长开会通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：30&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：152&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：155&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：71&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：108&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a><span class="dateRight">[09-16]</span></li><li class="last"><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：98&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a><span class="dateRight">[09-18]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=35>高三</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
@@ -434,32 +397,60 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_35/Index.aspx" target="_self">高三</a></div>
-                    <h3>高三</h3>
+    <a href="/Category_30/Index.aspx" target="_self">团委</a></div>
+                    <h3>团委</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-09-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23676.aspx" target="_self" title="标题：高三晚自修（9.19-9.29）&#xD;点击数：60&#xD;发表时间：2026年09月17日">高三晚自修（9.19-9.29）</a></li><li><span class="date">2026-09-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23599.aspx" target="_self" title="标题：高三晚自修（9.7-9.23）&#xD;点击数：147&#xD;发表时间：2026年09月04日">高三晚自修（9.7-9.23）</a></li><li><span class="date">2026-08-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23534.aspx" target="_self" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：185&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a></li><li><span class="date">2026-08-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23503.aspx" target="_self" title="标题：8.14讲座通知&#xD;点击数：168&#xD;发表时间：2026年08月14日">8.14讲座通知</a></li><li><span class="date">2026-08-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23499.aspx" target="_self" title="标题：高三晚自修（8.11-8.23）&#xD;点击数：123&#xD;发表时间：2026年08月12日">高三晚自修（8.11-8.23）</a></li><li class="split"></li><li><span class="date">2026-05-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23311.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（6.1--6.9）&#xD;点击数：118&#xD;发表时间：2026年05月29日">高三晚自修+答疑管理安排（6.1--6.9）</a></li><li><span class="date">2026-05-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23170.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（5.10--5.31）&#xD;点击数：174&#xD;发表时间：2026年05月08日">高三晚自修+答疑管理安排（5.10--5.31）</a></li><li><span class="date">2026-04-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23092.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（4.26--5.10）&#xD;点击数：145&#xD;发表时间：2026年04月24日">高三晚自修+答疑管理安排（4.26--5.10）</a></li><li><span class="date">2026-04-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23063.aspx" target="_self" title="标题：‌关于召开高三任课教师团队协作会议的通知‌&#xD;点击数：186&#xD;发表时间：2026年04月20日">‌关于召开高三任课教师团队协作会议的通知‌</a></li><li><span class="date">2026-04-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23029.aspx" target="_self" title="标题：高三高考学科考试成绩分析会通知&#xD;点击数：155&#xD;发表时间：2026年04月14日">高三高考学科考试成绩分析会通知</a></li><li class="split"></li><li><span class="date">2026-04-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23028.aspx" target="_self" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：202&#xD;发表时间：2026年04月14日">高三家长会注意事项及晚自修安排</a></li><li><span class="date">2026-04-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23010.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（4.12--4.24）&#xD;点击数：151&#xD;发表时间：2026年04月10日">高三晚自修+答疑管理安排（4.12--4.24）</a></li><li><span class="date">2026-03-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22916.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（3.29--4.12）（修改）&#xD;点击数：263&#xD;发表时间：2026年03月26日">高三晚自修+答疑管理安排（3.29--4.12）（修改）</a></li><li><span class="date">2026-03-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22836.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（3.15--3.27）&#xD;点击数：163&#xD;发表时间：2026年03月14日">高三晚自修+答疑管理安排（3.15--3.27）</a></li><li><span class="date">2026-03-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22811.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（3.9--3.15）&#xD;点击数：168&#xD;发表时间：2026年03月11日">高三晚自修+答疑管理安排（3.9--3.15）</a></li><li class="split"></li><li><span class="date">2026-03-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22834.aspx" target="_self" title="标题：高三（5）（6）（7）班高考科目任课教师会议通知&#xD;点击数：155&#xD;发表时间：2026年03月11日">高三（5）（6）（7）班高考科目任课教师会议通知</a></li><li><span class="date">2026-03-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22820.aspx" target="_self" title="标题：高三名校协作体考试成绩分析会通知&#xD;点击数：137&#xD;发表时间：2026年03月09日">高三名校协作体考试成绩分析会通知</a></li><li><span class="date">2026-03-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22780.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（2.25--3.6）（修改）&#xD;点击数：240&#xD;发表时间：2026年03月04日">高三晚自修+答疑管理安排（2.25--3.6）（修改）</a></li><li><span class="date">2026-01-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22735.aspx" target="_self" title="标题：关于高三年级1月30日至2月1日作息时间调整的通知&#xD;点击数：243&#xD;发表时间：2026年01月29日">关于高三年级1月30日至2月1日作息时间调整的通知</a></li><li><span class="date">2026-01-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22702.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（1.26--2.6）&#xD;点击数：157&#xD;发表时间：2026年01月23日">高三晚自修+答疑管理安排（1.26--2.6）</a></li><li class="split"></li><li><span class="date">2026-01-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22611.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（1.11--1.25）&#xD;点击数：244&#xD;发表时间：2026年01月06日">高三晚自修+答疑管理安排（1.11--1.25）</a></li><li><span class="date">2025-12-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22572.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（1.2--1.10）&#xD;点击数：207&#xD;发表时间：2025年12月29日">高三晚自修+答疑管理安排（1.2--1.10）</a></li><li><span class="date">2025-12-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22509.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（12.22--1.1）&#xD;点击数：153&#xD;发表时间：2025年12月18日">高三晚自修+答疑管理安排（12.22--1.1）</a></li><li><span class="date">2025-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22417.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（12.8--12.21）&#xD;点击数：140&#xD;发表时间：2025年12月05日">高三晚自修+答疑管理安排（12.8--12.21）</a></li><li><span class="date">2025-12-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22416.aspx" target="_self" title="标题：‌关于召开高三班主任和首考学科任课教师会议的通知‌&#xD;点击数：199&#xD;发表时间：2025年12月05日">‌关于召开高三班主任和首考学科任课教师会议的通知‌</a></li><li class="split"></li><li><span class="date">2025-11-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22307.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（11.24-12.7）&#xD;点击数：113&#xD;发表时间：2025年11月21日">高三晚自修+答疑管理安排（11.24-12.7）</a></li><li><span class="date">2025-11-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22282.aspx" target="_self" title="标题：‌关于召开高三任课教师团队协作会议的通知‌&#xD;点击数：137&#xD;发表时间：2025年11月17日">‌关于召开高三任课教师团队协作会议的通知‌</a></li><li><span class="date">2025-11-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22248.aspx" target="_self" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：283&#xD;发表时间：2025年11月14日">高三家长会注意事项及晚自修安排</a></li><li><span class="date">2025-11-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22244.aspx" target="_self" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：104&#xD;发表时间：2025年11月11日">高三诊断性考试成绩分析会通知</a></li><li><span class="date">2025-11-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22225.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（11.12-11.23）&#xD;点击数：126&#xD;发表时间：2025年11月07日">高三晚自修+答疑管理安排（11.12-11.23）</a></li><li class="split"></li><li><span class="date">2025-10-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22159.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（11.2-11.11）&#xD;点击数：143&#xD;发表时间：2025年10月30日">高三晚自修+答疑管理安排（11.2-11.11）</a></li><li><span class="date">2025-10-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22086.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（10.19-10.31）&#xD;点击数：127&#xD;发表时间：2025年10月17日">高三晚自修+答疑管理安排（10.19-10.31）</a></li><li><span class="date">2025-10-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22027.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（10.12-10.17）&#xD;点击数：152&#xD;发表时间：2025年10月08日">高三晚自修+答疑管理安排（10.12-10.17）</a></li><li><span class="date">2025-09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21990.aspx" target="_self" title="标题：9月29日周一高三临时课表&#xD;点击数：209&#xD;发表时间：2025年09月28日">9月29日周一高三临时课表</a></li><li class="last"><span class="date">2025-09-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21985.aspx" target="_self" title="标题：高三晚自修+答疑管理安排（10.3-10.10）&#xD;点击数：193&#xD;发表时间：2025年09月26日">高三晚自修+答疑管理安排（10.3-10.10）</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> <a href="Index_2.aspx">2</a> <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> 
-<a href="Index_2.aspx">下一页</a>
- <a href="Index_9.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">新社长开会通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月20日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23688"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23688},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23688";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;">请高二全体社团社长于<span style="color: rgb(255, 0, 0);">今天</span><strong><span style="color: rgb(255, 0, 0);">（周日）中午12:30</span></strong>至<span style="color: rgb(255, 0, 0);">4106</span>阶梯教室开会，<span style="background-color: rgb(255, 255, 255);">会议内容为社团招新</span>。请相互转告，并随带纸笔参加，同时向班主任做好请假工作。</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important; text-align: right;">校团委</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important; text-align: right;">2026年9月20日</p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23684.aspx" target="_self" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：71&#xD;发表时间：26年09月18日">绍兴一中航模兴趣小组招生通知</a>[ 09-18 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23689.aspx" target="_self" title="标题：团学联干部面试通知&#xD;点击数：30&#xD;发表时间：26年09月20日">团学联干部面试通知</a>[ 09-20 ]</div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +482,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
