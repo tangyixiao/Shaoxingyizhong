@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>优秀教师-绍兴市第一中学</title>
+    <title>9.18班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -199,14 +198,14 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID60">
   <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
   <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
   <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
-<li class="li2 on2" id="liID69">
+<li class="li2" id="liID69">
   <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
@@ -342,22 +341,32 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_6/Index.aspx">教师风采</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_377/Index.aspx">荣誉报道</a></li>
-<li class="li2"><a href="/Category_68/Index.aspx">正高特级教师</a></li>
-<li class="li3 on"><a href="/Category_69/Index.aspx">优秀教师</a></li>
-<li class="li4 last"><a href="/Category_71/Index.aspx">名师工作室</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -365,90 +374,82 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/13996.aspx" target="_blank" title="标题：政治教研组&#xD;点击数：2913&#xD;发表时间：2026年09月02日">政治教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13999.aspx" target="_blank" title="标题：技术教研组&#xD;点击数：2407&#xD;发表时间：2026年09月02日">技术教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13997.aspx" target="_blank" title="标题：历史教研组&#xD;点击数：2209&#xD;发表时间：2026年09月02日">历史教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13995.aspx" target="_blank" title="标题：生物教研组&#xD;点击数：2208&#xD;发表时间：2024年09月06日">生物教研组</a><span class="dateRight">[09-06]</span></li><li><a href="/Item/13994.aspx" target="_blank" title="标题：化学教研组&#xD;点击数：2824&#xD;发表时间：2026年09月02日">化学教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13993.aspx" target="_blank" title="标题：物理教研组&#xD;点击数：3187&#xD;发表时间：2026年09月02日">物理教研组</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/13985.aspx" target="_blank" title="标题：数学教研组&#xD;点击数：3957&#xD;发表时间：2026年09月02日">数学教研组</a><span class="dateRight">[09-02]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23687.aspx" target="_blank" title="标题：9.18跑操量化考核反馈&#xD;点击数：59&#xD;发表时间：2026年09月18日">9.18跑操量化考核反馈</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23691.aspx" target="_blank" title="标题：9.18班级一日考核&#xD;点击数：10&#xD;发表时间：2026年09月20日">9.18班级一日考核</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23686.aspx" target="_blank" title="标题：9.17班级一日考核&#xD;点击数：34&#xD;发表时间：2026年09月18日">9.17班级一日考核</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23610.aspx" target="_blank" title="标题：2026秋季全体学生心理普查安排通知&#xD;点击数：209&#xD;发表时间：2026年09月07日">2026秋季全体学生心理普查安排通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23673.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：184&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛工作方案</a><span class="dateRight">[09-17]</span></li><li class="last"><a href="/Item/23672.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛方案&#xD;点击数：164&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛方案</a><span class="dateRight">[09-17]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=69>优秀教师</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Category_6/Index.aspx" target="_self">教师风采</a>&gt;
-    <a href="/Category_69/Index.aspx" target="_self">优秀教师</a></div>
-                    <h3>优秀教师</h3>
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14001.aspx" target="_self" title="标题：综合实践与心理组&#xD;点击数：1338&#xD;发表时间：2026年09月02日">综合实践与心理组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13981.aspx" target="_self" title="标题：语文教研组&#xD;点击数：3382&#xD;发表时间：2026年09月02日">语文教研组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13997.aspx" target="_self" title="标题：历史教研组&#xD;点击数：2209&#xD;发表时间：2026年09月02日">历史教研组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13986.aspx" target="_self" title="标题：英语教研组&#xD;点击数：3405&#xD;发表时间：2026年09月02日">英语教研组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13994.aspx" target="_self" title="标题：化学教研组&#xD;点击数：2824&#xD;发表时间：2026年09月02日">化学教研组</a></li><li class="split"></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/14000.aspx" target="_self" title="标题：体艺教研组&#xD;点击数：3483&#xD;发表时间：2026年09月02日">体艺教研组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13996.aspx" target="_self" title="标题：政治教研组&#xD;点击数：2913&#xD;发表时间：2026年09月02日">政治教研组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13985.aspx" target="_self" title="标题：数学教研组&#xD;点击数：3957&#xD;发表时间：2026年09月02日">数学教研组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13998.aspx" target="_self" title="标题：地理教研组&#xD;点击数：2516&#xD;发表时间：2026年09月02日">地理教研组</a></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13993.aspx" target="_self" title="标题：物理教研组&#xD;点击数：3187&#xD;发表时间：2026年09月02日">物理教研组</a></li><li class="split"></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13999.aspx" target="_self" title="标题：技术教研组&#xD;点击数：2407&#xD;发表时间：2026年09月02日">技术教研组</a></li><li class="last"><span class="date">2024-09-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13995.aspx" target="_self" title="标题：生物教研组&#xD;点击数：2208&#xD;发表时间：2024年09月06日">生物教研组</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">9.18班级一日考核</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月20日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23691"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23691},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23691";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609201516561142.png" style="max-width: 100%; " title="202609201516561142.png" /></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23687.aspx" target="_self" title="标题：9.18跑操量化考核反馈&#xD;点击数：59&#xD;发表时间：26年09月18日">9.18跑操量化考核反馈</a>[ 09-18 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -480,6 +481,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
