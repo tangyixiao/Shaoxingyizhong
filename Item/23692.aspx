@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>9.16班级一日考核--德育处-绍兴市第一中学</title>
+    <title>寻物启事（校服）--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -405,21 +405,21 @@ function GetUserInfo1(response){
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">9.16班级一日考核</h2>
+                        <h2 class="title">寻物启事（校服）</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月17日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23677"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月20日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23692"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23677},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23692},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23677";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23692";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609181009253536.png" style="max-width: 100%; " title="202609181009253536.png" /></p>
+     <p style="padding: 0px; margin-top: 0px; margin-bottom: 20px !important;">      <span style="font-size: 20px;"> 9月20日，高二（7）班一男生在操场主席台左侧，不慎遗失一校服外套，学号87308247，内侧有班级、姓名。请拾到衣服的同学送还至高二（7）班或德育处，谢谢！</span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 20px !important;"><span style="font-size: 20px;">                                                                                                            德育处</span></p><p style="padding: 0px; margin-top: 0px; margin-bottom: 20px !important;"><span style="font-size: 20px;">                                                                                                   2026年9月20日</span></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23673.aspx" target="_self" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：189&#xD;发表时间：26年09月17日">绍兴一中教育集团跑操比赛工作方案</a>[ 09-17 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23678.aspx" target="_self" title="标题：9.17跑操量化考核反馈&#xD;点击数：72&#xD;发表时间：26年09月17日">9.17跑操量化考核反馈</a>[ 09-17 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23691.aspx" target="_self" title="标题：9.18班级一日考核&#xD;点击数：42&#xD;发表时间：26年09月20日">9.18班级一日考核</a>[ 09-20 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
