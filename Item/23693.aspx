@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>9.18跑操量化考核反馈--德育处-绍兴市第一中学</title>
+    <title>每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示--学习专栏-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,8 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,24 +350,16 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
+        <h3><a href="/Category_50/Index.aspx">党建引领</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
-<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
-<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
-<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
-<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
+			<li class="li1 first"><a href="/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Category_60/Index.aspx">党建网站</a></li>
 		</ul>
 	</div>
 </div>
@@ -381,7 +374,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23692.aspx" target="_blank" title="标题：寻物启事（校服）&#xD;点击数：21&#xD;发表时间：2026年09月20日">寻物启事（校服）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li class="last"><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li>
+            <li class="first"><a href="/Item/23584.aspx" target="_blank" title="标题：每周一学（2026年8月17日-8月23日）习近平关于基础教育工作的重要指示精神&#xD;点击数：31&#xD;发表时间：2026年08月17日">每周一学（2026年8月17日-8月23日）习近平关于基础教育工…</a><span class="dateRight">[08-17]</span></li><li><a href="/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Item/23077.aspx" target="_blank" title="标题：每周一学（2026年4月20日-4月26日）习近平文化思想引领书香社会建设&#xD;点击数：30&#xD;发表时间：2026年04月21日">每周一学（2026年4月20日-4月26日）习近平文化思想引领书…</a><span class="dateRight">[04-21]</span></li>
           
                     </ul>
                 </div>
@@ -394,32 +387,30 @@ function GetUserInfo1(response){
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    
-    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+                    <h3>学习专栏</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">9.18跑操量化考核反馈</h2>
+                        <h2 class="title">每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月18日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23687"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月21日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23693"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23687},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23693},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23687";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23693";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +418,10 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609201521366182.png" style="max-width: 100%; " title="202609201521366182.png" /></p>
+     <p style="margin-bottom:0;text-align:center;line-height:36px"><span style="font-size:29px;font-family:方正小标宋简体">习近平就发展先进制造业作出重要指示
+ 持续做大做强先进制造业
+ 为推进中国式现代化提供有力支撑</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的十八大以来，我国先进制造业不断发展壮大，创新力、竞争力、综合实力显著增强，制造强国建设迈出坚实步伐。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">习近平强调，新征程上，要以新时代中国特色社会主义思想为指导，完整准确全面贯彻新发展理念，统筹高质量发展和高水平安全，坚持智能化、绿色化、融合化方向，持续做大做强先进制造业，提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体经济根基，为推进中国式现代化提供有力支撑。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">全国先进制造业大会9月16日至17日在京召开。会上传达了习近平重要指示。中共中央政治局常委、国务院总理李强出席会议并讲话。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">李强在讲话中指出，习近平总书记的重要指示深刻阐述了发展先进制造业的重大意义、方向路径和重点任务，具有很强的战略性、指导性、针对性，为做好相关工作提供了重要遵循。我们要认真学习领会，坚决贯彻落实，把发展先进制造业作为一项重要战略任务，持续用力、久久为功，坚定不移朝着建设制造强国目标迈进。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">李强强调，要顺应新一轮科技革命和产业变革趋势，以新一代智能制造为主攻方向，发展策略上更加注重数智赋能，技术路线上更加注重高端自主，生产方式上更加注重绿色低碳，场景业态上更加注重跨界融合，着力推动制造业智能化、绿色化、融合化发展。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">李强指出，要聚焦重点领域综合施策、精准发力，不断提升先进制造业的创新力、竞争力、综合实力。打造产业创新驱动引擎，筑牢基础研究支撑，强化关键核心技术攻关，深化科技成果转化应用。加快新兴产业规模应用，加强未来产业前瞻布局，推动传统产业焕新升级。纵深开展“人工智能+制造”行动，加大对企业数智化转型引导支持力度，夯实智能软硬件基础。推动先进制造业和现代服务业深度融合，创新发展服务型制造。因地制宜培育壮大先进制造业集群，分类分层推动提质升级。持续深化改革开放，强化企业主体地位，加强政策和要素供给，营造良好发展环境，不断增强先进制造业发展的动力活力。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">中共中央政治局委员、国务院副总理张国清在总结讲话中表示，要深入学习贯彻习近平总书记重要指示精神，落实李强总理讲话要求，切实增强发展先进制造业的紧迫感责任感使命感。要突出重点、抓住关键，深入实施重点产业链高质量发展行动，大力发展新一代智能制造，加快促进产业体系升级和融合发展，扎实推动各项任务落实。要着眼更好发挥市场机制作用，加快构建高质量标准体系，持续整治无序非理性竞争，积极帮助企业解决实际困难，着力营造先进制造业发展的良好生态。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">工业和信息化部、国家发展改革委、国务院国资委、江苏省、湖北省负责同志作交流发言。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">吴政隆出席会议。</span></p><p style="margin-bottom:0;text-align:justify;text-justify: inter-ideograph;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family:仿宋_GB2312">会议以电视电话会议形式召开。各省、自治区、直辖市和计划单列市、新疆生产建设兵团，中央和国家机关有关部门、有关人民团体，中央管理的部分金融机构、企业，中央军委机关有关部门，制造业领域有关企业负责同志等参加会议。</span></p><p style="margin-bottom:0;text-align:right;text-indent:43px;line-height:36px"><span style="font-size:21px;font-family: 仿宋_GB2312">（来源：新华社）</span></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +430,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23686.aspx" target="_self" title="标题：9.17班级一日考核&#xD;点击数：39&#xD;发表时间：26年09月18日">9.17班级一日考核</a>[ 09-18 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23691.aspx" target="_self" title="标题：9.18班级一日考核&#xD;点击数：47&#xD;发表时间：26年09月20日">9.18班级一日考核</a>[ 09-20 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23656.aspx" target="_self" title="标题：每周一学（2026年9月14日-9月20日）习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话&#xD;点击数：8&#xD;发表时间：26年09月15日">每周一学（2026年9月14日-9月20日）习近平出席金砖国家领导人…</a>[ 09-15 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
