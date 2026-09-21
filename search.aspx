@@ -350,9 +350,9 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-09-21</span><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：19&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a></li>
+  <li><span class="date">2026-09-21</span><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：20&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23696.aspx" target="_blank" title="标题：社团招新通知&#xD;点击数：48&#xD;发表时间：2026年09月21日">社团招新通知</a></li>
-<li><span class="date">2026-09-21</span><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：174&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a></li>
+<li><span class="date">2026-09-21</span><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：176&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：45&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23693.aspx" target="_blank" title="标题：每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示&#xD;点击数：4&#xD;发表时间：2026年09月21日">每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示</a></li>
 <li><span class="date">2026-09-20</span><a href="/Item/23692.aspx" target="_blank" title="标题：寻物启事（校服）&#xD;点击数：30&#xD;发表时间：2026年09月20日">寻物启事（校服）</a></li>
@@ -369,7 +369,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-18</span><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：172&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：104&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23675.aspx" target="_blank" title="标题：2026Csp考场布置及相关要求&#xD;点击数：156&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a></li>
-<li><span class="date">2026-09-17</span><a href="/Item/23679.aspx" target="_blank" title="标题：高一晚自修（9.19-9.23）&#xD;点击数：61&#xD;发表时间：2026年09月17日">高一晚自修（9.19-9.23）</a></li>
+<li><span class="date">2026-09-17</span><a href="/Item/23679.aspx" target="_blank" title="标题：高一晚自修（9.19-9.23）&#xD;点击数：62&#xD;发表时间：2026年09月17日">高一晚自修（9.19-9.23）</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23678.aspx" target="_blank" title="标题：9.17跑操量化考核反馈&#xD;点击数：72&#xD;发表时间：2026年09月17日">9.17跑操量化考核反馈</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23677.aspx" target="_blank" title="标题：9.16班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月17日">9.16班级一日考核</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23676.aspx" target="_blank" title="标题：高三晚自修（9.19-9.29）&#xD;点击数：66&#xD;发表时间：2026年09月17日">高三晚自修（9.19-9.29）</a></li>
