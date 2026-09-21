@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23675.aspx" target="_self" title="标题：2026Csp考场布置及相关要求&#xD;点击数：156&#xD;发表时间：26年09月17日">2026Csp考场布置及相关要求</a>[ 09-17 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23697.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：0&#xD;发表时间：26年09月21日">信息技术教研活动通知</a>[ 09-21 ]</div>
                         </div>
                     </div>
 

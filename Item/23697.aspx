@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>团学联干部面试通知--团委-绍兴市第一中学</title>
+    <title>信息技术教研活动通知--教学处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -354,10 +354,10 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5 on"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23696.aspx" target="_blank" title="标题：社团招新通知&#xD;点击数：43&#xD;发表时间：2026年09月21日">社团招新通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：82&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：111&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：181&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23688.aspx" target="_blank" title="标题：新社长开会通知&#xD;点击数：113&#xD;发表时间：2026年09月20日">新社长开会通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：172&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li class="last"><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：142&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li>
+            <li class="first"><a href="/Item/23690.aspx" target="_blank" title="标题：运动会补充通知&#xD;点击数：258&#xD;发表时间：2026年09月20日">运动会补充通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23632.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：572&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23633.aspx" target="_blank" title="标题：网上报名操作说明&#xD;点击数：341&#xD;发表时间：2026年09月11日">网上报名操作说明</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23675.aspx" target="_blank" title="标题：2026Csp考场布置及相关要求&#xD;点击数：156&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li class="last"><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_30/Index.aspx" target="_self">团委</a></div>
-                    <h3>团委</h3>
+    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
+                    <h3>教学处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">团学联干部面试通知</h2>
+                        <h2 class="title">信息技术教研活动通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月20日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23689"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月21日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23697"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23689},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23697},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23689";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23697";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;">请高二报名团学联干部的同学于<span style="color: rgb(255, 0, 0);">9月21日（周一）</span>中午<span style="color: rgb(255, 0, 0);">12:30</span>至下列对应地点参加面试。</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;">未交表的，也可直接至现场报名参加面试。</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;">组织部、宣传部、志愿者之家：4106阶梯教室</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;"><span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif;">文体部、学权部、</span>广电部、学习部：4111阶梯教室</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;">实践部、纪检部、秘书部、社团联合会：4112阶梯教室</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;">                                                                                                                     校团委</p><p style="padding: 0px; margin-top: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; white-space: normal; margin-bottom: 20px !important;">                                                                                                                2026年9月20日</p><p>
+     <article><span style="font-size: 18px;">本周三（9月23日)全体信息技术老师外出参加90学时培训，相关班级信息技术课改自修，走班课在相应走班教室自修。</span></article><p>
 </p>
     
     </div><!--endprint-->
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23688.aspx" target="_self" title="标题：新社长开会通知&#xD;点击数：113&#xD;发表时间：26年09月20日">新社长开会通知</a>[ 09-20 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23696.aspx" target="_self" title="标题：社团招新通知&#xD;点击数：43&#xD;发表时间：26年09月21日">社团招新通知</a>[ 09-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23690.aspx" target="_self" title="标题：运动会补充通知&#xD;点击数：258&#xD;发表时间：26年09月20日">运动会补充通知</a>[ 09-20 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 

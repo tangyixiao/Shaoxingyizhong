@@ -350,8 +350,9 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-09-21</span><a href="/Item/23696.aspx" target="_blank" title="标题：社团招新通知&#xD;点击数：42&#xD;发表时间：2026年09月21日">社团招新通知</a></li>
-<li><span class="date">2026-09-21</span><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：163&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a></li>
+  <li><span class="date">2026-09-21</span><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：0&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a></li>
+<li><span class="date">2026-09-21</span><a href="/Item/23696.aspx" target="_blank" title="标题：社团招新通知&#xD;点击数：43&#xD;发表时间：2026年09月21日">社团招新通知</a></li>
+<li><span class="date">2026-09-21</span><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：164&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：43&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23693.aspx" target="_blank" title="标题：每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示&#xD;点击数：4&#xD;发表时间：2026年09月21日">每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示</a></li>
 <li><span class="date">2026-09-20</span><a href="/Item/23692.aspx" target="_blank" title="标题：寻物启事（校服）&#xD;点击数：28&#xD;发表时间：2026年09月20日">寻物启事（校服）</a></li>
@@ -363,7 +364,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-18</span><a href="/Item/23686.aspx" target="_blank" title="标题：9.17班级一日考核&#xD;点击数：40&#xD;发表时间：2026年09月18日">9.17班级一日考核</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23685.aspx" target="_blank" title="标题：高二晚自习(9.19-9.23)&#xD;点击数：56&#xD;发表时间：2026年09月18日">高二晚自习(9.19-9.23)</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：82&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a></li>
-<li><span class="date">2026-09-18</span><a href="/Item/23683.aspx" target="_blank" title="标题：关于市教研院来我校调研的通知&#xD;点击数：215&#xD;发表时间：2026年09月18日">关于市教研院来我校调研的通知</a></li>
+<li><span class="date">2026-09-18</span><a href="/Item/23683.aspx" target="_blank" title="标题：关于市教研院来我校调研的通知&#xD;点击数：216&#xD;发表时间：2026年09月18日">关于市教研院来我校调研的通知</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：181&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：172&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a></li>
 <li><span class="date">2026-09-18</span><a href="/Item/23680.aspx" target="_blank" title="标题：CSP志愿者开会通知&#xD;点击数：104&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a></li>
@@ -372,7 +373,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-17</span><a href="/Item/23678.aspx" target="_blank" title="标题：9.17跑操量化考核反馈&#xD;点击数：72&#xD;发表时间：2026年09月17日">9.17跑操量化考核反馈</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23677.aspx" target="_blank" title="标题：9.16班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月17日">9.16班级一日考核</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23676.aspx" target="_blank" title="标题：高三晚自修（9.19-9.29）&#xD;点击数：66&#xD;发表时间：2026年09月17日">高三晚自修（9.19-9.29）</a></li>
-<li><span class="date">2026-09-17</span><a href="/Item/23673.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：205&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛工作方案</a></li>
+<li><span class="date">2026-09-17</span><a href="/Item/23673.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：206&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛工作方案</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23672.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛方案&#xD;点击数：181&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛方案</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23671.aspx" target="_blank" title="标题：2026秋季全体学生心理普查重测、补测通知&#xD;点击数：128&#xD;发表时间：2026年09月17日">2026秋季全体学生心理普查重测、补测通知</a></li>
 <li><span class="date">2026-09-17</span><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：165&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a></li>
@@ -399,7 +400,6 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-14</span><a href="/Item/23649.aspx" target="_blank" title="标题：微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生&#xD;点击数：54&#xD;发表时间：2026年09月14日">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23648.aspx" target="_blank" title="标题：凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会&#xD;点击数：36&#xD;发表时间：2026年09月14日">凝新聚力传薪火，同心共育筑师魂——我校举行实习教师见面会</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23647.aspx" target="_blank" title="标题：致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞&#xD;点击数：32&#xD;发表时间：2026年09月14日">致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞</a></li>
-<li><span class="date">2026-09-14</span><a href="/Item/23646.aspx" target="_blank" title="标题：百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会&#xD;点击数：45&#xD;发表时间：2026年09月14日">百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
