@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23691.aspx" target="_self" title="标题：9.18班级一日考核&#xD;点击数：47&#xD;发表时间：26年09月20日">9.18班级一日考核</a>[ 09-20 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23694.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：2&#xD;发表时间：26年09月21日">高二、高三大扫除通知</a>[ 09-21 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23694.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：5&#xD;发表时间：26年09月21日">高二、高三大扫除通知</a>[ 09-21 ]</div>
                         </div>
                     </div>
 

@@ -350,7 +350,8 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-09-21</span><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：2&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a></li>
+  <li><span class="date">2026-09-21</span><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：19&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a></li>
+<li><span class="date">2026-09-21</span><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：5&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23693.aspx" target="_blank" title="标题：每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示&#xD;点击数：0&#xD;发表时间：2026年09月21日">每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示</a></li>
 <li><span class="date">2026-09-20</span><a href="/Item/23692.aspx" target="_blank" title="标题：寻物启事（校服）&#xD;点击数：21&#xD;发表时间：2026年09月20日">寻物启事（校服）</a></li>
 <li><span class="date">2026-09-20</span><a href="/Item/23691.aspx" target="_blank" title="标题：9.18班级一日考核&#xD;点击数：47&#xD;发表时间：2026年09月20日">9.18班级一日考核</a></li>
@@ -399,7 +400,6 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-14</span><a href="/Item/23647.aspx" target="_blank" title="标题：致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞&#xD;点击数：31&#xD;发表时间：2026年09月14日">致敬师者初心 传承育人薪火|爱心校友王卫列出席越民奖学金颁奖典礼并致辞</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23646.aspx" target="_blank" title="标题：百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会&#xD;点击数：45&#xD;发表时间：2026年09月14日">百卅一中，师者荣光  ——绍兴一中教育集团举行庆祝第42个教师节暨越民奖学金颁奖大会</a></li>
 <li><span class="date">2026-09-14</span><a href="/Item/23645.aspx" target="_blank" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：243&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a></li>
-<li><span class="date">2026-09-14</span><a href="/Item/23644.aspx" target="_blank" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：173&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
