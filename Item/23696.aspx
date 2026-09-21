@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>9.17班级一日考核--德育处-绍兴市第一中学</title>
+    <title>社团招新通知--团委-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -356,8 +356,8 @@ function GetUserInfo1(response){
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5 on"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：28&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23673.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：202&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛工作方案</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23692.aspx" target="_blank" title="标题：寻物启事（校服）&#xD;点击数：24&#xD;发表时间：2026年09月20日">寻物启事（校服）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23672.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛方案&#xD;点击数：177&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛方案</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23691.aspx" target="_blank" title="标题：9.18班级一日考核&#xD;点击数：49&#xD;发表时间：2026年09月20日">9.18班级一日考核</a><span class="dateRight">[09-20]</span></li><li class="last"><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li>
+            <li class="first"><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：82&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：100&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：180&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23696.aspx" target="_blank" title="标题：社团招新通知&#xD;点击数：4&#xD;发表时间：2026年09月21日">社团招新通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23688.aspx" target="_blank" title="标题：新社长开会通知&#xD;点击数：113&#xD;发表时间：2026年09月20日">新社长开会通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：142&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：170&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_30/Index.aspx" target="_self">团委</a></div>
+                    <h3>团委</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">9.17班级一日考核</h2>
+                        <h2 class="title">社团招新通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月18日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23686"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月21日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23696"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23686},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23696},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23686";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23696";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><img src="/UploadFiles/xwzx/2026/9/202609201525103317.png" style="max-width: 100%; " title="202609201525103317.png" /></p>
+     <p style="text-align: center; font-family: Calibri; font-size: 14px; white-space: normal;"><span style="font-family: 宋体; font-size: 16px;">社团招新通知</span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;white-space: normal"><span style="font-family: 宋体; font-size: 16px;">时间：</span><span style="font-family: 宋体;font-size: 14px"><span style="font-family: 宋体; font-size: 18px; color: rgb(255, 0, 0);">周二</span><span style="font-family: 宋体; font-size: 16px;"><span style="font-family: 宋体;">（</span><span style="font-family: Calibri;">9</span><span style="font-family: 宋体;">月</span><span style="font-family: Calibri;">22</span><span style="font-family: 宋体;">日）</span></span><span style="font-family: 宋体; font-size: 18px;"><strong><span style="font-family: 宋体; color: rgb(255, 0, 0);"><span style="font-family: 宋体;">中午</span><span style="font-family: Calibri;">12:10</span><span style="font-family: 宋体;">—</span><span style="font-family: Calibri;">13:00</span></span></strong></span></span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;white-space: normal"><span style="font-family: 宋体; font-size: 16px;">地点：体育馆内</span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;white-space: normal"><span style="font-family: 宋体; font-size: 16px;">对象：全体高一</span></p><p style=";text-align: justify;font-family: Calibri;font-size: 14px;white-space: normal"><span style="font-family: 宋体; font-size: 16px;">报名：报名采用线上<span style="font-size: 16px; font-family: Calibri;">+</span>线下形式，线下请于社团点位前直接进行报名。线上请下载附件<span style="font-size: 16px; font-family: Calibri;">excel</span>表格（见附件），选择相应的社团报名进行报名，并以班级为单位，将文件命名为班级序号（如<span style="font-size: 16px; font-family: Calibri;">101</span>），上传至“</span><span style="font-family: 宋体;font-size: 14px"><span style="font-family:宋体"></span><span style="font-family: 宋体; font-size: 18px; color: rgb(255, 0, 0);">团委——<span style="font-size: 18px; font-family: Calibri;">2026</span>社团——<span style="font-size: 18px; font-family: Calibri;">2026</span>社团报名</span><span style="font-family:宋体">”。<span style="font-family: 宋体; font-size: 16px;">截止时间</span></span><strong><span style="font-family: 宋体; color: rgb(255, 0, 0); font-size: 18px;"><span style="color: rgb(255, 0, 0); font-family: Calibri;">9</span>月<span style="color: rgb(255, 0, 0); font-family: Calibri;">24</span>日（周四）<span style="color: rgb(255, 0, 0); font-family: Calibri;">17:00</span>前</span></strong></span></p><p>附件：</p><p style="line-height: 16px;"><img style="vertical-align: middle; margin-right: 2px;" src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_txt.gif" /><a style="font-size:12px; color:#0066cc;" href="/downloads/xwzx/2026/9/202609211133448681.xlsx" title="202609211133448681.xlsx">202609211133448681.xlsx</a></p><p style="text-align: right;">校团委
+</p><p style="text-align: right;">2026年9月21日</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23678.aspx" target="_self" title="标题：9.17跑操量化考核反馈&#xD;点击数：72&#xD;发表时间：26年09月17日">9.17跑操量化考核反馈</a>[ 09-17 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23687.aspx" target="_self" title="标题：9.18跑操量化考核反馈&#xD;点击数：65&#xD;发表时间：26年09月18日">9.18跑操量化考核反馈</a>[ 09-18 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23689.aspx" target="_self" title="标题：团学联干部面试通知&#xD;点击数：100&#xD;发表时间：26年09月20日">团学联干部面试通知</a>[ 09-20 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
