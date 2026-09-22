@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23702.aspx" target="_blank" title="标题：失物招领（U盘）&#xD;点击数：45&#xD;发表时间：2026年09月22日">失物招领（U盘）</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23704.aspx" target="_blank" title="标题：寻物启事（物理笔记）&#xD;点击数：31&#xD;发表时间：2026年09月22日">寻物启事（物理笔记）</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23706.aspx" target="_blank" title="标题：9.22跑操量化考核反馈&#xD;点击数：20&#xD;发表时间：2026年09月22日">9.22跑操量化考核反馈</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23705.aspx" target="_blank" title="标题：9.21班级一日考核&#xD;点击数：18&#xD;发表时间：2026年09月22日">9.21班级一日考核</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23673.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：229&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛工作方案</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：49&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li class="last"><a href="/Item/23672.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛方案&#xD;点击数：206&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛方案</a><span class="dateRight">[09-17]</span></li>
+            <li class="first"><a href="/Item/23702.aspx" target="_blank" title="标题：失物招领（U盘）&#xD;点击数：45&#xD;发表时间：2026年09月22日">失物招领（U盘）</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23704.aspx" target="_blank" title="标题：寻物启事（物理笔记）&#xD;点击数：31&#xD;发表时间：2026年09月22日">寻物启事（物理笔记）</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23706.aspx" target="_blank" title="标题：9.22跑操量化考核反馈&#xD;点击数：25&#xD;发表时间：2026年09月22日">9.22跑操量化考核反馈</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23705.aspx" target="_blank" title="标题：9.21班级一日考核&#xD;点击数：21&#xD;发表时间：2026年09月22日">9.21班级一日考核</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23673.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛工作方案&#xD;点击数：230&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛工作方案</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23672.aspx" target="_blank" title="标题：绍兴一中教育集团跑操比赛方案&#xD;点击数：209&#xD;发表时间：2026年09月17日">绍兴一中教育集团跑操比赛方案</a><span class="dateRight">[09-17]</span></li><li class="last"><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：49&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li>
           
                     </ul>
                 </div>
@@ -443,7 +443,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23702.aspx" target="_self" title="标题：失物招领（U盘）&#xD;点击数：45&#xD;发表时间：26年09月22日">失物招领（U盘）</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23705.aspx" target="_self" title="标题：9.21班级一日考核&#xD;点击数：18&#xD;发表时间：26年09月22日">9.21班级一日考核</a>[ 09-22 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23705.aspx" target="_self" title="标题：9.21班级一日考核&#xD;点击数：21&#xD;发表时间：26年09月22日">9.21班级一日考核</a>[ 09-22 ]</div>
                         </div>
                     </div>
 
