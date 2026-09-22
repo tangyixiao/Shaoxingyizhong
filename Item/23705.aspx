@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23704.aspx" target="_self" title="标题：寻物启事（物理笔记）&#xD;点击数：23&#xD;发表时间：26年09月22日">寻物启事（物理笔记）</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23706.aspx" target="_self" title="标题：9.22跑操量化考核反馈&#xD;点击数：0&#xD;发表时间：26年09月22日">9.22跑操量化考核反馈</a>[ 09-22 ]</div>
                         </div>
                     </div>
 
