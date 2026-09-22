@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23701.aspx" target="_blank" title="标题：2026年绍兴市直中学生乒乓球比赛通知&#xD;点击数：103&#xD;发表时间：2026年09月22日">2026年绍兴市直中学生乒乓球比赛通知</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：38&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：113&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23690.aspx" target="_blank" title="标题：运动会补充通知&#xD;点击数：307&#xD;发表时间：2026年09月20日">运动会补充通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23632.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：585&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li>
+            <li class="first"><a href="/Item/23701.aspx" target="_blank" title="标题：2026年绍兴市直中学生乒乓球比赛通知&#xD;点击数：108&#xD;发表时间：2026年09月22日">2026年绍兴市直中学生乒乓球比赛通知</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23690.aspx" target="_blank" title="标题：运动会补充通知&#xD;点击数：310&#xD;发表时间：2026年09月20日">运动会补充通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：138&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li class="last"><a href="/Item/23660.aspx" target="_blank" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：231&#xD;发表时间：2026年09月15日">9月19日（本周六）csp监考安排</a><span class="dateRight">[09-15]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23697.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：113&#xD;发表时间：26年09月21日">信息技术教研活动通知</a>[ 09-21 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23708.aspx" target="_self" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：38&#xD;发表时间：26年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a>[ 09-22 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23697.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：115&#xD;发表时间：26年09月21日">信息技术教研活动通知</a>[ 09-21 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23708.aspx" target="_self" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：138&#xD;发表时间：26年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a>[ 09-22 ]</div>
                         </div>
                     </div>
 
