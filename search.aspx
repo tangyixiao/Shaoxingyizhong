@@ -399,7 +399,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-15</span><a href="/Item/23657.aspx" target="_blank" title="标题：关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知&#xD;点击数：187&#xD;发表时间：2026年09月15日">关于开展越动悦健康·绍兴市校园课桌舞“班超” 创意大赛比赛活动通知</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23656.aspx" target="_blank" title="标题：每周一学（2026年9月14日-9月20日）习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话&#xD;点击数：8&#xD;发表时间：2026年09月15日">每周一学（2026年9月14日-9月20日）习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话</a></li>
 <li><span class="date">2026-09-15</span><a href="/Item/23655.aspx" target="_blank" title="标题：地理教研活动通知&#xD;点击数：127&#xD;发表时间：2026年09月15日">地理教研活动通知</a></li>
-<li><span class="date">2026-09-15</span><a href="/Item/23654.aspx" target="_blank" title="标题：绍兴一中教育集团2026年中层选拔任用公告&#xD;点击数：317&#xD;发表时间：2026年09月15日">绍兴一中教育集团2026年中层选拔任用公告</a></li>
+<li><span class="date">2026-09-15</span><a href="/Item/23654.aspx" target="_blank" title="标题：绍兴一中教育集团2026年中层选拔任用公告&#xD;点击数：318&#xD;发表时间：2026年09月15日">绍兴一中教育集团2026年中层选拔任用公告</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
