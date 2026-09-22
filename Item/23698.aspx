@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>运动会补充通知--教学处-绍兴市第一中学</title>
+    <title>9.20班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -354,9 +354,9 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：95&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9525&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23690.aspx" target="_blank" title="标题：运动会补充通知&#xD;点击数：281&#xD;发表时间：2026年09月20日">运动会补充通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23675.aspx" target="_blank" title="标题：2026Csp考场布置及相关要求&#xD;点击数：156&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li class="last"><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li>
+            <li class="first"><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：61&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23687.aspx" target="_blank" title="标题：9.18跑操量化考核反馈&#xD;点击数：72&#xD;发表时间：2026年09月18日">9.18跑操量化考核反馈</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：41&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">运动会补充通知</h2>
+                        <h2 class="title">9.20班级一日考核</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月20日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23690"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月21日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23698"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23690},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23698},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23690";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23698";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="font-family: Calibri;font-size: 22pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 宋体;font-size: 22pt;margin: 0;padding: 0;"><strong>运动会补充通知</strong></span></p><p style="font-family: Calibri;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.39in;"><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">因本次校运会</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">仍</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">为期 2 天</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">举行</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">但班级较往年有所增加，</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">赛事</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">编排较为困难</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">，为保障赛事有序顺利完成，现对 1500 米项目比赛时间调整如下： 1500 米比赛提前至</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;"><strong>9 月 23 日下午第九节课</strong></span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">举行。 请参赛运动员于</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;"><strong>15:50</strong></span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">前往</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;"><strong>网球场检录处</strong></span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">报到，完成检录并开展赛前热身</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: Calibri;font-size: 14pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;"><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">体育组</span></p>
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609211617300832.png" style="max-width: 100%; " title="202609211617300832.png" /></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23675.aspx" target="_self" title="标题：2026Csp考场布置及相关要求&#xD;点击数：156&#xD;发表时间：26年09月17日">2026Csp考场布置及相关要求</a>[ 09-17 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23697.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：95&#xD;发表时间：26年09月21日">信息技术教研活动通知</a>[ 09-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23694.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：61&#xD;发表时间：26年09月21日">高二、高三大扫除通知</a>[ 09-21 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
