@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>学校公告-绍兴市第一中学</title>
+    <title>关于校园基础设施维修改造工程即将施工的安全提醒通知--总务处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,6 +343,7 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -358,7 +358,7 @@ function GetUserInfo1(response){
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li6 on"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
 <li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
@@ -374,90 +374,83 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：61&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：117&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：190&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：95&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：180&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23161.aspx" target="_blank" title="标题：关于组织开展2026年中小学生（幼儿）“预防溺水”专题教育活动的通知&#xD;点击数：53&#xD;发表时间：2026年05月07日">关于组织开展2026年中小学生（幼儿）“预防溺水”专题教…</a><span class="dateRight">[05-07]</span></li><li class="last"><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23700.aspx" target="_blank" title="标题：关于校园基础设施维修改造工程即将施工的安全提醒通知&#xD;点击数：9&#xD;发表时间：2026年09月22日">关于校园基础设施维修改造工程即将施工的安全提醒通知</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23699.aspx" target="_blank" title="标题：厉行节水节电 共建绿色校园—致绍兴一中教育集团全体师生倡议书&#xD;点击数：9&#xD;发表时间：2026年09月22日">厉行节水节电 共建绿色校园—致绍兴一中教育集团全体师…</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23513.aspx" target="_blank" title="标题：关于教师办公室调整及宿舍管理工作的相关提醒&#xD;点击数：132&#xD;发表时间：2026年08月19日">关于教师办公室调整及宿舍管理工作的相关提醒</a><span class="dateRight">[08-19]</span></li><li><a href="/Item/17328.aspx" target="_blank" title="标题：生活委员以及膳管会成员会议通知&#xD;点击数：219&#xD;发表时间：2023年02月21日">生活委员以及膳管会成员会议通知</a><span class="dateRight">[02-21]</span></li><li><a href="/Item/9900.aspx" target="_blank" title="标题：通&amp;nbsp;知&#xD;点击数：533&#xD;发表时间：2019年03月25日"><font style=";">通 知</font></a><span class="dateRight">[03-25]</span></li><li><a href="/Item/9875.aspx" target="_blank" title="标题：通&amp;nbsp;&amp;nbsp;知&#xD;点击数：371&#xD;发表时间：2019年03月18日"><font style=";">通  知</font></a><span class="dateRight">[03-18]</span></li><li class="last"><a href="/Item/9520.aspx" target="_blank" title="标题：通&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;知&#xD;点击数：477&#xD;发表时间：2018年12月17日"><font style=";">通     知</font></a><span class="dateRight">[12-17]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=20>学校公告</option><option value=25>&nbsp;&nbsp;党政办</option><option value=26>&nbsp;&nbsp;教学处</option><option value=27>&nbsp;&nbsp;德育处</option><option value=28>&nbsp;&nbsp;安全处</option><option value=29>&nbsp;&nbsp;信息处</option><option value=30>&nbsp;&nbsp;团委</option><option value=31>&nbsp;&nbsp;总务处</option><option value=32>&nbsp;&nbsp;工会</option><option value=33>&nbsp;&nbsp;高一</option><option value=34>&nbsp;&nbsp;高二</option><option value=35>&nbsp;&nbsp;高三</option><option value=36>&nbsp;&nbsp;教科室</option><option value=392>&nbsp;&nbsp;龙山书院</option><option value=393>&nbsp;&nbsp;创新学部</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
                 <div class="mHd">
-
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
+    
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a></div>
-                    <h3>学校公告</h3>
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_31/Index.aspx" target="_self">总务处</a></div>
+                    <h3>总务处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2009-09-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/202.aspx" target="_self" title="标题：团委学生会干部招聘办法&#xD;点击数：469&#xD;发表时间：2009年09月04日"><font style=";">团委学生会干部招聘办法</font></a></li><li><span class="date">2009-09-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/201.aspx" target="_self" title="标题：关于校本课程申报的通知&#xD;点击数：570&#xD;发表时间：2009年09月04日"><font style=";">关于校本课程申报的通知</font></a></li><li><span class="date">2009-09-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/174.aspx" target="_self" title="标题：绍兴一中考勤和请假制度征求意见稿&#xD;点击数：720&#xD;发表时间：2009年09月04日"><font style=";">绍兴一中考勤和请假制度征求意见稿</font></a></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/200.aspx" target="_self" title="标题：关于全校各班团支部书记培训的通知&#xD;点击数：454&#xD;发表时间：2009年09月03日"><font style=";">关于全校各班团支部书记培训的通知</font></a></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/198.aspx" target="_self" title="标题：关于开放学校心理咨询室的通知&#xD;点击数：555&#xD;发表时间：2009年09月03日"><font style=";">关于开放学校心理咨询室的通知</font></a></li><li class="split"></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_35/Index.aspx" target="_self">[高三]</a><a href="/Item/197.aspx" target="_self" title="标题：高三班主任会议&#xD;点击数：525&#xD;发表时间：2009年09月03日"><font style=";">高三班主任会议</font></a></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/195.aspx" target="_self" title="标题：各班主任请注意（近期有关事项）&#xD;点击数：498&#xD;发表时间：2009年09月03日"><font style=";">各班主任请注意（近期有关事项）</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/192.aspx" target="_self" title="标题：关于高一新生军训会操的通知&#xD;点击数：524&#xD;发表时间：2009年09月02日"><font style=";">关于高一新生军训会操的通知</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/191.aspx" target="_self" title="标题：回头考成绩和高三IB成绩录入方法&#xD;点击数：555&#xD;发表时间：2009年09月02日"><font style=";">回头考成绩和高三IB成绩录入方法</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/189.aspx" target="_self" title="标题：高一、高二各班&#xD;点击数：523&#xD;发表时间：2009年09月02日"><font style=";">高一、高二各班</font></a></li><li class="split"></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/190.aspx" target="_self" title="标题：各班主任请注意（大课间入场路线）&#xD;点击数：537&#xD;发表时间：2009年09月02日"><font style=";">各班主任请注意（大课间入场路线）</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/187.aspx" target="_self" title="标题：2009.9.1大扫除检查情况公布  &#xD;点击数：437&#xD;发表时间：2009年09月02日"><font style=";">2009.9.1大扫除检查情况公布  </font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/186.aspx" target="_self" title="标题：高三部分选修IB上课安排&#xD;点击数：644&#xD;发表时间：2009年09月01日"><font style=";">高三部分选修IB上课安排</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/185.aspx" target="_self" title="标题：高二课外活动、校本课程时间更改&#xD;点击数：561&#xD;发表时间：2009年09月01日"><font style=";">高二课外活动、校本课程时间更改</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/184.aspx" target="_self" title="标题：校定向队招新队员通知&#xD;点击数：556&#xD;发表时间：2009年09月01日"><font style=";">校定向队招新队员通知</font></a></li><li class="split"></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_33/Index.aspx" target="_self">[高一]</a><a href="/Item/183.aspx" target="_self" title="标题：高一年级值周(白天)工作安排&#xD;点击数：470&#xD;发表时间：2009年09月01日"><font style=";">高一年级值周(白天)工作安排</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/182.aspx" target="_self" title="标题：各班主任请注意（关于住校生）&#xD;点击数：435&#xD;发表时间：2009年09月01日"><font style=";">各班主任请注意（关于住校生）</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/181.aspx" target="_self" title="标题：高二年级班长会议&#xD;点击数：564&#xD;发表时间：2009年09月01日"><font style=";">高二年级班长会议</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/180.aspx" target="_self" title="标题：绍兴一中2009学年工作思路（初稿）&#xD;点击数：803&#xD;发表时间：2009年09月01日"><font style=";">绍兴一中2009学年工作思路（初稿）</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/179.aspx" target="_self" title="标题：班主任：09年未成年人医疗保障相关通知&#xD;点击数：674&#xD;发表时间：2009年08月31日"><font style=";">班主任：09年未成年人医疗保障相关通知</font></a></li><li class="split"></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_29/Index.aspx" target="_self">[信息处]</a><a href="/Item/178.aspx" target="_self" title="标题：2009学年第一学期信息处工作安排&#xD;点击数：1615&#xD;发表时间：2009年08月31日"><font style=";">2009学年第一学期信息处工作安排</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_33/Index.aspx" target="_self">[高一]</a><a href="/Item/177.aspx" target="_self" title="标题：高一今天（8.31）下午有关事项&#xD;点击数：475&#xD;发表时间：2009年08月31日"><font style=";">高一今天（8.31）下午有关事项</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/167.aspx" target="_self" title="标题：各班主任、各竞赛辅导教师请注意（关于开学典礼）&#xD;点击数：449&#xD;发表时间：2009年08月31日"><font style=";">各班主任、各竞赛辅导教师请注意（关于开学典礼）</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/172.aspx" target="_self" title="标题：一周检查情况公布&#xD;点击数：488&#xD;发表时间：2009年08月31日"><font style=";">一周检查情况公布</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/175.aspx" target="_self" title="标题：关于黑板报工作会议通知&#xD;点击数：489&#xD;发表时间：2009年08月31日"><font style=";">关于黑板报工作会议通知</font></a></li><li class="split"></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/173.aspx" target="_self" title="标题：9月1日上午高一高二上课通知&#xD;点击数：489&#xD;发表时间：2009年08月31日"><font style=";">9月1日上午高一高二上课通知</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/171.aspx" target="_self" title="标题：校园内不乱停车的通知&#xD;点击数：732&#xD;发表时间：2009年08月31日"><font style=";">校园内不乱停车的通知</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/169.aspx" target="_self" title="标题：教工会议通知&#xD;点击数：681&#xD;发表时间：2009年08月31日"><font style=";">教工会议通知</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/170.aspx" target="_self" title="标题：2009学年第一学期开学典礼&#xD;点击数：561&#xD;发表时间：2009年08月31日"><font style=";">2009学年第一学期开学典礼</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/168.aspx" target="_self" title="标题：9月1日下午高三综合回头考时间调整&#xD;点击数：1099&#xD;发表时间：2009年08月31日"><font style=";">9月1日下午高三综合回头考时间调整</font></a></li><li class="split"></li><li><span class="date">2009-08-30</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/165.aspx" target="_self" title="标题：高三回头考安排调整&#xD;点击数：581&#xD;发表时间：2009年08月30日"><font style=";">高三回头考安排调整</font></a></li><li><span class="date">2009-08-28</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/164.aspx" target="_self" title="标题：通知&#xD;点击数：607&#xD;发表时间：2009年08月28日"><font style=";">通知</font></a></li><li><span class="date">2009-08-28</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_35/Index.aspx" target="_self">[高三]</a><a href="/Item/163.aspx" target="_self" title="标题：高三班主任请注意 &#xD;点击数：569&#xD;发表时间：2009年08月28日"><font style=";">高三班主任请注意 </font></a></li><li><span class="date">2009-08-28</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/162.aspx" target="_self" title="标题：关于教师参加心理健康教育自考报考、领证的通知&#xD;点击数：669&#xD;发表时间：2009年08月28日"><font style=";">关于教师参加心理健康教育自考报考、领证的通知</font></a></li><li class="last"><span class="date">2009-08-28</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/161.aspx" target="_self" title="标题：高三回头考监考安排&#xD;点击数：603&#xD;发表时间：2009年08月28日">高三回头考监考安排</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_477.aspx">上一页</a>
- <a href="Index_470.aspx">470</a> <a href="Index_471.aspx">471</a> <a href="Index_472.aspx">472</a> <a href="Index_473.aspx">473</a> <a href="Index_474.aspx">474</a> <a href="Index_475.aspx">475</a> <a href="Index_476.aspx">476</a> <a href="Index_477.aspx">477</a> <b><a href="Index_478.aspx">478</a></b> <a href="Index_479.aspx">479</a> <a href="Index_480.aspx">480</a> 
-<a href="Index_479.aspx">下一页</a>
- <a href="Index_480.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">关于校园基础设施维修改造工程即将施工的安全提醒通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月22日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23700"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23700},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23700";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p><span style="font-size:16px">全体师生：</span></p><p style="text-indent:32px"><span style="font-size:16px">根据市财政局、市教育局年度预算调整安排，为进一步完善校园基础设施、消除设施安全隐患、优化办学环境，我校近期将分步启动校园维修改造工程。本次改造工程周期较长，无法在中秋、国庆短期假期内全部完成，后续将结合教学间隙、课余时段有序开展施工。为切实保障全校师生人身安全，维护校园正常教育教学秩序，现将施工项目及安全注意事项通知如下：</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">一、即将实施施工项目</span></strong></p><p style="text-indent:32px"><strong><span style="font-size:16px">1. </span></strong><strong><span style="font-size:16px">教师办公室走廊升级改造</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">对教师办公室走廊防护设施进行优化，实施走廊扶手玻璃加装、扶手以及护栏油漆翻新粉刷作业，提升办公区域安全防护标准与校园整体风貌。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">2. </span></strong><strong><span style="font-size:16px">北校门维修改造工程</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">对学校北校门外立面及配套设施进行维修翻新，优化校门通行功能，消除老旧设施安全隐患，提升校园出入口整体形象。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">3. </span></strong><strong><span style="font-size:16px">教室及办公室门更换工程</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">分批对校内老旧教室门、教师办公室门进行统一更换，解决门破损、老化、松动等问题，改善教学与办公环境。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">二、施工总体说明</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">本次三项工程为阶段性、分区域、错峰施工，贯穿后续一段时期。施工单位将严格遵守校园静音、文明施工要求，尽量规避课堂教学时段作业，但校园内仍会存在施工器械、建材堆放、局部围挡及零星作业情况。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">三、校园安全与文明纪律要求</span></strong></p><p style="text-indent:32px"><strong><span style="font-size:16px">1. </span></strong><strong><span style="font-size:16px">严禁进入施工区域</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">所有施工点位均设置围挡、警示标识、隔离区域。全体师生严禁擅自翻越围挡、进入施工场地，严禁靠近施工机械、建材堆放区、作业工作面，杜绝围观、逗留、嬉戏等危险行为。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">2. </span></strong><strong><span style="font-size:16px">注意通行安全</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">途经施工路段、施工楼宇、北校门周边区域时，务必减速慢行、注意观察、快速通行，不驻足停留，谨防高空作业、物料搬运带来的安全风险。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">3. </span></strong><strong><span style="font-size:16px">爱护在建设施与校园公物</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">施工期间，请勿触碰、摇晃新安装玻璃扶手、施工材料及新更换门窗构件，不随意触摸施工设备，杜绝损坏在建工程设施的行为。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">4. </span></strong><strong><span style="font-size:16px">教职工做好班级与区域管理</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">各班主任及时对学生开展施工安全教育，常态化提醒学生远离施工区域；各处室教职工自觉维护办公区域施工秩序，发现安全隐患及时向总务处反馈。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px">四、文明施工管理</span></strong></p><p style="text-indent:32px"><span style="font-size:16px">学校总务处将严格督促施工单位落实主体安全责任，做到分区施工、规范围挡、及时清理、降噪降尘，最大限度降低施工对校园环境、教学秩序的影响。</span></p><p style="text-indent:32px"><span style="font-size:16px">请全体师生提高安全防范意识，自觉遵守校园施工期间各项安全规定，共同维护安全、有序、稳定的校园环境。</span></p><p style="text-indent:32px"><span style="font-size:16px">特此通知。</span></p><p style="text-indent:32px"><strong><span style="font-size:16px"> </span></strong></p><p style="text-indent:400px"><span style="font-size:16px">绍兴一中教育集团</span></p><p style="text-indent:416px"><span style="font-size:16px">2026</span><span style="font-size:16px">年9月</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23699.aspx" target="_self" title="标题：厉行节水节电 共建绿色校园—致绍兴一中教育集团全体师生倡议书&#xD;点击数：9&#xD;发表时间：26年09月22日">厉行节水节电 共建绿色校园—致绍兴一中教育集团全体师生倡议书</a>[ 09-22 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -489,6 +482,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
