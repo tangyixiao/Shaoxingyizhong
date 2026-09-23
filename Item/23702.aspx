@@ -441,7 +441,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23698.aspx" target="_self" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：26年09月21日">9.20班级一日考核</a>[ 09-21 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23704.aspx" target="_self" title="标题：寻物启事（物理笔记）&#xD;点击数：52&#xD;发表时间：26年09月22日">寻物启事（物理笔记）</a>[ 09-22 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23704.aspx" target="_self" title="标题：寻物启事（物理笔记）&#xD;点击数：53&#xD;发表时间：26年09月22日">寻物启事（物理笔记）</a>[ 09-22 ]</div>
                         </div>
                     </div>
 
