@@ -491,7 +491,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">06-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18535.aspx" target="_blank" title="标题：4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛浙江省预赛中创佳绩！&#xD;点击数：320&#xD;发表时间：2023年06月02日">4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛…</a></li><li><span class="date">11-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16530.aspx" target="_blank" title="标题：2020年全国高中数学联赛我校再创佳绩&#xD;点击数：336&#xD;发表时间：2020年11月19日">2020年全国高中数学联赛我校再创佳绩</a></li><li class="last"><span class="date">10-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12862.aspx" target="_blank" title="标题：数学组近期捷报频传&#xD;点击数：703&#xD;发表时间：2020年10月16日">数学组近期捷报频传</a></li>
+            <li class="first"><span class="date">06-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18535.aspx" target="_blank" title="标题：4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛浙江省预赛中创佳绩！&#xD;点击数：320&#xD;发表时间：2023年06月02日">4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛…</a></li><li><span class="date">11-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16530.aspx" target="_blank" title="标题：2020年全国高中数学联赛我校再创佳绩&#xD;点击数：336&#xD;发表时间：2020年11月19日">2020年全国高中数学联赛我校再创佳绩</a></li><li class="last"><span class="date">10-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12862.aspx" target="_blank" title="标题：数学组近期捷报频传&#xD;点击数：704&#xD;发表时间：2020年10月16日">数学组近期捷报频传</a></li>
           
                             </ul>
                         </div>
