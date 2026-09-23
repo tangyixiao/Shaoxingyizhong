@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23705.aspx" target="_self" title="标题：9.21班级一日考核&#xD;点击数：47&#xD;发表时间：26年09月22日">9.21班级一日考核</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23714.aspx" target="_self" title="标题：9.23跑操量化考核反馈&#xD;点击数：43&#xD;发表时间：26年09月23日">9.23跑操量化考核反馈</a>[ 09-23 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23714.aspx" target="_self" title="标题：9.23跑操量化考核反馈&#xD;点击数：45&#xD;发表时间：26年09月23日">9.23跑操量化考核反馈</a>[ 09-23 ]</div>
                         </div>
                     </div>
 
