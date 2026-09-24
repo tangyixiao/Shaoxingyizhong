@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：182&#xD;发表时间：2026年09月23日">考察预告</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：152&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：178&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23637.aspx" target="_blank" title="标题：关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知&#xD;点击数：279&#xD;发表时间：2026年09月11日">关于公布《绍兴一中教育集团2026/2027学年第一学期行事历…</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：239&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：195&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li>
+            <li class="first"><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：183&#xD;发表时间：2026年09月23日">考察预告</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：154&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：179&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23637.aspx" target="_blank" title="标题：关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知&#xD;点击数：279&#xD;发表时间：2026年09月11日">关于公布《绍兴一中教育集团2026/2027学年第一学期行事历…</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23654.aspx" target="_blank" title="标题：绍兴一中教育集团2026年中层选拔任用公告&#xD;点击数：333&#xD;发表时间：2026年09月15日">绍兴一中教育集团2026年中层选拔任用公告</a><span class="dateRight">[09-15]</span></li><li class="last"><a href="/Item/23581.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献奖” “育人楷模奖”的决定‌&#xD;点击数：239&#xD;发表时间：2026年09月02日">中共绍兴市第一中学委员会关于表彰2026年“高考突出贡献…</a><span class="dateRight">[09-02]</span></li>
           
                     </ul>
                 </div>
@@ -438,8 +438,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23707.aspx" target="_self" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：178&#xD;发表时间：26年09月22日">绍兴市第一中学关于公积金调整的通知</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23713.aspx" target="_self" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：152&#xD;发表时间：26年09月23日">关于中秋、国庆放假与调休安排的通知</a>[ 09-23 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23707.aspx" target="_self" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：179&#xD;发表时间：26年09月22日">绍兴市第一中学关于公积金调整的通知</a>[ 09-22 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23713.aspx" target="_self" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：154&#xD;发表时间：26年09月23日">关于中秋、国庆放假与调休安排的通知</a>[ 09-23 ]</div>
                         </div>
                     </div>
 
