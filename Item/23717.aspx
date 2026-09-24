@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>9.21班级一日考核--德育处-绍兴市第一中学</title>
+    <title>会议通知--党政办-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -353,10 +353,10 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23715.aspx" target="_blank" title="标题：9.22班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月23日">9.22班级一日考核</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23714.aspx" target="_blank" title="标题：9.23跑操量化考核反馈&#xD;点击数：54&#xD;发表时间：2026年09月23日">9.23跑操量化考核反馈</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23704.aspx" target="_blank" title="标题：寻物启事（物理笔记）&#xD;点击数：57&#xD;发表时间：2026年09月22日">寻物启事（物理笔记）</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li>
+            <li class="first"><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：201&#xD;发表时间：2026年09月23日">考察预告</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：172&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23716.aspx" target="_blank" title="标题：绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事&#xD;点击数：26&#xD;发表时间：2026年09月24日">绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23717.aspx" target="_blank" title="标题：会议通知&#xD;点击数：10&#xD;发表时间：2026年09月24日">会议通知</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：184&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23637.aspx" target="_blank" title="标题：关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知&#xD;点击数：279&#xD;发表时间：2026年09月11日">关于公布《绍兴一中教育集团2026/2027学年第一学期行事历…</a><span class="dateRight">[09-11]</span></li><li class="last"><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
-                    <h3>德育处</h3>
+    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
+                    <h3>党政办</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">9.21班级一日考核</h2>
+                        <h2 class="title">会议通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月22日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23705"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月24日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23717"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23705},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23717},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23705";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23717";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,9 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609231406461810.png" style="max-width: 100%; " title="202609231406461810.png" /></p>
+     <article><p style="margin-top: 0px; margin-bottom: 0px;">
+</p><p style="text-indent: 2em; text-align: justify;">请下列人员今天中午12：30到行政楼三楼会议室二开个短会，请拨冗出席，随带笔。</p><p style="text-indent: 2em; text-align: justify;">人员名单：蒋明、杨佩琼、朱水军、冯王亮、任联君、祝智浩、裘东、刘明玉、金笛、余栋材、马作菁、赵正瑜、马丹娜、王佩金、王青、孟德超、陈炳炉、何隽豪、顾秀芳、翁鹏飞、沈海全、章思怡、孙祯澍、孙舒曼、陶佳卉、俞一凡、谢君樑、唐海燕、徐萍、陈浩、金华元、谢澹、虞金龙、楼立青、王淑会、张叠、张伟丰、杨国平、张江、沈初见、陈微微、陈义兵、王冰洁、王海燕</p></article><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +438,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23704.aspx" target="_self" title="标题：寻物启事（物理笔记）&#xD;点击数：57&#xD;发表时间：26年09月22日">寻物启事（物理笔记）</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23706.aspx" target="_self" title="标题：9.22跑操量化考核反馈&#xD;点击数：64&#xD;发表时间：26年09月22日">9.22跑操量化考核反馈</a>[ 09-22 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23716.aspx" target="_self" title="标题：绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事&#xD;点击数：26&#xD;发表时间：26年09月24日">绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事</a>[ 09-24 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
