@@ -350,17 +350,18 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-09-24</span><a href="/Item/23717.aspx" target="_blank" title="标题：会议通知&#xD;点击数：48&#xD;发表时间：2026年09月24日">会议通知</a></li>
-<li><span class="date">2026-09-24</span><a href="/Item/23716.aspx" target="_blank" title="标题：绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事&#xD;点击数：52&#xD;发表时间：2026年09月24日">绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事</a></li>
+  <li><span class="date">2026-09-24</span><a href="/Item/23718.aspx" target="_blank" title="标题：运动会彩排通知&#xD;点击数：21&#xD;发表时间：2026年09月24日">运动会彩排通知</a></li>
+<li><span class="date">2026-09-24</span><a href="/Item/23717.aspx" target="_blank" title="标题：会议通知&#xD;点击数：74&#xD;发表时间：2026年09月24日">会议通知</a></li>
+<li><span class="date">2026-09-24</span><a href="/Item/23716.aspx" target="_blank" title="标题：绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事&#xD;点击数：66&#xD;发表时间：2026年09月24日">绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事</a></li>
 <li><span class="date">2026-09-23</span><a href="/Item/23715.aspx" target="_blank" title="标题：9.22班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月23日">9.22班级一日考核</a></li>
 <li><span class="date">2026-09-23</span><a href="/Item/23714.aspx" target="_blank" title="标题：9.23跑操量化考核反馈&#xD;点击数：55&#xD;发表时间：2026年09月23日">9.23跑操量化考核反馈</a></li>
-<li><span class="date">2026-09-23</span><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：176&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a></li>
-<li><span class="date">2026-09-23</span><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：203&#xD;发表时间：2026年09月23日">考察预告</a></li>
-<li><span class="date">2026-09-23</span><a href="/Item/23711.aspx" target="_blank" title="标题：美术教研活动通知&#xD;点击数：92&#xD;发表时间：2026年09月23日">美术教研活动通知</a></li>
-<li><span class="date">2026-09-23</span><a href="/Item/23710.aspx" target="_blank" title="标题：创新学部9月26日至9月29日晚自习安排&#xD;点击数：111&#xD;发表时间：2026年09月23日">创新学部9月26日至9月29日晚自习安排</a></li>
-<li><span class="date">2026-09-23</span><a href="/Item/23709.aspx" target="_blank" title="标题：部分体育课改自习通知&#xD;点击数：178&#xD;发表时间：2026年09月23日">部分体育课改自习通知</a></li>
-<li><span class="date">2026-09-22</span><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：339&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a></li>
-<li><span class="date">2026-09-22</span><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：186&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a></li>
+<li><span class="date">2026-09-23</span><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：178&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a></li>
+<li><span class="date">2026-09-23</span><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：205&#xD;发表时间：2026年09月23日">考察预告</a></li>
+<li><span class="date">2026-09-23</span><a href="/Item/23711.aspx" target="_blank" title="标题：美术教研活动通知&#xD;点击数：93&#xD;发表时间：2026年09月23日">美术教研活动通知</a></li>
+<li><span class="date">2026-09-23</span><a href="/Item/23710.aspx" target="_blank" title="标题：创新学部9月26日至9月29日晚自习安排&#xD;点击数：113&#xD;发表时间：2026年09月23日">创新学部9月26日至9月29日晚自习安排</a></li>
+<li><span class="date">2026-09-23</span><a href="/Item/23709.aspx" target="_blank" title="标题：部分体育课改自习通知&#xD;点击数：180&#xD;发表时间：2026年09月23日">部分体育课改自习通知</a></li>
+<li><span class="date">2026-09-22</span><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：341&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a></li>
+<li><span class="date">2026-09-22</span><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：187&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a></li>
 <li><span class="date">2026-09-22</span><a href="/Item/23706.aspx" target="_blank" title="标题：9.22跑操量化考核反馈&#xD;点击数：64&#xD;发表时间：2026年09月22日">9.22跑操量化考核反馈</a></li>
 <li><span class="date">2026-09-22</span><a href="/Item/23705.aspx" target="_blank" title="标题：9.21班级一日考核&#xD;点击数：48&#xD;发表时间：2026年09月22日">9.21班级一日考核</a></li>
 <li><span class="date">2026-09-22</span><a href="/Item/23704.aspx" target="_blank" title="标题：寻物启事（物理笔记）&#xD;点击数：57&#xD;发表时间：2026年09月22日">寻物启事（物理笔记）</a></li>
@@ -372,7 +373,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-21</span><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：125&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23696.aspx" target="_blank" title="标题：社团招新通知&#xD;点击数：125&#xD;发表时间：2026年09月21日">社团招新通知</a></li>
-<li><span class="date">2026-09-21</span><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：262&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a></li>
+<li><span class="date">2026-09-21</span><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：263&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23694.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：66&#xD;发表时间：2026年09月21日">高二、高三大扫除通知</a></li>
 <li><span class="date">2026-09-21</span><a href="/Item/23693.aspx" target="_blank" title="标题：每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示&#xD;点击数：6&#xD;发表时间：2026年09月21日">每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示</a></li>
 <li><span class="date">2026-09-20</span><a href="/Item/23692.aspx" target="_blank" title="标题：寻物启事（校服）&#xD;点击数：37&#xD;发表时间：2026年09月20日">寻物启事（校服）</a></li>
@@ -399,7 +400,6 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-17</span><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：167&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a></li>
 <li><span class="date">2026-09-16</span><a href="/Item/23669.aspx" target="_blank" title="标题：关于仙居中学教师来访听课、交流的通知&#xD;点击数：217&#xD;发表时间：2026年09月16日">关于仙居中学教师来访听课、交流的通知</a></li>
 <li><span class="date">2026-09-16</span><a href="/Item/23668.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：134&#xD;发表时间：2026年09月16日">关于本周开展主题班会活动的通知</a></li>
-<li><span class="date">2026-09-16</span><a href="/Item/23667.aspx" target="_blank" title="标题：9.15班级一日考核&#xD;点击数：63&#xD;发表时间：2026年09月16日">9.15班级一日考核</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
