@@ -353,7 +353,7 @@ function GetUserInfo1(response){
   <li><span class="date">2026-09-24</span><a href="/Item/23716.aspx" target="_blank" title="标题：绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事&#xD;点击数：11&#xD;发表时间：2026年09月24日">绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事</a></li>
 <li><span class="date">2026-09-23</span><a href="/Item/23715.aspx" target="_blank" title="标题：9.22班级一日考核&#xD;点击数：48&#xD;发表时间：2026年09月23日">9.22班级一日考核</a></li>
 <li><span class="date">2026-09-23</span><a href="/Item/23714.aspx" target="_blank" title="标题：9.23跑操量化考核反馈&#xD;点击数：53&#xD;发表时间：2026年09月23日">9.23跑操量化考核反馈</a></li>
-<li><span class="date">2026-09-23</span><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：171&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a></li>
+<li><span class="date">2026-09-23</span><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：172&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a></li>
 <li><span class="date">2026-09-23</span><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：197&#xD;发表时间：2026年09月23日">考察预告</a></li>
 <li><span class="date">2026-09-23</span><a href="/Item/23711.aspx" target="_blank" title="标题：美术教研活动通知&#xD;点击数：92&#xD;发表时间：2026年09月23日">美术教研活动通知</a></li>
 <li><span class="date">2026-09-23</span><a href="/Item/23710.aspx" target="_blank" title="标题：创新学部9月26日至9月29日晚自习安排&#xD;点击数：110&#xD;发表时间：2026年09月23日">创新学部9月26日至9月29日晚自习安排</a></li>
