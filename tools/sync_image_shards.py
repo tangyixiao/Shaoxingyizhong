@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import csv
 import hashlib
+import importlib.util
 import io
 import json
 import re
@@ -42,6 +43,29 @@ ATTACHMENT_VALUE_RE = re.compile(
 )
 CSS_ATTACHMENT_RE = re.compile(r'''url\(\s*["']?([^\)"']+)["']?\s*\)''', re.IGNORECASE)
 THUMBNAIL_SUFFIX_RE = re.compile(r"^(?P<stem>.+)_600_340(?P<suffix>\.[^.]+)$", re.IGNORECASE)
+PILLOW_THUMBNAIL_SCRIPT = """
+import sys
+from PIL import Image, ImageOps
+
+source, target = sys.argv[1:3]
+with Image.open(source) as image:
+    image = ImageOps.exif_transpose(image)
+    thumbnail = ImageOps.fit(
+        image,
+        (600, 340),
+        method=Image.Resampling.LANCZOS,
+        centering=(0.5, 0.5),
+    )
+    if target.lower().endswith((".jpg", ".jpeg")) and thumbnail.mode not in {"RGB", "L"}:
+        if thumbnail.mode in {"RGBA", "LA"} or "transparency" in thumbnail.info:
+            rgba = thumbnail.convert("RGBA")
+            background = Image.new("RGB", rgba.size, "white")
+            background.paste(rgba, mask=rgba.getchannel("A"))
+            thumbnail = background
+        else:
+            thumbnail = thumbnail.convert("RGB")
+    thumbnail.save(target)
+"""
 MAX_EXTERNAL_IMAGE_BYTES = 100 * 1024 * 1024
 EXTERNAL_IMAGE_TIMEOUT_SECONDS = 30
 GIT_COMMAND_TIMEOUT_SECONDS = 180
@@ -127,7 +151,17 @@ def thumbnail_command(source: Path, target: Path) -> list[str]:
             "600x340",
             str(target),
         ]
-    raise RuntimeError("libvips or ImageMagick is required for image transforms")
+    if importlib.util.find_spec("PIL") is not None:
+        return [
+            sys.executable,
+            "-c",
+            PILLOW_THUMBNAIL_SCRIPT,
+            str(source),
+            str(target),
+        ]
+    raise RuntimeError(
+        "libvips, ImageMagick, or Pillow is required for image transforms"
+    )
 
 
 def build_inventory(
@@ -270,8 +304,6 @@ def materialize_missing_thumbnails(
     already archived in a shard, create the same public path locally before
     inventory scanning so the thumbnail is published alongside it.
     """
-    if _image_backend() is None:
-        raise RuntimeError("libvips or ImageMagick is required for missing thumbnails")
     candidates = _page_attachment_candidates(source_root)
 
     created = 0
