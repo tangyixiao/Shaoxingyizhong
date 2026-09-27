@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>美术教研活动通知--教学处-绍兴市第一中学</title>
+    <title>关于运动会期间的注意事项--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -354,9 +354,9 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23718.aspx" target="_blank" title="标题：运动会彩排通知&#xD;点击数：196&#xD;发表时间：2026年09月24日">运动会彩排通知</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23690.aspx" target="_blank" title="标题：运动会补充通知&#xD;点击数：327&#xD;发表时间：2026年09月20日">运动会补充通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：381&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23697.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：125&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23711.aspx" target="_blank" title="标题：美术教研活动通知&#xD;点击数：95&#xD;发表时间：2026年09月23日">美术教研活动通知</a><span class="dateRight">[09-23]</span></li><li class="last"><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li>
+            <li class="first"><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23724.aspx" target="_blank" title="标题：关于运动会期间的注意事项&#xD;点击数：14&#xD;发表时间：2026年09月27日">关于运动会期间的注意事项</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23721.aspx" target="_blank" title="标题：9.24跑操量化考核反馈&#xD;点击数：20&#xD;发表时间：2026年09月24日">9.24跑操量化考核反馈</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23725.aspx" target="_blank" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：8&#xD;发表时间：2026年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：13&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">美术教研活动通知</h2>
+                        <h2 class="title">关于运动会期间的注意事项</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月23日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23711"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月27日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23724"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23711},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23724},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23711";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23724";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,9 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><span style="color: rgb(51, 51, 51); font-family: "Microsoft YaHei", SimSun, Arial, Helvetica, Tahoma, sans-serif; font-size: 18px; background-color: rgb(255, 255, 255);">本周三（9月23日)全体美术老师外出参加90学时培训，相关班级美术课改自修。</span></p>
+     <p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">为保障运动会安全、有序、文明地举行，请全体同学遵守以下要求：</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><strong><span style="font-family: 宋体;font-size: 21px">一、遵守纪律，全员参与</span></strong></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">全体同学须准时参加开、闭幕式。高一、高二学生在班级指定区域观赛，期间不得无故滞留教室，离场须提前向班主任请假；高三参赛运动员请按时至指定地点集合。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">同时，所有运动员须尊重并服从裁判判决，若对成绩有异议，应通过班主任或体育老师按程序反映，严禁任何扰乱赛场秩序的行为。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><strong><span style="font-family: 宋体;font-size: 21px">二、重视安全，规范行为</span></strong></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">观赛期间，非参赛人员严禁进入比赛场地，尤其注意远离投掷区、跑道等危险区域。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">参赛运动员赛前必须充分热身</span><span style=";font-family:宋体;font-size:21px">，</span><span style=";font-family:宋体;font-size:21px">特别是参加长跑等高强度项目的同学，班级需提前安排好陪护人员，以保障赛后身体安全。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><strong><span style="font-family: 宋体;font-size: 21px">三、文明观赛，有序助威</span></strong></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">同学们可通过文明标语、集体呐喊等形式为运动员加油，但须注意严禁起哄、嘲笑等不文明行为。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">观赛过程中，</span><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">不得进行打牌、下棋、球类活动等与运动会无关的行为</span></strong><span style=";font-family:宋体;font-size:21px">，共同维护良好观赛秩序。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><strong><span style="font-family: 宋体;font-size: 21px">四、维护环境，规范管理</span></strong></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">请自觉维护观赛场地整洁，不乱扔垃圾；此外，每日</span><span style="font-family: 宋体;font-size: 21px">上午、下午</span><span style="font-family: 宋体;font-size: 21px">结束后</span><span style="font-family: 宋体;font-size: 21px">各安排一次场地保洁</span><span style="font-family: 宋体;font-size: 21px">，</span><span style=";font-family:宋体;font-size:21px">运动会结束后各班须彻底清扫本班区域。在物品管理方面，</span><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">严禁携带手机</span></strong><span style=";font-family:宋体;font-size:21px">（</span><span style=";font-family:宋体;font-size:21px">校方邀请，已备案的除外</span><span style=";font-family:宋体;font-size:21px">）；</span><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">原则上不允许携带相机</span></strong><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">，</span></strong><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">若有班级拍摄任务，需提前向班主任报备，班主任上报年管会，仅限赛事现场拍摄班级素材。</span></strong><span style=";font-family:宋体;font-size:21px">会后请及时归还班级器材，个人物品全部带离。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">另外，运动会期间各班</span><span style="font-family: 宋体;font-size: 21px">教室卫生须按日常标准打扫，晚自修照常进行</span><span style="font-family: 宋体;font-size: 21px">，</span><span style=";font-family:宋体;font-size:21px">特殊情况</span><span style=";font-family:宋体;font-size:21px">未能参加晚自习</span><span style=";font-family:宋体;font-size:21px">需向班主任请好假。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><strong><span style="font-family: 宋体;font-size: 21px">五、积极宣传，展现风采</span></strong></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">开幕式环节，各班节目须主题健康、展现青春风采，请注意时长严格控制在</span><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">1分钟以内，</span></strong><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">超时音乐自动停止</span></strong><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">，</span></strong><span style=";font-family:宋体;font-size:21px">请务必提前做好排练。</span><strong><span style="font-family: 宋体;color: rgb(255, 0, 0);font-size: 21px">举牌同学服装自备，请班主任把好关</span></strong><span style=";font-family:宋体;font-size:21px">。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px">欢迎同学们积极向广播站投稿，稿件应内容详实、情感真挚，着重宣传赛场上的拼搏精神与团结友爱的感人事迹。</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric"><span style=";font-family:宋体;font-size:21px"> </span></p><p style="text-indent:43px;text-autospace:ideograph-numeric">
+</p><p style="text-indent:43px;text-autospace:ideograph-numeric;text-align:right"><span style=";font-family:宋体;font-size:21px">德育处</span></p><p style="text-indent:43px;text-autospace:ideograph-numeric;text-align:right"><span style=";font-family:宋体;font-size:21px">2026.9</span></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +438,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23709.aspx" target="_self" title="标题：部分体育课改自习通知&#xD;点击数：182&#xD;发表时间：26年09月23日">部分体育课改自习通知</a>[ 09-23 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23718.aspx" target="_self" title="标题：运动会彩排通知&#xD;点击数：196&#xD;发表时间：26年09月24日">运动会彩排通知</a>[ 09-24 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23721.aspx" target="_self" title="标题：9.24跑操量化考核反馈&#xD;点击数：20&#xD;发表时间：26年09月24日">9.24跑操量化考核反馈</a>[ 09-24 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23725.aspx" target="_self" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：8&#xD;发表时间：26年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a>[ 09-27 ]</div>
                         </div>
                     </div>
 
