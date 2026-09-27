@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>9.23跑操量化考核反馈--德育处-绍兴市第一中学</title>
+    <title>9.24班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -405,21 +405,21 @@ function GetUserInfo1(response){
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">9.23跑操量化考核反馈</h2>
+                        <h2 class="title">9.24班级一日考核</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月23日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23714"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月27日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23726"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23714},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23726},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23714";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23726";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609231549579994.png" style="max-width: 100%; " title="202609231549579994.png" /></p>
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609271516536188.png" style="max-width: 100%; " title="202609271516536188.png" /></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23706.aspx" target="_self" title="标题：9.22跑操量化考核反馈&#xD;点击数：64&#xD;发表时间：26年09月22日">9.22跑操量化考核反馈</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23715.aspx" target="_self" title="标题：9.22班级一日考核&#xD;点击数：55&#xD;发表时间：26年09月23日">9.22班级一日考核</a>[ 09-23 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23725.aspx" target="_self" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：167&#xD;发表时间：26年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a>[ 09-27 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
