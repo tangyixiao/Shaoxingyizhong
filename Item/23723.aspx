@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23728.aspx" target="_blank" title="标题：运动会志愿者开会通知&#xD;点击数：97&#xD;发表时间：2026年09月28日">运动会志愿者开会通知</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：120&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：192&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23723.aspx" target="_blank" title="标题：绍兴一中校园电视台面试通知&#xD;点击数：84&#xD;发表时间：2026年09月27日">绍兴一中校园电视台面试通知</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：86&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：108&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23265.aspx" target="_blank" title="标题：2026上半年新发展团员开会通知&#xD;点击数：150&#xD;发表时间：2026年05月25日">2026上半年新发展团员开会通知</a><span class="dateRight">[05-25]</span></li>
+            <li class="first"><a href="/Item/23728.aspx" target="_blank" title="标题：运动会志愿者开会通知&#xD;点击数：98&#xD;发表时间：2026年09月28日">运动会志愿者开会通知</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23689.aspx" target="_blank" title="标题：团学联干部面试通知&#xD;点击数：120&#xD;发表时间：2026年09月20日">团学联干部面试通知</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：192&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23723.aspx" target="_blank" title="标题：绍兴一中校园电视台面试通知&#xD;点击数：84&#xD;发表时间：2026年09月27日">绍兴一中校园电视台面试通知</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：86&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：108&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23265.aspx" target="_blank" title="标题：2026上半年新发展团员开会通知&#xD;点击数：150&#xD;发表时间：2026年05月25日">2026上半年新发展团员开会通知</a><span class="dateRight">[05-25]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23703.aspx" target="_self" title="标题：团学联干事招新面试通知&#xD;点击数：86&#xD;发表时间：26年09月22日">团学联干事招新面试通知</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23728.aspx" target="_self" title="标题：运动会志愿者开会通知&#xD;点击数：97&#xD;发表时间：26年09月28日">运动会志愿者开会通知</a>[ 09-28 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23728.aspx" target="_self" title="标题：运动会志愿者开会通知&#xD;点击数：98&#xD;发表时间：26年09月28日">运动会志愿者开会通知</a>[ 09-28 ]</div>
                         </div>
                     </div>
 
