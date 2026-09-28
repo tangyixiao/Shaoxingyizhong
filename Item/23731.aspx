@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>关于中秋、国庆放假与调休安排的通知--党政办-绍兴市第一中学</title>
+    <title>9.27班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -353,10 +353,10 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
 <li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23730.aspx" target="_blank" title="标题：关于秋季运动会的有关工作提醒&#xD;点击数：112&#xD;发表时间：2026年09月28日">关于秋季运动会的有关工作提醒</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23716.aspx" target="_blank" title="标题：绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事&#xD;点击数：171&#xD;发表时间：2026年09月24日">绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：249&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23717.aspx" target="_blank" title="标题：会议通知&#xD;点击数：206&#xD;发表时间：2026年09月24日">会议通知</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：259&#xD;发表时间：2026年09月23日">考察预告</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/23654.aspx" target="_blank" title="标题：绍兴一中教育集团2026年中层选拔任用公告&#xD;点击数：341&#xD;发表时间：2026年09月15日">绍兴一中教育集团2026年中层选拔任用公告</a><span class="dateRight">[09-15]</span></li>
+            <li class="first"><a href="/Item/23725.aspx" target="_blank" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：297&#xD;发表时间：2026年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23729.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：51&#xD;发表时间：2026年09月28日">高二、高三大扫除通知</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23724.aspx" target="_blank" title="标题：关于运动会期间的注意事项&#xD;点击数：209&#xD;发表时间：2026年09月27日">关于运动会期间的注意事项</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23726.aspx" target="_blank" title="标题：9.24班级一日考核&#xD;点击数：58&#xD;发表时间：2026年09月27日">9.24班级一日考核</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li class="last"><a href="/Item/23650.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：73&#xD;发表时间：2026年09月14日">大扫除通知</a><span class="dateRight">[09-14]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
-                    <h3>党政办</h3>
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">关于中秋、国庆放假与调休安排的通知</h2>
+                        <h2 class="title">9.27班级一日考核</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月23日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23713"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月28日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23731"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23713},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23731},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23713";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23731";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,9 +427,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="text-autospace:ideograph-numeric;text-align:center;line-height:33px">
-</p><p style="text-autospace:ideograph-numeric;line-height:33px"><span style=";font-family:仿宋;font-size:19px">全校师生：</span></p><p style="text-indent:37px;text-autospace:ideograph-numeric;line-height:33px"><span style=";font-family:仿宋;font-size:19px">根据本学期整体教学安排，现就我校</span><span style=";font-family:仿宋;font-size:19px">中秋、国庆</span><span style=";font-family:仿宋;font-size:19px">放假及调休安排通知如下：</span></p><p style="text-indent:37px;text-autospace:ideograph-numeric;line-height:33px"><strong><span style="font-family: 仿宋;font-size: 19px">全校：</span></strong><span style=";font-family:仿宋;font-size:19px">9</span><span style=";font-family:仿宋;font-size:19px">月</span><span style=";font-family:仿宋;font-size:19px">25日（周五）-26日（周六）放假休息，住校生26日傍晚返校。9月27</span><span style=";font-family:仿宋;font-size:19px">日（</span><span style=";font-family:仿宋;font-size:19px">周日</span><span style=";font-family:仿宋;font-size:19px">）</span><span style=";font-family:仿宋;font-size:19px">学生在校学习</span><span style=";font-family:仿宋;font-size:19px">，</span><span style=";font-family:仿宋;font-size:19px">9月29日（周二）-30日（周三）举行全校秋季运动会</span><span style=";font-family:仿宋;font-size:19px">。</span><span style=";font-family:仿宋;font-size:19px">10月10日（周六），上班上课。</span></p><p style="text-indent:37px;text-autospace:ideograph-numeric;line-height:33px"><strong><span style="font-family: 仿宋;font-size: 19px">高</span></strong><strong><span style="font-family: 仿宋;font-size: 19px">一、高</span></strong><strong><span style="font-family: 仿宋;font-size: 19px">二</span></strong><strong><span style="font-family: 仿宋;font-size: 19px">年级</span></strong><span style=";font-family:仿宋;font-size:19px">：</span><span style=";font-family:仿宋;font-size:19px">10月1日</span><span style=";font-family:仿宋;font-size:19px">—</span><span style=";font-family:仿宋;font-size:19px"> <span style="font-family:仿宋">10月6日学生</span></span><span style=";font-family:仿宋;font-size:19px">在家休息，</span><span style=";font-family:仿宋;font-size:19px"><span style="font-family:仿宋">住校生</span><span style="font-family:仿宋">6日傍晚返校，10月7日（周三）学生在校学习。</span></span></p><p style="text-indent:37px;text-autospace:ideograph-numeric;line-height:33px"><strong><span style="font-family: 仿宋;font-size: 19px">高三年级</span></strong><span style=";font-family:仿宋;font-size:19px"><span style="font-family:仿宋">：</span><span style="font-family:仿宋">10月1日— 10月4日学生在家休息，</span></span><span style=";font-family:仿宋;font-size:19px">住校生</span><span style=";font-family:仿宋;font-size:19px">4</span><span style=";font-family:仿宋;font-size:19px">日傍晚返校</span><span style=";font-family:仿宋;font-size:19px">。</span><span style=";font-family:仿宋;font-size:19px">10月5日（周一）起，学生在校学习。</span></p><p style="text-indent:37px;text-autospace:ideograph-numeric;line-height:33px"><span style=";font-family:仿宋;font-size:19px">请各处室、年级根据通知要求统筹安排好调休日课务安排、放假日错时放学以及返校日夜自修管理等相关工作。</span></p><p style="text-indent:37px;text-autospace:ideograph-numeric;line-height:33px"><strong><span style="font-family: 仿宋;font-size: 19px">提醒：</span></strong><span style=";font-family:仿宋;font-size:19px">中秋庆团圆，国庆颂祖国。节日期间，请</span><span style=";font-family:仿宋;font-size:19px">全校师生注意</span><span style=";font-family:仿宋;font-size:19px">安全出行、文明出行</span><span style=";font-family:仿宋;font-size:19px">，</span><span style=";font-family:仿宋;font-size:19px">注意和谐过节、廉洁过节，</span><span style=";font-family:仿宋;font-size:19px">注意劳逸结合</span><span style=";font-family:仿宋;font-size:19px">、身心调节</span><span style=";font-family:仿宋;font-size:19px">，确保节后返校工作学习顺利。</span></p><p style="text-indent:37px;text-autospace:ideograph-numeric;line-height:33px"><span style=";font-family:仿宋;font-size:19px">祝全体师生节日愉快！</span></p><p style="text-indent:411px;text-autospace:ideograph-numeric;line-height:33px"><span style=";font-family:仿宋;font-size:19px">党政办</span></p><p style="text-indent:411px;text-autospace:ideograph-numeric;line-height:33px"><span style=";font-family:仿宋;font-size:19px">9</span><span style=";font-family:仿宋;font-size:19px">月</span><span style=";font-family:仿宋;font-size:19px">23</span><span style=";font-family:仿宋;font-size:19px">日</span></p><p><span style=";font-family:Calibri;font-size:14px"> </span></p><p>
-</p>
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/9/202609281451460718.png" style="max-width: 100%; " title="202609281451460718.png" /></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -438,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23712.aspx" target="_self" title="标题：考察预告&#xD;点击数：259&#xD;发表时间：26年09月23日">考察预告</a>[ 09-23 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23716.aspx" target="_self" title="标题：绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事&#xD;点击数：171&#xD;发表时间：26年09月24日">绍兴市第一中学130周年校庆标识（LOGO）设计方案征集启事</a>[ 09-24 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23729.aspx" target="_self" title="标题：高二、高三大扫除通知&#xD;点击数：51&#xD;发表时间：26年09月28日">高二、高三大扫除通知</a>[ 09-28 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 

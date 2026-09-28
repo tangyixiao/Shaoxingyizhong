@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23726.aspx" target="_self" title="标题：9.24班级一日考核&#xD;点击数：58&#xD;发表时间：26年09月27日">9.24班级一日考核</a>[ 09-27 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23731.aspx" target="_self" title="标题：9.27班级一日考核&#xD;点击数：1&#xD;发表时间：26年09月28日">9.27班级一日考核</a>[ 09-28 ]</div>
                         </div>
                     </div>
 
