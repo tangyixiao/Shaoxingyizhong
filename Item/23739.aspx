@@ -1,11 +1,12 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta content="绍兴市第一中学" name="Keywords" />
-    <meta content="绍兴市第一中学" name="Description" />
-    <title>团委-绍兴市第一中学</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta content="{PE.Field id=" cone" fieldname="Keyword" /}" name="Keywords" />
+    <meta content="{PE.Field id=" cone" fieldname="Intro" /}" name="Description" />
+    <title>Mortis-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -36,7 +37,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 </head>
 
-<body>
+    <!-- header S-->
     <div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
@@ -126,8 +127,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -341,32 +342,27 @@ function GetUserInfo1(response){
 </script>
 
 
+    <!-- header E -->    
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(//images/nopic.gif
+) no-repeat center;"></a>
     </div>
-<div id="content">
-    <div class="siteWidth">
-        <div class="side">
-            <div id="sideMenu">
+    <!-- content S -->
+    <div id="content">
+        <div class="siteWidth">
+            <!-- side S -->
+            <div class="side">
+                <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
+        <h3><a href="/Category_12/Index.aspx">网站相关</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5 on"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
-<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
-<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
-<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
-<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
+			<li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
+<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
+<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
+<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li5 last on"><a href="/Category_110/Index.aspx">反馈意见</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,92 +370,62 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：193&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23728.aspx" target="_blank" title="标题：运动会志愿者开会通知&#xD;点击数：114&#xD;发表时间：2026年09月28日">运动会志愿者开会通知</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23684.aspx" target="_blank" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：86&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23682.aspx" target="_blank" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：193&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23605.aspx" target="_blank" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：108&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23265.aspx" target="_blank" title="标题：2026上半年新发展团员开会通知&#xD;点击数：150&#xD;发表时间：2026年05月25日">2026上半年新发展团员开会通知</a><span class="dateRight">[05-25]</span></li><li class="last"><a href="/Item/23247.aspx" target="_blank" title="标题：周六招生考试志愿者会议&#xD;点击数：207&#xD;发表时间：2026年05月20日">周六招生考试志愿者会议</a><span class="dateRight">[05-20]</span></li>
-          
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
-        </div>
-        <!-- mainContent S -->
-        <div class="mainContent">
-            <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=30>团委</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
-                <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
+            </div>
+            <!-- side E -->
+            <!-- mainContent S -->
+            <div class="mainContent">
+                <div class="mainBox">
+                    <div class="mHd">
+                        <div class="path">当前位置：<a href="http://10.176.17.2">首页</a> > 
     
     
     
-    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_30/Index.aspx" target="_self">团委</a></div>
-                    <h3>团委</h3>
-                </div>
-                <div class="mBd">
-                    <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23728.aspx" target="_self" title="标题：运动会志愿者开会通知&#xD;点击数：114&#xD;发表时间：2026年09月28日">运动会志愿者开会通知</a></li><li><span class="date">2026-09-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23723.aspx" target="_self" title="标题：绍兴一中校园电视台面试通知&#xD;点击数：88&#xD;发表时间：2026年09月27日">绍兴一中校园电视台面试通知</a></li><li><span class="date">2026-09-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23703.aspx" target="_self" title="标题：团学联干事招新面试通知&#xD;点击数：86&#xD;发表时间：2026年09月22日">团学联干事招新面试通知</a></li><li><span class="date">2026-09-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23696.aspx" target="_self" title="标题：社团招新通知&#xD;点击数：131&#xD;发表时间：2026年09月21日">社团招新通知</a></li><li><span class="date">2026-09-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23689.aspx" target="_self" title="标题：团学联干部面试通知&#xD;点击数：121&#xD;发表时间：2026年09月20日">团学联干部面试通知</a></li><li class="split"></li><li><span class="date">2026-09-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23688.aspx" target="_self" title="标题：新社长开会通知&#xD;点击数：119&#xD;发表时间：2026年09月20日">新社长开会通知</a></li><li><span class="date">2026-09-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23684.aspx" target="_self" title="标题：绍兴一中航模兴趣小组招生通知&#xD;点击数：86&#xD;发表时间：2026年09月18日">绍兴一中航模兴趣小组招生通知</a></li><li><span class="date">2026-09-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23682.aspx" target="_self" title="标题：第二十七届团学联主席团选举结果公示&#xD;点击数：193&#xD;发表时间：2026年09月18日">第二十七届团学联主席团选举结果公示</a></li><li><span class="date">2026-09-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23681.aspx" target="_self" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：193&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a></li><li><span class="date">2026-09-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23680.aspx" target="_self" title="标题：CSP志愿者开会通知&#xD;点击数：104&#xD;发表时间：2026年09月18日">CSP志愿者开会通知</a></li><li class="split"></li><li><span class="date">2026-09-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23664.aspx" target="_self" title="标题：关于举行第27次学生代表大会暨第27届团学联主席团选举的通知&#xD;点击数：198&#xD;发表时间：2026年09月16日">关于举行第27次学生代表大会暨第27届团学联主席团选举的通知</a></li><li><span class="date">2026-09-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23662.aspx" target="_self" title="标题：关于学代会筹备会议的通知&#xD;点击数：109&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a></li><li><span class="date">2026-09-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23645.aspx" target="_self" title="标题：关于各班提交2026学生代表名单的通知&#xD;点击数：246&#xD;发表时间：2026年09月14日">关于各班提交2026学生代表名单的通知</a></li><li><span class="date">2026-09-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23644.aspx" target="_self" title="标题：关于2026暑期社会实践交流评比的通知&#xD;点击数：173&#xD;发表时间：2026年09月14日">关于2026暑期社会实践交流评比的通知</a></li><li><span class="date">2026-09-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23617.aspx" target="_self" title="标题：高一社团报名通知&#xD;点击数：141&#xD;发表时间：2026年09月09日">高一社团报名通知</a></li><li class="split"></li><li><span class="date">2026-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23607.aspx" target="_self" title="标题：高一高二团支书开会通知&#xD;点击数：92&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a></li><li><span class="date">2026-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23606.aspx" target="_self" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：143&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a></li><li><span class="date">2026-09-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23605.aspx" target="_self" title="标题：招贤令1：团学联第27届主席团&#xD;点击数：108&#xD;发表时间：2026年09月07日">招贤令1：团学联第27届主席团</a></li><li><span class="date">2026-09-04</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23598.aspx" target="_self" title="标题：高一年级周六讲座通知&#xD;点击数：145&#xD;发表时间：2026年09月04日">高一年级周六讲座通知</a></li><li><span class="date">2026-08-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23556.aspx" target="_self" title="标题：主持人选拔通知&#xD;点击数：73&#xD;发表时间：2026年08月26日">主持人选拔通知</a></li><li class="split"></li><li><span class="date">2026-08-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23496.aspx" target="_self" title="标题：“弘毅传承”2026高考学霸经验分享会&#xD;点击数：95&#xD;发表时间：2026年08月12日">“弘毅传承”2026高考学霸经验分享会</a></li><li><span class="date">2026-06-18</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23399.aspx" target="_self" title="标题：2025学年学生社团考核结果（星级评定）&#xD;点击数：138&#xD;发表时间：2026年06月18日">2025学年学生社团考核结果（星级评定）</a></li><li><span class="date">2026-06-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23386.aspx" target="_self" title="标题：2025学年第二学期团支部工作考核结果公示&#xD;点击数：211&#xD;发表时间：2026年06月16日">2025学年第二学期团支部工作考核结果公示</a></li><li><span class="date">2026-06-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23385.aspx" target="_self" title="标题：绍兴一中2026届高三毕业典礼方案及工作安排&#xD;点击数：174&#xD;发表时间：2026年06月16日">绍兴一中2026届高三毕业典礼方案及工作安排</a></li><li><span class="date">2026-06-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23379.aspx" target="_self" title="标题：关于第18期团校招收学员、发展新团员的通知&#xD;点击数：191&#xD;发表时间：2026年06月15日">关于第18期团校招收学员、发展新团员的通知</a></li><li class="split"></li><li><span class="date">2026-06-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23377.aspx" target="_self" title="标题：学术节｜考古知识竞赛结果&#xD;点击数：109&#xD;发表时间：2026年06月15日">学术节｜考古知识竞赛结果</a></li><li><span class="date">2026-06-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23360.aspx" target="_self" title="标题：社长开会通知&#xD;点击数：72&#xD;发表时间：2026年06月11日">社长开会通知</a></li><li><span class="date">2026-06-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23359.aspx" target="_self" title="标题：辩论赛决赛通知&#xD;点击数：51&#xD;发表时间：2026年06月11日">辩论赛决赛通知</a></li><li><span class="date">2026-06-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23340.aspx" target="_self" title="标题：第五届“相遇次元”漫画大赛的结果公告&#xD;点击数：197&#xD;发表时间：2026年06月03日">第五届“相遇次元”漫画大赛的结果公告</a></li><li><span class="date">2026-06-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23338.aspx" target="_self" title="标题：高考志愿者开会名单更新通知&#xD;点击数：114&#xD;发表时间：2026年06月03日">高考志愿者开会名单更新通知</a></li><li class="split"></li><li><span class="date">2026-06-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23333.aspx" target="_self" title="标题：高考志愿者开会通知&#xD;点击数：140&#xD;发表时间：2026年06月02日">高考志愿者开会通知</a></li><li><span class="date">2026-05-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23314.aspx" target="_self" title="标题：模联活动改期通知&#xD;点击数：77&#xD;发表时间：2026年05月30日">模联活动改期通知</a></li><li><span class="date">2026-05-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23304.aspx" target="_self" title="标题：绍兴一中2026年高考助威活动&#xD;点击数：308&#xD;发表时间：2026年05月28日">绍兴一中2026年高考助威活动</a></li><li><span class="date">2026-05-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23279.aspx" target="_self" title="标题：高考喊楼志愿者彩排通知&#xD;点击数：244&#xD;发表时间：2026年05月26日">高考喊楼志愿者彩排通知</a></li><li class="last"><span class="date">2026-05-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23275.aspx" target="_self" title="标题：社团义卖产品预告&#xD;点击数：361&#xD;发表时间：2026年05月25日">社团义卖产品预告</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> <a href="Index_2.aspx">2</a> <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <a href="Index_10.aspx">10</a> <a href="Index_11.aspx">11</a> 
-<a href="Index_2.aspx">下一页</a>
- <a href="Index_54.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+    <a href="/Category_110/Index.aspx" target="_self">反馈意见</a></div>
+                        <h3><span><a href="/Category_110/Index.aspx">反馈意见</a></span></h3>
+                    </div>
+                    <div class="mBd">
+                        <!-- 正文内容 S -->
+                        <div class="msgDetial">
+
+                            <div class="hd">
+                            	<span>阅读数：
+<script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23739"></script>
+</span>Mortis
+                            </div>
+
+                            <div class="cont">
+                                <div class="titlee">
+                                	<span>用户名：若叶睦 </span>
+                                	<span>发表时间：2026-09-28</span>
+                                </div>
+
+                                <div class="msgContHere"><p><strong><em><span style="text-decoration: underline; border: 1px solid rgb(0, 0, 0);">Mortis顶我号</span></em></strong><br /></p></div>
+
+                                <div class="adminRep"> 
+
+                                	<div class="rcont">
+                                    <span class="rtime"></span>
+
+
+                                </div>
+
+
+                            </div>
+                        </div>
+
+
+                    </div>
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!-- content E -->
+
+<!-- footer S -->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -492,6 +458,8 @@ function GetUserInfo1(response){
 
 
 
+
+<!-- footer E -->
 
 </body>
 
