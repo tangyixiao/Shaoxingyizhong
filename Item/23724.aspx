@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23729.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：65&#xD;发表时间：2026年09月28日">高二、高三大扫除通知</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23725.aspx" target="_blank" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：342&#xD;发表时间：2026年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23732.aspx" target="_blank" title="标题：9月份“美丽寝室”表彰公告&#xD;点击数：61&#xD;发表时间：2026年09月28日">9月份“美丽寝室”表彰公告</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li>
+            <li class="first"><a href="/Item/23729.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：65&#xD;发表时间：2026年09月28日">高二、高三大扫除通知</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23725.aspx" target="_blank" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：345&#xD;发表时间：2026年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23732.aspx" target="_blank" title="标题：9月份“美丽寝室”表彰公告&#xD;点击数：62&#xD;发表时间：2026年09月28日">9月份“美丽寝室”表彰公告</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23724.aspx" target="_blank" title="标题：关于运动会期间的注意事项&#xD;点击数：232&#xD;发表时间：2026年09月27日">关于运动会期间的注意事项</a><span class="dateRight">[09-27]</span></li>
           
                     </ul>
                 </div>
@@ -439,7 +439,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23721.aspx" target="_self" title="标题：9.24跑操量化考核反馈&#xD;点击数：34&#xD;发表时间：26年09月24日">9.24跑操量化考核反馈</a>[ 09-24 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23725.aspx" target="_self" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：342&#xD;发表时间：26年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a>[ 09-27 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23725.aspx" target="_self" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：345&#xD;发表时间：26年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a>[ 09-27 ]</div>
                         </div>
                     </div>
 
