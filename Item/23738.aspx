@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>一中新闻-绍兴市第一中学</title>
+    <title>踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛--学校新闻-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,11 +125,11 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
-<li class="li2 on2" id="liID21">
+<li class="li2" id="liID21">
   <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
@@ -344,8 +343,9 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
-    <div id="content">
-        <div class="siteWidth">
+
+<div id="content">
+    <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
@@ -353,7 +353,7 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_37/Index.aspx">学校新闻</a></li>
+			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
 <li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
@@ -362,144 +362,90 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
             <li class="first"><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：20&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：19&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：16&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：15&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：10&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/23733.aspx" target="_blank" title="标题：山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨&#xD;点击数：12&#xD;发表时间：2026年09月28日">山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班…</a><span class="dateRight">[09-28]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
-<div class="colSreach" style="margin-bottom:20px;">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=21>一中新闻</option><option value=37>&nbsp;&nbsp;学校新闻</option><option value=38>&nbsp;&nbsp;媒体一中</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-<!--文章焦点图 
-            <div id="pageSlide" class="pageSlide">
-            
-            <ul class="slideNav">
-  <li><a class=" a1">1</a></li>
-  <li><a class=" a2">2</a></li>
-  <li><a class=" a3">3</a></li>
-  <li><a class=" a4">4</a></li>
-</ul>
-<ul class="slideCon">
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23738.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609281636169444_600_340.jpg" alt="踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23738.aspx" target="_blank">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></p>
-    <p class="intro">
-暑气渐收，秋意初显。9月22日，绍兴一中田径场响起一阵阵嘹亮的口号声。高一、高二、高三全体学生列队于此。一场跑操比赛，把…<a href="/Item/23738.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23737.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609281631390267_600_340.JPG" alt="数理化齐开花！绍兴一中创新学部学子竞赛捷报频传"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23737.aspx" target="_blank">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></p>
-    <p class="intro">
- 教育的魅力，在于看见未来的样子，并为之搭建通往未来的桥梁。创新班学部聚焦学科竞赛召开教练座谈会，就学生培养、师资建…<a href="/Item/23737.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23736.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609281627161029_600_340.jpg" alt="无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23736.aspx" target="_blank">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动</a></p>
-    <p class="intro">
-苏霍姆林斯基曾言：“要让学校的每一面墙壁都说话。”教育，从来不只在讲台上发生。图书角里静静等待被翻阅的书，窗台上迎着…<a href="/Item/23736.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23735.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609281625539199_600_340.png" alt="“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23735.aspx" target="_blank">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名</a></p>
-    <p class="intro">
-9月23日至24日，由绍兴市教育局、绍兴市体育局主办的2026年绍兴市直中学生阳光体育运动会乒乓球比赛顺利举行。紧凑的一日半赛…<a href="/Item/23735.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-</ul>
-          
-        </div>
-        <script language="javascript">
-            jQuery("#pageSlide")
-                .slide({ mainCell: ".slideCon", titCell: ".slideNav li", effect: "leftLoop", autoPlay: true, interTime: 4000, delayTime: 600 });
-        </script>
- 文章焦点图-->
-<!-- <script>
-    
-$("#pageSlide span:contains('还没有任何项目！')").hide( function()
-    {
-       $("#pageSlide").hide();
-    });    
-
-</script> -->
-
-
             <div class="mainBox">
+                <div class="mHd">
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
+    
+    
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+                    <h3>学校新闻</h3>
+                </div>
+                <div class="mBd">
+                    <!-- 正文内容 S -->
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月28日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23738"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23738},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23738";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style=";text-align:center;line-height:25px">
+</p><p style="margin-left:0;text-indent:31px;line-height:25px"><span style=";font-family:宋体;font-size:14px">暑气渐收，秋意初</span><span style=";font-family:宋体;font-size:14px">显</span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">。</span><span style="font-family:宋体">9月22日，绍兴一中田径场</span></span><span style=";font-family:宋体;font-size:14px">响起</span><span style=";font-family:宋体;font-size:14px">一阵阵嘹亮的口号声。高一、高二、高三全体学生列队于此</span><span style=";font-family:宋体;font-size:14px">。</span><span style=";font-family:宋体;font-size:14px">一场跑操比赛，把操场变成全校共同的舞台</span><span style=";font-family:宋体;font-size:14px">，</span><span style=";font-family:宋体;font-size:14px">这既</span><span style=";font-family:宋体;font-size:14px">是体能与纪律的较量，更是一堂深刻的团队协作实践课。</span></p><p style="margin-left:0;text-indent:31px;line-height:25px">
+</p><p style="margin-left:0;text-indent:31px;line-height:25px"><span style=";font-family:宋体;font-size:14px">各班依次入场集结，随着</span><span style=";font-family:宋体;font-size:14px">蒋明</span><span style=";font-family:宋体;font-size:14px">校长发出开赛指令，比赛正式拉开帷幕。</span></p><p style="margin-left:0;text-indent:31px;line-height:25px">
+</p><p style="margin-left:0;text-indent:31px;line-height:25px"><span style=";font-family:宋体;font-size:14px">旋律一响，方阵启动。</span><span style=";font-family:宋体;font-size:14px">口号的声音</span><span style=";font-family:宋体;font-size:14px">整齐划一，</span><span style=";font-family:宋体;font-size:14px">踏地</span><span style=";font-family:宋体;font-size:14px">的</span><span style=";font-family:宋体;font-size:14px">步伐</span><span style=";font-family:宋体;font-size:14px">叠加成鼓点。高一</span><span style=";font-family:宋体;font-size:14px">方阵</span><span style=";font-family:宋体;font-size:14px">步子轻快</span><span style=";font-family:宋体;font-size:14px">，</span><span style=";font-family:宋体;font-size:14px">高二</span><span style=";font-family:宋体;font-size:14px">队伍</span><span style=";font-family:宋体;font-size:14px">行进沉稳</span><span style=";font-family:宋体;font-size:14px">，</span><span style=";font-family:宋体;font-size:14px">高三</span><span style=";font-family:宋体;font-size:14px">学子斗志昂扬</span><span style=";font-family:宋体;font-size:14px">——每一个转身与迈步都折射出绍兴一中</span><span style=";font-family:宋体;font-size:14px">学子</span><span style=";font-family:宋体;font-size:14px">的意气风发。绿茵与跑道之间，跃动的身影和迎风散开的呐喊，</span><span style=";font-family:宋体;font-size:14px">绘就了一幅生机盎然的校园</span><span style=";font-family:宋体;font-size:14px">图景</span><span style=";font-family:宋体;font-size:14px">。</span></p><p style="margin-left:0;text-indent:31px;line-height:25px">
+</p><p style="margin-left: 0;text-indent: 31px;line-height: 25px"><span style=";font-family:宋体;font-size:14px">精彩从不是临场得来的。各班的课余时间被一次次演练填满：排面如何对齐，间距如何保持，口号的起落怎样踩在同一个点上，都被反复打磨。</span><span style=";font-family:宋体;font-size:14px">班主任的跟班督导，体育教师的</span><span style=";font-family:宋体;font-size:14px">动作</span><span style=";font-family:宋体;font-size:14px">纠正，以及同</span><span style=";font-family:宋体;font-size:14px">学</span><span style=";font-family:宋体;font-size:14px">间的默契配合，</span><span style=";font-family:宋体;font-size:14px">构成了比赛最踏实的底色。</span></p><p style="margin-left: 0;text-indent: 31px;line-height: 25px">
+</p><p style="margin-left: 0;text-indent: 31px;line-height: 25px"><span style=";font-family:宋体;font-size:14px">随着最后一段旋律落下，展演环节圆满结束。</span><span style=";font-family:宋体;font-size:14px">杨佩琼副校长</span><span style=";font-family:宋体;font-size:14px">登台作总结讲话，对各班展现出的严明纪律与蓬勃朝气给予充分肯定，并当场宣布比赛成绩。在热烈的掌声中，获奖班级代表依次登台，接过荣誉奖状，定格下属于集体的荣耀时刻。</span></p><p style="margin-left: 0;text-indent: 31px;line-height: 25px">
+</p><p style="margin-left: 0;text-indent: 31px;line-height: 25px"><span style=";font-family:宋体;font-size:14px">日影西斜，赛事收束，奔跑却不会停下。整齐的步点让每个人听懂了集体的节拍，他们已在历练中收获了</span><span style=";font-family:宋体;font-size:14px">比</span><span style=";font-family:宋体;font-size:14px">荣誉</span><span style=";font-family:宋体;font-size:14px">更珍贵</span><span style=";font-family:宋体;font-size:14px">的</span><span style=";font-family:宋体;font-size:14px">成长</span><span style=";font-family:宋体;font-size:14px">。青春的赛道没有终点，这群追风少年正以昂扬的姿态，迈向未来的新征程！</span></p><p style="margin-left: 0;text-indent: 31px;line-height: 25px"><span style=";font-family:宋体;font-size:14px">拍摄：黄一睿、王浩辰</span></p><p style="margin-left: 0;text-indent: 31px;line-height: 25px"><span style=";font-family:宋体;font-size:14px">剪辑：黄一睿、邹吉成</span></p><p style="margin-left: 0;text-indent: 31px;line-height: 25px"><span style=";font-family:宋体;font-size:14px"></span></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636169444.jpg" style="max-width: 100%; " title="202609281636169444.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636354420.JPG" style="max-width: 100%; " title="202609281636354420.JPG" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636166353.jpg" style="max-width: 100%; " title="202609281636166353.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636180364.jpg" style="max-width: 100%; " title="202609281636180364.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636170631.jpg" style="max-width: 100%; " title="202609281636170631.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636183189.jpg" style="max-width: 100%; " title="202609281636183189.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636195819.jpg" style="max-width: 100%; " title="202609281636195819.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636206656.jpg" style="max-width: 100%; " title="202609281636206656.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636198538.jpg" style="max-width: 100%; " title="202609281636198538.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636211191.jpg" style="max-width: 100%; " title="202609281636211191.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636247219.jpg" style="max-width: 100%; " title="202609281636247219.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636222333.jpg" style="max-width: 100%; " title="202609281636222333.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636249939.jpg" style="max-width: 100%; " title="202609281636249939.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636264558.jpg" style="max-width: 100%; " title="202609281636264558.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636321609.jpg" style="max-width: 100%; " title="202609281636321609.jpg" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636284621.JPG" style="max-width: 100%; " title="202609281636284621.JPG" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636292450.JPG" style="max-width: 100%; " title="202609281636292450.JPG" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609281636300763.JPG" style="max-width: 100%; " title="202609281636300763.JPG" /></p><p style="margin-left: 0;text-indent: 31px;line-height: 25px"><span style=";font-family:宋体;font-size:14px"> </span>
+</p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
 
-                <div class="pageBoxLoop">  
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_37/Index.aspx">更多</a>
-                            <h3><b>学校新闻</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：20&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：19&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：16&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：15&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒…</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：10&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a></li><li class="last"><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23733.aspx" target="_blank" title="标题：山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨&#xD;点击数：12&#xD;发表时间：2026年09月28日">山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班…</a></li>
-          
-                            </ul>
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23737.aspx" target="_self" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：19&#xD;发表时间：26年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a>[ 09-28 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
-                    
-                    <div class="pageBox">
-                        <div class="hd">
-                            <a class="more" href="/Category_38/Index.aspx">更多</a>
-                            <h3><b>媒体一中</b></h3>
-                        </div>
-                        <div class="bd" style="height:190px">
-                            <ul class="infoList a14">
-                                
-            <li class="first"><span class="date">04-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17674.aspx" target="_blank" title="标题：全国五四红旗团委！绍兴一中团委入选拟表彰对象公示名单&#xD;点击数：284&#xD;发表时间：2023年04月13日">全国五四红旗团委！绍兴一中团委入选拟表彰对象公示名单</a></li><li><span class="date">09-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13956.aspx" target="_blank" title="标题：群众教育观与教育群众观浅析&#xD;点击数：178&#xD;发表时间：2021年09月19日">群众教育观与教育群众观浅析</a></li><li><span class="date">09-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13862.aspx" target="_blank" title="标题：仰望星空的少年！祝贺绍兴一中朱毅轩同学入选2021年度国际天文奥赛国家队！&#xD;点击数：293&#xD;发表时间：2021年09月06日">仰望星空的少年！祝贺绍兴一中朱毅轩同学入选2021年度国…</a></li><li><span class="date">04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13296.aspx" target="_blank" title="标题：“四月嵊中情 名师送课行” ——记徐雪梅高中政治名师工作室送课研讨活动&#xD;点击数：439&#xD;发表时间：2021年04月29日">“四月嵊中情 名师送课行” ——记徐雪梅高中政治名师工…</a></li><li><span class="date">04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/13293.aspx" target="_blank" title="标题：薪火百年 青春向党|我市举行庆祝中国共产党成立100周年主题团日活动&#xD;点击数：244&#xD;发表时间：2021年04月29日">薪火百年 青春向党|我市举行庆祝中国共产党成立100周年主…</a></li><li class="last"><span class="date">12-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12315.aspx" target="_blank" title="标题：动手做各类酷炫实验“化学迷”大呼过瘾&#xD;点击数：626&#xD;发表时间：2020年12月03日"><font style=";">动手做各类酷炫实验“化学迷”大呼过瘾</font></a></li>
-          
-                            </ul>
-                        </div>
-                    </div>
-                     
-                    </div>
-            </div>
+
+                    <!-- 正文内容 E -->
+                </div>
             </div>
         </div>
         <!-- mainContent E -->
     </div>
-    <!--main-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -531,6 +477,23 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
