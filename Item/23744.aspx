@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>寻物启事两则（饭卡/号码簿）--德育处-绍兴市第一中学</title>
+    <title>寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事两则（饭卡/号码簿）&#xD;点击数：28&#xD;发表时间：2026年09月30日">寻物启事两则（饭卡/号码簿）</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23725.aspx" target="_blank" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：386&#xD;发表时间：2026年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
+            <li class="first"><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li class="last"><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li>
           
                     </ul>
                 </div>
@@ -405,7 +405,7 @@ function GetUserInfo1(response){
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">寻物启事两则（饭卡/号码簿）</h2>
+                        <h2 class="title">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
@@ -427,11 +427,12 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="white-space: normal;"><span style="font-size: 18px;">       9月29日下午，高一（8）班张宇豪同学在田径场右侧看台至教学楼路段，不慎遗失一张绿色封面的饭卡，饭卡上有照片，且外有蓝色透明卡套及带子。请拾到饭卡的同学及时送还至<span style="font-size: 18px;">高一（8）班</span>，谢谢！</span></p><p style="white-space: normal;"><span style="font-size: 18px;">       9月29日下午，高二（9）班蒋霖辉同学在教学楼，不慎遗失一张编号为897的号码簿。请拾到号码簿的同学及时送还至高二（9）班，谢谢！</span></p><p style="white-space: normal;">
+     <p style="white-space: normal;"><span style="font-size: 18px;">       9月29日下午，高一（8）班张宇豪同学在田径场右侧看台至教学楼路段，不慎遗失一张绿色封面的饭卡，饭卡上有照片，且外有蓝色透明卡套及带子。请拾到饭卡的同学及时送还至<span style="font-size: 18px;">高一（8）班</span>，谢谢！</span></p><p style="white-space: normal;"><span style="font-size: 18px;">       9月29日下午，高二（9）班蒋霖辉同学在教学楼，不慎遗失一张编号为897的号码簿。请拾到号码簿的同学及时送还至高二（9）班，谢谢！
+       <span style="font-size: 18px;">9月30日下午，龙山高三（3）班张同学在教学楼，不慎遗失一个黑配红的筋膜枪。请拾到的同学及时送还至德育处，谢谢！</span></span></p><p style="white-space: normal;"><span style="font-size: 18px;"><span style="font-size: 18px;">       <span style="font-size: 18px;">9月30日下午，高一（19）班屠天悦同学在操场主席台旁，不慎遗失一件秋季校服，校服学号：11614341。请拾到校服的同学及时送还至高一（19）班，谢谢！</span></span></span></p><p style="white-space: normal;">
 </p><p style="white-space: normal;">
 </p><p style="white-space: normal;">
 </p><p style="white-space: normal;">
-</p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                                  </span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                                德育处</span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                     2026年9月30日</span></p><p>
+</p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                                  </span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                            德育处</span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                  2026年9月30日</span></p><p>
 </p><p>
 </p>
     
@@ -442,7 +443,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23732.aspx" target="_self" title="标题：9月份“美丽寝室”表彰公告&#xD;点击数：89&#xD;发表时间：26年09月28日">9月份“美丽寝室”表彰公告</a>[ 09-28 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23732.aspx" target="_self" title="标题：9月份“美丽寝室”表彰公告&#xD;点击数：91&#xD;发表时间：26年09月28日">9月份“美丽寝室”表彰公告</a>[ 09-28 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
