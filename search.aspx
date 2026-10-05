@@ -350,16 +350,16 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-09-30</span><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：57&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a></li>
+  <li><span class="date">2026-09-30</span><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：59&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：18&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23746.aspx" target="_blank" title="标题：高一晚自修（10.6-10.9）&#xD;点击数：16&#xD;发表时间：2026年09月30日">高一晚自修（10.6-10.9）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23745.aspx" target="_blank" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：57&#xD;发表时间：2026年09月30日">高三晚自修（10.4-10.11）</a></li>
-<li><span class="date">2026-09-30</span><a href="/Item/23743.aspx" target="_blank" title="标题：创新班学部10月4日至10月16日晚自习安排&#xD;点击数：68&#xD;发表时间：2026年09月30日">创新班学部10月4日至10月16日晚自习安排</a></li>
+<li><span class="date">2026-09-30</span><a href="/Item/23743.aspx" target="_blank" title="标题：创新班学部10月4日至10月16日晚自习安排&#xD;点击数：70&#xD;发表时间：2026年09月30日">创新班学部10月4日至10月16日晚自习安排</a></li>
 <li><span class="date">2026-09-29</span><a href="/Item/23742.aspx" target="_blank" title="标题：高三10月8-10日强基联盟测试时间安排&#xD;点击数：173&#xD;发表时间：2026年09月29日">高三10月8-10日强基联盟测试时间安排</a></li>
-<li><span class="date">2026-09-29</span><a href="/Item/23741.aspx" target="_blank" title="标题：每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示&#xD;点击数：2&#xD;发表时间：2026年09月29日">每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示</a></li>
+<li><span class="date">2026-09-29</span><a href="/Item/23741.aspx" target="_blank" title="标题：每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示&#xD;点击数：3&#xD;发表时间：2026年09月29日">每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示</a></li>
 <li><span class="date">2026-09-29</span><a href="/Item/23740.aspx" target="_blank" title="标题：两则社团课通知&#xD;点击数：104&#xD;发表时间：2026年09月29日">两则社团课通知</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23739.aspx" target="_blank" title="标题：Mortis&#xD;点击数：2&#xD;发表时间：2026年09月28日">Mortis</a></li>
-<li><span class="date">2026-09-28</span><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：48&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li>
+<li><span class="date">2026-09-28</span><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：49&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：40&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：24&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：23&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名</a></li>
