@@ -354,20 +354,20 @@ function GetUserInfo1(response){
 <li><span class="date">2026-10-07</span><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：5&#xD;发表时间：2026年10月07日">9.29班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：5&#xD;发表时间：2026年10月07日">9.28班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：26&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：158&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：160&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：161&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：91&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：48&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23746.aspx" target="_blank" title="标题：高一晚自修（10.6-10.9）&#xD;点击数：46&#xD;发表时间：2026年09月30日">高一晚自修（10.6-10.9）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23745.aspx" target="_blank" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：83&#xD;发表时间：2026年09月30日">高三晚自修（10.4-10.11）</a></li>
-<li><span class="date">2026-09-30</span><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：217&#xD;发表时间：2026年09月30日">任前公示通告</a></li>
+<li><span class="date">2026-09-30</span><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：218&#xD;发表时间：2026年09月30日">任前公示通告</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23743.aspx" target="_blank" title="标题：创新班学部10月4日至10月16日晚自习安排&#xD;点击数：107&#xD;发表时间：2026年09月30日">创新班学部10月4日至10月16日晚自习安排</a></li>
 <li><span class="date">2026-09-29</span><a href="/Item/23742.aspx" target="_blank" title="标题：高三10月8-10日强基联盟测试时间安排&#xD;点击数：233&#xD;发表时间：2026年09月29日">高三10月8-10日强基联盟测试时间安排</a></li>
 <li><span class="date">2026-09-29</span><a href="/Item/23741.aspx" target="_blank" title="标题：每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示&#xD;点击数：4&#xD;发表时间：2026年09月29日">每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示</a></li>
 <li><span class="date">2026-09-29</span><a href="/Item/23740.aspx" target="_blank" title="标题：两则社团课通知&#xD;点击数：109&#xD;发表时间：2026年09月29日">两则社团课通知</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23739.aspx" target="_blank" title="标题：Mortis&#xD;点击数：2&#xD;发表时间：2026年09月28日">Mortis</a></li>
-<li><span class="date">2026-09-28</span><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：63&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li>
+<li><span class="date">2026-09-28</span><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：64&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：52&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：33&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：29&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名</a></li>
