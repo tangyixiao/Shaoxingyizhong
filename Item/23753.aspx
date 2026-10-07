@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23744.aspx" target="_self" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：91&#xD;发表时间：26年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a>[ 09-30 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23754.aspx" target="_self" title="标题：9.29班级一日考核&#xD;点击数：4&#xD;发表时间：26年10月07日">9.29班级一日考核</a>[ 10-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23754.aspx" target="_self" title="标题：9.29班级一日考核&#xD;点击数：5&#xD;发表时间：26年10月07日">9.29班级一日考核</a>[ 10-07 ]</div>
                         </div>
                     </div>
 
