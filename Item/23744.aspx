@@ -444,7 +444,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23732.aspx" target="_self" title="标题：9月份“美丽寝室”表彰公告&#xD;点击数：100&#xD;发表时间：26年09月28日">9月份“美丽寝室”表彰公告</a>[ 09-28 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23753.aspx" target="_self" title="标题：9.28班级一日考核&#xD;点击数：4&#xD;发表时间：26年10月07日">9.28班级一日考核</a>[ 10-07 ]</div>
                         </div>
                     </div>
 
