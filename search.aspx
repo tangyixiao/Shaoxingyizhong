@@ -351,10 +351,9 @@ function GetUserInfo1(response){
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
   <li><span class="date">2026-10-07</span><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：6&#xD;发表时间：2026年10月07日">9.30班级一日考核</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：6&#xD;发表时间：2026年10月07日">9.29班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：6&#xD;发表时间：2026年10月07日">9.28班级一日考核</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：27&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：160&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：30&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：161&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：161&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：91&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a></li>
@@ -400,6 +399,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-22</span><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：556&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a></li>
 <li><span class="date">2026-09-22</span><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：203&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a></li>
 <li><span class="date">2026-09-22</span><a href="/Item/23706.aspx" target="_blank" title="标题：9.22跑操量化考核反馈&#xD;点击数：64&#xD;发表时间：2026年09月22日">9.22跑操量化考核反馈</a></li>
+<li><span class="date">2026-09-22</span><a href="/Item/23705.aspx" target="_blank" title="标题：9.21班级一日考核&#xD;点击数：49&#xD;发表时间：2026年09月22日">9.21班级一日考核</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
