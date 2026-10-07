@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：218&#xD;发表时间：2026年09月30日">任前公示通告</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：161&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23730.aspx" target="_blank" title="标题：关于秋季运动会的有关工作提醒&#xD;点击数：276&#xD;发表时间：2026年09月28日">关于秋季运动会的有关工作提醒</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：279&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：266&#xD;发表时间：2026年09月23日">考察预告</a><span class="dateRight">[09-23]</span></li><li class="last"><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：195&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li>
+            <li class="first"><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：219&#xD;发表时间：2026年09月30日">任前公示通告</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：164&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23730.aspx" target="_blank" title="标题：关于秋季运动会的有关工作提醒&#xD;点击数：276&#xD;发表时间：2026年09月28日">关于秋季运动会的有关工作提醒</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：279&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23712.aspx" target="_blank" title="标题：考察预告&#xD;点击数：266&#xD;发表时间：2026年09月23日">考察预告</a><span class="dateRight">[09-23]</span></li><li class="last"><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：195&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23750.aspx" target="_self" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：161&#xD;发表时间：26年10月07日">教工趣味地滚球接力比赛成绩公告</a>[ 10-07 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23750.aspx" target="_self" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：164&#xD;发表时间：26年10月07日">教工趣味地滚球接力比赛成绩公告</a>[ 10-07 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
