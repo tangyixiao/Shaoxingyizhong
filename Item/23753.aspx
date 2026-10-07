@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：91&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：12&#xD;发表时间：2026年10月07日">9.30班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：9&#xD;发表时间：2026年10月07日">9.29班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：9&#xD;发表时间：2026年10月07日">9.28班级一日考核</a><span class="dateRight">[10-07]</span></li><li class="last"><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li>
+            <li class="first"><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：16&#xD;发表时间：2026年10月07日">9.30班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：13&#xD;发表时间：2026年10月07日">9.29班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：13&#xD;发表时间：2026年10月07日">9.28班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：91&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li class="last"><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23744.aspx" target="_self" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：91&#xD;发表时间：26年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a>[ 09-30 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23754.aspx" target="_self" title="标题：9.29班级一日考核&#xD;点击数：9&#xD;发表时间：26年10月07日">9.29班级一日考核</a>[ 10-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23754.aspx" target="_self" title="标题：9.29班级一日考核&#xD;点击数：13&#xD;发表时间：26年10月07日">9.29班级一日考核</a>[ 10-07 ]</div>
                         </div>
                     </div>
 

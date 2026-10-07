@@ -433,7 +433,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23737.aspx" target="_self" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：52&#xD;发表时间：26年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a>[ 09-28 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23756.aspx" target="_self" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：0&#xD;发表时间：26年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕</a>[ 10-07 ]</div>
                         </div>
                     </div>
 

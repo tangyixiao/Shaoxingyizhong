@@ -424,6 +424,11 @@ function GetUserInfo1(response){
 </ul>
 <ul class="slideCon">
   <li>
+    <div class="pe_u_thumb"><a href="/Item/23756.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/10/202610071557311122_600_340.jpg" alt="金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕"></a></div>
+    <p class="pe_u_thumb_title"><a href="/Item/23756.aspx" target="_blank">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕</a></p>
+    <p class="intro">
+金秋九月，清风送爽，彩旗飞扬。我校2026年运动会在全校师生的共同努力下，于9月30日顺利完赛。运动健儿奋力驰骋、挥洒汗水；…<a href="/Item/23756.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
+  <li>
     <div class="pe_u_thumb"><a href="/Item/23738.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609281636169444_600_340.jpg" alt="踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛"></a></div>
     <p class="pe_u_thumb_title"><a href="/Item/23738.aspx" target="_blank">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></p>
     <p class="intro">
@@ -438,11 +443,6 @@ function GetUserInfo1(response){
     <p class="pe_u_thumb_title"><a href="/Item/23736.aspx" target="_blank">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动</a></p>
     <p class="intro">
 苏霍姆林斯基曾言：“要让学校的每一面墙壁都说话。”教育，从来不只在讲台上发生。图书角里静静等待被翻阅的书，窗台上迎着…<a href="/Item/23736.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23735.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/9/202609281625539199_600_340.png" alt="“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23735.aspx" target="_blank">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名</a></p>
-    <p class="intro">
-9月23日至24日，由绍兴市教育局、绍兴市体育局主办的2026年绍兴市直中学生阳光体育运动会乒乓球比赛顺利举行。紧凑的一日半赛…<a href="/Item/23735.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
 </ul>
           
         </div>
@@ -472,7 +472,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：64&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：52&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：33&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：29&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒…</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：24&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a></li><li class="last"><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23733.aspx" target="_blank" title="标题：山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨&#xD;点击数：23&#xD;发表时间：2026年09月28日">山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班…</a></li>
+            <li class="first"><span class="date">10-07</span><img src="/images/common1.gif" alt="普通"><a href="/Item/23756.aspx" target="_blank" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：0&#xD;发表时间：2026年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会…</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：64&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：52&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：33&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a></li><li><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：29&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒…</a></li><li class="last"><span class="date">09-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：24&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a></li>
           
                             </ul>
                         </div>
