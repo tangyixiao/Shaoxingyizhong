@@ -350,8 +350,8 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：15&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
-<li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：99&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
+  <li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：26&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
+<li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：103&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：33&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：83&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：40&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a></li>
@@ -370,7 +370,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-28</span><a href="/Item/23733.aspx" target="_blank" title="标题：山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨&#xD;点击数：21&#xD;发表时间：2026年09月28日">山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23732.aspx" target="_blank" title="标题：9月份“美丽寝室”表彰公告&#xD;点击数：96&#xD;发表时间：2026年09月28日">9月份“美丽寝室”表彰公告</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23731.aspx" target="_blank" title="标题：9.27班级一日考核&#xD;点击数：58&#xD;发表时间：2026年09月28日">9.27班级一日考核</a></li>
-<li><span class="date">2026-09-28</span><a href="/Item/23730.aspx" target="_blank" title="标题：关于秋季运动会的有关工作提醒&#xD;点击数：273&#xD;发表时间：2026年09月28日">关于秋季运动会的有关工作提醒</a></li>
+<li><span class="date">2026-09-28</span><a href="/Item/23730.aspx" target="_blank" title="标题：关于秋季运动会的有关工作提醒&#xD;点击数：274&#xD;发表时间：2026年09月28日">关于秋季运动会的有关工作提醒</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23729.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：71&#xD;发表时间：2026年09月28日">高二、高三大扫除通知</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23728.aspx" target="_blank" title="标题：运动会志愿者开会通知&#xD;点击数：118&#xD;发表时间：2026年09月28日">运动会志愿者开会通知</a></li>
 <li><span class="date">2026-09-27</span><a href="/Item/23727.aspx" target="_blank" title="标题：物理教研活动通知&#xD;点击数：101&#xD;发表时间：2026年09月27日">物理教研活动通知</a></li>
