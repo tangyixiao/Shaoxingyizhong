@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教学处-绍兴市第一中学</title>
+    <title>热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖--学校新闻-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -344,29 +343,18 @@ function GetUserInfo1(response){
     <div class="banner">        
         <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
+        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
-<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
-<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
-<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
-<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
-<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
-<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
-<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
-<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
-<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
-<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
-<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
+			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,92 +362,84 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23742.aspx" target="_blank" title="标题：高三10月8-10日强基联盟测试时间安排&#xD;点击数：240&#xD;发表时间：2026年09月29日">高三10月8-10日强基联盟测试时间安排</a><span class="dateRight">[09-29]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9558&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：557&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a><span class="dateRight">[09-22]</span></li><li><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：183&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：64&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a><span class="dateRight">[10-06]</span></li><li class="last"><a href="/Item/23633.aspx" target="_blank" title="标题：网上报名操作说明&#xD;点击数：356&#xD;发表时间：2026年09月11日">网上报名操作说明</a><span class="dateRight">[09-11]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23758.aspx" target="_blank" title="标题：热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖&#xD;点击数：7&#xD;发表时间：2026年10月07日">热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：67&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：33&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：30&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：24&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23733.aspx" target="_blank" title="标题：山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨&#xD;点击数：24&#xD;发表时间：2026年09月28日">山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班…</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=26>教学处</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
-                    <h3>教学处</h3>
+    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+                    <h3>学校新闻</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-10-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23749.aspx" target="_self" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：183&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li><li><span class="date">2026-10-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23748.aspx" target="_self" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：64&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li><li><span class="date">2026-09-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23742.aspx" target="_self" title="标题：高三10月8-10日强基联盟测试时间安排&#xD;点击数：240&#xD;发表时间：2026年09月29日">高三10月8-10日强基联盟测试时间安排</a></li><li><span class="date">2026-09-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23727.aspx" target="_self" title="标题：物理教研活动通知&#xD;点击数：101&#xD;发表时间：2026年09月27日">物理教研活动通知</a></li><li><span class="date">2026-09-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23718.aspx" target="_self" title="标题：运动会彩排通知&#xD;点击数：286&#xD;发表时间：2026年09月24日">运动会彩排通知</a></li><li class="split"></li><li><span class="date">2026-09-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23711.aspx" target="_self" title="标题：美术教研活动通知&#xD;点击数：98&#xD;发表时间：2026年09月23日">美术教研活动通知</a></li><li><span class="date">2026-09-23</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23709.aspx" target="_self" title="标题：部分体育课改自习通知&#xD;点击数：186&#xD;发表时间：2026年09月23日">部分体育课改自习通知</a></li><li><span class="date">2026-09-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23708.aspx" target="_self" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：557&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a></li><li><span class="date">2026-09-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23701.aspx" target="_self" title="标题：2026年绍兴市直中学生乒乓球比赛通知&#xD;点击数：126&#xD;发表时间：2026年09月22日">2026年绍兴市直中学生乒乓球比赛通知</a></li><li><span class="date">2026-09-21</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23697.aspx" target="_self" title="标题：信息技术教研活动通知&#xD;点击数：126&#xD;发表时间：2026年09月21日">信息技术教研活动通知</a></li><li class="split"></li><li><span class="date">2026-09-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23690.aspx" target="_self" title="标题：运动会补充通知&#xD;点击数：331&#xD;发表时间：2026年09月20日">运动会补充通知</a></li><li><span class="date">2026-09-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23675.aspx" target="_self" title="标题：2026Csp考场布置及相关要求&#xD;点击数：157&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a></li><li><span class="date">2026-09-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23660.aspx" target="_self" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：233&#xD;发表时间：2026年09月15日">9月19日（本周六）csp监考安排</a></li><li><span class="date">2026-09-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23655.aspx" target="_self" title="标题：地理教研活动通知&#xD;点击数：128&#xD;发表时间：2026年09月15日">地理教研活动通知</a></li><li><span class="date">2026-09-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23643.aspx" target="_self" title="标题：体育教研活动通知&#xD;点击数：150&#xD;发表时间：2026年09月14日">体育教研活动通知</a></li><li class="split"></li><li><span class="date">2026-09-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23632.aspx" target="_self" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：619&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a></li><li><span class="date">2026-09-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23633.aspx" target="_self" title="标题：网上报名操作说明&#xD;点击数：356&#xD;发表时间：2026年09月11日">网上报名操作说明</a></li><li><span class="date">2026-09-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23614.aspx" target="_self" title="标题：越民奖学金获奖公示&#xD;点击数：224&#xD;发表时间：2026年09月08日">越民奖学金获奖公示</a></li><li><span class="date">2026-09-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23611.aspx" target="_self" title="标题：高一高二美术生上课通知&#xD;点击数：114&#xD;发表时间：2026年09月08日">高一高二美术生上课通知</a></li><li><span class="date">2026-09-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23593.aspx" target="_self" title="标题：校乒乓球队会议通知&#xD;点击数：69&#xD;发表时间：2026年09月03日">校乒乓球队会议通知</a></li><li class="split"></li><li><span class="date">2026-09-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23586.aspx" target="_self" title="标题：2025学年奖学金获得者名单&#xD;点击数：132&#xD;发表时间：2026年09月02日">2025学年奖学金获得者名单</a></li><li><span class="date">2026-08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23570.aspx" target="_self" title="标题：协作体校领导巡考安排&#xD;点击数：114&#xD;发表时间：2026年08月31日">协作体校领导巡考安排</a></li><li><span class="date">2026-08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23563.aspx" target="_self" title="标题：高二09.01协作体监考安排和学生考场安排&#xD;点击数：335&#xD;发表时间：2026年08月31日">高二09.01协作体监考安排和学生考场安排</a></li><li><span class="date">2026-08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23565.aspx" target="_self" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a></li><li><span class="date">2026-08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23564.aspx" target="_self" title="标题：高三09.01协作体监考安排和学生考场安排&#xD;点击数：273&#xD;发表时间：2026年08月31日">高三09.01协作体监考安排和学生考场安排</a></li><li class="split"></li><li><span class="date">2026-08-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23562.aspx" target="_self" title="标题：高二09.01协作体考场布置及相关要求&#xD;点击数：103&#xD;发表时间：2026年08月31日">高二09.01协作体考场布置及相关要求</a></li><li><span class="date">2026-08-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23551.aspx" target="_self" title="标题：关于叶军奖学金的获奖公示&#xD;点击数：234&#xD;发表时间：2026年08月25日">关于叶军奖学金的获奖公示</a></li><li><span class="date">2026-08-20</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23516.aspx" target="_self" title="标题：高二、高三协作体时间安排&#xD;点击数：182&#xD;发表时间：2026年08月20日">高二、高三协作体时间安排</a></li><li><span class="date">2026-07-07</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23482.aspx" target="_self" title="标题：7月8日和7月14日监考和阅卷安排&#xD;点击数：230&#xD;发表时间：2026年07月07日">7月8日和7月14日监考和阅卷安排</a></li><li><span class="date">2026-07-05</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23478.aspx" target="_self" title="标题：07.08测试考场布置要求&#xD;点击数：143&#xD;发表时间：2026年07月05日">07.08测试考场布置要求</a></li><li class="split"></li><li><span class="date">2026-07-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23469.aspx" target="_self" title="标题：2026年7月学考二次安检及刷脸入场验证演练工作方案&#xD;点击数：155&#xD;发表时间：2026年07月03日">2026年7月学考二次安检及刷脸入场验证演练工作方案</a></li><li><span class="date">2026-07-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23467.aspx" target="_self" title="标题：2026年7月学考考点组织机构&#xD;点击数：168&#xD;发表时间：2026年07月02日">2026年7月学考考点组织机构</a></li><li><span class="date">2026-07-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23466.aspx" target="_self" title="标题：新高二、新高三协作体考试时间和范围&#xD;点击数：242&#xD;发表时间：2026年07月02日">新高二、新高三协作体考试时间和范围</a></li><li><span class="date">2026-07-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23463.aspx" target="_self" title="标题：2026年7月学考试场布置要求&#xD;点击数：243&#xD;发表时间：2026年07月01日">2026年7月学考试场布置要求</a></li><li class="last"><span class="date">2026-07-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23461.aspx" target="_self" title="标题：2026.07学考考务培训通知（附新版监考安排）&#xD;点击数：398&#xD;发表时间：2026年07月01日">2026.07学考考务培训通知（附新版监考安排）</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> <a href="Index_2.aspx">2</a> <a href="Index_3.aspx">3</a> <a href="Index_4.aspx">4</a> <a href="Index_5.aspx">5</a> <a href="Index_6.aspx">6</a> <a href="Index_7.aspx">7</a> <a href="Index_8.aspx">8</a> <a href="Index_9.aspx">9</a> <a href="Index_10.aspx">10</a> <a href="Index_11.aspx">11</a> 
-<a href="Index_2.aspx">下一页</a>
- <a href="Index_101.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年10月07日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23758"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23758},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23758";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="font-family: Calibri;font-size: 14pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
+</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">10月1日，2026年沃尔夫奖正式揭晓，</span><span style="color: #4874CB;font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;"><strong>我校1985届校友、世界著名物理学家叶军院士获沃尔夫物理学奖</strong></span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">。</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">本届沃尔夫物理学奖备受学界瞩目，这是时隔多年再度有华人学者斩获这一被誉为</span><span style="color: #4874CB;font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;"><strong>“诺贝尔奖风向标”</strong></span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">的重磅奖项。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">本次沃尔夫物理学奖授予了美国科罗拉多大学、美国国家标准与技术研究院（NIST）的叶军和德国马克斯·普朗克研究所、慕尼黑大学的伊曼纽尔·布洛赫</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">（</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">Immanuel F. Bloch</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">）</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">。表彰他们</span><span style="color: #4874CB;font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;"><strong>“在超冷原子系统控制方面取得具有变革性且广泛适用的进展”</strong></span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\10\202610071626070671.Png" style="width: 5.761806in; height: 3.69375in" alt="202610071626071010.Png" /></span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 黑体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 黑体;font-size: 12pt;margin: 0;padding: 0;"><strong>校友名片——叶军</strong></span></p><p style="font-family: 仿宋;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: 仿宋;font-size: 10.5pt;margin: 0;padding: 0;">叶军，世界著名物理学家，美国国家科学院院士，中国科学院外籍院士，美国物理学会会士，美国光学学会会士。现任职于美国科罗拉多大学博尔德分校、美国国家标准与技术研究院（NIST）以及二者共建的天体物理联合实验室（JILA）。1985年绍兴一中高中毕业并考入上海交通大学，1989年获得上海交通大学应用物理学学士学位，1991年获得美国新墨西哥大学物理学硕士学位，1997年获得美国科罗拉多大学物理学博士学位。</span></p><p style="font-family: 仿宋;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: 仿宋;font-size: 10.5pt;margin: 0;padding: 0;">主要从事光与物质的相互作用的前沿研究，包括超冷原子-分子、量子精密测量、量子光学等领域。叶军基于在超冷原子、相位稳定激光等领域的突破，发展了世界上最精确的原子钟，做出了许多世界首创的研究工作；实现了极性分子量子气体，开拓了超冷化学和量子化学基本问题的研究；发展了光学频率梳及其在光谱学中的应用，拓展了在远紫外和中红外光谱区域的频率梳及其应用。</span></p><p style="font-family: 仿宋;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: 仿宋;font-size: 10.5pt;margin: 0;padding: 0;">荣获一系列重要奖项荣誉：5块美国商务部金牌、美国物理学会Norman F .Ramsey奖、电气与电子工程师协会I.I.Rabi奖、美国物理学会I.I.Rabi奖、美国光学学会William F.Meggers奖、2020年度“墨子量子奖”、2022年基础物理学突破奖、2023年首届睿远科技大奖等。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: 仿宋;font-size: 10.5pt;margin: 0;padding: 0;">2023年9月，叶军院士“喝水不忘掘井人”，情系桑梓，感恩母校，将获得“墨子量子奖”的奖金100万元人民币全部捐赠给母校绍兴一中，设立“叶军奖学金”，以激励母校的优秀学子们勇攀物理学高峰，努力探索与追寻自然科学之光。</span></p><p><img src="/UploadFiles/xwzx/2026/10/202610071627075593.png" style="max-width: 100%; " title="202610071627075593.png" /></p><p><img src="/UploadFiles/xwzx/2026/10/202610071627072043.png" style="max-width: 100%; " title="202610071627072043.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;">
+</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 黑体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 黑体;font-size: 12pt;margin: 0;padding: 0;"><strong>奖项介绍——沃尔夫奖</strong></span></p><p style="font-family: 楷体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="color: #851321;font-family: 楷体;font-size: 10.5pt;margin: 0;padding: 0;">沃尔夫奖</span><span style="font-family: 楷体;font-size: 10.5pt;margin: 0;padding: 0;">由沃尔夫基金会设立，由里卡多・沃尔夫及其家族出资捐赠，是面向全球开展评选的国际重磅学术大奖，1978 年起正式颁发。奖项设置五大科学类奖项：物理学奖、化学奖、医学奖、数学奖、农业奖，另设艺术类奖项，在建筑、音乐、绘画、雕塑领域逐年轮换评选，面向全球学者与艺术家，不设国籍、种族、宗教、年龄限制，表彰在科学与艺术领域取得终身性杰出成就、造福人类文明的顶尖开拓者。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: 楷体;font-size: 10.5pt;margin: 0;padding: 0;">沃尔夫奖以终身成就为核心评选标准，数学领域被誉为 “数学界的诺贝尔奖”，大量获奖者后续斩获诺贝尔奖，是国际上极具权威性的顶级荣誉。评奖由各学科独立国际评审委员会遴选，委员会汇聚全球顶尖专家，坚持跨地域、无偏见评审，持续发掘表彰基础科学与艺术领域影响深远的杰出人才。</span></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23757.aspx" target="_self" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：17&#xD;发表时间：26年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a>[ 10-07 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -491,6 +471,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
