@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨--学校新闻-绍兴市第一中学</title>
+    <title>研究院2026年10月份市直活动安排--教科室-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,12 +349,24 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
-<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3 on"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -369,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：33&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：24&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：52&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：29&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：62&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/23733.aspx" target="_blank" title="标题：山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨&#xD;点击数：23&#xD;发表时间：2026年09月28日">山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班…</a><span class="dateRight">[09-28]</span></li>
+            <li class="first"><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：157&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：256&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23615.aspx" target="_blank" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：134&#xD;发表时间：2026年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：3&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23372.aspx" target="_blank" title="标题：关于阿克苏地区第二中学教师中学教师来访听课、调课的通知&#xD;点击数：223&#xD;发表时间：2026年06月12日">关于阿克苏地区第二中学教师中学教师来访听课、调课的通知</a><span class="dateRight">[06-12]</span></li><li><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：167&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li><li class="last"><a href="/Item/23487.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市教育技术论文征集的预通知&#xD;点击数：82&#xD;发表时间：2026年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市教育技术…</a><span class="dateRight">[07-07]</span></li>
           
                     </ul>
                 </div>
@@ -384,30 +396,30 @@ function GetUserInfo1(response){
     
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
-    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
-                    <h3>学校新闻</h3>
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_36/Index.aspx" target="_self">教科室</a></div>
+                    <h3>教科室</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">山海携手研教学 校际互鉴促提升｜我校接待仙居中学领导班子带队教研组长一行来访并开展交流研讨</h2>
+                        <h2 class="title">研究院2026年10月份市直活动安排</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月28日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23733"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年10月07日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23752"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23733},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23752},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23733";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23752";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -415,9 +427,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="font-family: Calibri;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;">
-</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.44in;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">为深入落实《</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">“</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">十四五</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">”</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">县域普通高中发展提升行动计划》《浙江省山区26县和海岛县 </span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">“</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">县中崛起</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">”</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">行动计划》，深化校际结对共建，</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">浙江省</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">仙居中学校长华伟臣</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">携学校</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">班子及各学科教研组长一行到访</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">我校</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">，开展实地考察、课堂观摩与学科教研交流活动。我校</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">党委副书记、</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">校长蒋明</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">携校</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">领导班子及各学科骨干教师热情接待来访团队。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622485071.Jpeg" style="width: 3.96875in; height: 2.976389in" alt="202609281622485204.Jpeg" /></span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">两校校领导班子首先开展座谈交流。座谈会上，蒋明校长对仙居中学来访团队的到来表示热烈欢迎。双方围绕学校治理、师资队伍建设、课堂教学改革、高三教学备考、教研组建设等核心议题展开深入探讨，互相分享办学管理经验，回顾两校结对帮扶以来的各项工作成效，期待以本次线下互访为契机，进一步拓宽合作维度，夯实教研共建机制，实现双向赋能、共同成长。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">随后，来访</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">各学科教研组长</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">分学科走进课堂，观摩我校多学科展示课。本次活动开放语文、数学、政治、历史、地理、物理、生物、通用技术、信息技术、体育共10门学科公开课。授课教师立足学科核心素养，精心设计教学环节，课堂生动务实、高效扎实，充分展现我校课堂教学改革的实践成果，获得来访教师的一致认可。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622487844.Jpeg" style="width: 2.465278in; height: 1.849306in" alt="202609281622487132.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622489545.Jpeg" style="width: 2.472917in; height: 1.855556in" alt="202609281622487809.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622481796.Jpeg" style="width: 2.465278in; height: 1.849306in" alt="202609281622487648.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622482612.Jpeg" style="width: 2.464583in; height: 1.848611in" alt="202609281622488353.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622489489.Jpeg" style="width: 2.595139in; height: 1.946528in" alt="202609281622480685.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622487639.Jpeg" style="width: 2.453472in; height: 1.955556in" alt="202609281622486649.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622486900.Jpeg" style="width: 2.497917in; height: 1.873611in" alt="202609281622487479.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622482011.Jpeg" style="width: 2.486805in; height: 1.865278in" alt="202609281622482644.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622486862.Jpeg" style="width: 2.475694in; height: 1.856944in" alt="202609281622487783.Jpeg" /></span><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\9\202609281622482981.Jpeg" style="width: 2.43125in; height: 1.888889in" alt="202609281622487515.Jpeg" /></span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">听课结束，分学科研讨交流同步开展。各学科教师前往对应研讨地点，结合观摩的课堂实例，围绕教学设计、学情把握、高考一轮复习策略、教研组建设等教育教学重点问题展开深度研讨。授课团队分享备课思路与课堂实践思考，两校教师坦诚交流教学困惑、互传实操经验，现场思维碰撞，研讨氛围浓厚热烈。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
-</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">座谈结束后，来访团队漫步校园，实地感受我校校园文化与育人环境，并集体合影留念，定格两校教育同行的珍贵瞬间。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">独行快，众行远。本次仙居中学来访交流，是两校落实</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">“</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">县中崛起</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">”</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">结对帮扶的又一次重要实践。以课堂为载体，以教研为纽带，搭建起坦诚务实的沟通桥梁。未来，我校将持续深化与仙居中学的结对共建，开展多层次、多形式的教育教学交流，在互学互鉴中凝聚教育智慧，携手为提升育人质量贡献力量。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> <img src="/UploadFiles/xwzx/2026/9/202609281624040567.JPG" style="max-width: 100%; " title="202609281624040567.JPG" /></span></p>
+     <p><img src="/UploadFiles/xwzx/2026/10/202610071437570017.png" style="max-width: 100%; " title="202610071437570017.png" /></p><p><img src="/UploadFiles/xwzx/2026/10/202610071437568494.png" style="max-width: 100%; " title="202610071437568494.png" /></p><p>
+</p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -426,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23649.aspx" target="_self" title="标题：微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生&#xD;点击数：65&#xD;发表时间：26年09月14日">微光筑学路，丹心润芳华  ——致敬绍兴王卫列先生</a>[ 09-14 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23734.aspx" target="_self" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：24&#xD;发表时间：26年09月28日">绍兴市教育教学研究院来我校开展教学调研</a>[ 09-28 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23683.aspx" target="_self" title="标题：关于市教研院来我校调研的通知&#xD;点击数：233&#xD;发表时间：26年09月18日">关于市教研院来我校调研的通知</a>[ 09-18 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
 
