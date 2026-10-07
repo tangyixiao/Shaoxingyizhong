@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>学校公告-绍兴市第一中学</title>
+    <title>任前公示通告--党政办-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -126,8 +125,8 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2 on2" id="liID20">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+				<li class="li2 first2" id="liID20">
   <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
@@ -342,8 +341,9 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
@@ -353,7 +353,7 @@ function GetUserInfo1(response){
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+			<li class="li1 first on"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
 <li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
@@ -374,90 +374,83 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：179&#xD;发表时间：2026年09月30日">任前公示通告</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：83&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：129&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/23746.aspx" target="_blank" title="标题：高一晚自修（10.6-10.9）&#xD;点击数：41&#xD;发表时间：2026年09月30日">高一晚自修（10.6-10.9）</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23745.aspx" target="_blank" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：79&#xD;发表时间：2026年09月30日">高三晚自修（10.4-10.11）</a><span class="dateRight">[09-30]</span></li><li class="last"><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：179&#xD;发表时间：2026年09月30日">任前公示通告</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：83&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23730.aspx" target="_blank" title="标题：关于秋季运动会的有关工作提醒&#xD;点击数：275&#xD;发表时间：2026年09月28日">关于秋季运动会的有关工作提醒</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：278&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23575.aspx" target="_blank" title="标题：关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷模奖”评选结果的公示&#xD;点击数：195&#xD;发表时间：2026年08月22日">关于第二届绍兴一中教育集团“高考突出贡献奖”“育人楷…</a><span class="dateRight">[08-22]</span></li><li class="last"><a href="/Item/23552.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于公布2026学年各年级管委会人员名单的通知&#xD;点击数：336&#xD;发表时间：2026年08月25日">中共绍兴市第一中学委员会关于公布2026学年各年级管委会…</a><span class="dateRight">[08-25]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=20>学校公告</option><option value=25>&nbsp;&nbsp;党政办</option><option value=26>&nbsp;&nbsp;教学处</option><option value=27>&nbsp;&nbsp;德育处</option><option value=28>&nbsp;&nbsp;安全处</option><option value=29>&nbsp;&nbsp;信息处</option><option value=30>&nbsp;&nbsp;团委</option><option value=31>&nbsp;&nbsp;总务处</option><option value=32>&nbsp;&nbsp;工会</option><option value=33>&nbsp;&nbsp;高一</option><option value=34>&nbsp;&nbsp;高二</option><option value=35>&nbsp;&nbsp;高三</option><option value=36>&nbsp;&nbsp;教科室</option><option value=392>&nbsp;&nbsp;龙山书院</option><option value=393>&nbsp;&nbsp;创新学部</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
                 <div class="mHd">
-
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
+    
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Category_20/Index.aspx" target="_self">学校公告</a></div>
-                    <h3>学校公告</h3>
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_25/Index.aspx" target="_self">党政办</a></div>
+                    <h3>党政办</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2009-09-07</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/209.aspx" target="_self" title="标题：9月7日高三政治1B学分考监考安排&#xD;点击数：571&#xD;发表时间：2009年09月07日"><font style=";">9月7日高三政治1B学分考监考安排</font></a></li><li><span class="date">2009-09-07</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/208.aspx" target="_self" title="标题：9月8日张叠、 刘伟、 焦大伟参加会考补考阅卷&#xD;点击数：624&#xD;发表时间：2009年09月07日"><font style=";">9月8日张叠、 刘伟、 焦大伟参加会考补考阅卷</font></a></li><li><span class="date">2009-09-07</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/207.aspx" target="_self" title="标题：升旗仪式通知&#xD;点击数：511&#xD;发表时间：2009年09月07日"><font style=";">升旗仪式通知</font></a></li><li><span class="date">2009-09-05</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/204.aspx" target="_self" title="标题：9月12日高考三项考试监考名单&#xD;点击数：543&#xD;发表时间：2009年09月05日"><font style=";">9月12日高考三项考试监考名单</font></a></li><li><span class="date">2009-09-05</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_35/Index.aspx" target="_self">[高三]</a><a href="/Item/199.aspx" target="_self" title="标题：高三安排&#xD;点击数：423&#xD;发表时间：2009年09月05日"><font style=";">高三安排</font></a></li><li class="split"></li><li><span class="date">2009-09-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/203.aspx" target="_self" title="标题：关于中午实行错时用餐的通知&#xD;点击数：633&#xD;发表时间：2009年09月04日"><font style=";">关于中午实行错时用餐的通知</font></a></li><li><span class="date">2009-09-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/202.aspx" target="_self" title="标题：团委学生会干部招聘办法&#xD;点击数：469&#xD;发表时间：2009年09月04日"><font style=";">团委学生会干部招聘办法</font></a></li><li><span class="date">2009-09-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/201.aspx" target="_self" title="标题：关于校本课程申报的通知&#xD;点击数：570&#xD;发表时间：2009年09月04日"><font style=";">关于校本课程申报的通知</font></a></li><li><span class="date">2009-09-04</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/174.aspx" target="_self" title="标题：绍兴一中考勤和请假制度征求意见稿&#xD;点击数：720&#xD;发表时间：2009年09月04日"><font style=";">绍兴一中考勤和请假制度征求意见稿</font></a></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/200.aspx" target="_self" title="标题：关于全校各班团支部书记培训的通知&#xD;点击数：454&#xD;发表时间：2009年09月03日"><font style=";">关于全校各班团支部书记培训的通知</font></a></li><li class="split"></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/198.aspx" target="_self" title="标题：关于开放学校心理咨询室的通知&#xD;点击数：555&#xD;发表时间：2009年09月03日"><font style=";">关于开放学校心理咨询室的通知</font></a></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_35/Index.aspx" target="_self">[高三]</a><a href="/Item/197.aspx" target="_self" title="标题：高三班主任会议&#xD;点击数：526&#xD;发表时间：2009年09月03日"><font style=";">高三班主任会议</font></a></li><li><span class="date">2009-09-03</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/195.aspx" target="_self" title="标题：各班主任请注意（近期有关事项）&#xD;点击数：498&#xD;发表时间：2009年09月03日"><font style=";">各班主任请注意（近期有关事项）</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/192.aspx" target="_self" title="标题：关于高一新生军训会操的通知&#xD;点击数：524&#xD;发表时间：2009年09月02日"><font style=";">关于高一新生军训会操的通知</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/191.aspx" target="_self" title="标题：回头考成绩和高三IB成绩录入方法&#xD;点击数：555&#xD;发表时间：2009年09月02日"><font style=";">回头考成绩和高三IB成绩录入方法</font></a></li><li class="split"></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/189.aspx" target="_self" title="标题：高一、高二各班&#xD;点击数：523&#xD;发表时间：2009年09月02日"><font style=";">高一、高二各班</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/190.aspx" target="_self" title="标题：各班主任请注意（大课间入场路线）&#xD;点击数：537&#xD;发表时间：2009年09月02日"><font style=";">各班主任请注意（大课间入场路线）</font></a></li><li><span class="date">2009-09-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/187.aspx" target="_self" title="标题：2009.9.1大扫除检查情况公布  &#xD;点击数：437&#xD;发表时间：2009年09月02日"><font style=";">2009.9.1大扫除检查情况公布  </font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/186.aspx" target="_self" title="标题：高三部分选修IB上课安排&#xD;点击数：644&#xD;发表时间：2009年09月01日"><font style=";">高三部分选修IB上课安排</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/185.aspx" target="_self" title="标题：高二课外活动、校本课程时间更改&#xD;点击数：561&#xD;发表时间：2009年09月01日"><font style=";">高二课外活动、校本课程时间更改</font></a></li><li class="split"></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/184.aspx" target="_self" title="标题：校定向队招新队员通知&#xD;点击数：556&#xD;发表时间：2009年09月01日"><font style=";">校定向队招新队员通知</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_33/Index.aspx" target="_self">[高一]</a><a href="/Item/183.aspx" target="_self" title="标题：高一年级值周(白天)工作安排&#xD;点击数：470&#xD;发表时间：2009年09月01日"><font style=";">高一年级值周(白天)工作安排</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/182.aspx" target="_self" title="标题：各班主任请注意（关于住校生）&#xD;点击数：435&#xD;发表时间：2009年09月01日"><font style=";">各班主任请注意（关于住校生）</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/181.aspx" target="_self" title="标题：高二年级班长会议&#xD;点击数：564&#xD;发表时间：2009年09月01日"><font style=";">高二年级班长会议</font></a></li><li><span class="date">2009-09-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/180.aspx" target="_self" title="标题：绍兴一中2009学年工作思路（初稿）&#xD;点击数：803&#xD;发表时间：2009年09月01日"><font style=";">绍兴一中2009学年工作思路（初稿）</font></a></li><li class="split"></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/179.aspx" target="_self" title="标题：班主任：09年未成年人医疗保障相关通知&#xD;点击数：674&#xD;发表时间：2009年08月31日"><font style=";">班主任：09年未成年人医疗保障相关通知</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_29/Index.aspx" target="_self">[信息处]</a><a href="/Item/178.aspx" target="_self" title="标题：2009学年第一学期信息处工作安排&#xD;点击数：1615&#xD;发表时间：2009年08月31日"><font style=";">2009学年第一学期信息处工作安排</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_33/Index.aspx" target="_self">[高一]</a><a href="/Item/177.aspx" target="_self" title="标题：高一今天（8.31）下午有关事项&#xD;点击数：475&#xD;发表时间：2009年08月31日"><font style=";">高一今天（8.31）下午有关事项</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/167.aspx" target="_self" title="标题：各班主任、各竞赛辅导教师请注意（关于开学典礼）&#xD;点击数：449&#xD;发表时间：2009年08月31日"><font style=";">各班主任、各竞赛辅导教师请注意（关于开学典礼）</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/172.aspx" target="_self" title="标题：一周检查情况公布&#xD;点击数：488&#xD;发表时间：2009年08月31日"><font style=";">一周检查情况公布</font></a></li><li class="split"></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_30/Index.aspx" target="_self">[团委]</a><a href="/Item/175.aspx" target="_self" title="标题：关于黑板报工作会议通知&#xD;点击数：489&#xD;发表时间：2009年08月31日"><font style=";">关于黑板报工作会议通知</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_26/Index.aspx" target="_self">[教学处]</a><a href="/Item/173.aspx" target="_self" title="标题：9月1日上午高一高二上课通知&#xD;点击数：489&#xD;发表时间：2009年08月31日"><font style=";">9月1日上午高一高二上课通知</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/171.aspx" target="_self" title="标题：校园内不乱停车的通知&#xD;点击数：732&#xD;发表时间：2009年08月31日"><font style=";">校园内不乱停车的通知</font></a></li><li><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_25/Index.aspx" target="_self">[党政办]</a><a href="/Item/169.aspx" target="_self" title="标题：教工会议通知&#xD;点击数：681&#xD;发表时间：2009年08月31日"><font style=";">教工会议通知</font></a></li><li class="last"><span class="date">2009-08-31</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_27/Index.aspx" target="_self">[德育处]</a><a href="/Item/170.aspx" target="_self" title="标题：2009学年第一学期开学典礼&#xD;点击数：561&#xD;发表时间：2009年08月31日"><font style=";">2009学年第一学期开学典礼</font></a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_478.aspx">上一页</a>
- <a href="Index_471.aspx">471</a> <a href="Index_472.aspx">472</a> <a href="Index_473.aspx">473</a> <a href="Index_474.aspx">474</a> <a href="Index_475.aspx">475</a> <a href="Index_476.aspx">476</a> <a href="Index_477.aspx">477</a> <a href="Index_478.aspx">478</a> <b><a href="Index_479.aspx">479</a></b> <a href="Index_480.aspx">480</a> <a href="Index_481.aspx">481</a> 
-<a href="Index_480.aspx">下一页</a>
- <a href="Index_481.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">任前公示通告</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月30日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23751"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23751},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23751";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style=";text-align:center;line-height:37px"></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">经校</span><span style=";font-family:'Times New Roman';font-size:21px"><span style="font-family:仿宋_GB2312">党委</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">研究，决定将拟提拔任用的</span><span style=";font-family:仿宋_GB2312;font-size:21px">马丹娜</span><span style=";font-family:仿宋_GB2312;font-size:21px">等</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">4</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">名同志予以公示，征求广大干部、群众的意见。现就有关事项通告如下：</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">1</span><span style="font-family:仿宋_GB2312">．反映问题的方式</span></span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">在公示期限内，任何单位和个人均可通过来信、来电、来访的形式，向</span><span style=";font-family:仿宋_GB2312;font-size:21px">校</span><span style=";font-family:仿宋_GB2312;font-size:21px">纪委反映公示对象存在的问题。反映问题提倡署报本人真实姓名。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">2</span><span style="font-family:仿宋_GB2312">．要求</span></span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">反映问题要坚持实事求是的原则，反对借机诽谤诬告。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">3</span><span style="font-family:仿宋_GB2312">．公示时间</span></span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">从</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">10</span></span><span style=";font-family:'Times New Roman';font-size:21px"><span style="font-family:仿宋_GB2312">月</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">1</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">日起到</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">10</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">月</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">13</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">日止。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">4</span><span style="font-family:仿宋_GB2312">．公示联系部门和受理电话</span></span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">联系部门：纪委。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">举报电话：</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">0575-85356529</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:'Times New Roman';font-size:21px"> </span></p><p style="text-indent: 267px;line-height: 37px"><span style=";font-family:仿宋_GB2312;font-size:21px">中共</span><span style=";font-family:仿宋_GB2312;font-size:21px">绍兴市第一中学</span><span style=";font-family:仿宋_GB2312;font-size:21px">委员会</span></p><p style="text-indent: 320px;line-height: 37px"><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">2</span></span><span style=";font-family:'Times New Roman';font-size:21px">02</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">6</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">9</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">月</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">30</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">日</span></p><p><span style=";font-family:'Times New Roman';font-size:14px"> </span></p><p><span style=";font-family:'Times New Roman';font-size:14px"> </span></p><p><span style=";font-family:'Times New Roman';font-size:14px"> </span></p><p style=";text-align:center;line-height:37px"><span style=";font-family:方正小标宋简体;font-size:29px">任前公示名单</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:'Times New Roman';font-size:21px"> </span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">马丹娜</span><span style=";font-family:仿宋_GB2312;font-size:21px">，</span><span style=";font-family:仿宋_GB2312;font-size:21px">女</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">，汉族，</span><span style="font-family:Times New Roman">1</span></span><span style=";font-family:'Times New Roman';font-size:21px">9</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">88</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">2</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">月出生，浙江</span><span style=";font-family:仿宋_GB2312;font-size:21px">嵊州</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">人，</span><span style="font-family:Times New Roman">20</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">09</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">12</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">月加入中国共产党，</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">2010</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">年</span><span style="font-family:Times New Roman">8</span><span style="font-family:仿宋_GB2312">月参加工作，大学本科学历。现任</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">德育处</span><span style=";font-family:仿宋_GB2312;font-size:21px">副主任</span><span style=";font-family:仿宋_GB2312;font-size:21px">（主持工作）</span><span style=";font-family:仿宋_GB2312;font-size:21px">，拟任</span><span style=";font-family:仿宋_GB2312;font-size:21px">德育处</span><span style=";font-family:仿宋_GB2312;font-size:21px">主任。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">余栋材</span><span style=";font-family:仿宋_GB2312;font-size:21px">，</span><span style=";font-family:仿宋_GB2312;font-size:21px">男</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">，汉族，</span><span style="font-family:Times New Roman">1</span></span><span style=";font-family:'Times New Roman';font-size:21px">9</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">91</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">11</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">月出生，浙江绍兴人，</span><span style="font-family:Times New Roman">2</span></span><span style=";font-family:'Times New Roman';font-size:21px">0</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">13</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">5</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">月加入中国共产党，</span><span style="font-family:Times New Roman">2</span></span><span style=";font-family:'Times New Roman';font-size:21px">0</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">14</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">年</span><span style="font-family:Times New Roman">8</span><span style="font-family:仿宋_GB2312">月参加工作，大学本科学历。现任</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">信息处副主任</span><span style=";font-family:仿宋_GB2312;font-size:21px">（主持工作）</span><span style=";font-family:仿宋_GB2312;font-size:21px">，拟任</span><span style=";font-family:仿宋_GB2312;font-size:21px">教务处</span><span style=";font-family:仿宋_GB2312;font-size:21px">主任。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">章思怡</span><span style=";font-family:仿宋_GB2312;font-size:21px">，</span><span style=";font-family:仿宋_GB2312;font-size:21px">女</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">，汉族，</span><span style="font-family:Times New Roman">1</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">992</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">6</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">月出生，</span><span style=";font-family:仿宋_GB2312;font-size:21px">浙江绍兴人</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">，</span><span style="font-family:Times New Roman">2</span></span><span style=";font-family:'Times New Roman';font-size:21px">0</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">14</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">5</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">月加入中国共产党，</span><span style="font-family:Times New Roman">2</span></span><span style=";font-family:'Times New Roman';font-size:21px">0</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">18</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">年</span><span style="font-family:Times New Roman">8</span><span style="font-family:仿宋_GB2312">月参加工作，</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">研究生</span><span style=";font-family:仿宋_GB2312;font-size:21px">学历。现任</span><span style=";font-family:仿宋_GB2312;font-size:21px">高一年级管委会副主任</span><span style=";font-family:仿宋_GB2312;font-size:21px">，拟任</span><span style=";font-family:仿宋_GB2312;font-size:21px">教学处副</span><span style=";font-family:仿宋_GB2312;font-size:21px">主任</span><span style=";font-family:仿宋_GB2312;font-size:21px">（龙高职数）</span><span style=";font-family:仿宋_GB2312;font-size:21px">。</span></p><p style="text-indent:43px;line-height:37px"><span style=";font-family:仿宋_GB2312;font-size:21px">翁鹏飞</span><span style=";font-family:仿宋_GB2312;font-size:21px">，</span><span style=";font-family:仿宋_GB2312;font-size:21px">男</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">，汉族，</span><span style="font-family:Times New Roman">1</span></span><span style=";font-family:'Times New Roman';font-size:21px">9</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">89</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">8</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">月出生，浙江</span><span style=";font-family:仿宋_GB2312;font-size:21px">龙游</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">人，</span><span style="font-family:Times New Roman">2</span></span><span style=";font-family:'Times New Roman';font-size:21px">0</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">10</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">年</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">1</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">月加入中国共产党，</span><span style="font-family:Times New Roman">2</span></span><span style=";font-family:'Times New Roman';font-size:21px">0</span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:Times New Roman">15</span></span><span style=";font-family:仿宋_GB2312;font-size:21px"><span style="font-family:仿宋_GB2312">年</span><span style="font-family:Times New Roman">8</span><span style="font-family:仿宋_GB2312">月参加工作，</span></span><span style=";font-family:仿宋_GB2312;font-size:21px">研究生</span><span style=";font-family:仿宋_GB2312;font-size:21px">学历。</span><span style=";font-family:仿宋_GB2312;font-size:21px">现任创新学部管委会副主任，</span><span style=";font-family:仿宋_GB2312;font-size:21px">拟任</span><span style=";font-family:仿宋_GB2312;font-size:21px">信息处副</span><span style=";font-family:仿宋_GB2312;font-size:21px">主任。</span></p><p>
+</p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23750.aspx" target="_self" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：83&#xD;发表时间：26年10月07日">教工趣味地滚球接力比赛成绩公告</a>[ 10-07 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -489,6 +482,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
