@@ -426,7 +426,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23757.aspx" target="_self" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：17&#xD;发表时间：26年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a>[ 10-07 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23757.aspx" target="_self" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：18&#xD;发表时间：26年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a>[ 10-07 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

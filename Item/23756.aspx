@@ -429,7 +429,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23738.aspx" target="_self" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：67&#xD;发表时间：26年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a>[ 09-28 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23757.aspx" target="_self" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：17&#xD;发表时间：26年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a>[ 10-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23757.aspx" target="_self" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：18&#xD;发表时间：26年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a>[ 10-07 ]</div>
                         </div>
                     </div>
 
