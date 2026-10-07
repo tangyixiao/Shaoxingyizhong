@@ -350,10 +350,10 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-10-07</span><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：5&#xD;发表时间：2026年10月07日">9.30班级一日考核</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：5&#xD;发表时间：2026年10月07日">9.29班级一日考核</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：5&#xD;发表时间：2026年10月07日">9.28班级一日考核</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：26&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
+  <li><span class="date">2026-10-07</span><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：6&#xD;发表时间：2026年10月07日">9.30班级一日考核</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：6&#xD;发表时间：2026年10月07日">9.29班级一日考核</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：6&#xD;发表时间：2026年10月07日">9.28班级一日考核</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：27&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：160&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：161&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li>
