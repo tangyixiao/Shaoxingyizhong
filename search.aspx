@@ -351,11 +351,11 @@ function GetUserInfo1(response){
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
   <li><span class="date">2026-10-08</span><a href="/Item/23764.aspx" target="_blank" title="标题：学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定&#xD;点击数：1&#xD;发表时间：2026年10月08日">学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：46&#xD;发表时间：2026年10月08日">数学教研活动通知</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：129&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：47&#xD;发表时间：2026年10月08日">数学教研活动通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：130&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23762.aspx" target="_blank" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：51&#xD;发表时间：2026年10月08日">关于成立第八届家长委员会的通知</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23760.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：112&#xD;发表时间：2026年10月08日">关于本周开展主题班会活动的通知</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：137&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：138&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23758.aspx" target="_blank" title="标题：热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖&#xD;点击数：20&#xD;发表时间：2026年10月07日">热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23757.aspx" target="_blank" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：29&#xD;发表时间：2026年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23756.aspx" target="_blank" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：47&#xD;发表时间：2026年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕</a></li>
