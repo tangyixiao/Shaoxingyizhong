@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23760.aspx" target="_self" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：147&#xD;发表时间：26年10月08日">关于本周开展主题班会活动的通知</a>[ 10-08 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23765.aspx" target="_self" title="标题：10.7班级一日考核&#xD;点击数：21&#xD;发表时间：26年10月08日">10.7班级一日考核</a>[ 10-08 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23760.aspx" target="_self" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：149&#xD;发表时间：26年10月08日">关于本周开展主题班会活动的通知</a>[ 10-08 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23765.aspx" target="_self" title="标题：10.7班级一日考核&#xD;点击数：23&#xD;发表时间：26年10月08日">10.7班级一日考核</a>[ 10-08 ]</div>
                         </div>
                     </div>
 

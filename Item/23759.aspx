@@ -439,7 +439,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23755.aspx" target="_self" title="标题：9.30班级一日考核&#xD;点击数：58&#xD;发表时间：26年10月07日">9.30班级一日考核</a>[ 10-07 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23760.aspx" target="_self" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：147&#xD;发表时间：26年10月08日">关于本周开展主题班会活动的通知</a>[ 10-08 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23760.aspx" target="_self" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：149&#xD;发表时间：26年10月08日">关于本周开展主题班会活动的通知</a>[ 10-08 ]</div>
                         </div>
                     </div>
 

@@ -440,7 +440,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23759.aspx" target="_self" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：150&#xD;发表时间：26年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a>[ 10-07 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23762.aspx" target="_self" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：77&#xD;发表时间：26年10月08日">关于成立第八届家长委员会的通知</a>[ 10-08 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23762.aspx" target="_self" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：78&#xD;发表时间：26年10月08日">关于成立第八届家长委员会的通知</a>[ 10-08 ]</div>
                         </div>
                     </div>
 
