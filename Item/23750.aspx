@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：265&#xD;发表时间：2026年09月30日">任前公示通告</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：219&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23637.aspx" target="_blank" title="标题：关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知&#xD;点击数：287&#xD;发表时间：2026年09月11日">关于公布《绍兴一中教育集团2026/2027学年第一学期行事历…</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：281&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：205&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a><span class="dateRight">[09-22]</span></li><li class="last"><a href="/Item/23654.aspx" target="_blank" title="标题：绍兴一中教育集团2026年中层选拔任用公告&#xD;点击数：345&#xD;发表时间：2026年09月15日">绍兴一中教育集团2026年中层选拔任用公告</a><span class="dateRight">[09-15]</span></li>
+            <li class="first"><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：266&#xD;发表时间：2026年09月30日">任前公示通告</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：220&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23637.aspx" target="_blank" title="标题：关于公布《绍兴一中教育集团2026/2027学年第一学期行事历》的通知&#xD;点击数：287&#xD;发表时间：2026年09月11日">关于公布《绍兴一中教育集团2026/2027学年第一学期行事历…</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23713.aspx" target="_blank" title="标题：关于中秋、国庆放假与调休安排的通知&#xD;点击数：281&#xD;发表时间：2026年09月23日">关于中秋、国庆放假与调休安排的通知</a><span class="dateRight">[09-23]</span></li><li><a href="/Item/23707.aspx" target="_blank" title="标题：绍兴市第一中学关于公积金调整的通知&#xD;点击数：205&#xD;发表时间：2026年09月22日">绍兴市第一中学关于公积金调整的通知</a><span class="dateRight">[09-22]</span></li><li class="last"><a href="/Item/23654.aspx" target="_blank" title="标题：绍兴一中教育集团2026年中层选拔任用公告&#xD;点击数：345&#xD;发表时间：2026年09月15日">绍兴一中教育集团2026年中层选拔任用公告</a><span class="dateRight">[09-15]</span></li>
           
                     </ul>
                 </div>
@@ -439,7 +439,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23730.aspx" target="_self" title="标题：关于秋季运动会的有关工作提醒&#xD;点击数：277&#xD;发表时间：26年09月28日">关于秋季运动会的有关工作提醒</a>[ 09-28 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23751.aspx" target="_self" title="标题：任前公示通告&#xD;点击数：265&#xD;发表时间：26年09月30日">任前公示通告</a>[ 09-30 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23751.aspx" target="_self" title="标题：任前公示通告&#xD;点击数：266&#xD;发表时间：26年09月30日">任前公示通告</a>[ 09-30 ]</div>
                         </div>
                     </div>
 
