@@ -376,7 +376,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23641.aspx" target="_blank" title="标题：学时登记：2026.5.30 高三喊楼活动&#xD;点击数：19&#xD;发表时间：2026年09月12日">学时登记：2026.5.30 高三喊楼活动</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23642.aspx" target="_blank" title="标题：学时登记：2026.6高考志愿者&#xD;点击数：15&#xD;发表时间：2026年09月12日">学时登记：2026.6高考志愿者</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/16837.aspx" target="_blank" title="标题：学时登记：2022暑期职业体验&#xD;点击数：107&#xD;发表时间：2022年11月14日">学时登记：2022暑期职业体验</a><span class="dateRight">[11-14]</span></li><li><a href="/Item/23764.aspx" target="_blank" title="标题：学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定&#xD;点击数：1&#xD;发表时间：2026年10月08日">学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23640.aspx" target="_blank" title="标题：学时登记：2026暑期模拟联合国志愿者学分&#xD;点击数：8&#xD;发表时间：2026年09月12日">学时登记：2026暑期模拟联合国志愿者学分</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23274.aspx" target="_blank" title="标题：学时登记：2026.5.23招生考试&#xD;点击数：48&#xD;发表时间：2026年05月25日">学时登记：2026.5.23招生考试</a><span class="dateRight">[05-25]</span></li><li class="last"><a href="/Item/22926.aspx" target="_blank" title="标题：学时登记：摄影社寒假模拟联合国活动&#xD;点击数：26&#xD;发表时间：2026年03月26日">学时登记：摄影社寒假模拟联合国活动</a><span class="dateRight">[03-26]</span></li>
+            <li class="first"><a href="/Item/23764.aspx" target="_blank" title="标题：学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定&#xD;点击数：4&#xD;发表时间：2026年10月08日">学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23642.aspx" target="_blank" title="标题：学时登记：2026.6高考志愿者&#xD;点击数：17&#xD;发表时间：2026年09月12日">学时登记：2026.6高考志愿者</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23641.aspx" target="_blank" title="标题：学时登记：2026.5.30 高三喊楼活动&#xD;点击数：19&#xD;发表时间：2026年09月12日">学时登记：2026.5.30 高三喊楼活动</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/16837.aspx" target="_blank" title="标题：学时登记：2022暑期职业体验&#xD;点击数：107&#xD;发表时间：2022年11月14日">学时登记：2022暑期职业体验</a><span class="dateRight">[11-14]</span></li><li><a href="/Item/23640.aspx" target="_blank" title="标题：学时登记：2026暑期模拟联合国志愿者学分&#xD;点击数：9&#xD;发表时间：2026年09月12日">学时登记：2026暑期模拟联合国志愿者学分</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/23274.aspx" target="_blank" title="标题：学时登记：2026.5.23招生考试&#xD;点击数：48&#xD;发表时间：2026年05月25日">学时登记：2026.5.23招生考试</a><span class="dateRight">[05-25]</span></li><li class="last"><a href="/Item/22926.aspx" target="_blank" title="标题：学时登记：摄影社寒假模拟联合国活动&#xD;点击数：26&#xD;发表时间：2026年03月26日">学时登记：摄影社寒假模拟联合国活动</a><span class="dateRight">[03-26]</span></li>
           
                     </ul>
                 </div>
@@ -430,7 +430,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23642.aspx" target="_self" title="标题：学时登记：2026.6高考志愿者&#xD;点击数：15&#xD;发表时间：26年09月12日">学时登记：2026.6高考志愿者</a>[ 09-12 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23642.aspx" target="_self" title="标题：学时登记：2026.6高考志愿者&#xD;点击数：17&#xD;发表时间：26年09月12日">学时登记：2026.6高考志愿者</a>[ 09-12 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

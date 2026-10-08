@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>生物竞赛-绍兴市第一中学</title>
+    <title>10.7班级一日考核--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -225,7 +224,7 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID104">
   <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
   <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
@@ -238,7 +237,7 @@ function GetUserInfo1(response){
 <li class="li2" id="liID75">
   <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
-<li class="li2 on2" id="liID76">
+<li class="li2" id="liID76">
   <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
@@ -342,25 +341,32 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_7/Index.aspx">学科竞赛</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_72/Index.aspx">信息学竞赛</a></li>
-<li class="li2"><a href="/Category_73/Index.aspx">数学竞赛</a></li>
-<li class="li3"><a href="/Category_74/Index.aspx">物理竞赛</a></li>
-<li class="li4"><a href="/Category_75/Index.aspx">化学竞赛</a></li>
-<li class="li5 on"><a href="/Category_76/Index.aspx">生物竞赛</a></li>
-<li class="li6"><a href="/Category_373/Index.aspx">天文竞赛</a></li>
-<li class="li7 last"><a href="/Category_378/Index.aspx">其他竞赛</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4 on"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -368,90 +374,82 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="noData">暂无资料</li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：150&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一…</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：58&#xD;发表时间：2026年10月07日">9.30班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：51&#xD;发表时间：2026年10月07日">9.29班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：52&#xD;发表时间：2026年10月07日">9.28班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li class="last"><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=76>生物竞赛</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Category_7/Index.aspx" target="_self">学科竞赛</a>&gt;
-    <a href="/Category_76/Index.aspx" target="_self">生物竞赛</a></div>
-                    <h3>生物竞赛</h3>
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_27/Index.aspx" target="_self">德育处</a></div>
+                    <h3>德育处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2024-06-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/20310.aspx" target="_self" title="标题：点赞！绍兴一中学子在全国中学生生物学联赛中喜获佳绩！&#xD;点击数：230&#xD;发表时间：2024年06月11日">点赞！绍兴一中学子在全国中学生生物学联赛中喜获佳绩！</a></li><li><span class="date">2023-06-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18177.aspx" target="_self" title="标题：赛课协同，共促发展  ——绍兴一中学子在全国中学生生物学联赛中喜获佳绩！&#xD;点击数：133&#xD;发表时间：2023年06月25日">赛课协同，共促发展  ——绍兴一中学子在全国中学生生物学联赛中喜获佳绩！</a></li><li><span class="date">2022-08-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16512.aspx" target="_self" title="标题：我校在全国中学生生物学联赛中喜获佳绩&#xD;点击数：205&#xD;发表时间：2022年08月24日">我校在全国中学生生物学联赛中喜获佳绩</a></li><li><span class="date">2022-08-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16513.aspx" target="_self" title="标题：暑假研学|绍兴一中竞赛学生走进黄酒产业，在观摩体验中实践探索研究&#xD;点击数：98&#xD;发表时间：2022年08月24日">暑假研学|绍兴一中竞赛学生走进黄酒产业，在观摩体验中实践探索研究</a></li><li><span class="date">2021-10-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16748.aspx" target="_self" title="标题：学科竞赛|全国银牌，强基破格！一中学子在第30届全国中学生生物竞赛中获佳绩&#xD;点击数：223&#xD;发表时间：2021年10月09日">学科竞赛|全国银牌，强基破格！一中学子在第30届全国中学生生物竞赛中获佳绩</a></li><li class="split"></li><li><span class="date">2021-08-16</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/16525.aspx" target="_self" title="标题：大市唯一！绍兴一中生物联赛获佳绩，1人入选浙江省生物奥赛代表队&#xD;点击数：253&#xD;发表时间：2021年08月16日">大市唯一！绍兴一中生物联赛获佳绩，1人入选浙江省生物奥赛代表队</a></li><li><span class="date">2020-12-02</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12872.aspx" target="_self" title="标题：2020年五大学科奥赛全国决赛绍兴“学霸”揽获7金3人进入“国家队”&#xD;点击数：968&#xD;发表时间：2020年12月02日">2020年五大学科奥赛全国决赛绍兴“学霸”揽获7金3人进入“国家队”</a></li><li class="last"><span class="date">2020-09-15</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/12866.aspx" target="_self" title="标题：学科竞赛|我校生物学科竞赛喜获佳绩&#xD;点击数：413&#xD;发表时间：2020年09月15日">学科竞赛|我校生物学科竞赛喜获佳绩</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">10.7班级一日考核</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年10月08日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23765"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23765},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23765";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="text-align: center;"><img src="/UploadFiles/xwzx/2026/10/202610081637409451.png" style="max-width: 100%; " title="202610081637409451.png" /></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23762.aspx" target="_self" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：77&#xD;发表时间：26年10月08日">关于成立第八届家长委员会的通知</a>[ 10-08 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -483,6 +481,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
