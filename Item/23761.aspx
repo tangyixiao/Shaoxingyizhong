@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>高一晚自修（10.6-10.9）--高一-绍兴市第一中学</title>
+    <title>关于开展2026年教师资格定期注册工作的通知--教科室-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -355,7 +355,7 @@ function GetUserInfo1(response){
 		<ul class="">
 			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
 <li class="li2"><a href="/Category_26/Index.aspx">教学处</a></li>
-<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li3 on"><a href="/Category_36/Index.aspx">教科室</a></li>
 <li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
 <li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
 <li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
@@ -364,7 +364,7 @@ function GetUserInfo1(response){
 <li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
 <li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
 <li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
-<li class="li12 on"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
 <li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
 <li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23746.aspx" target="_blank" title="标题：高一晚自修（10.6-10.9）&#xD;点击数：51&#xD;发表时间：2026年09月30日">高一晚自修（10.6-10.9）</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/22977.aspx" target="_blank" title="标题：高一晚自修值班（4.6-4.17）&#xD;点击数：107&#xD;发表时间：2026年04月02日">高一晚自修值班（4.6-4.17）</a><span class="dateRight">[04-02]</span></li><li><a href="/Item/22335.aspx" target="_blank" title="标题：高一家长会注意事项及晚自修安排&#xD;点击数：174&#xD;发表时间：2025年11月25日">高一家长会注意事项及晚自修安排</a><span class="dateRight">[11-25]</span></li><li><a href="/Item/20955.aspx" target="_blank" title="标题：高一晚自修值班安排（2.17-2.28）&#xD;点击数：161&#xD;发表时间：2025年02月21日">高一晚自修值班安排（2.17-2.28）</a><span class="dateRight">[02-21]</span></li><li><a href="/Item/20911.aspx" target="_blank" title="标题：高一晚自修值班安排（2.12-2.16）&#xD;点击数：146&#xD;发表时间：2025年02月12日">高一晚自修值班安排（2.12-2.16）</a><span class="dateRight">[02-12]</span></li><li><a href="/Item/23722.aspx" target="_blank" title="标题：高一晚自修（9.26-9.29）&#xD;点击数：65&#xD;发表时间：2026年09月24日">高一晚自修（9.26-9.29）</a><span class="dateRight">[09-24]</span></li><li class="last"><a href="/Item/23679.aspx" target="_blank" title="标题：高一晚自修（9.19-9.23）&#xD;点击数：83&#xD;发表时间：2026年09月17日">高一晚自修（9.19-9.23）</a><span class="dateRight">[09-17]</span></li>
+            <li class="first"><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：141&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：23&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：157&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：256&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23615.aspx" target="_blank" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：138&#xD;发表时间：2026年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23372.aspx" target="_blank" title="标题：关于阿克苏地区第二中学教师中学教师来访听课、调课的通知&#xD;点击数：223&#xD;发表时间：2026年06月12日">关于阿克苏地区第二中学教师中学教师来访听课、调课的通知</a><span class="dateRight">[06-12]</span></li><li class="last"><a href="/Item/23487.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市教育技术论文征集的预通知&#xD;点击数：82&#xD;发表时间：2026年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市教育技术…</a><span class="dateRight">[07-07]</span></li>
           
                     </ul>
                 </div>
@@ -397,29 +397,29 @@ function GetUserInfo1(response){
     
     <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
     <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
-    <a href="/Category_33/Index.aspx" target="_self">高一</a></div>
-                    <h3>高一</h3>
+    <a href="/Category_36/Index.aspx" target="_self">教科室</a></div>
+                    <h3>教科室</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">高一晚自修（10.6-10.9）</h2>
+                        <h2 class="title">关于开展2026年教师资格定期注册工作的通知</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月30日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23746"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年10月08日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23761"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
-    $.pe.ajax('admineditcheck',{params:{itemId:23746},success:function(s) {
+    $.pe.ajax('admineditcheck',{params:{itemId:23761},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=23746";
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23761";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -427,7 +427,8 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p><img src="/UploadFiles/xwzx/2026/9/202609301453591575.png" style="max-width: 100%; " title="202609301453591575.png" /></p><p><img src="/UploadFiles/xwzx/2026/9/202609301453599154.png" style="max-width: 100%; " title="202609301453599154.png" /></p><p>
+     <p><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 14px;background: rgb(255, 255, 255)"><span style="font-family:微软雅黑">各位老师</span></span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 14px;background: rgb(255, 255, 255)"><span style="font-family:微软雅黑">：</span></span></p><p style="text-indent:28px"><span style="font-family: 宋体;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 14px;background: rgb(255, 255, 255)"><span style="font-family:宋体">依照上级文件要求，</span></span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 14px;background: rgb(255, 255, 255)"><span style="font-family:微软雅黑">202</span></span><span style="font-family: 微软雅黑;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 14px;background: rgb(255, 255, 255)"><span style="font-family:微软雅黑">6</span></span><span style="font-family: 宋体;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 14px;background: rgb(255, 255, 255)"><span style="font-family:宋体">年教师资格定期注册工作已启动。现将有</span></span><span style=";font-family:宋体;font-size:14px">关事项通知如下：</span></p><p><span style=";font-family:宋体;font-size:14px">一、</span><span style=";font-family:宋体;font-size:14px">注册对象</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">本次参加注册的对象为</span><span style="font-family:Calibri">20</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">21</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">年</span><span style="font-family:Calibri">12</span><span style="font-family:宋体">月及以前注册今年到期的老师</span></span><span style=";font-family:宋体;color:rgb(255,0,0);font-size:14px">（请各位老师务必查看本人教师资格证注册贴上的有效期，如今年到期或者已经过期，</span><span style=";font-family:Calibri;color:rgb(255,0,0);font-size:14px"><span style="font-family:宋体">请镜湖校区、龙山校区的老师</span></span><span style=";font-family:宋体;color:rgb(255,0,0);font-size:14px">与</span><span style=";font-family:Calibri;color:rgb(255,0,0);font-size:14px"><span style="font-family:宋体">一中</span></span><span style=";font-family:宋体;color:rgb(255,0,0);font-size:14px">教科室</span><span style=";font-family:Calibri;color:rgb(255,0,0);font-size:14px"><span style="font-family:宋体">赵正瑜老师</span></span><span style=";font-family:宋体;color:rgb(255,0,0);font-size:14px">联系</span><span style=";font-family:Calibri;color:rgb(255,0,0);font-size:14px"><span style="font-family:宋体">，龙山书院的老师与行政部谢斐老师联系</span></span><span style=";font-family:宋体;color:rgb(255,0,0);font-size:14px">）</span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">以及尚未注册过的教师（要求必须有一年以上的培训学分，</span><span style="font-family:Calibri">202</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">6</span></span><span style=";font-family:宋体;font-size:14px">年新</span><span style=";font-family:Calibri;font-size:14px"><span style="font-family:宋体">入职</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">教师等到明年再进行注册）。</span><span style="font-family:Calibri">20</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">21</span></span><span style=";font-family:宋体;font-size:14px">年之后注册或已定期注册的老师暂不参加本次注册（注册有效期到期当年会另行安排）</span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">  </span></span><span style=";font-family:宋体;font-size:14px">  </span><span style=";font-family:宋体;font-size:14px">经筛查，</span><span style=";font-family:Calibri;font-size:14px"><span style="font-family:宋体">目前</span></span><span style=";font-family:宋体;font-size:14px">尚未注册的老师名单如下：</span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体"> 梁圆卿、</span><span style="font-family:宋体">何誉文、</span><span style="font-family:宋体">朱清玮、</span><span style="font-family:宋体">黄琳琪、</span><span style="font-family:宋体">崔平凡</span><span style="font-family:宋体">、潘贤哲、</span><span style="font-family:宋体">薛婉颖、</span><span style="font-family:宋体">张晨卉、</span><span style="font-family:宋体">陈慧淼、</span><span style="font-family:宋体">鲍策奔、</span></span><span style="font-family: 宋体; font-size: 14px;">陈利强、</span><span style="font-family: Calibri; font-size: 14px;"> </span><span style="font-family: Calibri; font-size: 14px;"><span style="font-family:宋体">冯哲毅、</span></span><span style="font-family: 宋体; font-size: 14px;">任宇颖、高佳媛、童诗怡、郑清清</span><span style="font-family: Calibri; color: rgb(255, 0, 0); font-size: 14px;"> </span><span style="color: rgb(255, 0, 0); font-size: 14px; font-family: 宋体;">（若有遗漏请在</span><span style="color: rgb(255, 0, 0); font-family: Calibri; font-size: 14px;">10</span><span style="color: rgb(255, 0, 0); font-size: 14px; font-family: 宋体;">月</span><span style="color: rgb(255, 0, 0); font-family: Calibri; font-size: 14px;">10</span><span style="color: rgb(255, 0, 0); font-size: 14px; font-family: 宋体;">日下班前与相关老师联系）</span></p><p><span style=";font-family:宋体;font-size:14px"> </span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">二、申请注册人员请于</span><span style="font-family:Calibri">202</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">6</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">年</span><span style="font-family:Calibri">10</span><span style="font-family:宋体">月</span><span style="font-family:Calibri">14</span><span style="font-family:宋体">日</span></span><span style=";font-family:宋体;font-size:14px">—</span><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">22</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">日登录</span><span style="font-family:宋体">“中国教师资格网”（</span><span style="font-family:Calibri">http://www.jszg.edu.cn  </span><span style="font-family:宋体">建议使用谷歌浏览器或</span><span style="font-family:Calibri">360</span><span style="font-family:宋体">安全浏览器的极速模式</span><span style="font-family:Calibri">)</span><span style="font-family:宋体">教师资格定期注册网上申报栏目，进行实名注册、网上申报、提交申请、打印《教师资格定期注册申请表》一式</span><span style="font-family:Calibri">2</span><span style="font-family:宋体">份，并于</span><span style="font-family:Calibri">10</span><span style="font-family:宋体">月</span></span><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri">23</span></span><span style=";font-family:宋体;font-size:14px">日前，提交相关材料，具体包括：</span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">①《教师资格定期注册申请表》打印，手写签名一式</span><span style="font-family:Calibri">2</span><span style="font-family:宋体">份；</span></span></p><p><span style=";font-family:宋体;font-size:14px">②《教师资格证书》原件。</span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:Calibri"> </span></span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">三、报名前需要重新注册一次。注册时请注意信息要完整、正确。上传的照片必须是证件照。具体操作步骤和常见问题解决办法详见附件</span><span style="font-family:Calibri">1</span><span style="font-family:宋体">（申请人必读）。</span></span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">附件</span><span style="font-family:Calibri">1</span><span style="font-family:宋体">：教师资格定期注册申请人使用手册</span></span></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体">    </span></span></p><p style="line-height: 16px;"><img style="vertical-align: middle; margin-right: 2px;" src="http://10.176.17.2/UEditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" /><a style="font-size:12px; color:#0066cc;" href="/downloads/xwzx/2026/10/202610081114520378.pdf" title="202610081114520378.pdf">202610081114520378.pdf</a></p><p><span style=";font-family:宋体;font-size:14px"><span style="font-family:宋体"></span></span>
+</p><p><span style="font-family: 宋体; font-size: 14px;"> 本次需要参与注册的教师名单如下</span><span style="font-family: Calibri; color: rgb(255, 0, 0); font-size: 14px;"><span style="font-family:宋体">（若有遗漏请在</span>10<span style="font-family:宋体">月</span>10<span style="font-family:宋体">日下班前与相关老师联系）</span></span><span style="font-family: 宋体; font-size: 14px;">：</span></p><p style="text-indent:28px"><span style=";font-family:宋体;font-size:14px">王新璐、朱垭烨</span></p><p>
 </p>
     
     </div><!--endprint-->
@@ -437,7 +438,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23722.aspx" target="_self" title="标题：高一晚自修（9.26-9.29）&#xD;点击数：65&#xD;发表时间：26年09月24日">高一晚自修（9.26-9.29）</a>[ 09-24 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23752.aspx" target="_self" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：141&#xD;发表时间：26年10月07日">研究院2026年10月份市直活动安排</a>[ 10-07 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
