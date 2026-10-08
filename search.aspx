@@ -351,21 +351,21 @@ function GetUserInfo1(response){
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
   <li><span class="date">2026-10-08</span><a href="/Item/23764.aspx" target="_blank" title="标题：学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定&#xD;点击数：1&#xD;发表时间：2026年10月08日">学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：47&#xD;发表时间：2026年10月08日">数学教研活动通知</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：130&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23762.aspx" target="_blank" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：51&#xD;发表时间：2026年10月08日">关于成立第八届家长委员会的通知</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23760.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：112&#xD;发表时间：2026年10月08日">关于本周开展主题班会活动的通知</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：138&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：51&#xD;发表时间：2026年10月08日">数学教研活动通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：132&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23762.aspx" target="_blank" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：52&#xD;发表时间：2026年10月08日">关于成立第八届家长委员会的通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23760.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：113&#xD;发表时间：2026年10月08日">关于本周开展主题班会活动的通知</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：141&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23758.aspx" target="_blank" title="标题：热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖&#xD;点击数：20&#xD;发表时间：2026年10月07日">热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23757.aspx" target="_blank" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：29&#xD;发表时间：2026年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23757.aspx" target="_blank" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：30&#xD;发表时间：2026年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23756.aspx" target="_blank" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：47&#xD;发表时间：2026年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：57&#xD;发表时间：2026年10月07日">9.30班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：49&#xD;发表时间：2026年10月07日">9.29班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：51&#xD;发表时间：2026年10月07日">9.28班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：163&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：225&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
-<li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：229&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
-<li><span class="date">2026-10-06</span><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：73&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li>
+<li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：230&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
+<li><span class="date">2026-10-06</span><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：74&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：100&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：58&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23746.aspx" target="_blank" title="标题：高一晚自修（10.6-10.9）&#xD;点击数：55&#xD;发表时间：2026年09月30日">高一晚自修（10.6-10.9）</a></li>
