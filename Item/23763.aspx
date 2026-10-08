@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：75&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：41&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23742.aspx" target="_blank" title="标题：高三10月8-10日强基联盟测试时间安排&#xD;点击数：246&#xD;发表时间：2026年09月29日">高三10月8-10日强基联盟测试时间安排</a><span class="dateRight">[09-29]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9563&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：96&#xD;发表时间：2026年10月08日">数学教研活动通知</a><span class="dateRight">[10-08]</span></li><li class="last"><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：557&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a><span class="dateRight">[09-22]</span></li>
+            <li class="first"><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：75&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：41&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23742.aspx" target="_blank" title="标题：高三10月8-10日强基联盟测试时间安排&#xD;点击数：246&#xD;发表时间：2026年09月29日">高三10月8-10日强基联盟测试时间安排</a><span class="dateRight">[09-29]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9563&#xD;发表时间：2026年05月08日">作息时间调整通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：96&#xD;发表时间：2026年10月08日">数学教研活动通知</a><span class="dateRight">[10-08]</span></li><li class="last"><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：247&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a><span class="dateRight">[10-06]</span></li>
           
                     </ul>
                 </div>
@@ -436,7 +436,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23749.aspx" target="_self" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：246&#xD;发表时间：26年10月06日">高三10.08联盟考试监考安排和学生考场安排</a>[ 10-06 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23749.aspx" target="_self" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：247&#xD;发表时间：26年10月06日">高三10.08联盟考试监考安排和学生考场安排</a>[ 10-06 ]</div>
                             <div class="next"><span>下一篇：</span><a href="/Item/23766.aspx" target="_self" title="标题：学生证领取和注册通知&#xD;点击数：41&#xD;发表时间：26年10月08日">学生证领取和注册通知</a>[ 10-08 ]</div>
                         </div>
                     </div>
