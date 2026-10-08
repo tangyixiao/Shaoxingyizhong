@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23760.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：106&#xD;发表时间：2026年10月08日">关于本周开展主题班会活动的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：130&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一…</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23762.aspx" target="_blank" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：43&#xD;发表时间：2026年10月08日">关于成立第八届家长委员会的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：57&#xD;发表时间：2026年10月07日">9.30班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：51&#xD;发表时间：2026年10月07日">9.28班级一日考核</a><span class="dateRight">[10-07]</span></li><li class="last"><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li>
+            <li class="first"><a href="/Item/23760.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：108&#xD;发表时间：2026年10月08日">关于本周开展主题班会活动的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：131&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一…</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23762.aspx" target="_blank" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：45&#xD;发表时间：2026年10月08日">关于成立第八届家长委员会的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：57&#xD;发表时间：2026年10月07日">9.30班级一日考核</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：51&#xD;发表时间：2026年10月07日">9.28班级一日考核</a><span class="dateRight">[10-07]</span></li><li class="last"><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23754.aspx" target="_self" title="标题：9.29班级一日考核&#xD;点击数：49&#xD;发表时间：26年10月07日">9.29班级一日考核</a>[ 10-07 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23759.aspx" target="_self" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：130&#xD;发表时间：26年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a>[ 10-07 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23759.aspx" target="_self" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：131&#xD;发表时间：26年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a>[ 10-07 ]</div>
                         </div>
                     </div>
 
