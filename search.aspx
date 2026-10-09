@@ -350,9 +350,9 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-10-08</span><a href="/Item/23767.aspx" target="_blank" title="标题：高一晚自修（10.11-10.16）&#xD;点击数：13&#xD;发表时间：2026年10月08日">高一晚自修（10.11-10.16）</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：49&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23765.aspx" target="_blank" title="标题：10.7班级一日考核&#xD;点击数：26&#xD;发表时间：2026年10月08日">10.7班级一日考核</a></li>
+  <li><span class="date">2026-10-08</span><a href="/Item/23767.aspx" target="_blank" title="标题：高一晚自修（10.11-10.16）&#xD;点击数：14&#xD;发表时间：2026年10月08日">高一晚自修（10.11-10.16）</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：52&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23765.aspx" target="_blank" title="标题：10.7班级一日考核&#xD;点击数：28&#xD;发表时间：2026年10月08日">10.7班级一日考核</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23764.aspx" target="_blank" title="标题：学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定&#xD;点击数：4&#xD;发表时间：2026年10月08日">学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：100&#xD;发表时间：2026年10月08日">数学教研活动通知</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：152&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a></li>
