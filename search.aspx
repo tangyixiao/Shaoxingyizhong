@@ -350,25 +350,25 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-10-09</span><a href="/Item/23769.aspx" target="_blank" title="标题：求真实验室招新考试&#xD;点击数：39&#xD;发表时间：2026年10月09日">求真实验室招新考试</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23767.aspx" target="_blank" title="标题：高一晚自修（10.11-10.16）&#xD;点击数：41&#xD;发表时间：2026年10月08日">高一晚自修（10.11-10.16）</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：112&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a></li>
+  <li><span class="date">2026-10-09</span><a href="/Item/23769.aspx" target="_blank" title="标题：求真实验室招新考试&#xD;点击数：43&#xD;发表时间：2026年10月09日">求真实验室招新考试</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23767.aspx" target="_blank" title="标题：高一晚自修（10.11-10.16）&#xD;点击数：42&#xD;发表时间：2026年10月08日">高一晚自修（10.11-10.16）</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：115&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23765.aspx" target="_blank" title="标题：10.7班级一日考核&#xD;点击数：41&#xD;发表时间：2026年10月08日">10.7班级一日考核</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23764.aspx" target="_blank" title="标题：学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定&#xD;点击数：6&#xD;发表时间：2026年10月08日">学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23764.aspx" target="_blank" title="标题：学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定&#xD;点击数：7&#xD;发表时间：2026年10月08日">学时登记：2026暑假博雅•模拟联合国大会校内会活动学分认定</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：113&#xD;发表时间：2026年10月08日">数学教研活动通知</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：160&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：161&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a></li>
 <li><span class="date">2026-10-08</span><a href="/Item/23762.aspx" target="_blank" title="标题：关于成立第八届家长委员会的通知&#xD;点击数：93&#xD;发表时间：2026年10月08日">关于成立第八届家长委员会的通知</a></li>
-<li><span class="date">2026-10-08</span><a href="/Item/23760.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：150&#xD;发表时间：2026年10月08日">关于本周开展主题班会活动的通知</a></li>
+<li><span class="date">2026-10-08</span><a href="/Item/23760.aspx" target="_blank" title="标题：关于本周开展主题班会活动的通知&#xD;点击数：151&#xD;发表时间：2026年10月08日">关于本周开展主题班会活动的通知</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：160&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23758.aspx" target="_blank" title="标题：热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖&#xD;点击数：36&#xD;发表时间：2026年10月07日">热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23757.aspx" target="_blank" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：43&#xD;发表时间：2026年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23758.aspx" target="_blank" title="标题：热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖&#xD;点击数：37&#xD;发表时间：2026年10月07日">热烈祝贺！我校1985届校友叶军院士获2026年沃尔夫物理学奖</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23757.aspx" target="_blank" title="标题：秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中&#xD;点击数：44&#xD;发表时间：2026年10月07日">秋启新章 社团风采飞扬  ——2026年社团纳新火热进行中</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23756.aspx" target="_blank" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：66&#xD;发表时间：2026年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23755.aspx" target="_blank" title="标题：9.30班级一日考核&#xD;点击数：62&#xD;发表时间：2026年10月07日">9.30班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23754.aspx" target="_blank" title="标题：9.29班级一日考核&#xD;点击数：52&#xD;发表时间：2026年10月07日">9.29班级一日考核</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23753.aspx" target="_blank" title="标题：9.28班级一日考核&#xD;点击数：53&#xD;发表时间：2026年10月07日">9.28班级一日考核</a></li>
-<li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：183&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
+<li><span class="date">2026-10-07</span><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：184&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a></li>
 <li><span class="date">2026-10-07</span><a href="/Item/23750.aspx" target="_blank" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：236&#xD;发表时间：2026年10月07日">教工趣味地滚球接力比赛成绩公告</a></li>
-<li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：280&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
+<li><span class="date">2026-10-06</span><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：281&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a></li>
 <li><span class="date">2026-10-06</span><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：77&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23744.aspx" target="_blank" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：101&#xD;发表时间：2026年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：63&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a></li>
@@ -376,13 +376,13 @@ function GetUserInfo1(response){
 <li><span class="date">2026-09-30</span><a href="/Item/23745.aspx" target="_blank" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：94&#xD;发表时间：2026年09月30日">高三晚自修（10.4-10.11）</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23768.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于理科一支部委员会增补选举结果的批复&#xD;点击数：180&#xD;发表时间：2026年09月30日">中共绍兴市第一中学委员会关于理科一支部委员会增补选举结果的批复</a></li>
 <li><span class="date">2026-09-30</span><a href="/Item/23751.aspx" target="_blank" title="标题：任前公示通告&#xD;点击数：274&#xD;发表时间：2026年09月30日">任前公示通告</a></li>
-<li><span class="date">2026-09-30</span><a href="/Item/23743.aspx" target="_blank" title="标题：创新班学部10月4日至10月16日晚自习安排&#xD;点击数：118&#xD;发表时间：2026年09月30日">创新班学部10月4日至10月16日晚自习安排</a></li>
+<li><span class="date">2026-09-30</span><a href="/Item/23743.aspx" target="_blank" title="标题：创新班学部10月4日至10月16日晚自习安排&#xD;点击数：119&#xD;发表时间：2026年09月30日">创新班学部10月4日至10月16日晚自习安排</a></li>
 <li><span class="date">2026-09-29</span><a href="/Item/23742.aspx" target="_blank" title="标题：高三10月8-10日强基联盟测试时间安排&#xD;点击数：246&#xD;发表时间：2026年09月29日">高三10月8-10日强基联盟测试时间安排</a></li>
 <li><span class="date">2026-09-29</span><a href="/Item/23741.aspx" target="_blank" title="标题：每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示&#xD;点击数：5&#xD;发表时间：2026年09月29日">每周一学（2026年9月28日-10月4日）习近平就建设更高水平平安中国作出重要指示</a></li>
-<li><span class="date">2026-09-29</span><a href="/Item/23740.aspx" target="_blank" title="标题：两则社团课通知&#xD;点击数：112&#xD;发表时间：2026年09月29日">两则社团课通知</a></li>
+<li><span class="date">2026-09-29</span><a href="/Item/23740.aspx" target="_blank" title="标题：两则社团课通知&#xD;点击数：114&#xD;发表时间：2026年09月29日">两则社团课通知</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23739.aspx" target="_blank" title="标题：Mortis&#xD;点击数：4&#xD;发表时间：2026年09月28日">Mortis</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23738.aspx" target="_blank" title="标题：踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛&#xD;点击数：73&#xD;发表时间：2026年09月28日">踏歌而行，向光奔跑 ——绍兴一中开展校园跑操比赛</a></li>
-<li><span class="date">2026-09-28</span><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：61&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></li>
+<li><span class="date">2026-09-28</span><a href="/Item/23737.aspx" target="_blank" title="标题：数理化齐开花！绍兴一中创新学部学子竞赛捷报频传&#xD;点击数：62&#xD;发表时间：2026年09月28日">数理化齐开花！绍兴一中创新学部学子竞赛捷报频传</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：35&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23735.aspx" target="_blank" title="标题：“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名&#xD;点击数：32&#xD;发表时间：2026年09月28日">“乒”搏赛场，载誉而归  ——我校在2026年市直中学生乒乓球比赛中获女团第二名、男团第三名</a></li>
 <li><span class="date">2026-09-28</span><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：24&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a></li>
