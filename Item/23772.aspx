@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
@@ -5,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>教师成长-绍兴市第一中学</title>
+    <title>绍兴一中排球队招收新队员通知--教学处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -35,9 +36,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
 
 </head>
-
-<body>
-    <div id="top">
+<div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
 <div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
@@ -247,11 +246,11 @@ function GetUserInfo1(response){
 <li class="li2 last2" id="liID378">
   <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1 on1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
   <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
 </li>
-<li class="li2 on2" id="liID383">
+<li class="li2" id="liID383">
   <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
@@ -342,21 +341,32 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
+
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_8/Index.aspx">教学科研</a></h3>
+        <h3><a href="/Category_20/Index.aspx">学校公告</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_77/Index.aspx">教研成果</a></li>
-<li class="li2 on"><a href="/Category_383/Index.aspx">教师成长</a></li>
-<li class="li3"><a href="/Category_387/Index.aspx">教科动态</a></li>
-<li class="li4 last"><a href="/Category_380/Index.aspx">校际交流</a></li>
+			<li class="li1 first"><a href="/Category_25/Index.aspx">党政办</a></li>
+<li class="li2 on"><a href="/Category_26/Index.aspx">教学处</a></li>
+<li class="li3"><a href="/Category_36/Index.aspx">教科室</a></li>
+<li class="li4"><a href="/Category_27/Index.aspx">德育处</a></li>
+<li class="li5"><a href="/Category_30/Index.aspx">团委</a></li>
+<li class="li6"><a href="/Category_31/Index.aspx">总务处</a></li>
+<li class="li7"><a href="/Category_28/Index.aspx">安全处</a></li>
+<li class="li8"><a href="/Category_29/Index.aspx">信息处</a></li>
+<li class="li9"><a href="/Category_32/Index.aspx">工会</a></li>
+<li class="li10"><a href="/Category_392/Index.aspx">龙山书院</a></li>
+<li class="li11"><a href="/Category_393/Index.aspx">创新学部</a></li>
+<li class="li12"><a href="/Category_33/Index.aspx">高一</a></li>
+<li class="li13"><a href="/Category_34/Index.aspx">高二</a></li>
+<li class="li14 last"><a href="/Category_35/Index.aspx">高三</a></li>
 		</ul>
 	</div>
 </div>
@@ -364,90 +374,82 @@ function GetUserInfo1(response){
 		if( jQuery("#sideMenuBox .bd li").size()==0 ){ jQuery("#sideMenuBox").hide() }
 	</script>
 
-            <div class="box sideBox" >
-	<div class="hd">
-		<h3>推荐阅读</h3>
-	</div>
-	<div class="bd">
-		<ul class="sideinfoList">
-			
-            <li class="first"><a href="/Item/18782.aspx" target="_blank" title="标题：改善师生关系，让课堂充满生命活力&#xD;点击数：118&#xD;发表时间：2023年11月08日">改善师生关系，让课堂充满生命活力</a><span class="dateRight">[11-08]</span></li><li><a href="/Item/18781.aspx" target="_blank" title="标题：理解和践行教育家精神&#xD;点击数：32&#xD;发表时间：2023年11月08日">理解和践行教育家精神</a><span class="dateRight">[11-08]</span></li><li><a href="/Item/18384.aspx" target="_blank" title="标题：新时代教学管理中的质量意识&#xD;点击数：37&#xD;发表时间：2023年09月12日">新时代教学管理中的质量意识</a><span class="dateRight">[09-12]</span></li><li><a href="/Item/17847.aspx" target="_blank" title="标题：课堂教学的收尾技巧&#xD;点击数：148&#xD;发表时间：2023年05月08日">课堂教学的收尾技巧</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/17846.aspx" target="_blank" title="标题：课堂教学的导入技巧&#xD;点击数：106&#xD;发表时间：2023年05月08日">课堂教学的导入技巧</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/17689.aspx" target="_blank" title="标题：求助&#xD;点击数：188&#xD;发表时间：2023年04月17日">求助</a><span class="dateRight">[04-17]</span></li><li class="last"><a href="/Item/17671.aspx" target="_blank" title="标题：怎样阅读语文教材&#xD;点击数：153&#xD;发表时间：2023年04月12日">怎样阅读语文教材</a><span class="dateRight">[04-12]</span></li>
+            <div class="box sideBox">
+                <div class="hd">
+                    <h3>推荐阅读</h3>
+                </div>
+                <div class="bd">
+                    <ul class="sideinfoList">
+                        
+            <li class="first"><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9679&#xD;发表时间：2026年10月10日">作息时间调整通知</a><span class="dateRight">[10-10]</span></li><li><a href="/Item/23772.aspx" target="_blank" title="标题：绍兴一中排球队招收新队员通知&#xD;点击数：47&#xD;发表时间：2026年10月10日">绍兴一中排球队招收新队员通知</a><span class="dateRight">[10-10]</span></li><li><a href="/Item/23749.aspx" target="_blank" title="标题：高三10.08联盟考试监考安排和学生考场安排&#xD;点击数：320&#xD;发表时间：2026年10月06日">高三10.08联盟考试监考安排和学生考场安排</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：137&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23763.aspx" target="_blank" title="标题：数学教研活动通知&#xD;点击数：124&#xD;发表时间：2026年10月08日">数学教研活动通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li class="last"><a href="/Item/23708.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会秩序册&#xD;点击数：557&#xD;发表时间：2026年09月22日">2026年绍兴一中教育集团秋季运动会秩序册</a><span class="dateRight">[09-22]</span></li>
           
-		</ul>
-	</div>
-</div>
-
-
-
-
-	
+                    </ul>
+                </div>
+            </div>
         </div>
         <!-- mainContent S -->
         <div class="mainContent">
             <div class="mainBox">
-<div class="colSreach">
-  
-
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=383>教师成长</option></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
-      <option value="content">文章内容</option>
-      <option value="author">文章作者</option>
-      <option value="inputer">录 入 者</option>
-      <option value="keyword">关键字</option>
-    </select></label><label><input id="keyword_PowerEasy" class="inputxt" onfocus="this.value='';" maxlength="100" size="30" value="" name="Keyword" /></label>
-   <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
-   <label> 
-   <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/search.aspx?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
-    <script language="javascript" type="text/javascript">
-    function OnSearchCheckAndSubmit2(){
-        var keyword = document.getElementById("keyword_PowerEasy").value;
-        if (keyword == '' || keyword == null) {
-            alert("请填写您想搜索的关键词");
-            return;
-        }
-        else {        
-            var nodeSel = document.getElementById("nodeId");
-            var fieldOptionSel = document.getElementById("fieldOption");
-            var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
-            var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.aspx?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
-        }
-    }
-    </script>
-
-</div>
-
                 <div class="mHd">
                     <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Category_8/Index.aspx" target="_self">教学科研</a>&gt;
-    <a href="/Category_383/Index.aspx" target="_self">教师成长</a></div>
-                    <h3>教师成长</h3>
+    
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_20/Index.aspx" target="_self">学校公告</a>&gt;
+    <a href="/Category_26/Index.aspx" target="_self">教学处</a></div>
+                    <h3>教学处</h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
-                    <ul class="infoList">
-                        
-            <li class="first"><span class="date">2026-04-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23124.aspx" target="_self" title="标题：博雅育人 | 德育楷模风采录（第一期）  唐海燕：行者无疆，德润桃李&#xD;点击数：19&#xD;发表时间：2026年04月29日">博雅育人 | 德育楷模风采录（第一期）  唐海燕：行者无疆，德润桃李</a></li><li><span class="date">2026-03-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22855.aspx" target="_self" title="标题：凝心聚力迎新秀，精耕细作育英才  ——我校举行浙江师范大学、绍兴大学实习教师见面会&#xD;点击数：10&#xD;发表时间：2026年03月13日">凝心聚力迎新秀，精耕细作育英才  ——我校举行浙江师范大学、绍兴大学实习教师见面会</a></li><li><span class="date">2025-12-19</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22518.aspx" target="_self" title="标题：博雅育人 | 德育名师风采录（第四期）&#xD;点击数：48&#xD;发表时间：2025年12月19日">博雅育人 | 德育名师风采录（第四期）</a></li><li><span class="date">2025-11-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22330.aspx" target="_self" title="标题：以德育博雅 | 德育名师风采录（第三期）&#xD;点击数：12&#xD;发表时间：2025年11月25日">以德育博雅 | 德育名师风采录（第三期）</a></li><li><span class="date">2025-11-25</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22331.aspx" target="_self" title="标题：聚焦育人实践，探索专业路径：  绍兴一中“博雅·养新”班主任成长工作坊开班仪式暨专题培训顺利举行&#xD;点击数：6&#xD;发表时间：2025年11月25日">聚焦育人实践，探索专业路径：  绍兴一中“博雅·养新”班主任成长工作坊开班仪式暨专题培训顺利举行</a></li><li class="split"></li><li><span class="date">2025-10-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22052.aspx" target="_self" title="标题：深研经典篇目，共话教学提升  ——语文组开展9月主题校本教研活动&#xD;点击数：7&#xD;发表时间：2025年10月10日">深研经典篇目，共话教学提升  ——语文组开展9月主题校本教研活动</a></li><li><span class="date">2025-10-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/22039.aspx" target="_self" title="标题：同课异构显风采  专题教研促提升&#xD;点击数：7&#xD;发表时间：2025年10月09日">同课异构显风采  专题教研促提升</a></li><li><span class="date">2025-09-22</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21949.aspx" target="_self" title="标题：博雅育人 | 德育名师风采录（第一期）&#xD;点击数：7&#xD;发表时间：2025年09月22日">博雅育人 | 德育名师风采录（第一期）</a></li><li><span class="date">2025-08-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/21909.aspx" target="_self" title="标题：赋能新起点，蓄力新征程  ——绍兴一中教育集团第二期新教师培训圆满完成&#xD;点击数：26&#xD;发表时间：2025年08月30日">赋能新起点，蓄力新征程  ——绍兴一中教育集团第二期新教师培训圆满完成</a></li><li><span class="date">2023-11-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18782.aspx" target="_self" title="标题：改善师生关系，让课堂充满生命活力&#xD;点击数：118&#xD;发表时间：2023年11月08日">改善师生关系，让课堂充满生命活力</a></li><li class="split"></li><li><span class="date">2023-11-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18781.aspx" target="_self" title="标题：理解和践行教育家精神&#xD;点击数：32&#xD;发表时间：2023年11月08日">理解和践行教育家精神</a></li><li><span class="date">2023-09-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18384.aspx" target="_self" title="标题：新时代教学管理中的质量意识&#xD;点击数：37&#xD;发表时间：2023年09月12日">新时代教学管理中的质量意识</a></li><li><span class="date">2023-05-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17847.aspx" target="_self" title="标题：课堂教学的收尾技巧&#xD;点击数：148&#xD;发表时间：2023年05月08日">课堂教学的收尾技巧</a></li><li><span class="date">2023-05-08</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17846.aspx" target="_self" title="标题：课堂教学的导入技巧&#xD;点击数：106&#xD;发表时间：2023年05月08日">课堂教学的导入技巧</a></li><li><span class="date">2023-04-17</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17689.aspx" target="_self" title="标题：求助&#xD;点击数：188&#xD;发表时间：2023年04月17日">求助</a></li><li class="split"></li><li><span class="date">2023-04-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17671.aspx" target="_self" title="标题：怎样阅读语文教材&#xD;点击数：153&#xD;发表时间：2023年04月12日">怎样阅读语文教材</a></li><li><span class="date">2023-04-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17648.aspx" target="_self" title="标题：精心时刻&#xD;点击数：145&#xD;发表时间：2023年04月10日">精心时刻</a></li><li><span class="date">2023-04-06</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17617.aspx" target="_self" title="标题：送礼物&#xD;点击数：259&#xD;发表时间：2023年04月06日">送礼物</a></li><li><span class="date">2023-04-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17600.aspx" target="_self" title="标题：助人&#xD;点击数：82&#xD;发表时间：2023年04月03日">助人</a></li><li><span class="date">2023-03-31</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17575.aspx" target="_self" title="标题：赞扬&#xD;点击数：128&#xD;发表时间：2023年03月31日">赞扬</a></li><li class="split"></li><li><span class="date">2023-03-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17563.aspx" target="_self" title="标题：一对一会议&#xD;点击数：126&#xD;发表时间：2023年03月30日">一对一会议</a></li><li><span class="date">2023-03-29</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17555.aspx" target="_self" title="标题：交谈&#xD;点击数：80&#xD;发表时间：2023年03月29日">交谈</a></li><li><span class="date">2023-03-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17550.aspx" target="_self" title="标题：如何让管理有效&#xD;点击数：58&#xD;发表时间：2023年03月28日">如何让管理有效</a></li><li class="last"><span class="date">2023-03-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/17551.aspx" target="_self" title="标题：怎样建立制度才能合乎人性&#xD;点击数：79&#xD;发表时间：2023年03月28日">怎样建立制度才能合乎人性</a></li>
-          
-                    </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index.aspx">上一页</a>
- <b><a href="Index.aspx">1</a></b> 
-<a href="Index.aspx">下一页</a>
- <a href="Index.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <!--startprint-->
+                    <div class="printArea">
+                        <!-- 标题 -->
+                        <h2 class="title">绍兴一中排球队招收新队员通知</h2>
+                        <!-- 副标题 -->
+                        <h3 class="subTitle"><span></span></h3>
+                        <script>
+                        $(".Subheading span:empty").parent().hide()
+                        </script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年10月10日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23772"></script>
+    次</span>  <span><span id="content_AdminEdit"></span>
+<script type="text/javascript">
+$(document).ready(function()
+{
+    $.pe.ajax('admineditcheck',{params:{itemId:23772},success:function(s) {
+        if ($(s).find('status').text() == 'OK') {
+            var managedir = "/Common/GetContentEdit.aspx?itemId=23772";
+           $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
+        }
+    }});
+});
+</script></span> </div>
+                        <div class="conTxt"> 
+      
+     <p style="font-family: Calibri;font-size: 14pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">绍兴一中</span><span style="font-family: Calibri;font-size: 14pt;margin: 0;padding: 0;">排球队招收新队员通知</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">绍兴一中排球队历史悠久，多次在绍兴市直中学生阳光体育运动会排球比赛中取得优异成绩。</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">为提高我校</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">学生</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">排球运动水平，</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">丰富学生的课外活动及生活，提升学生身体素质。</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">现面向全校学生公开招收</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">男、女</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">排球队新队员。具体事宜如下：</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\10\202610100844368359.Jpeg" style="width: 4.21875in; height: 6.329861in" alt="202610100844365618.Jpeg" /></span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">一、报名条件</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">：</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">  1. 热爱排球运动，</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">有责任感及</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">良好的团队</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">协</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">作精神。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">  2. </span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">组织纪律性强，能够严格遵守排球队的各项规定，按时参加排球队训练。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">  3</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">. </span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">身高较高、身体素质较好、有排球运动经历者优先，</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">但非必备条件，欢迎零基础但热爱排球的同学加入。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">二</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">、报名地点</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">：锡麟</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">体育馆</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">三楼办公室金楚翰老师</span><span style="font-family: Calibri;font-size: 10.5pt;margin: 0;padding: 0;">。</span></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p>
+    
+    </div><!--endprint-->
+                        <div class="userControl">
+                            <a href="javascript:doPrint()">【打印正文】</a>
+    
+                        </div>
+
+                        <div class="others">
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23766.aspx" target="_self" title="标题：学生证领取和注册通知&#xD;点击数：137&#xD;发表时间：26年10月08日">学生证领取和注册通知</a>[ 10-08 ]</div>
+                            <div class="next"><span>下一篇：没有了！</span></div>
+                        </div>
+                    </div>
+
                     <!-- 正文内容 E -->
                 </div>
             </div>
         </div>
         <!-- mainContent E -->
-        </div>
     </div>
-    <!--content-->
-    
+</div>
+<!--content-->
+
 <!-- footer S -->
 <div id="footer">
   <div class="siteWidth">
@@ -479,6 +481,23 @@ function GetUserInfo1(response){
 
 
 
+
+
+<script>
+jQuery(".conTxt p:has(img), .conTxt td:has(img)").addClass("center");
+</script>
+
+<script>
+        function doPrint() { 
+            bdhtml=window.document.body.innerHTML; //获取当前页的html代码
+            sprnstr="<!--startprint-->"; //设置打印开始区域
+            eprnstr="<!--endprint-->";//设置打印结束区域
+            prnhtml=bdhtml.substr(bdhtml.indexOf(sprnstr)+17);//从开始代码向后取html
+            prnhtml=prnhtml.substring(0,prnhtml.indexOf(eprnstr));//从结束代码向前取html
+            window.document.body.innerHTML=prnhtml;
+            window.print();
+        }
+    </script>
 
 
 </body>
