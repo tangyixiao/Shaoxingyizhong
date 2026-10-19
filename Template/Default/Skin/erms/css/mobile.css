@@ -1,0 +1,233 @@
+@charset "utf-8";
+/* =========================================================
+   mobile.css —— 绍兴一中静态归档站 手机适配
+   范围：仅 ≤1199px 生效（含 768–1199 过渡段，内嵌 ≤767 单列布局）；
+        ≥1200px 完全不受影响（所有规则都在 media 内）。
+   原则：配色/素材忠实原站（#e8dcc1 页头 / #5d4c4b 导航 / #d9c0a6 选中
+        / #960013 深红 / #ff9f40 橙），不新增图片素材，不改 a:hover 行为。
+   依赖（由外部 JS 注入，本文件只负责样式）：
+        1. 导航展开按钮 .m-nav-toggle 与子菜单开合类 .m-open
+        2. 宽表格外包容器 .m-table-wrap 及提示条 .m-table-hint
+   ========================================================= */
+
+/* ========== 一、总开关：≤1199px（含平板过渡段） ========== */
+@media screen and (max-width:1199px){
+
+  /* ---- 1.1 基础与全局 ---- */
+  html,body{overflow-x:hidden;}
+  html body{zoom:1 !important;}   /* 覆盖 default.css:143-145 的 zoom:0.8 */
+  body{min-width:0;}
+  .siteWidth{width:100%;max-width:none;padding-left:12px;padding-right:12px;box-sizing:border-box;}
+  #content img{max-width:100%;height:auto;}   /* 正文/列表图片不再撑破窄屏 */
+
+  /* ---- 1.2 顶条 #top：允许换行，行高≥30px，点击区≥44px ---- */
+  #top{min-width:0;height:auto;line-height:30px;}
+  #top .toplink a{display:inline-block;padding:7px 10px;line-height:30px;box-sizing:border-box;}
+  #top .links dt{padding:7px 10px 7px 25px;box-sizing:border-box;}
+  #top .links .wx dt{padding:7px 10px 7px 0;}
+  #top .links .site dd{width:auto;max-width:calc(100vw - 24px);}   /* 原 600px 站点地图浮层兜底 */
+
+  /* ---- 1.3 主导航：十项常显、自动换行多行、禁横向滚动 ---- */
+  /* 结构：.nav > .siteWidth > #mainNav(ul.mainNav) > li.li1 —— 选择器须跨过 .siteWidth */
+  .nav{height:auto;line-height:1.4;}
+  .nav ul.mainNav,#mainNav{display:flex;flex-wrap:wrap;}
+  #mainNav > li{float:none;flex:1 1 auto;width:auto !important;min-width:120px;height:auto;min-height:44px;line-height:1.4;box-sizing:border-box;}
+  #mainNav > li > h4{width:auto;}
+  #mainNav > li > h4 > a{display:block;box-sizing:border-box;min-height:44px;padding:12px 44px 12px 10px;text-align:left;}
+  /* JS 注入按钮内的文字做视觉隐藏（sr-only）：仅 .m-js 时按钮才存在 */
+  .m-tt{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0;}
+  /* 子菜单改文档流展开（原 position:absolute/top:50px 全部失效化） */
+  .nav ul li .ul1{position:static;width:100%;padding:6px 0;background:#d9c0a6;}
+  .nav ul li .ul1 li{float:none;width:100%;height:auto;min-height:44px;line-height:1.5;text-align:left;}
+  .nav ul li .ul1 li a{padding:12px 15px;box-sizing:border-box;}
+  /* 原负 left 偏移 / 固定宽规则（#ulID6/7/8/9/10/39/389 等）失效化 */
+  #mainNav .ul1{left:auto;right:auto;top:auto;}
+  #mainNav #ulID6,#mainNav #ulID7,#mainNav #ulID8,#mainNav #ulID9,
+  #mainNav #ulID10,#mainNav #ulID39,#mainNav #ulID389{width:100%;}
+  #mainNav #ulID6 li{width:100%;}
+  /* JS 注入的展开按钮：≥44×44，右侧对齐；▶ 旋转 90° = ▼ */
+  .m-nav-toggle{position:absolute;right:0;top:0;width:44px;height:44px;padding:0;border:0;background:none;color:inherit;font-size:14px;line-height:44px;text-align:center;cursor:pointer;}
+  .m-nav-toggle:before{content:"▶";display:inline-block;font-size:12px;transition:transform .2s;}
+  .m-nav-toggle[aria-expanded="true"]:before{transform:rotate(90deg);}
+  .m-nav-toggle[aria-expanded="true"]{background:rgba(0,0,0,.12);}
+  /* JS 加 .m-open 后展开子菜单（支持类加在 li 或 .ul1 上两种写法） */
+  #mainNav li.m-open > .ul1,#mainNav .ul1.m-open{display:block;}
+  /* 子菜单展开时脱离 li 布局限制：跨整行文档流（li 设 flex-basis:100% 独占一行） */
+  #mainNav li.m-open{flex-basis:100% !important;}
+  #mainNav li.m-open > h4 > a{min-height:44px;}
+
+  /* ---- 1.4 首页大块：取消固定宽，768–1199 同样生效防撑破 ---- */
+  #indBanner .prev{left:10px;margin:0;}
+  #indBanner .next{left:auto;right:10px;margin:0;}
+  #indBanner .hd{left:0;right:0;margin:0;}
+  #indBanner .bd li img{width:100%;height:100%;object-fit:cover;}
+  .tempWrap{max-width:100%;overflow:hidden !important;}   /* SuperSlide 内联 px 宽兜底 */
+  #columnA .mainContent{width:100%;float:none;}
+  #columnA .side{width:100%;float:none;margin:0;}
+  #columnA .side .bd ul{margin-right:0;}
+  #columnA .side .bd ul div{width:100%;float:none;margin:0 0 20px;}
+  #indPic04{width:100%;float:none;}
+  .indlinks{width:100%;float:none;padding-top:10px;}
+  .indlinks ul{margin-right:0;}
+  #columnF .box,#columnG .box{width:100%;}
+  #columnF #News01,#columnG #News01{margin-right:0;}
+  #indPic03 .bd ul li{width:49.5%;}   /* 原 216px 固定改自适应两列 */
+
+  /* ---- 1.5 栏目页过渡段：455/1135 等固定宽兜底 ---- */
+  .banner{min-width:0;}
+  .pageBoxLoop{width:100%;}
+  .pageBox{width:calc(50% - 10px);}
+  .hdlist{width:100%;box-sizing:border-box;}
+  .focusBox{max-width:100%;}
+  .focusBox .bd .pic img{max-width:100%;height:auto;}
+  .printArea .conTxt img{max-width:100%;}
+  .printArea .vedioPlayer{max-width:100%;}   /* 原 800px 在过渡段会溢出 */
+  .pageSlide .pe_u_thumb{width:100%;height:auto;float:none;margin:0 0 10px;}   /* 原 600px 固定宽 */
+  .pageSlide .pe_u_thumb img{width:100%;height:auto;}
+  .pageSlide .pe_u_thumb_title,.pageSlide .intro{width:100%;max-height:none;}
+  .pageSlide .slideNav{position:static;width:100%;text-align:center;}
+  .mainBox .mHd h3{float:none;height:auto;line-height:1.5;padding:10px 0 6px;}
+  .mainBox .mHd .path{float:none;width:auto;height:auto;line-height:1.8;text-align:left;white-space:normal;padding:0 0 8px;}
+
+  /* ---- 1.7 图集页（photoatlas.css 固定宽：.container 1200 / .pic-main 930 /
+        #ePicList 1200 / #BottomPicList 887 / .conTxt 960 / #content.noSideContent 1140 /
+        #efpBigPic #d_BigPic 856 —— 全部流式化，缩略图条可横滚 ---- */
+  #content.container,.container{width:100%;max-width:100%;box-sizing:border-box;}
+  .pic-main,#ePicList,#BottomPicList,#content.noSideContent,.pic-imgInfo .conTxt{width:100%;box-sizing:border-box;}
+  #eFramePic,#efpBigPic,#d_BigPic{max-width:100%;width:auto;box-sizing:border-box;}
+  #efpBigPic img,#d_BigPic img,#eFramePic img{max-width:100%;height:auto;}
+  #BottomPicList #efpPicList,#BottomPicList .efpPicListBox{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;}
+  #BottomPicList ul{width:auto !important;min-width:max-content;}
+  .pic-header .eControl,.pic-header .ecCont,.pic-header .SpeedBox{max-width:100%;overflow:hidden;}
+
+  /* ---- 1.8 FTP 链接提示（ftp:// 链接加「校内 FTP」说明） ---- */
+  a[href^="ftp://"]::after{content:"（校内 FTP）";font-size:12px;color:#999;}
+
+  /* ---- 1.9 宽表格横滚（JS 在 ≤1199 即包 .m-table-wrap，样式须同层级生效，
+        不能只写在 ≤767 段，否则 768–1199 过渡段宽表溢出） ---- */
+  .m-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:10px 0;}
+  .m-table-wrap table{min-width:max-content;}
+  .m-table-hint{font-size:12px;color:#999;line-height:18px;margin:0 0 6px;}
+
+  /* ---- 1.10 无 JS 退路：html 未加 .m-js 时（脚本被禁用/加载失败），
+        子菜单无法点击展开 —— 窄屏下强制全部展开，保证导航可达 ---- */
+  html:not(.m-js) #mainNav .ul1{display:block;}
+  html:not(.m-js) .s-form input{font-size:16px;}
+
+  /* ---- 1.6 页脚：固定高与绝对定位整体改文档流纵排 ---- */
+  #footer{height:auto;}
+  .siteWidth1{width:100%;margin:0;box-sizing:border-box;}
+  #footer .logo{position:static;margin-bottom:10px;}
+  #footer .footerNav{margin-left:0;}
+  #footer .copyRight{position:static;width:auto;margin:0 0 14px;}
+  #footer .dw,#footer .wx,#footer .xcxewm{position:static;display:inline-block;vertical-align:top;margin:0 12px 12px 0;box-sizing:border-box;}
+  #footer .wx,#footer .xcxewm{width:80px;padding:4px;}
+  #footer .wx img,#footer .xcxewm img{width:100%;height:auto;}
+  #footer .dw{display:none;}   /* 站点徽标隐藏，两个二维码保留并缩到 80px */
+
+  /* ========== 二、单列主布局：≤767px ========== */
+  @media screen and (max-width:767px){
+
+    /* ---- 2.1 顶条与页头 ---- */
+    #top{position:static;padding:4px 0;}
+    #top .date,#top .toplink,#top .links{float:none;}
+    #header{height:auto;padding:14px 0 18px;}
+    #header .logo{position:static;width:auto;max-width:100%;overflow:visible;}
+    #header .logo img{max-width:100%;height:auto;max-height:none;}   /* 校徽校名等比缩放不裁切，居左 */
+    #header .link{display:none;}   /* 登录区悬浮遮挡，隐藏 */
+    .s-form{position:static;width:100%;height:44px;display:flex;align-items:stretch;}
+    .s-form .input-box{float:none;flex:1 1 auto;width:auto;}
+    .s-form input{float:none;width:100%;height:44px;line-height:44px;padding:0 12px;font-size:16px;box-sizing:border-box;}
+    .s-form .btn-box{float:none;flex:0 0 44px;width:44px;}
+    .s-form .btn{width:44px;height:44px;line-height:44px;background-position:5px -145px;}
+
+    /* ---- 2.2 首页各栏目 ---- */
+    #indBanner .bd li{height:180px;}
+    .navPic ul li{width:49.9%;}
+    .aboutLink li{width:49.9%;}
+    #tzgg{height:auto;}   /* 原 342px 固定高改自适应 */
+    #xyzx .bd .topicList .t{width:100%;float:none;}
+    #xstd .bd{height:auto;}
+    #xstd .bd .ul1{width:100%;float:none;margin:0 0 20px;}
+    .indlinks li{width:calc(50% - 10px);}   /* 两列 */
+    .indlinks li a{width:auto;box-sizing:border-box;padding-left:70px;}
+    #indPic04 .bd ul li{width:48% !important;}   /* 原规则带 !important，须同级覆盖 */
+    #columnC ul li{height:auto;}   /* 保持两列，高度自适应 */
+    #columnC ul li .con{height:auto;padding:16px;}
+    #columnC ul li .con .title{padding-top:6px;}
+    #quickLink .bd{height:auto;padding:30px 0 20px;}
+    #quickLink .bd li{padding:0 6px;}   /* 快速通道 3~4 列自动换行 */
+    .friendLinks h3{float:none;padding:0 0 8px;}
+    .friendLinks .con{margin-right:0;}
+    .friendLinks select{width:100%;margin:0 0 10px;height:40px;line-height:40px;font-size:16px;}
+
+    /* ---- 2.3 栏目页 / 列表页 ---- */
+    .banner{height:180px;background-position:center;}
+    .banner a{height:180px;}
+    .side{width:100%;float:none;margin:0 0 20px;}
+    .mainContent{width:100%;float:none;}
+    #sideMenu .hd{height:auto;padding:12px 12px 12px 16px;font:20px/1.4 "microsoft yahei";white-space:normal;text-overflow:clip;}
+    #sideMenu .hd a{width:auto;white-space:normal;display:inline;}
+    .path{height:auto;line-height:1.8;white-space:normal;}   /* 单行省略改可换行 */
+    .mainBox .mHd{height:auto;}
+    .mainBox .mHd h3{float:none;height:auto;line-height:1.5;padding:10px 0 6px;}
+    .mainBox .mHd .path{float:none;width:auto;height:auto;line-height:1.8;text-align:left;white-space:normal;padding:0 0 8px;}
+    .mainBox .mBd{padding:12px;}
+    .pageBox{width:100%;}
+    .pageBox .bd{height:auto;}
+    .colSreach{padding:10px 12px;}
+    .colSreach label{display:block;margin:0 0 10px;}
+    .colSreach label input,.colSreach label select{width:100%;height:44px;line-height:42px;font-size:16px;box-sizing:border-box;}
+    .colSreach label .input_button{display:block;width:100%;min-height:44px;height:auto;font-size:16px;padding:10px;box-sizing:border-box;}
+    .sideBox{padding:0 10px;}
+    .infoList li,.topicList li.n{height:auto;min-height:40px;line-height:24px;padding-top:8px;padding-bottom:8px;box-sizing:border-box;}
+    .topicList li.n{background-position:0 18px;}
+
+    /* ---- 2.4 文章内容页 ---- */
+    .articleCon{padding:12px;}
+    .printArea .title{font-size:22px;line-height:1.5;padding:16px 8px;}
+    .printArea .subTitle{font-size:16px;}
+    .printArea .conTxt{padding:0;margin-bottom:40px;}
+    .printArea .conTxt img{max-width:100%;}
+    .printArea .conTxt a{word-break:break-all;}   /* 长 URL 断行 */
+    .printArea .vedioPlayer{width:100%;height:auto;min-height:180px;}
+    .printArea .userControl .a{float:none;display:inline-block;padding:10px 10px 10px 0;}
+    .printArea .others .prev,
+    .printArea .others .next{display:block;float:none;min-height:44px;padding:10px 0;line-height:24px;box-sizing:border-box;}
+    /* 宽表格：JS 给宽表格外包 .m-table-wrap 后横向滚动，内容不裁切丢失
+       （容器样式已在 §1.9 于整个 ≤1199 段生效） */
+    .m-table-wrap{margin:10px 0;}
+
+    /* ---- 2.5 分页 / 留言等 ---- */
+    .page{font-size:14px;line-height:1.5;}
+    .page a,.page span{font-size:14px;padding:10px 14px;margin:3px;line-height:20px;white-space:normal;box-sizing:border-box;}
+    .page select{height:36px;line-height:36px;font-size:14px;}
+    .newsList li{height:auto;min-height:40px;line-height:24px;padding:8px 5px 8px 18px;font-size:15px;background-position:0 18px;box-sizing:border-box;}
+    .msgMenu ul{height:auto;}
+    .msgMenu ul li{height:40px;line-height:40px;padding:0 12px;}
+    .Showms{padding:16px;}
+    #message_form{padding:12px;}
+    #message_form td input,#message_form td textarea{max-width:100%;font-size:16px;}
+    .VCode input{width:100% !important;max-width:220px;}
+    #msgList,#content .msgDetial{width:100%;}
+
+    /* ---- 2.6 图文混排列表（600×340 缩略图改流式） ---- */
+    .pageSlide .pe_u_thumb{width:100%;height:auto;float:none;margin:0 0 10px;}
+    .pageSlide .pe_u_thumb img{width:100%;height:auto;}
+    .pageSlide .pe_u_thumb_title{width:100%;margin:10px 0;max-height:none;}
+    .pageSlide .intro{width:100%;height:auto;}
+    .pageSlide .slideNav{position:static;width:100%;height:auto;margin:10px 0;text-align:center;}
+  }
+
+  /* ========== 三、小屏微调：≤479px ========== */
+  @media screen and (max-width:479px){
+    #columnC ul li{width:100%;}   /* 单列 */
+    #relativeInfo li{width:100%;}
+    .friendLinkList li{width:100%;padding:0 0 0 18px;box-sizing:border-box;background-position:0 16px;}
+    .picPageList li{width:49.9%;}
+    .topicHasPic .pic{width:120px;}
+    .topicHasPic .pic img{width:100%;height:auto;}
+    .topicHasPic .con{margin-left:132px;}
+  }
+}
+/*mobile.css*/

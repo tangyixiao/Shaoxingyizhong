@@ -55,6 +55,20 @@ ICON_LINK_RE = re.compile(
     r"<link\b[^>]*\brel\s*=\s*[\"'](?:shortcut\s+)?icon[\"'][^>]*>",
     re.IGNORECASE,
 )
+VIEWPORT_RE = re.compile(
+    r"<meta\b[^>]*\bname\s*=\s*[\"']viewport[\"'][^>]*>",
+    re.IGNORECASE,
+)
+MOBILE_CSS_RE = re.compile(
+    r"<link\b[^>]*\bhref\s*=\s*[\"'][^\"']*Mobile\.css[\"'][^>]*>",
+    re.IGNORECASE,
+)
+# Mobile adaptation tags injected before ``</head>`` on every rendered HTML
+# page (never on CSS text files, which share TEXT_SUFFIXES with HTML).
+HTML_SUFFIXES = {".aspx", ".html", ".htm"}
+MOBILE_CSS_PATH = "Template/Default/Skin/erms/css/mobile.css"
+MOBILE_JS_PATH = "Template/Default/Skin/erms/js/mobile.js"
+HEAD_CLOSE_RE = re.compile(r"</head\s*>", re.IGNORECASE)
 
 
 def rewrite_text(text: str, base_path: str) -> str:
@@ -91,6 +105,23 @@ def add_favicon_link(text: str, base_path: str) -> str:
         count=1,
         flags=re.IGNORECASE,
     )
+
+
+def add_mobile_tags(text: str, base_path: str) -> str:
+    """Inject viewport meta and the mobile CSS/JS bundle before ``</head>``."""
+    match = HEAD_CLOSE_RE.search(text)
+    if match is None:
+        return text
+    if VIEWPORT_RE.search(text) or MOBILE_CSS_RE.search(text):
+        return text
+    base = "/" + base_path.strip("/") + "/"
+    tags = (
+        '<meta name="viewport" content="width=device-width, initial-scale=1">',
+        f'<link rel="stylesheet" type="text/css" href="{base}{MOBILE_CSS_PATH}">',
+        f'<script type="text/javascript" src="{base}{MOBILE_JS_PATH}"></script>',
+    )
+    injection = "\n    " + "\n    ".join(tags) + "\n"
+    return text[: match.start()] + injection + text[match.start() :]
 
 
 def should_skip(relative: Path) -> bool:
@@ -134,7 +165,12 @@ def render_text_file(
         )
         unresolved.update(download_unresolved)
     rendered = rewrite_text(text, base_path)
-    return add_favicon_link(rendered, base_path), unresolved
+    rendered = add_favicon_link(rendered, base_path)
+    if path.suffix.lower() in HTML_SUFFIXES:
+        # Only true HTML pages take head tags; CSS files sharing
+        # TEXT_SUFFIXES must stay plain text.
+        rendered = add_mobile_tags(rendered, base_path)
+    return rendered, unresolved
 
 
 def build_site(
