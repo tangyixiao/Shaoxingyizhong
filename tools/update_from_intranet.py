@@ -162,7 +162,6 @@ def main() -> int:
         str(INCREMENTAL_STATE / "publish_state.txt"),
         "--commit",
         "--push",
-        "--include-deletions",
         "--message",
         args.message,
     ]

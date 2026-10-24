@@ -45,6 +45,7 @@ class UpdateCommandTests(unittest.TestCase):
             self.assertEqual(crawl[crawl.index("--workers") + 1], workers)
             self.assertEqual("--verbose" in crawl, "--verbose" in options)
             publish = run.call_args_list[2].args[0]
+            self.assertNotIn("--include-deletions", publish)
             self.assertEqual(
                 publish[publish.index("--state-file") + 1], str(root / "publish_state.txt")
             )
