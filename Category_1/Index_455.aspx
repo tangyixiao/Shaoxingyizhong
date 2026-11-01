@@ -3,9 +3,9 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta content="绍兴市第一中学" name="Keywords" />
-    <meta content="绍兴市第一中学" name="Description" />
-    <title>新闻中心-绍兴市第一中学</title>
+    <meta content="" name="Keywords" />
+    <meta content="" name="Description" />
+    <title>-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -40,7 +40,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
     <div id="top">
 	<div class="siteWidth">
 		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+<div class="toplink"><a href="" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
                             <a href="/Item/1380.aspx" target="_blank">办公电话</a> | 
@@ -126,208 +126,7 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1 on1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
-				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
-</li>
-<li class="li2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
-</li>
-<li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Category_22/Index.aspx">工作安排</a></h4>
-</li>
-<li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Category_23/Index.aspx">校长专栏</a></h4>
-</li>
-<li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Category_24/Index.aspx">校务公开</a></h4>
-</li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
-				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Category_112/Index.aspx">建校史略</a></h4>
-</li>
-<li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Category_113/Index.aspx">昔日校园</a></h4>
-</li>
-<li class="li2" id="liID376">
-  <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
-</li>
-<li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
-</li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
-				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
-</li>
-<li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
-</li>
-<li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Category_45/Index.aspx">管理团队</a></h4>
-</li>
-<li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Category_49/Index.aspx">—中校歌</a></h4>
-</li>
-<li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Category_41/Index.aspx">校园风光</a></h4>
-</li>
-<li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Category_10/Index.aspx">奖教奖学</a></h4>
-</li>
-<li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Category_42/Index.aspx">学校荣誉</a></h4>
-</li>
-<li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
-</li>
-			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
-				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
-</li>
-<li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Category_54/Index.aspx">清廉学校</a></h4>
-</li>
-<li class="li2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Category_55/Index.aspx">学习专栏</a></h4>
-</li>
-<li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Category_56/Index.aspx">先锋故事</a></h4>
-</li>
-<li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Category_58/Index.aspx">课余党校</a></h4>
-</li>
-<li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
-</li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
-				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
-</li>
-<li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
-</li>
-<li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
-</li>
-<li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Category_71/Index.aspx">名师工作室</a></h4>
-</li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
-				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Category_381/Index.aspx">家校合力</a></h4>
-</li>
-<li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Category_386/Index.aspx">德育活动</a></h4>
-</li>
-<li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Category_102/Index.aspx">博雅讲座</a></h4>
-</li>
-<li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
-</li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
-				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
-</li>
-<li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Category_73/Index.aspx">数学竞赛</a></h4>
-</li>
-<li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Category_74/Index.aspx">物理竞赛</a></h4>
-</li>
-<li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
-</li>
-<li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
-</li>
-<li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Category_373/Index.aspx">天文竞赛</a></h4>
-</li>
-<li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
-</li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
-				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
-</li>
-<li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
-</li>
-<li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Category_387/Index.aspx">教科动态</a></h4>
-</li>
-<li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
-</li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
-				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
-</li>
-<li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
-</li>
-<li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Category_100/Index.aspx">社团风采</a></h4>
-</li>
-<li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Category_103/Index.aspx">艺术教育</a></h4>
-</li>
-<li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Category_105/Index.aspx">校园安全</a></h4>
-</li>
-<li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Category_368/Index.aspx">实践学分</a></h4>
-</li>
-<li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Category_369/Index.aspx">饮水思源</a></h4>
-</li>
-<li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Category_388/Index.aspx">志愿活动</a></h4>
-</li>
-<li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Category_382/Index.aspx">校园活动</a></h4>
-</li>
-			</ul></li></ul><script type="text/javascript">
-			jQuery(function($){
-				var navST;
-				var name='mainNav';
-				var t=200;
-				var type='2';
-				var removeOn='false';
-				var effect='slide';
-				var appendItem = '#';
-				var li="#"+name+" li";
-
-				if( !$("#"+name+" .li1").hasClass("on1") ){ $("#"+name+" .li1").first().addClass("on1"); } //默认第一个加.on1类
-				if(type=='1'){ li="#"+name+" .li1"; }
-				if( appendItem!='#'){ //插入内容
-				var appendHtml = $(appendItem).html();  $(li).first().append( appendHtml );  $(appendItem).remove(); }
-
-				if(type=='3'){ $("#"+name+" .on1").find("ul").first().show(); }
-
-				$(li).hover(function(){
-					var curItem = $(this);
-					var onNum = (curItem.attr("class").split(" "))[0].replace("li","");
-					$(li).removeClass("on"+onNum); curItem.addClass("on"+onNum);
-					navST = setTimeout(function(){//延时触发
-					
-					if( $("ul:first",curItem).css("display") !="block" ){ $(li+" .ul"+onNum).hide(); 
-						if( effect=='fade') $("ul:first",curItem).fadeIn(t);
-						else $("ul:first",curItem).slideDown(t);
-					};
-					navST = null;
-					},t);
-				}, function(){
-					if(navST!=null)clearTimeout(navST);
-					if(type=='1' || type=='2'){ 
-						if( effect=='fade') $(this).find("ul").first().fadeOut(t); 
-						else $(this).find("ul").first().slideUp(t); 
-					}
-					if (removeOn=='true') {  $(this).removeClass("on1"); }
-					},t); //end hover
-			});
-			</script>
+      
 	</div>
 </div>
 
@@ -342,22 +141,18 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/UploadFiles/202206251236160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/) no-repeat center;"></a>
     </div>
 <div id="content">
     <div class="siteWidth">
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Category_1/Index.aspx">新闻中心</a></h3>
+        <h3>static</h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Category_20/Index.aspx">学校公告</a></li>
-<li class="li2"><a href="/Category_21/Index.aspx">一中新闻</a></li>
-<li class="li3"><a href="/Category_22/Index.aspx">工作安排</a></li>
-<li class="li4"><a href="/Category_23/Index.aspx">校长专栏</a></li>
-<li class="li5 last"><a href="/Category_24/Index.aspx">校务公开</a></li>
+			
 		</ul>
 	</div>
 </div>
@@ -372,8 +167,6 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/23878.aspx" target="_blank" title="标题：周六社团课通知9则&#xD;点击数：133&#xD;发表时间：2026年10月30日">周六社团课通知9则</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23881.aspx" target="_blank" title="标题：10.30跑操量化考核反馈&#xD;点击数：37&#xD;发表时间：2026年10月30日">10.30跑操量化考核反馈</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23850.aspx" target="_blank" title="标题：关于“校友之家”活动中心启用的通知&#xD;点击数：166&#xD;发表时间：2026年10月26日">关于“校友之家”活动中心启用的通知</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23877.aspx" target="_blank" title="标题：热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩&#xD;点击数：53&#xD;发表时间：2026年10月30日">热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮…</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23161.aspx" target="_blank" title="标题：关于组织开展2026年中小学生（幼儿）“预防溺水”专题教育活动的通知&#xD;点击数：53&#xD;发表时间：2026年05月07日">关于组织开展2026年中小学生（幼儿）“预防溺水”专题教…</a><span class="dateRight">[05-07]</span></li><li><a href="/Item/23874.aspx" target="_blank" title="标题：10月份“美丽寝室”表彰公告&#xD;点击数：86&#xD;发表时间：2026年10月30日">10月份“美丽寝室”表彰公告</a><span class="dateRight">[10-30]</span></li><li class="last"><a href="/Item/23864.aspx" target="_blank" title="标题：高考报名工作相关通知（两则）&#xD;点击数：165&#xD;发表时间：2026年10月27日">高考报名工作相关通知（两则）</a><span class="dateRight">[10-27]</span></li>
-          
 		</ul>
 	</div>
 </div>
@@ -389,13 +182,7 @@ function GetUserInfo1(response){
 <div class="colSreach">
   
 
-    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"><option value=1>新闻中心</option><option value=20>&nbsp;&nbsp;学校公告</option>
-<option value=25>&nbsp;&nbsp;&nbsp;&nbsp;党政办</option><option value=26>&nbsp;&nbsp;&nbsp;&nbsp;教学处</option><option value=27>&nbsp;&nbsp;&nbsp;&nbsp;德育处</option><option value=28>&nbsp;&nbsp;&nbsp;&nbsp;安全处</option><option value=29>&nbsp;&nbsp;&nbsp;&nbsp;信息处</option><option value=30>&nbsp;&nbsp;&nbsp;&nbsp;团委</option><option value=31>&nbsp;&nbsp;&nbsp;&nbsp;总务处</option><option value=32>&nbsp;&nbsp;&nbsp;&nbsp;工会</option><option value=33>&nbsp;&nbsp;&nbsp;&nbsp;高一</option><option value=34>&nbsp;&nbsp;&nbsp;&nbsp;高二</option><option value=35>&nbsp;&nbsp;&nbsp;&nbsp;高三</option><option value=36>&nbsp;&nbsp;&nbsp;&nbsp;教科室</option><option value=392>&nbsp;&nbsp;&nbsp;&nbsp;龙山书院</option><option value=393>&nbsp;&nbsp;&nbsp;&nbsp;创新学部</option>
-<option value=21>&nbsp;&nbsp;一中新闻</option>
-<option value=37>&nbsp;&nbsp;&nbsp;&nbsp;学校新闻</option><option value=38>&nbsp;&nbsp;&nbsp;&nbsp;媒体一中</option>
-<option value=22>&nbsp;&nbsp;工作安排</option><option value=23>&nbsp;&nbsp;校长专栏</option><option value=24>&nbsp;&nbsp;校务公开</option>
-<option value=39>&nbsp;&nbsp;&nbsp;&nbsp;校务</option><option value=40>&nbsp;&nbsp;&nbsp;&nbsp;财务</option><option value=371>&nbsp;&nbsp;&nbsp;&nbsp;党务</option><option value=372>&nbsp;&nbsp;&nbsp;&nbsp;公开招标项目</option>
-</select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
+    栏目搜索：<label><select name="nodeId'" id="nodeId" size="1"></select></label><label><select name="fieldOption" id="fieldOption" size="1"><option value="title" selected>文章标题</option>
       <option value="content">文章内容</option>
       <option value="author">文章作者</option>
       <option value="inputer">录 入 者</option>
@@ -425,25 +212,15 @@ function GetUserInfo1(response){
 </div>
                 <div class="mHd">
 
-                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
-    
-    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a></div>
-                    <h3>新闻中心</h3>
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; </div>
+                    <h3></h3>
                 </div>
                 <div class="mBd">
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2016-01-07</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5219.aspx" target="_self" title="标题：“2016级信息学特长班”开班仪式近日举行&#xD;点击数：864&#xD;发表时间：2016年01月07日"><font style=";">“2016级信息学特长班”开班仪式近日举行</font></a></li><li><span class="date">2016-01-06</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5218.aspx" target="_self" title="标题：我校多门学科课程建设规划方案获奖&#xD;点击数：552&#xD;发表时间：2016年01月06日"><font style=";">我校多门学科课程建设规划方案获奖</font></a></li><li><span class="date">2016-01-06</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5217.aspx" target="_self" title="标题：五大著名高校招办主任亲自赴绍作高考宣讲，绍兴一中真是牛！&#xD;点击数：1584&#xD;发表时间：2016年01月06日"><font style=";">五大著名高校招办主任亲自赴绍作高考宣讲，绍兴一中真是牛！</font></a></li><li><span class="date">2016-01-06</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5216.aspx" target="_self" title="标题：五所全国著名高校“组团”来绍“抢人”&#xD;点击数：695&#xD;发表时间：2016年01月06日"><font style=";">五所全国著名高校“组团”来绍“抢人”</font></a></li><li><span class="date">2016-01-05</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5215.aspx" target="_self" title="标题：冬日里的一道艺术暖光&#xD;点击数：503&#xD;发表时间：2016年01月05日"><font style=";">冬日里的一道艺术暖光</font></a></li><li class="split"></li><li><span class="date">2015-12-30</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5214.aspx" target="_self" title="标题：我校在绍兴市第五届未成年人思想道德建设“希望奖”中获奖&#xD;点击数：473&#xD;发表时间：2015年12月30日"><font style=";">我校在绍兴市第五届未成年人思想道德建设“希望奖”中获奖</font></a></li><li><span class="date">2015-12-30</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5213.aspx" target="_self" title="标题：我校模联社出战省模联大会收获颇丰&#xD;点击数：484&#xD;发表时间：2015年12月30日"><font style=";">我校模联社出战省模联大会收获颇丰</font></a></li><li><span class="date">2015-12-29</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5212.aspx" target="_self" title="标题：中共绍兴一中委员会换届选举大会隆重召开&#xD;点击数：1359&#xD;发表时间：2015年12月29日"><font style=";">中共绍兴一中委员会换届选举大会隆重召开</font></a></li><li><span class="date">2015-12-29</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5211.aspx" target="_self" title="标题：彭佳学书记调研新绍兴一中建设&#xD;点击数：1458&#xD;发表时间：2015年12月29日"><font style=";">彭佳学书记调研新绍兴一中建设</font></a></li><li><span class="date">2015-12-29</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5210.aspx" target="_self" title="标题：9位老师成为市直名师工作室导师&#xD;点击数：644&#xD;发表时间：2015年12月29日"><font style=";">9位老师成为市直名师工作室导师</font></a></li><li class="split"></li><li><span class="date">2015-12-29</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5209.aspx" target="_self" title="标题：彭佳学书记调研新绍兴一中建设&#xD;点击数：512&#xD;发表时间：2015年12月29日"><font style=";">彭佳学书记调研新绍兴一中建设</font></a></li><li><span class="date">2015-12-29</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5208.aspx" target="_self" title="标题：培养引领未来发展的栋梁人才&#xD;点击数：292&#xD;发表时间：2015年12月29日"><font style=";">培养引领未来发展的栋梁人才</font></a></li><li><span class="date">2015-12-28</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5207.aspx" target="_self" title="标题：俞霞、吕海燕、朱时妙三位老师在2015年度省市高中教师实验技能大赛中获奖&#xD;点击数：617&#xD;发表时间：2015年12月28日"><font style=";">俞霞、吕海燕、朱时妙三位老师在2015年度省市高中教师实验技能大赛中获奖</font></a></li><li><span class="date">2015-12-25</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5206.aspx" target="_self" title="标题：绍兴市红十字黑板报比赛我校获三等奖&#xD;点击数：457&#xD;发表时间：2015年12月25日"><font style=";">绍兴市红十字黑板报比赛我校获三等奖</font></a></li><li><span class="date">2015-12-25</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5205.aspx" target="_self" title="标题：“北京大学&amp;#8226;绍兴地区部分优质重点高中高峰论坛”在我校举行&#xD;点击数：466&#xD;发表时间：2015年12月25日"><font style=";">“北京大学&amp;#8226;绍兴地区部分优质重点高中高峰论坛”在我校举行</font></a></li><li class="split"></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5204.aspx" target="_self" title="标题：唱响青春，开启艺术之门&#xD;点击数：556&#xD;发表时间：2015年12月23日"><font style=";">唱响青春，开启艺术之门</font></a></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5203.aspx" target="_self" title="标题：同课异构展风采&amp;nbsp;&amp;nbsp;&amp;nbsp;山海相连共追梦&#xD;点击数：398&#xD;发表时间：2015年12月23日"><font style=";">同课异构展风采   山海相连共追梦</font></a></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5202.aspx" target="_self" title="标题：我校被评为第三批市级节约型公共机构示范单位&#xD;点击数：266&#xD;发表时间：2015年12月23日"><font style=";">我校被评为第三批市级节约型公共机构示范单位</font></a></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5201.aspx" target="_self" title="标题：我校9门选修课程获得省市级精品（网络推荐）选修课程&#xD;点击数：387&#xD;发表时间：2015年12月23日"><font style=";">我校9门选修课程获得省市级精品（网络推荐）选修课程</font></a></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5200.aspx" target="_self" title="标题：北京大学“高中百校行”首站来到绍兴一中&#xD;点击数：688&#xD;发表时间：2015年12月23日"><font style=";">北京大学“高中百校行”首站来到绍兴一中</font></a></li><li class="split"></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5199.aspx" target="_self" title="标题：北大教授与10位绍兴中学校长畅谈&#xD;点击数：393&#xD;发表时间：2015年12月23日"><font style=";">北大教授与10位绍兴中学校长畅谈</font></a></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5198.aspx" target="_self" title="标题：“中国高中百校行”首站为何放在绍兴？&#xD;点击数：350&#xD;发表时间：2015年12月23日"><font style=";">“中国高中百校行”首站为何放在绍兴？</font></a></li><li><span class="date">2015-12-23</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5197.aspx" target="_self" title="标题：“中国高中百校行”首站放在绍兴&#xD;点击数：314&#xD;发表时间：2015年12月23日"><font style=";">“中国高中百校行”首站放在绍兴</font></a></li><li><span class="date">2015-12-22</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5196.aspx" target="_self" title="标题：“中国高中百校行”启动：绍兴一中成首站&#xD;点击数：1078&#xD;发表时间：2015年12月22日"><font style=";">“中国高中百校行”启动：绍兴一中成首站</font></a></li><li><span class="date">2015-12-22</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5195.aspx" target="_self" title="标题：吴军芳老师获得2015年绍兴市中小学实验教学优秀论文评比二等奖&#xD;点击数：374&#xD;发表时间：2015年12月22日"><font style=";">吴军芳老师获得2015年绍兴市中小学实验教学优秀论文评比二等奖</font></a></li><li class="split"></li><li><span class="date">2015-12-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_38/Index.aspx" target="_self">[媒体一中]</a><a href="/Item/5194.aspx" target="_self" title="标题：成人礼&#xD;点击数：329&#xD;发表时间：2015年12月21日"><font style=";">成人礼</font></a></li><li><span class="date">2015-12-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5193.aspx" target="_self" title="标题：大连市第二十高级中学来校访问考察&#xD;点击数：350&#xD;发表时间：2015年12月21日"><font style=";">大连市第二十高级中学来校访问考察</font></a></li><li><span class="date">2015-12-21</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5192.aspx" target="_self" title="标题：我校参加清华大学举办的全国重点中学校长会议&#xD;点击数：516&#xD;发表时间：2015年12月21日"><font style=";">我校参加清华大学举办的全国重点中学校长会议</font></a></li><li><span class="date">2015-12-10</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5191.aspx" target="_self" title="标题：欢迎光临，18岁！&#xD;点击数：845&#xD;发表时间：2015年12月10日"><font style=";">欢迎光临，18岁！</font></a></li><li><span class="date">2015-12-09</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5190.aspx" target="_self" title="标题：我校开展消防灭火器使用演练&#xD;点击数：716&#xD;发表时间：2015年12月09日"><font style=";">我校开展消防灭火器使用演练</font></a></li><li class="split"></li><li><span class="date">2015-12-02</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5188.aspx" target="_self" title="标题：唇枪舌战话科技，铁齿铜牙显睿智&#xD;点击数：612&#xD;发表时间：2015年12月02日"><font style=";">唇枪舌战话科技，铁齿铜牙显睿智</font></a></li><li><span class="date">2015-12-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5187.aspx" target="_self" title="标题：29个全国一等奖，我校信息学联赛成绩继续领跑全省&#xD;点击数：809&#xD;发表时间：2015年12月01日"><font style=";">29个全国一等奖，我校信息学联赛成绩继续领跑全省</font></a></li><li><span class="date">2015-12-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5186.aspx" target="_self" title="标题：远足——校外的课堂&#xD;点击数：517&#xD;发表时间：2015年12月01日"><font style=";">远足——校外的课堂</font></a></li><li><span class="date">2015-12-01</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5185.aspx" target="_self" title="标题：“你所不知道的园林植物”开讲啦&#xD;点击数：373&#xD;发表时间：2015年12月01日"><font style=";">“你所不知道的园林植物”开讲啦</font></a></li><li class="last"><span class="date">2015-11-27</span><img src="/images/ontop1.gif" alt="热门"><a class="node" href="/Category_37/Index.aspx" target="_self">[学校新闻]</a><a href="/Item/5184.aspx" target="_self" title="标题：绍兴一中120周年校庆征集令（第1号）&#xD;点击数：1750&#xD;发表时间：2015年11月27日"><font style=";">绍兴一中120周年校庆征集令（第1号）</font></a></li>
-          
                     </ul>
-                    <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->
- <a href="Index.aspx">首页</a>
- <a href="Index_454.aspx">上一页</a>
- <a href="Index_450.aspx">450</a> <a href="Index_451.aspx">451</a> <a href="Index_452.aspx">452</a> <a href="Index_453.aspx">453</a> <a href="Index_454.aspx">454</a> <b><a href="Index_455.aspx">455</a></b> <a href="Index_456.aspx">456</a> <a href="Index_457.aspx">457</a> <a href="Index_458.aspx">458</a> <a href="Index_459.aspx">459</a> <a href="Index_460.aspx">460</a> 
-<a href="Index_456.aspx">下一页</a>
- <a href="Index_581.aspx">尾页</a>
- <!--{pe.end.pagination}--></span></div>
+                    <div class="page"></div>
                     <!-- 正文内容 E -->
                 </div>
             </div>
@@ -460,15 +237,7 @@ function GetUserInfo1(response){
       <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
-<li class="spe">|</li>
-<li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
-<li class="spe">|</li>
-<li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
-<li class="spe">|</li>
-<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
-<li class="spe">|</li>
-<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
+        
       </ul>
 
       <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
