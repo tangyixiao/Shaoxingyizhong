@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23878.aspx" target="_blank" title="标题：周六社团课通知9则&#xD;点击数：133&#xD;发表时间：2026年10月30日">周六社团课通知9则</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23869.aspx" target="_blank" title="标题：团课地点更改通知&#xD;点击数：79&#xD;发表时间：2026年10月29日">团课地点更改通知</a><span class="dateRight">[10-29]</span></li><li><a href="/Item/23825.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：154&#xD;发表时间：2026年10月21日">第十八期团校上课通知</a><span class="dateRight">[10-21]</span></li><li><a href="/Item/23243.aspx" target="_blank" title="标题：学术节｜考古知识竞赛&#xD;点击数：113&#xD;发表时间：2026年05月19日">学术节｜考古知识竞赛</a><span class="dateRight">[05-19]</span></li><li><a href="/Item/22878.aspx" target="_blank" title="标题：关于2026寒期社会实践交流评比的通知&#xD;点击数：122&#xD;发表时间：2026年03月17日">关于2026寒期社会实践交流评比的通知</a><span class="dateRight">[03-17]</span></li><li><a href="/Item/21976.aspx" target="_blank" title="标题：第二十六届团学联主席团选举结果公示&#xD;点击数：188&#xD;发表时间：2025年09月25日">第二十六届团学联主席团选举结果公示</a><span class="dateRight">[09-25]</span></li><li class="last"><a href="/Item/21575.aspx" target="_blank" title="标题：2025高考志愿者开会通知&#xD;点击数：128&#xD;发表时间：2025年06月04日">2025高考志愿者开会通知</a><span class="dateRight">[06-04]</span></li>
+            <li class="first"><a href="/Item/23869.aspx" target="_blank" title="标题：团课地点更改通知&#xD;点击数：79&#xD;发表时间：2026年10月29日">团课地点更改通知</a><span class="dateRight">[10-29]</span></li><li><a href="/Item/23878.aspx" target="_blank" title="标题：周六社团课通知9则&#xD;点击数：135&#xD;发表时间：2026年10月30日">周六社团课通知9则</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23825.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：154&#xD;发表时间：2026年10月21日">第十八期团校上课通知</a><span class="dateRight">[10-21]</span></li><li><a href="/Item/23243.aspx" target="_blank" title="标题：学术节｜考古知识竞赛&#xD;点击数：113&#xD;发表时间：2026年05月19日">学术节｜考古知识竞赛</a><span class="dateRight">[05-19]</span></li><li><a href="/Item/22878.aspx" target="_blank" title="标题：关于2026寒期社会实践交流评比的通知&#xD;点击数：122&#xD;发表时间：2026年03月17日">关于2026寒期社会实践交流评比的通知</a><span class="dateRight">[03-17]</span></li><li><a href="/Item/21976.aspx" target="_blank" title="标题：第二十六届团学联主席团选举结果公示&#xD;点击数：188&#xD;发表时间：2025年09月25日">第二十六届团学联主席团选举结果公示</a><span class="dateRight">[09-25]</span></li><li class="last"><a href="/Item/21575.aspx" target="_blank" title="标题：2025高考志愿者开会通知&#xD;点击数：128&#xD;发表时间：2025年06月04日">2025高考志愿者开会通知</a><span class="dateRight">[06-04]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23865.aspx" target="_self" title="标题：第十八期团校上课通知&#xD;点击数：107&#xD;发表时间：26年10月28日">第十八期团校上课通知</a>[ 10-28 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23878.aspx" target="_self" title="标题：周六社团课通知9则&#xD;点击数：133&#xD;发表时间：26年10月30日">周六社团课通知9则</a>[ 10-30 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23878.aspx" target="_self" title="标题：周六社团课通知9则&#xD;点击数：135&#xD;发表时间：26年10月30日">周六社团课通知9则</a>[ 10-30 ]</div>
                         </div>
                     </div>
 
