@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：124&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23887.aspx" target="_blank" title="标题：期中考试考风考纪要求&#xD;点击数：88&#xD;发表时间：2026年11月02日">期中考试考风考纪要求</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23889.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：36&#xD;发表时间：2026年11月02日">大扫除通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23886.aspx" target="_blank" title="标题：室内升旗仪式通知&#xD;点击数：31&#xD;发表时间：2026年11月02日">室内升旗仪式通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li>
+            <li class="first"><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：130&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23887.aspx" target="_blank" title="标题：期中考试考风考纪要求&#xD;点击数：92&#xD;发表时间：2026年11月02日">期中考试考风考纪要求</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23889.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：41&#xD;发表时间：2026年11月02日">大扫除通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23886.aspx" target="_blank" title="标题：室内升旗仪式通知&#xD;点击数：31&#xD;发表时间：2026年11月02日">室内升旗仪式通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/20170.aspx" target="_blank" title="标题：2026学年第一学期绍兴一中包干区分配方案及打扫要求&#xD;点击数：2045&#xD;发表时间：2024年09月02日"><font style="font-weight:bold;font-style:normal;;">2026学年第一学期绍兴一中包干区分配方案及打扫要求</font></a><span class="dateRight">[09-02]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
           
                     </ul>
                 </div>
@@ -438,8 +438,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23889.aspx" target="_self" title="标题：大扫除通知&#xD;点击数：36&#xD;发表时间：26年11月02日">大扫除通知</a>[ 11-02 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23889.aspx" target="_self" title="标题：大扫除通知&#xD;点击数：41&#xD;发表时间：26年11月02日">大扫除通知</a>[ 11-02 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23895.aspx" target="_self" title="标题：10.30班级一日考核&#xD;点击数：5&#xD;发表时间：26年11月02日">10.30班级一日考核</a>[ 11-02 ]</div>
                         </div>
                     </div>
 
