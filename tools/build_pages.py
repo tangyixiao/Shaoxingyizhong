@@ -96,6 +96,25 @@ def add_favicon_link(text: str, base_path: str) -> str:
     )
 
 
+MOBILE_CSS_PATH = "Template/Default/Skin/erms/css/mobile.css"
+MOBILE_JS_PATH = "Template/Default/Skin/erms/js/mobile.js"
+
+
+def add_mobile_tags(text: str, base_path: str) -> str:
+    """Add missing mobile assets independently, preserving existing viewport settings."""
+    tags = []
+    if not re.search(r'<meta\b[^>]*\bname\s*=\s*["\']viewport["\']', text, re.I):
+        tags.append('<meta name="viewport" content="width=device-width, initial-scale=1">')
+    base = '/' + base_path.strip('/') + '/' if base_path.strip('/') else '/'
+    if not re.search(r'<link\b[^>]*\b(?:href)\s*=\s*["\'][^"\']*/mobile\.css(?:[?#][^"\']*)?["\']', text, re.I):
+        tags.append(f'<link rel="stylesheet" type="text/css" href="{base}{MOBILE_CSS_PATH}">')
+    if not re.search(r'<script\b[^>]*\bsrc\s*=\s*["\'][^"\']*/mobile\.js(?:[?#][^"\']*)?["\']', text, re.I):
+        tags.append(f'<script type="text/javascript" src="{base}{MOBILE_JS_PATH}"></script>')
+    if not tags:
+        return text
+    return re.sub(r'</head\s*>', lambda m: '\n' + '\n'.join(tags) + '\n' + m.group(), text, count=1, flags=re.I)
+
+
 def should_skip(relative: Path) -> bool:
     excluded = EXCLUDED_DIRS - {"UploadFiles"} if relative.parts[:1] == ("downloads",) else EXCLUDED_DIRS
     return any(part in excluded for part in relative.parts)
@@ -207,6 +226,8 @@ def build_site(
             rendered, unresolved = render_text_file(
                 path, base_path, routes, available_downloads
             )
+            if path.suffix.lower() in {".aspx", ".html", ".htm"}:
+                rendered = add_mobile_tags(rendered, base_path)
             if unresolved:
                 unresolved_by_file[relative.as_posix()] = sorted(unresolved)
             destination.write_text(rendered, encoding="utf-8", newline="")
