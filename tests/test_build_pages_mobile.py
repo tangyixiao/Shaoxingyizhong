@@ -7,6 +7,7 @@ from tools.build_pages import (
     MOBILE_JS_PATH,
     add_mobile_tags,
     build_site,
+    render_text_file,
 )
 
 
@@ -102,6 +103,14 @@ class BuildSiteMobileInjectionTests(unittest.TestCase):
                 self.assertIn(VIEWPORT_TAG, rendered)
                 self.assertIn(MOBILE_CSS_TAG, rendered)
                 self.assertIn(MOBILE_JS_TAG, rendered)
+
+    def test_render_for_crawler_does_not_change_stored_aliases(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / 'page.aspx'
+            source.write_text('<html><head></head><body>archive</body></html>', encoding='utf-8')
+            rendered, _ = render_text_file(source, '/Shaoxingyizhong/', None, set())
+            self.assertNotIn(MOBILE_CSS_PATH, rendered)
+            self.assertNotIn(MOBILE_JS_PATH, rendered)
 
     def test_build_site_copies_mobile_assets_and_keeps_css_plain(self):
         with tempfile.TemporaryDirectory() as tmp:

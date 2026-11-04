@@ -157,10 +157,7 @@ def render_text_file(
         )
         unresolved.update(download_unresolved)
     rendered = rewrite_text(text, base_path)
-    rendered = add_favicon_link(rendered, base_path)
-    if path.suffix.lower() in {".aspx", ".html", ".htm"}:
-        rendered = add_mobile_tags(rendered, base_path)
-    return rendered, unresolved
+    return add_favicon_link(rendered, base_path), unresolved
 
 
 def build_site(
@@ -229,6 +226,8 @@ def build_site(
             rendered, unresolved = render_text_file(
                 path, base_path, routes, available_downloads
             )
+            if path.suffix.lower() in {".aspx", ".html", ".htm"}:
+                rendered = add_mobile_tags(rendered, base_path)
             if unresolved:
                 unresolved_by_file[relative.as_posix()] = sorted(unresolved)
             destination.write_text(rendered, encoding="utf-8", newline="")
