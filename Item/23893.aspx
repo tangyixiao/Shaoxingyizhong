@@ -440,7 +440,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23866.aspx" target="_self" title="标题：关于家长开放日穿校服的通知&#xD;点击数：234&#xD;发表时间：26年10月28日">关于家长开放日穿校服的通知</a>[ 10-28 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23866.aspx" target="_self" title="标题：关于家长开放日穿校服的通知&#xD;点击数：235&#xD;发表时间：26年10月28日">关于家长开放日穿校服的通知</a>[ 10-28 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
