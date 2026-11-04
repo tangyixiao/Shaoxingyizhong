@@ -150,6 +150,7 @@
     /* ---- 2.1 顶条与页头 ---- */
     #top{position:static;padding:4px 0;}
     #top .date,#top .toplink,#top .links{float:none;}
+    #top .toplink,#top .m-top-toggle{display:none;}
     #header{height:auto;padding:14px 0 18px;}
     #header .logo{position:static;width:auto;max-width:100%;overflow:visible;}
     #header .logo img{max-width:100%;height:auto;max-height:none;}   /* 校徽校名等比缩放不裁切，居左 */
