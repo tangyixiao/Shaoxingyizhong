@@ -75,6 +75,47 @@
     if (!hasClass(html, 'm-js')) { html.className += ' m-js'; }
     html.setAttribute('data-m-mobile', '1');
 
+    /* Edge on Android cannot pinch below the initial device-width viewport.
+       Widen it only after an inward two-finger gesture starts at normal size.
+       Returning to normal size restores the original viewport and layout. */
+    function enableEdgePinchOut() {
+        var ua = navigator.userAgent || '', visual = window.visualViewport;
+        var meta = d.querySelector('meta[name="viewport"]');
+        if (!/Android/i.test(ua) || !/EdgA\//i.test(ua) || !visual || !meta ||
+            !/^\s*width\s*=\s*device-width\s*,\s*initial-scale\s*=\s*1\s*$/i.test(meta.content)) { return; }
+        var original = meta.content, active = false, distance = 0, timer;
+        function span(touches) {
+            var x = touches[0].clientX - touches[1].clientX;
+            var y = touches[0].clientY - touches[1].clientY;
+            return Math.sqrt(x * x + y * y);
+        }
+        function restore() {
+            if (active && visual.scale >= 0.99) { active = false; meta.content = original; }
+        }
+        function settle() {
+            if (timer) { window.clearTimeout(timer); }
+            timer = window.setTimeout(restore, 500);
+        }
+        d.addEventListener('touchstart', function (event) {
+            if (!active && event.touches.length === 2 && visual.scale <= 1.005) { distance = span(event.touches); }
+        }, { passive: true });
+        d.addEventListener('touchmove', function (event) {
+            if (!active && distance && event.touches.length === 2 && span(event.touches) < distance - 8) {
+                active = true;
+                meta.content = 'width=980,initial-scale=1,minimum-scale=0.25,maximum-scale=5';
+            }
+        }, { passive: true });
+        function end(event) {
+            if (event.touches.length < 2) { distance = 0; }
+            if (event.touches.length === 0) { settle(); }
+        }
+        d.addEventListener('touchend', end, { passive: true });
+        d.addEventListener('touchcancel', end, { passive: true });
+        visual.addEventListener('resize', function () { if (active) { settle(); } });
+    }
+    if (d.readyState === 'loading') { d.addEventListener('DOMContentLoaded', enableEdgePinchOut, false); }
+    else { enableEdgePinchOut(); }
+
     var mq = (typeof window.matchMedia === 'function') ? window.matchMedia('(max-width: 1199px)') : null;
     function isNarrow() { return !!(mq && mq.matches); }
 
