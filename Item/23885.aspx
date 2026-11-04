@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23884.aspx" target="_blank" title="标题：高三11.03诊断性监考安排和学生考场安排&#xD;点击数：201&#xD;发表时间：2026年10月31日">高三11.03诊断性监考安排和学生考场安排</a><span class="dateRight">[10-31]</span></li><li><a href="/Item/23885.aspx" target="_blank" title="标题：高三11.03诊断性考场布置及相关要求&#xD;点击数：87&#xD;发表时间：2026年10月31日">高三11.03诊断性考场布置及相关要求</a><span class="dateRight">[10-31]</span></li><li><a href="/Item/23888.aspx" target="_blank" title="标题：市田径比赛报名通知&#xD;点击数：115&#xD;发表时间：2026年11月02日">市田径比赛报名通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23864.aspx" target="_blank" title="标题：高考报名工作相关通知（两则）&#xD;点击数：165&#xD;发表时间：2026年10月27日">高考报名工作相关通知（两则）</a><span class="dateRight">[10-27]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9849&#xD;发表时间：2026年10月10日">作息时间调整通知</a><span class="dateRight">[10-10]</span></li><li class="last"><a href="/Item/23873.aspx" target="_blank" title="标题：关于高三体测抽测同学的通知&#xD;点击数：106&#xD;发表时间：2026年10月30日">关于高三体测抽测同学的通知</a><span class="dateRight">[10-30]</span></li>
+            <li class="first"><a href="/Item/23884.aspx" target="_blank" title="标题：高三11.03诊断性监考安排和学生考场安排&#xD;点击数：221&#xD;发表时间：2026年10月31日">高三11.03诊断性监考安排和学生考场安排</a><span class="dateRight">[10-31]</span></li><li><a href="/Item/23888.aspx" target="_blank" title="标题：市田径比赛报名通知&#xD;点击数：117&#xD;发表时间：2026年11月02日">市田径比赛报名通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23864.aspx" target="_blank" title="标题：高考报名工作相关通知（两则）&#xD;点击数：165&#xD;发表时间：2026年10月27日">高考报名工作相关通知（两则）</a><span class="dateRight">[10-27]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/13310.aspx" target="_blank" title="标题：作息时间调整通知&#xD;点击数：9849&#xD;发表时间：2026年10月10日">作息时间调整通知</a><span class="dateRight">[10-10]</span></li><li><a href="/Item/23873.aspx" target="_blank" title="标题：关于高三体测抽测同学的通知&#xD;点击数：106&#xD;发表时间：2026年10月30日">关于高三体测抽测同学的通知</a><span class="dateRight">[10-30]</span></li><li class="last"><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：80&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a><span class="dateRight">[10-06]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23884.aspx" target="_self" title="标题：高三11.03诊断性监考安排和学生考场安排&#xD;点击数：201&#xD;发表时间：26年10月31日">高三11.03诊断性监考安排和学生考场安排</a>[ 10-31 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23888.aspx" target="_self" title="标题：市田径比赛报名通知&#xD;点击数：115&#xD;发表时间：26年11月02日">市田径比赛报名通知</a>[ 11-02 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23884.aspx" target="_self" title="标题：高三11.03诊断性监考安排和学生考场安排&#xD;点击数：221&#xD;发表时间：26年10月31日">高三11.03诊断性监考安排和学生考场安排</a>[ 10-31 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23888.aspx" target="_self" title="标题：市田径比赛报名通知&#xD;点击数：117&#xD;发表时间：26年11月02日">市田径比赛报名通知</a>[ 11-02 ]</div>
                         </div>
                     </div>
 

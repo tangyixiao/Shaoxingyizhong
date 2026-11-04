@@ -419,7 +419,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23242.aspx">止战之殇</a></td>
     <td>kouzi1001</td>
-    <td>69</td>
+    <td>70</td>
     <td>2026-05-19</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
