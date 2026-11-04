@@ -24,6 +24,7 @@
   #top{position:static;min-width:0;height:auto;line-height:30px;}
   #top .siteWidth{display:flow-root;}
   html.m-js #top.m-top-collapsed .toplink{display:none;}
+  #top .m-top-toggle{min-height:36px;padding:4px 12px;border:1px solid #aaa;border-radius:4px;background:#fff;color:#4a3b3a;cursor:pointer;}
   #top .toplink a{display:inline-block;padding:7px 10px;line-height:30px;box-sizing:border-box;}
   #top .links dt{padding:7px 10px 7px 25px;box-sizing:border-box;}
   #top .links .wx dt{padding:7px 10px 7px 0;}
@@ -76,6 +77,15 @@
   #columnF #News01,#columnG #News01{margin-right:0;}
   #indPic03 .bd ul li{width:49.5%;}   /* 原 216px 固定改自适应两列 */
 
+  /* SuperSlide writes desktop pixel widths and an animated left offset inline.
+     Show the original items as a static grid on narrow screens. */
+  #indPic03 .bd .tempWrap,#indPic04 .bd .tempWrap{width:100% !important;height:auto !important;}
+  #indPic03 .bd ul,#indPic04 .bd ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;width:100% !important;height:auto !important;left:0 !important;position:static !important;}
+  #indPic03 .bd ul li,#indPic04 .bd ul li{float:none !important;width:auto !important;min-width:0;margin:0 !important;}
+  #indPic03 .bd ul li.clone,#indPic04 .bd ul li.clone{display:none !important;}
+  #indPic03 .bd ul li img,#indPic04 .bd ul li img{display:block;width:100%;height:auto;}
+  #indPic03 .bd ul li span,#indPic04 .bd ul li span{display:block;height:auto;line-height:1.5;white-space:normal;}
+
   /* ---- 1.5 栏目页过渡段：455/1135 等固定宽兜底 ---- */
   .banner{min-width:0;}
   .pageBoxLoop{width:100%;}
@@ -122,7 +132,11 @@
   /* ---- 1.6 页脚：固定高与绝对定位整体改文档流纵排 ---- */
   #footer{height:auto;}
   .siteWidth1{width:100%;margin:0;box-sizing:border-box;}
+  #footer .siteWidth{padding:20px 12px;font-size:14px;}
+  #footer .footerNav{line-height:2;}
+  #footer .copyRight,#footer .copyRight a,#footer .footerNav a{color:#e3d6d4;}
   #footer .logo{position:static;margin-bottom:10px;}
+  #footer .logo img{max-width:100%;height:auto;}
   #footer .footerNav{margin-left:0;}
   #footer .copyRight{position:static;width:auto;margin:0 0 14px;}
   #footer .dw,#footer .wx,#footer .xcxewm{position:static;display:inline-block;vertical-align:top;margin:0 12px 12px 0;box-sizing:border-box;}
@@ -151,13 +165,19 @@
     .navPic ul li{width:49.9%;}
     .aboutLink li{width:49.9%;}
     #tzgg{height:auto;}   /* 原 342px 固定高改自适应 */
+    #tzgg .hd{display:flex;flex-wrap:wrap;height:auto;}
+    #tzgg .hd h3{float:none;order:-2;}
+    #tzgg .hd .more{float:none;order:-1;margin-left:auto;}
+    #tzgg .keywords{float:none;order:1;width:100%;margin:0;}
+    #tzgg .keywords a{display:inline-block;white-space:nowrap;}
     #xyzx .bd .topicList .t{width:100%;float:none;}
     #xstd .bd{height:auto;}
     #xstd .bd .ul1{width:100%;float:none;margin:0 0 20px;}
     .indlinks li{width:calc(50% - 10px);}   /* 两列 */
     .indlinks li a{width:auto;box-sizing:border-box;padding-left:70px;}
-    #indPic04 .bd ul li{width:48% !important;}   /* 原规则带 !important，须同级覆盖 */
     #columnC ul li{width:100%;height:auto;}   /* 保持两列，高度自适应 */
+    #columnC ul li .pic,#columnC ul li.li3 .pic,#columnC ul li.li4 .pic{float:none;width:100%;}
+    #columnC ul li .pic img{display:block;width:100%;height:auto;}
     #columnC ul li .con{height:auto;padding:16px;}
     #columnC ul li .con .title{padding-top:6px;}
     #quickLink .bd{height:auto;padding:30px 0 20px;}

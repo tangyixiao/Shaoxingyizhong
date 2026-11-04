@@ -227,8 +227,9 @@
         var btn = d.createElement('button');
         btn.type = 'button';
         btn.className = 'm-top-toggle';
-        btn.setAttribute('aria-expanded', 'true');
-        btn.appendChild(d.createTextNode('收起常用链接'));
+        addClass(top, 'm-top-collapsed');
+        btn.setAttribute('aria-expanded', 'false');
+        btn.appendChild(d.createTextNode('展开常用链接'));
         host.insertBefore(btn, link);
         btn.onclick = function () {
             if (hasClass(top, 'm-top-collapsed')) {
