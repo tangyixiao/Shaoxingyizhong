@@ -7,9 +7,9 @@
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
     <title>博雅育人 | 德育名师风采录（第九期）--学校新闻-绍兴市第一中学</title>
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -27,10 +27,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -38,12 +38,12 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 </head>
 <div id="top">
 	<div class="siteWidth">
-		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Item/13310.aspx" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -53,10 +53,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div id="header">
     <div class="siteWidth">
 			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
-					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+					<a href="/"><img src="/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/User/index.aspx">登录</a>|<a href="/User/Register.aspx" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -125,167 +125,167 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Category_22/Index.aspx">工作安排</a></h4>
 </li>
 <li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Category_23/Index.aspx">校长专栏</a></h4>
 </li>
 <li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Category_24/Index.aspx">校务公开</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
 				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Category_112/Index.aspx">建校史略</a></h4>
 </li>
 <li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Category_113/Index.aspx">昔日校园</a></h4>
 </li>
 <li class="li2" id="liID376">
   <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
 </li>
 <li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
 <li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Category_45/Index.aspx">管理团队</a></h4>
 </li>
 <li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Category_49/Index.aspx">—中校歌</a></h4>
 </li>
 <li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Category_41/Index.aspx">校园风光</a></h4>
 </li>
 <li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Category_10/Index.aspx">奖教奖学</a></h4>
 </li>
 <li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Category_42/Index.aspx">学校荣誉</a></h4>
 </li>
 <li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
 				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Category_54/Index.aspx">清廉学校</a></h4>
 </li>
 <li class="li2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Category_55/Index.aspx">学习专栏</a></h4>
 </li>
 <li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Category_56/Index.aspx">先锋故事</a></h4>
 </li>
 <li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Category_58/Index.aspx">课余党校</a></h4>
 </li>
 <li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
 <li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Category_71/Index.aspx">名师工作室</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
 				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Category_381/Index.aspx">家校合力</a></h4>
 </li>
 <li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Category_386/Index.aspx">德育活动</a></h4>
 </li>
 <li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Category_102/Index.aspx">博雅讲座</a></h4>
 </li>
 <li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
 <li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Category_73/Index.aspx">数学竞赛</a></h4>
 </li>
 <li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Category_74/Index.aspx">物理竞赛</a></h4>
 </li>
 <li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
 <li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Category_373/Index.aspx">天文竞赛</a></h4>
 </li>
 <li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
 </li>
 <li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Category_387/Index.aspx">教科动态</a></h4>
 </li>
 <li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
 </li>
 <li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Category_100/Index.aspx">社团风采</a></h4>
 </li>
 <li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Category_103/Index.aspx">艺术教育</a></h4>
 </li>
 <li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Category_105/Index.aspx">校园安全</a></h4>
 </li>
 <li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Category_368/Index.aspx">实践学分</a></h4>
 </li>
 <li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Category_369/Index.aspx">饮水思源</a></h4>
 </li>
 <li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Category_388/Index.aspx">志愿活动</a></h4>
 </li>
 <li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Category_382/Index.aspx">校园活动</a></h4>
 </li>
 			</ul></li></ul><script type="text/javascript">
 			jQuery(function($){
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,12 +349,12 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h3>
+        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_37/Index.aspx">学校新闻</a></li>
-<li class="li2 last"><a href="/Shaoxingyizhong/Category_38/Index.aspx">媒体一中</a></li>
+			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
 </div>
@@ -369,7 +369,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Shaoxingyizhong/Item/23475.aspx" target="_blank" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：49&#xD;发表时间：2026年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，…</a><span class="dateRight">[07-03]</span></li><li><a href="/Shaoxingyizhong/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Shaoxingyizhong/Item/23489.aspx" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团…</a><span class="dateRight">[07-08]</span></li><li><a href="/Shaoxingyizhong/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Shaoxingyizhong/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：163&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li><li><a href="/Shaoxingyizhong/Item/23383.aspx" target="_blank" title="标题：与心相逢，向阳生长｜我校举行心理健康月系列活动&#xD;点击数：86&#xD;发表时间：2026年06月15日">与心相逢，向阳生长｜我校举行心理健康月系列活动</a><span class="dateRight">[06-15]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23043.aspx" target="_blank" title="标题：夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷&#xD;点击数：76&#xD;发表时间：2026年04月15日">夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷</a><span class="dateRight">[04-15]</span></li>
+            <li class="first"><a href="/Item/23847.aspx" target="_blank" title="标题：榜样领航明方向 奋楫争先迎诊断  ——2026学年第一学期高三年级学生表彰暨市诊断性测试动员大会举行&#xD;点击数：17&#xD;发表时间：2026年10月26日">榜样领航明方向 奋楫争先迎诊断  ——2026学年第一学期高…</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23846.aspx" target="_blank" title="标题：携手聚力育人，研思共启新篇  ——绍兴一中与仙居中学政治教研组联合教研&#xD;点击数：14&#xD;发表时间：2026年10月26日">携手聚力育人，研思共启新篇  ——绍兴一中与仙居中学政…</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23845.aspx" target="_blank" title="标题：金秋叙芳华 重阳映初心——我校举行离退休教职工重阳节活动暨离退休党支部主题党日活动&#xD;点击数：11&#xD;发表时间：2026年10月26日">金秋叙芳华 重阳映初心——我校举行离退休教职工重阳节活…</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23756.aspx" target="_blank" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：135&#xD;发表时间：2026年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会…</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23820.aspx" target="_blank" title="标题：榜样领航，奋楫争先 | 绍兴一中创新班学部举行期中学生大会&#xD;点击数：91&#xD;发表时间：2026年10月20日">榜样领航，奋楫争先 | 绍兴一中创新班学部举行期中学生大会</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li class="last"><a href="/Item/23819.aspx" target="_blank" title="标题：博雅启思促成长，养新笃行育芳华  ——绍兴一中教育集团2026学年“博雅·养新”班主任成长工作坊开班仪式暨专题培训&#xD;点击数：79&#xD;发表时间：2026年10月20日">博雅启思促成长，养新笃行育芳华  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li>
           
                     </ul>
                 </div>
@@ -379,13 +379,13 @@ function GetUserInfo1(response){
         <div class="mainContent">
             <div class="mainBox">
                 <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
     
-    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Shaoxingyizhong/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
-    <a href="/Shaoxingyizhong/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
                     <h3>学校新闻</h3>
                 </div>
                 <div class="mBd">
@@ -400,7 +400,7 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年07月02日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=23464"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23464"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
@@ -420,7 +420,7 @@ $(document).ready(function()
 </p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>沈栋啸</strong></span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">：中共党员，毕业于浙江师范大学，中学一级教师，现任高三（6）班班主任，2026届（6）班荣获202</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">4</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学年绍兴市直优秀班集体。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>以思育人，留白成长</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">如今，已是</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">沈栋啸老师</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">扎根绍兴一中讲台的第十二个年头。从教多年，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">始终叩问：一名班主任究竟要培养怎样的学生？在他看来，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">有了恰当的目标才能有效开展工作，时时陪伴、事事服从</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">只能</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">短期培养出听话守规矩的学生</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学生</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">会</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">像是戴了三年的“紧箍咒”，离开父母和学校便会失去自己独立思考判断的能力</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。他笃定，教育的核心是培育有思想、善思辨的青年，唯有拥有独立思考能力，无论步入大学</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">还是</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">社会</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学生</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">都能站稳脚跟</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">这也是很多一中学子能脱颖而出的原因。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>以史启思，宽容试错</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">沈栋啸</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">老师</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">有着一套自成体系、</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">张</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">弛有度的班级管理思路。他善用历史拓宽学生格局，将班会、日常谈心作为育人载体：从华夏文明源流讲到时代百年变迁，让学生读懂当下安稳生活来之不易，明晰自身身处创造奇迹的新时代，树立时代使命感。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他极少设置繁琐班规与量化考核。在他眼中，青春期学生明理懂事，刻板制度反而容易滋生投机取巧</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他相信，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">只要学生能从失误中修正认知</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">提升能力</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，犯错便具备成长价值。面对学校各项任务</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">和要求</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，他坚持：若事情是学生力所能及，便放手交由他们自主完成；若存在能力短板，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">作为班主任适当给出意见和建议即可。</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学生应当结合自己的实际情况作出判断和思考，在不断的思考和实践中逐步完善自我认知和人生观价值观，并逐步蜕变为一个有思想的青年。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;">
 </p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>共情疏导，民主治班</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在沈老师看来，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">高中生是一批有想法、敢探索、极具可塑性的青少年。但也正因如此，他们必然会面对这个时代越来越多的诱惑，极易受手机、短视频、游戏等外界诱惑干扰</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学生往往出现上课萎靡、作息紊乱等问题</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">严重时甚至</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">可能</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">引发身体疾病</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">这类问题通过</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">“</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">堵</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">”</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">的办法只能暂时解决而无法根治，根源在于学生缺少社会历练</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学生独立</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">思考往往会和父母</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">的</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">“经验主义”产生认知冲突，这便是叛逆期</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">这需要</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">老师</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">真正站在学生的立场考虑问题，过多的说教只会适得其反，多给学生试错成长的机会；对于班集体的各项事务</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">充分尊重学生</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">参与意愿，遵循先民主后集中的管理方式，将典型问题公开共同探讨，在思辨中提升学生认知。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
 </p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">一个集体的建立以及运转必然需要一支高效的班干部队伍。班长必须是最能团结同学的代表，在同学间有一定的威望并能完成班主任交代的任务；团支书需要有较好的组织宣传能力，能号召组织同学们参与到实践活动中；学委是班级中学习的佼佼者，在同学之中树立学习的榜样，更需要帮助同学们共同提高成绩；课代表是</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">各</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">课的佼佼者，负责作业布置和收</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">交</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，也是沟通的润滑剂；班级中还有一些热心班级事务</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">的同学</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，他们</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">可以</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">帮助班主任和班委完成任务。全体班委分工协作、互相配合，共建积极向上的班集体。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
-</p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他的存在感不在群里，在孩子心里。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">说实话，最初面对这位“不善言辞”的班主任，我是有些不适应的。可时间久了，我才恍然大悟——他把所有“留痕”的时间，都省下来做了实事。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">沈老师业务能力极强，孩子的成绩和思维提升骗不了人。但他最让我佩服的，是彻底的务实——有次我偶尔说起孩子吹空调容易头疼，他默默把班级座位整体前移，避免了整排孩子空调直吹。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他不刷存在感，但每次关键节点，比如选科、考前心理调适，他总能在最恰当的时候给出最精准的建议。真正的教育，不需要镜头记录；真正的负责，不需要群聊证明。 这种“不表演、不打扰、只托底”的风格，给了孩子最踏实的成长空间。遇到这样的班主任，是我们家的福气。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">——2026届高三6班周立锴家长</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">得遇良师，人生至幸。由衷感谢班主任兼数学老师沈老师三年半来对孩子的悉心教导和指引。沈老师数学专业功底深厚，讲课逻辑清晰、深入浅出，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">深受</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">孩子钦佩和喜欢</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">作为班主任，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他能做到</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">关爱、理解和尊重学生，及时解答疑惑、疏导情绪、化解焦虑，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他还</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">善用博学的知识和独到的见解做好学生个人成长引领。感恩沈老师的辛勤付出！遇见沈老师是孩子和家长的福气！</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">——2026届高三6班郑天楷家长</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607021052136210.png" style="max-width: 100%; " title="202607021052136210.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607021052137709.png" style="max-width: 100%; " title="202607021052137709.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607021052139024.png" style="max-width: 100%; " title="202607021052139024.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607021052130459.png" style="max-width: 100%; " title="202607021052130459.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/7/202607021052137679.png" style="max-width: 100%; " title="202607021052137679.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"></span>
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他的存在感不在群里，在孩子心里。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">说实话，最初面对这位“不善言辞”的班主任，我是有些不适应的。可时间久了，我才恍然大悟——他把所有“留痕”的时间，都省下来做了实事。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">沈老师业务能力极强，孩子的成绩和思维提升骗不了人。但他最让我佩服的，是彻底的务实——有次我偶尔说起孩子吹空调容易头疼，他默默把班级座位整体前移，避免了整排孩子空调直吹。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他不刷存在感，但每次关键节点，比如选科、考前心理调适，他总能在最恰当的时候给出最精准的建议。真正的教育，不需要镜头记录；真正的负责，不需要群聊证明。 这种“不表演、不打扰、只托底”的风格，给了孩子最踏实的成长空间。遇到这样的班主任，是我们家的福气。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">——2026届高三6班周立锴家长</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">得遇良师，人生至幸。由衷感谢班主任兼数学老师沈老师三年半来对孩子的悉心教导和指引。沈老师数学专业功底深厚，讲课逻辑清晰、深入浅出，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">深受</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">孩子钦佩和喜欢</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">作为班主任，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他能做到</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">关爱、理解和尊重学生，及时解答疑惑、疏导情绪、化解焦虑，</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他还</span><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">善用博学的知识和独到的见解做好学生个人成长引领。感恩沈老师的辛勤付出！遇见沈老师是孩子和家长的福气！</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;text-indent: 0.33in;"><span style="color: #000000;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">——2026届高三6班郑天楷家长</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p><p><img src="/UploadFiles/xwzx/2026/7/202607021052136210.png" style="max-width: 100%; " title="202607021052136210.png" /></p><p><img src="/UploadFiles/xwzx/2026/7/202607021052137709.png" style="max-width: 100%; " title="202607021052137709.png" /></p><p><img src="/UploadFiles/xwzx/2026/7/202607021052139024.png" style="max-width: 100%; " title="202607021052139024.png" /></p><p><img src="/UploadFiles/xwzx/2026/7/202607021052130459.png" style="max-width: 100%; " title="202607021052130459.png" /></p><p><img src="/UploadFiles/xwzx/2026/7/202607021052137679.png" style="max-width: 100%; " title="202607021052137679.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"></span>
 </p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="color: #000000;font-size: 12pt;margin: 0;padding: 0;"> </span></p>
     
     </div><!--endprint-->
@@ -430,8 +430,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/23453.aspx" target="_self" title="标题：百所名校面对面，精准指导心连心  ——绍兴一中举办2026年高校招生咨询会&#xD;点击数：87&#xD;发表时间：26年06月30日">百所名校面对面，精准指导心连心  ——绍兴一中举办2026年高校…</a>[ 06-30 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/23475.aspx" target="_self" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：49&#xD;发表时间：26年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与…</a>[ 07-03 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23453.aspx" target="_self" title="标题：百所名校面对面，精准指导心连心  ——绍兴一中举办2026年高校招生咨询会&#xD;点击数：88&#xD;发表时间：26年06月30日">百所名校面对面，精准指导心连心  ——绍兴一中举办2026年高校…</a>[ 06-30 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23475.aspx" target="_self" title="标题：博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与坚守&#xD;点击数：54&#xD;发表时间：26年07月03日">博雅育人 | 德育楷模风采录（第二期）施笑程：德育之路，爱与…</a>[ 07-03 ]</div>
                         </div>
                     </div>
 
@@ -448,25 +448,25 @@ $(document).ready(function()
 <div id="footer">
   <div class="siteWidth">
 
-      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+      <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
-      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
 
-      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
-      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
-      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Template/Default/Skin/erms/img/xcxewm.png" />
   </div>  
 </div>
 <!-- footer E -->

@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
 <head>
+    <link rel="icon" type="image/png" href="/Shaoxingyizhong/favicon.ico">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
@@ -25,7 +26,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
  -->
 
 <script type="text/javascript">
-    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.html',skinPath: '/Template/Default/Skin/'};
 </script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
@@ -42,8 +43,8 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.html" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.html" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.html" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -56,7 +57,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.html">登录</a>|<a href="/Shaoxingyizhong/User/Register.html" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -82,7 +83,7 @@ function CheckIsLogin1(){
 }
 
 function GetUserInfo1(response){
-    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.html>"+ jQuery(response).find('username').text() + "</a> | ";
     userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
     userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
     return userInfo;
@@ -113,7 +114,7 @@ function GetUserInfo1(response){
                     return;
                 } else {
 
-                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                    window.location = '/search/s.html?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
                 }
             }
             </script>
@@ -341,8 +342,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:none no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -401,14 +401,14 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年01月08日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22616"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.html?id=22616"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
     $.pe.ajax('admineditcheck',{params:{itemId:22616},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=22616";
+            var managedir = "/Common/GetContentEdit.html?itemId=22616";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -417,7 +417,7 @@ $(document).ready(function()
                         <div class="conTxt"> 
       
      <p style="font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
-</p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">为帮助同学们更好地进行生涯规划与专业选择，我校开展“爸妈课堂”系列活动，邀请来自各行业的优秀家长走进校园，分享职业智慧与行业经验。12月20日，我们有幸邀请到绍兴市人民医院眼科屈光手术中心负责人、我校学生家长袁国美医生，为同学们带来一场题为《高考眼科体检助力升学攻略及医生职业分享》的专题讲座。</span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\1\202601081926098052.Png" style="width: 4.55625in; height: 3.0375in" alt="202601081926094710.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\1\202601081926107927.Png" style="width: 4.568056in; height: 3.045139in" alt="202601081926109173.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">本次讲座主要面向有意报考军警类等有视力要求专业的学生以及对医学专业感兴趣的学生。袁医生结合自身多年临床与科普经验，系统讲解了高考体检中眼科项目的相关要求，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">特别针对军警、航空、航海、医学类等特殊专业的视力要求做了详细说明。她结合实际案例，为同学们提供了科学护眼、体检准备的实用建议，助力同学们在升学关键阶段做好健康与志愿规划。袁医生</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">还</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">对医学专业方向、医生职业发展路径进行了生动分享。</span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\1\202601081926101203.Png" style="width: 4.25in; height: 2.832639in" alt="202601081926106116.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\1\202601081926103003.Png" style="width: 4.579167in; height: 3.052778in" alt="202601081926108835.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="\UploadFiles\xwzx\2026\1\202601081926107137.Png" style="width: 4.477083in; height: 2.984028in" alt="202601081926105141.Png" /></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">从医学生的培养路径到眼科医生的日常工作，从临床诊疗到近视防控科普，袁医生以亲身经历向同学们展现了医生职业的多元面貌，并鼓励有志从医的同学，要兼具扎实学识、实践能力和奉献精神。</span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">“爸妈课堂”是我校助力学生树立理想、规划生涯的特色活动之一。通过邀请在各领域取得成就的家长走进校园，开展职业介绍、专业科普与生涯指导，帮助同学们开阔视野、贴近社会，在自我认知与外部探索中，逐步明晰发展方向。期待更多家长走进课堂，共同助力学生成长！</span></p>
+</p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">为帮助同学们更好地进行生涯规划与专业选择，我校开展“爸妈课堂”系列活动，邀请来自各行业的优秀家长走进校园，分享职业智慧与行业经验。12月20日，我们有幸邀请到绍兴市人民医院眼科屈光手术中心负责人、我校学生家长袁国美医生，为同学们带来一场题为《高考眼科体检助力升学攻略及医生职业分享》的专题讲座。</span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/1/202601081926098052.png" style="width: 4.55625in; height: 3.0375in" alt="202601081926094710.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/1/202601081926107927.png" style="width: 4.568056in; height: 3.045139in" alt="202601081926109173.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">本次讲座主要面向有意报考军警类等有视力要求专业的学生以及对医学专业感兴趣的学生。袁医生结合自身多年临床与科普经验，系统讲解了高考体检中眼科项目的相关要求，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">特别针对军警、航空、航海、医学类等特殊专业的视力要求做了详细说明。她结合实际案例，为同学们提供了科学护眼、体检准备的实用建议，助力同学们在升学关键阶段做好健康与志愿规划。袁医生</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">还</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">对医学专业方向、医生职业发展路径进行了生动分享。</span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/1/202601081926101203.png" style="width: 4.25in; height: 2.832639in" alt="202601081926106116.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/1/202601081926103003.png" style="width: 4.579167in; height: 3.052778in" alt="202601081926108835.Png" /></span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 12pt;margin: 0;padding: 0;"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/1/202601081926107137.png" style="width: 4.477083in; height: 2.984028in" alt="202601081926105141.Png" /></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">从医学生的培养路径到眼科医生的日常工作，从临床诊疗到近视防控科普，袁医生以亲身经历向同学们展现了医生职业的多元面貌，并鼓励有志从医的同学，要兼具扎实学识、实践能力和奉献精神。</span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 'Times New Roman', 'serif';font-size: 12pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">“爸妈课堂”是我校助力学生树立理想、规划生涯的特色活动之一。通过邀请在各领域取得成就的家长走进校园，开展职业介绍、专业科普与生涯指导，帮助同学们开阔视野、贴近社会，在自我认知与外部探索中，逐步明晰发展方向。期待更多家长走进课堂，共同助力学生成长！</span></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -426,7 +426,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22432.aspx" target="_self" title="标题：精准分析明方向，科学规划启新程  ——我校高一、高二年级家长会顺利召开&#xD;点击数：1&#xD;发表时间：25年12月08日">精准分析明方向，科学规划启新程  ——我校高一、高二年级家长…</a>[ 12-08 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22432.html" target="_self" title="标题：精准分析明方向，科学规划启新程  ——我校高一、高二年级家长会顺利召开&#xD;点击数：1&#xD;发表时间：25年12月08日">精准分析明方向，科学规划启新程  ——我校高一、高二年级家长…</a>[ 12-08 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

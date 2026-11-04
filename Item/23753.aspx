@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23773.aspx" target="_blank" title="标题：绍兴一中2026年国旗队交接仪式方案&#xD;点击数：43&#xD;发表时间：2026年10月10日">绍兴一中2026年国旗队交接仪式方案</a><span class="dateRight">[10-10]</span></li><li><a href="/Item/23770.aspx" target="_blank" title="标题：10.8班级一日考核&#xD;点击数：44&#xD;发表时间：2026年10月09日">10.8班级一日考核</a><span class="dateRight">[10-09]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23759.aspx" target="_blank" title="标题：2026学年“博雅·养新”班主任成长工作坊培训通知（第一期）&#xD;点击数：173&#xD;发表时间：2026年10月07日">2026学年“博雅·养新”班主任成长工作坊培训通知（第一…</a><span class="dateRight">[10-07]</span></li><li class="last"><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li>
+            <li class="first"><a href="/Item/23824.aspx" target="_blank" title="标题：10.20跑操量化考核反馈&#xD;点击数：75&#xD;发表时间：2026年10月20日">10.20跑操量化考核反馈</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23837.aspx" target="_blank" title="标题：绍兴一中教育集团“2026年家长开放日”暨第八届家委会成立活动方案&#xD;点击数：208&#xD;发表时间：2026年10月23日">绍兴一中教育集团“2026年家长开放日”暨第八届家委会成…</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23744.aspx" target="_self" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：101&#xD;发表时间：26年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a>[ 09-30 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23754.aspx" target="_self" title="标题：9.29班级一日考核&#xD;点击数：52&#xD;发表时间：26年10月07日">9.29班级一日考核</a>[ 10-07 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23744.aspx" target="_self" title="标题：寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）&#xD;点击数：105&#xD;发表时间：26年09月30日">寻物启事四则（饭卡/号码簿/筋膜枪/秋季校服）</a>[ 09-30 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23754.aspx" target="_self" title="标题：9.29班级一日考核&#xD;点击数：56&#xD;发表时间：26年10月07日">9.29班级一日考核</a>[ 10-07 ]</div>
                         </div>
                     </div>
 

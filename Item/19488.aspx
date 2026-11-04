@@ -7,9 +7,9 @@
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
     <title>一键回顾：花样“龙”行 青春正当时  ——绍兴一中2024年寒假社会实践成果展示--学校新闻-绍兴市第一中学</title>
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -27,10 +27,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -38,12 +38,12 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 </head>
 <div id="top">
 	<div class="siteWidth">
-		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Item/13310.aspx" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -53,10 +53,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div id="header">
     <div class="siteWidth">
 			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
-					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+					<a href="/"><img src="/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/User/index.aspx">登录</a>|<a href="/User/Register.aspx" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -125,167 +125,167 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Category_22/Index.aspx">工作安排</a></h4>
 </li>
 <li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Category_23/Index.aspx">校长专栏</a></h4>
 </li>
 <li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Category_24/Index.aspx">校务公开</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
 				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Category_112/Index.aspx">建校史略</a></h4>
 </li>
 <li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Category_113/Index.aspx">昔日校园</a></h4>
 </li>
 <li class="li2" id="liID376">
   <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
 </li>
 <li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
 <li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Category_45/Index.aspx">管理团队</a></h4>
 </li>
 <li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Category_49/Index.aspx">—中校歌</a></h4>
 </li>
 <li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Category_41/Index.aspx">校园风光</a></h4>
 </li>
 <li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Category_10/Index.aspx">奖教奖学</a></h4>
 </li>
 <li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Category_42/Index.aspx">学校荣誉</a></h4>
 </li>
 <li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
 				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Category_54/Index.aspx">清廉学校</a></h4>
 </li>
 <li class="li2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Category_55/Index.aspx">学习专栏</a></h4>
 </li>
 <li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Category_56/Index.aspx">先锋故事</a></h4>
 </li>
 <li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Category_58/Index.aspx">课余党校</a></h4>
 </li>
 <li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
 <li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Category_71/Index.aspx">名师工作室</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
 				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Category_381/Index.aspx">家校合力</a></h4>
 </li>
 <li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Category_386/Index.aspx">德育活动</a></h4>
 </li>
 <li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Category_102/Index.aspx">博雅讲座</a></h4>
 </li>
 <li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
 <li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Category_73/Index.aspx">数学竞赛</a></h4>
 </li>
 <li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Category_74/Index.aspx">物理竞赛</a></h4>
 </li>
 <li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
 <li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Category_373/Index.aspx">天文竞赛</a></h4>
 </li>
 <li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
 </li>
 <li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Category_387/Index.aspx">教科动态</a></h4>
 </li>
 <li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
 </li>
 <li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Category_100/Index.aspx">社团风采</a></h4>
 </li>
 <li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Category_103/Index.aspx">艺术教育</a></h4>
 </li>
 <li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Category_105/Index.aspx">校园安全</a></h4>
 </li>
 <li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Category_368/Index.aspx">实践学分</a></h4>
 </li>
 <li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Category_369/Index.aspx">饮水思源</a></h4>
 </li>
 <li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Category_388/Index.aspx">志愿活动</a></h4>
 </li>
 <li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Category_382/Index.aspx">校园活动</a></h4>
 </li>
 			</ul></li></ul><script type="text/javascript">
 			jQuery(function($){
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,12 +349,12 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h3>
+        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_37/Index.aspx">学校新闻</a></li>
-<li class="li2 last"><a href="/Shaoxingyizhong/Category_38/Index.aspx">媒体一中</a></li>
+			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
 </div>
@@ -369,7 +369,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Shaoxingyizhong/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Shaoxingyizhong/Item/23489.aspx" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团…</a><span class="dateRight">[07-08]</span></li><li><a href="/Shaoxingyizhong/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Shaoxingyizhong/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：163&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li><li><a href="/Shaoxingyizhong/Item/23383.aspx" target="_blank" title="标题：与心相逢，向阳生长｜我校举行心理健康月系列活动&#xD;点击数：86&#xD;发表时间：2026年06月15日">与心相逢，向阳生长｜我校举行心理健康月系列活动</a><span class="dateRight">[06-15]</span></li><li><a href="/Shaoxingyizhong/Item/23043.aspx" target="_blank" title="标题：夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷&#xD;点击数：76&#xD;发表时间：2026年04月15日">夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷</a><span class="dateRight">[04-15]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23042.aspx" target="_blank" title="标题：榜样力量｜十佳博雅少年风采录（三）&#xD;点击数：187&#xD;发表时间：2026年04月15日">榜样力量｜十佳博雅少年风采录（三）</a><span class="dateRight">[04-15]</span></li>
+            <li class="first"><a href="/Item/23820.aspx" target="_blank" title="标题：榜样领航，奋楫争先 | 绍兴一中创新班学部举行期中学生大会&#xD;点击数：88&#xD;发表时间：2026年10月20日">榜样领航，奋楫争先 | 绍兴一中创新班学部举行期中学生大会</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23756.aspx" target="_blank" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：135&#xD;发表时间：2026年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会…</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23819.aspx" target="_blank" title="标题：博雅启思促成长，养新笃行育芳华  ——绍兴一中教育集团2026学年“博雅·养新”班主任成长工作坊开班仪式暨专题培训&#xD;点击数：77&#xD;发表时间：2026年10月20日">博雅启思促成长，养新笃行育芳华  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：48&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：31&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：165&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li>
           
                     </ul>
                 </div>
@@ -379,13 +379,13 @@ function GetUserInfo1(response){
         <div class="mainContent">
             <div class="mainBox">
                 <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
     
-    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Shaoxingyizhong/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
-    <a href="/Shaoxingyizhong/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
                     <h3>学校新闻</h3>
                 </div>
                 <div class="mBd">
@@ -400,7 +400,7 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2024年03月15日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=19488"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=19488"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
@@ -416,11 +416,11 @@ $(document).ready(function()
                         <div class="conTxt"> 
       
      <p style="font-family: 宋体;font-size: 14pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
-</p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">鉴往知来，溯源逐新，</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在实践的田野上书写青春的华章。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">微光成炬，志愿同行，</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在奉献的道路上点燃希望的火种。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">2</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">024年寒假，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">绍兴一中组织开展了丰富多彩的寒假社会实践活动。一中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学子积极参与其中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他们</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">有的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">探寻家乡的发展足迹，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">有的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">发掘地方党史故事</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，有的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">寻访优秀传统文化，记录下</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">时代</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">的变迁与辉煌。让我们一起跟随他们的脚步，探索他们的故事，见证</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">一中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学子在实践中的成长与蜕变！</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>1.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>循迹溯源悟思想，青春铸魂促践行</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">青春，是一段充满探索与成长的旅程。我们在这段旅程中，不仅要学习知识，更要追寻思想的源头，理解思想的深度与广度。</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在寒假里，一中学子</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">确立</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">了</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">一条主题教育实践研学线，前往</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">地方</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">革命纪念馆</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">、文化</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">博物馆探寻家乡的发展足迹，发掘地方党史故事</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">提升了对家乡的认识</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。同时，他们</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在有代表性的地点进行主题宣讲，并录制</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">创意</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">微视频，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">进一步</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">加深对党的热爱和对国家的信念。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"></span></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151011032632.png" style="max-width: 100%; " title="202403151011032632.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151010513604.png" style="max-width: 100%; " title="202403151010513604.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151010500734.png" style="max-width: 100%; " title="202403151010500734.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151010530574.png" style="max-width: 100%; " title="202403151010530574.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151010568191.png" style="max-width: 100%; " title="202403151010568191.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151010561205.png" style="max-width: 100%; " title="202403151010561205.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">鉴往知来，溯源逐新，</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在实践的田野上书写青春的华章。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">微光成炬，志愿同行，</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在奉献的道路上点燃希望的火种。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">2</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">024年寒假，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">绍兴一中组织开展了丰富多彩的寒假社会实践活动。一中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学子积极参与其中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">他们</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">有的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">探寻家乡的发展足迹，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">有的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">发掘地方党史故事</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，有的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">寻访优秀传统文化，记录下</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">时代</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">的变迁与辉煌。让我们一起跟随他们的脚步，探索他们的故事，见证</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">一中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学子在实践中的成长与蜕变！</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>1.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>循迹溯源悟思想，青春铸魂促践行</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">青春，是一段充满探索与成长的旅程。我们在这段旅程中，不仅要学习知识，更要追寻思想的源头，理解思想的深度与广度。</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在寒假里，一中学子</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">确立</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">了</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">一条主题教育实践研学线，前往</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">地方</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">革命纪念馆</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">、文化</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">博物馆探寻家乡的发展足迹，发掘地方党史故事</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">提升了对家乡的认识</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。同时，他们</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在有代表性的地点进行主题宣讲，并录制</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">创意</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">微视频，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">进一步</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">加深对党的热爱和对国家的信念。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"></span></p><p><img src="/UploadFiles/dw/2024/3/202403151011032632.png" style="max-width: 100%; " title="202403151011032632.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151010513604.png" style="max-width: 100%; " title="202403151010513604.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151010500734.png" style="max-width: 100%; " title="202403151010500734.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151010530574.png" style="max-width: 100%; " title="202403151010530574.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151010568191.png" style="max-width: 100%; " title="202403151010568191.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151010561205.png" style="max-width: 100%; " title="202403151010561205.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">
 </span>
-</p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>2.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>七十五载风和雨，谱写时代新篇章</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">当我们回望过去的七十五年，一幅波澜壮阔、砥砺前行的画卷徐徐展开。七十五年，是一段波澜壮阔的历史，是一个国家从站起来、富起来到强起来的伟大跨越。围绕“新中国成立75周年”这一重大事件</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，一中学子用主题征文、绘画、书法、手抄报作品表达了对祖国的热爱，为祖国献上了最美的礼赞。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"></span></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017140480.png" style="max-width: 100%; " title="202403151017140480.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017144407.png" style="max-width: 100%; " title="202403151017144407.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017342123.png" style="max-width: 100%; " title="202403151017342123.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017151199.png" style="max-width: 100%; " title="202403151017151199.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017151361.png" style="max-width: 100%; " title="202403151017151361.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017153877.png" style="max-width: 100%; " title="202403151017153877.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017168106.png" style="max-width: 100%; " title="202403151017168106.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017164101.png" style="max-width: 100%; " title="202403151017164101.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017249974.png" style="max-width: 100%; " title="202403151017249974.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151018113339.png" style="max-width: 100%; " title="202403151018113339.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017274009.png" style="max-width: 100%; " title="202403151017274009.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017286336.png" style="max-width: 100%; " title="202403151017286336.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017307624.png" style="max-width: 100%; " title="202403151017307624.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017325799.png" style="max-width: 100%; " title="202403151017325799.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151017358532.png" style="max-width: 100%; " title="202403151017358532.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>2.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>七十五载风和雨，谱写时代新篇章</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">当我们回望过去的七十五年，一幅波澜壮阔、砥砺前行的画卷徐徐展开。七十五年，是一段波澜壮阔的历史，是一个国家从站起来、富起来到强起来的伟大跨越。围绕“新中国成立75周年”这一重大事件</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，一中学子用主题征文、绘画、书法、手抄报作品表达了对祖国的热爱，为祖国献上了最美的礼赞。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"></span></p><p><img src="/UploadFiles/dw/2024/3/202403151017140480.png" style="max-width: 100%; " title="202403151017140480.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017144407.png" style="max-width: 100%; " title="202403151017144407.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017342123.png" style="max-width: 100%; " title="202403151017342123.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017151199.png" style="max-width: 100%; " title="202403151017151199.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017151361.png" style="max-width: 100%; " title="202403151017151361.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017153877.png" style="max-width: 100%; " title="202403151017153877.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017168106.png" style="max-width: 100%; " title="202403151017168106.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017164101.png" style="max-width: 100%; " title="202403151017164101.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017249974.png" style="max-width: 100%; " title="202403151017249974.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151018113339.png" style="max-width: 100%; " title="202403151018113339.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017274009.png" style="max-width: 100%; " title="202403151017274009.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017286336.png" style="max-width: 100%; " title="202403151017286336.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017307624.png" style="max-width: 100%; " title="202403151017307624.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017325799.png" style="max-width: 100%; " title="202403151017325799.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151017358532.png" style="max-width: 100%; " title="202403151017358532.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">
 </span>
-</p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>3.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>弘扬优秀传统文化</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>培育时代文明新风</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">岁序更替，华章日新。春节是中华民族最隆重的传统佳节，一中学子随着</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">2024</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">新年的鼓点，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在寒假期间开展写春联、送演出等活动，积极组织参加灯会、坐乌篷、品黄酒、看社戏、参观非遗展示等活动，充分感受优秀传统文化魅力，营造安定和谐、家庭和睦、欢乐祥和、文明健康的节庆氛围。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">同时，一中学子</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在寒假期间从自身做起，积极组织参加垃圾分类、节水护水知识讲解宣传，开展应急救护、宪法与法制、防诈反诈等生命教育，增强环保意识和生命意识，树立节约资源、保护环境、安全先行的良好风尚。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020545093.png" style="max-width: 100%; " title="202403151020545093.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020353602.png" style="max-width: 100%; " title="202403151020353602.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020375171.png" style="max-width: 100%; " title="202403151020375171.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020371020.png" style="max-width: 100%; " title="202403151020371020.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020385101.png" style="max-width: 100%; " title="202403151020385101.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020401188.png" style="max-width: 100%; " title="202403151020401188.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020399506.png" style="max-width: 100%; " title="202403151020399506.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020417458.png" style="max-width: 100%; " title="202403151020417458.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020427762.png" style="max-width: 100%; " title="202403151020427762.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151020459320.jpg" style="max-width: 100%; " title="202403151020459320.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151022210881.png" style="max-width: 100%; " title="202403151022210881.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151022235237.png" style="max-width: 100%; " title="202403151022235237.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151022218187.png" style="max-width: 100%; " title="202403151022218187.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151022265833.png" style="max-width: 100%; " title="202403151022265833.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151022233682.png" style="max-width: 100%; " title="202403151022233682.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151022264002.png" style="max-width: 100%; " title="202403151022264002.png" /></p><p><img src="/Shaoxingyizhong/UploadFiles/dw/2024/3/202403151022257251.png" style="max-width: 100%; " title="202403151022257251.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"></span>
+</p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>3.</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>弘扬优秀传统文化</strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong> </strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><strong>培育时代文明新风</strong></span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">岁序更替，华章日新。春节是中华民族最隆重的传统佳节，一中学子随着</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">2024</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">新年的鼓点，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在寒假期间开展写春联、送演出等活动，积极组织参加灯会、坐乌篷、品黄酒、看社戏、参观非遗展示等活动，充分感受优秀传统文化魅力，营造安定和谐、家庭和睦、欢乐祥和、文明健康的节庆氛围。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">同时，一中学子</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在寒假期间从自身做起，积极组织参加垃圾分类、节水护水知识讲解宣传，开展应急救护、宪法与法制、防诈反诈等生命教育，增强环保意识和生命意识，树立节约资源、保护环境、安全先行的良好风尚。</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p><img src="/UploadFiles/dw/2024/3/202403151020545093.png" style="max-width: 100%; " title="202403151020545093.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020353602.png" style="max-width: 100%; " title="202403151020353602.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020375171.png" style="max-width: 100%; " title="202403151020375171.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020371020.png" style="max-width: 100%; " title="202403151020371020.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020385101.png" style="max-width: 100%; " title="202403151020385101.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020401188.png" style="max-width: 100%; " title="202403151020401188.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020399506.png" style="max-width: 100%; " title="202403151020399506.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020417458.png" style="max-width: 100%; " title="202403151020417458.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020427762.png" style="max-width: 100%; " title="202403151020427762.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151020459320.jpg" style="max-width: 100%; " title="202403151020459320.jpg" /></p><p><img src="/UploadFiles/dw/2024/3/202403151022210881.png" style="max-width: 100%; " title="202403151022210881.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151022235237.png" style="max-width: 100%; " title="202403151022235237.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151022218187.png" style="max-width: 100%; " title="202403151022218187.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151022265833.png" style="max-width: 100%; " title="202403151022265833.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151022233682.png" style="max-width: 100%; " title="202403151022233682.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151022264002.png" style="max-width: 100%; " title="202403151022264002.png" /></p><p><img src="/UploadFiles/dw/2024/3/202403151022257251.png" style="max-width: 100%; " title="202403151022257251.png" /></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 12pt;margin: 0;padding: 0;"></span>
 </p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">一中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学子在调研走访中探寻真理，在志愿服务中点燃希望</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">在轻松愉快的氛围中增长</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">了</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">知识</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">锻炼了</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">能力，实现</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">了</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">自我成长</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">为这些勇于实践的</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">一中</span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">学子点赞，期待他们继续在实践中绽放青春光芒，为社会贡献更多力量！</span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 12pt;line-height: 22.0pt;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.33in;"><span style="font-size: 12pt;margin: 0;padding: 0;"> </span></p>
     
     </div><!--endprint-->
@@ -430,8 +430,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/19428.aspx" target="_self" title="标题：挥戈一战拼百日，蟾宫折桂定乾坤  ——绍兴一中举行2024届高考百日誓师大会&#xD;点击数：300&#xD;发表时间：24年03月05日">挥戈一战拼百日，蟾宫折桂定乾坤  ——绍兴一中举行2024届高考…</a>[ 03-05 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/19535.aspx" target="_self" title="标题：市教育局党委书记石剑晗来校调研    强调一中要主动作为、积极进取 打造绍兴教育高峰&#xD;点击数：222&#xD;发表时间：24年03月22日">市教育局党委书记石剑晗来校调研    强调一中要主动作为、积极…</a>[ 03-22 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/19428.aspx" target="_self" title="标题：挥戈一战拼百日，蟾宫折桂定乾坤  ——绍兴一中举行2024届高考百日誓师大会&#xD;点击数：300&#xD;发表时间：24年03月05日">挥戈一战拼百日，蟾宫折桂定乾坤  ——绍兴一中举行2024届高考…</a>[ 03-05 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/19535.aspx" target="_self" title="标题：市教育局党委书记石剑晗来校调研    强调一中要主动作为、积极进取 打造绍兴教育高峰&#xD;点击数：222&#xD;发表时间：24年03月22日">市教育局党委书记石剑晗来校调研    强调一中要主动作为、积极…</a>[ 03-22 ]</div>
                         </div>
                     </div>
 
@@ -448,25 +448,25 @@ $(document).ready(function()
 <div id="footer">
   <div class="siteWidth">
 
-      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+      <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
-      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
 
-      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
-      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
-      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Template/Default/Skin/erms/img/xcxewm.png" />
   </div>  
 </div>
 <!-- footer E -->

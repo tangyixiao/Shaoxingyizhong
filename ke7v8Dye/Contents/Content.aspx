@@ -6,7 +6,7 @@
 	管理登录
 </title><link href="../Admin/Common/Login.css" rel="stylesheet" type="text/css" />
     <script type="text/javascript" src="../Admin/JS/softkeyboard.js"></script>
-    <script type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
+    <script type="text/javascript" src="/js/jquery.pack.js"></script>
     <script type="text/javascript">
     <!--
     if(self!=top){top.location=self.location;} 
@@ -25,14 +25,14 @@
     }
     // -->
     </script>
-<script type="text/javascript" src="/Shaoxingyizhong/Js/jQuery.pack.js"></script></head>
+<script type="text/javascript" src="/Js/jQuery.pack.js"></script></head>
 <body id="loginbody">
     <form name="Login" method="post" action="login.aspx" onsubmit="javascript:return WebForm_OnSubmit();" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'IbtnEnter')" id="Login" enctype="multipart/form-data">
 <div>
 <input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="jzHjk+zjND/faDDZdHecABkClah8k56oH/EyxaiDKQiZiXriIyY2EgIL7MQZflmQ+erILZ4ua9SqYfjFAp7VGP78ggvL0OQE7ktbEGpHSzCxKcP1B3lDMLgJmWy3zShEXqNk505AyG5Yd8g+z2bRvce1hEQJIjRjMlb2pJHc0Oqdn89Awjrw2lxM1yubhF/VZVXF6+l9fiw18RM+ffr8SVYR3E0c2wYHoOw2dFF4uJLVExtU10cOTosb5z1kD3YekHcpA2E0cVj1JN31+LX0Ax6mUNzmRKgh5NXPV73JTN5udCFRAM1G1poLpBxKS0jOo3rFOC/OfmbkxWG7cwkcSSdmjPjHdVfwL5wtIIuLBJ36VROx" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="yido1LKc/3JxzYIvY5TNsDBFzDISMEVKltx8awKi/EZMd6DDQ90LkNFs7nRd1upQbUsYDjbaVOnO2p9Q+Z3Qeo++0V5LTDZZui1LzKZGPzDtJPqlp3O7IcF2dehLrGBvtL1Lc0eyFdQrX6EyUxb6HVWlcgjOW7PLhlqTgo4Qu/d6TgAfaweHPWMdvnaQyqbnk3tLCgdbeW+Od/btypDV5dAb22iW+UvAdoOhQ3vh25gdijKY37+GA1NMTS1U7IwB8gcpNCZdgVrJmrGQDPxrnUnj7+0eTW9HJoISjAT+tacfg9K8R1qNxZ2wctiqPGaipVztvk1tAjVZ6s7E0V5rMYInJ7gMhcf7jyNamBVcYVrvd34w" />
 </div>
 
 <script type="text/javascript">
@@ -52,11 +52,10 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/Shaoxingyizhong/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/WebResource.axd?d=dX8C74rZe0eSDkGdcePbG2uYO3e7tdT2PPZNA0z0KArOlAgoUzrnn9SK7yuckFjAFSOvTwyEGI5IKX7t0&amp;t=634604712479085897" type="text/javascript"></script>
 
 
-<script src="/Shaoxingyizhong/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
-<script src="/Shaoxingyizhong/WebResource.axd?d=kHm64kc06RB_fWVtj0mw7S8DKkZyw8H2SKURSlB9gZmbHysHBZgQZcVKdmTAhStBitl3v-YftiuhMmVt0&amp;t=634604712479085897" type="text/javascript"></script>
+<script src="/WebResource.axd?d=04kZJwIKPyIN0AEev_gpI9EJvj9DGx3cNIj7yacUFD3FUSP4ir_WKtScvXpd8ttumjH_2BtTNdtowysSwrakVUDKQ6s1&amp;t=634604712479085897" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 function WebForm_OnSubmit() {
@@ -69,7 +68,7 @@ return true;
 <div>
 
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="3gz6MWxBpLi+6S0OalEupN3aTXBsTjWT1GuMt/+dMSerTJzGAtxDmrmcFaf5aGk0VapYMthf84AVpU9RzrR/GVwsivTlexIQA3AJ3FjS34kdAG8qvX/MRdRpgRP9Pl/sL2+/HtxehL7RxEcLY0wXYNApf0exAqIiQvjdQkB5u7b7Ok3C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="2YwFlooyhf/kAhASZm/eU9fn0EbuQ3g8kWiGwn5IeydhagphIEsPhlxBC7xJMGV3kzmNjs54nYoEsLRUKtuIUhEbx5tx9dBf6FKskHb8+/LtzJ3Ig67V2dM18SH0vCdCrQCr/5M9hPJfdUP5+zL3TsPF4Ja1sSay+l6FX8LrgUcehcA7" />
 </div>
         <div id="adminboxall">
             <div class="adminboxtop">
@@ -86,26 +85,26 @@ return true;
                     <ul>
                         <li class="text">用户名：<br />
                             <div class="box1">
-                                <input name="fp4r8n0n" type="text" maxlength="20" id="fp4r8n0n" class="boxcontent" style="font-family: 宋体;" />
+                                <input name="4z6phll8" type="text" maxlength="20" id="4z6phll8" class="boxcontent" style="font-family: 宋体;" />
                             </div>
                         </li>
                         <li class="text">密 码：<br />
                             <div class="box2">
                                 
-                                <input name="p4r8n0nj6" type="text" maxlength="20" id="p4r8n0nj6" class="boxcontent" AutoComplete="off" />
+                                <input name="z6phll8t6" type="text" maxlength="20" id="z6phll8t6" class="boxcontent" AutoComplete="off" />
                             </div>
                         </li>
                         <li id="LiSiteManageCode" class="text">管理认证码：<br />
                             <div class="box3">
                                 
-                                <input name="4r8n0nj6rv" type="text" maxlength="20" id="4r8n0nj6rv" class="boxcontent" />
+                                <input name="6phll8t6z6" type="text" maxlength="20" id="6phll8t6z6" class="boxcontent" />
                             </div>
                         </li>
                         
                     </ul>
                 </div>
             </div>
-            <a href="/Shaoxingyizhong/" target="_blank" title="网站首页">
+            <a href="/" target="_blank" title="网站首页">
                 <img src="../Admin/Images/LoginImages/admin_text.gif" width="186" border="0" height="10"
                     alt="Powered by PowerEasy&reg;" /></a>
             <div class="clearbox">
@@ -125,14 +124,14 @@ return true;
         <script type="text/javascript" src="../JS/Encrypt/Common.js"></script>
         <script type="text/javascript">
             $(function () {
-                var $userpass = $("#p4r8n0nj6")[0];
+                var $userpass = $("#z6phll8t6")[0];
                 try {
                     $userpass.type = 'password';
                 } catch (e) {
                     $userpass.outerHTML = $userpass.outerHTML.replace('type=text', '').replace('>', ' type="password">');
                 }
-                if ($("#4r8n0nj6rv").length > 0) {
-                    var $usercode = $("#4r8n0nj6rv")[0];
+                if ($("#6phll8t6z6").length > 0) {
+                    var $usercode = $("#6phll8t6z6")[0];
                     try {
                         $usercode.type = 'password';
                     } catch (e) {
@@ -143,11 +142,11 @@ return true;
             var BeginClick = function () {
                 if (Page_ClientValidate()) {
                     GetRsaEncrypt(3);
-                    $("#p4r8n0nj6").attr("maxlength", "300");
-                    $("#p4r8n0nj6").val(rsaEncrypt($("#p4r8n0nj6").val()));
-                    if ($("#4r8n0nj6rv").length > 0) {
-                        $("#4r8n0nj6rv").attr("maxlength", "300");
-                        $("#4r8n0nj6rv").val(rsaEncrypt($("#4r8n0nj6rv").val()));
+                    $("#z6phll8t6").attr("maxlength", "300");
+                    $("#z6phll8t6").val(rsaEncrypt($("#z6phll8t6").val()));
+                    if ($("#6phll8t6z6").length > 0) {
+                        $("#6phll8t6z6").attr("maxlength", "300");
+                        $("#6phll8t6z6").val(rsaEncrypt($("#6phll8t6z6").val()));
                     }
                     return true;
                 } else {
@@ -166,21 +165,21 @@ var Page_Validators =  new Array(document.getElementById("ValrUserName"), docume
 <script type="text/javascript">
 //<![CDATA[
 var ValrUserName = document.all ? document.all["ValrUserName"] : document.getElementById("ValrUserName");
-ValrUserName.controltovalidate = "fp4r8n0n";
+ValrUserName.controltovalidate = "4z6phll8";
 ValrUserName.focusOnError = "t";
 ValrUserName.errormessage = "请输入用户名！";
 ValrUserName.display = "None";
 ValrUserName.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
 ValrUserName.initialvalue = "";
 var ValrPassword = document.all ? document.all["ValrPassword"] : document.getElementById("ValrPassword");
-ValrPassword.controltovalidate = "p4r8n0nj6";
+ValrPassword.controltovalidate = "z6phll8t6";
 ValrPassword.focusOnError = "t";
 ValrPassword.errormessage = "请输入密码！";
 ValrPassword.display = "None";
 ValrPassword.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
 ValrPassword.initialvalue = "";
 var ValrAdminValidateCode = document.all ? document.all["ValrAdminValidateCode"] : document.getElementById("ValrAdminValidateCode");
-ValrAdminValidateCode.controltovalidate = "4r8n0nj6rv";
+ValrAdminValidateCode.controltovalidate = "6phll8t6z6";
 ValrAdminValidateCode.focusOnError = "t";
 ValrAdminValidateCode.errormessage = "请输入管理认证码！";
 ValrAdminValidateCode.display = "None";
@@ -209,7 +208,7 @@ function ValidatorOnSubmit() {
         return true;
     }
 }
-        WebForm_AutoFocus('fp4r8n0n');//]]>
+        //]]>
 </script>
 </form>
 </body>

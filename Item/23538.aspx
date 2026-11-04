@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23024.aspx" target="_blank" title="标题：4.10班级一日考核&#xD;点击数：34&#xD;发表时间：2026年04月13日">4.10班级一日考核</a><span class="dateRight">[04-13]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23435.aspx" target="_blank" title="标题：6.25班级一日考核&#xD;点击数：29&#xD;发表时间：2026年06月26日">6.25班级一日考核</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
+            <li class="first"><a href="/Item/23824.aspx" target="_blank" title="标题：10.20跑操量化考核反馈&#xD;点击数：75&#xD;发表时间：2026年10月20日">10.20跑操量化考核反馈</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23837.aspx" target="_blank" title="标题：绍兴一中教育集团“2026年家长开放日”暨第八届家委会成立活动方案&#xD;点击数：208&#xD;发表时间：2026年10月23日">绍兴一中教育集团“2026年家长开放日”暨第八届家委会成…</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
           
                     </ul>
                 </div>
@@ -439,8 +439,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23537.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：170&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一新生军训方案</a>[ 08-21 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23540.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：177&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23537.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一新生军训方案&#xD;点击数：173&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一新生军训方案</a>[ 08-21 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23540.aspx" target="_self" title="标题：2026年绍兴一中教育集团高一军训开营仪式方案及工作安排&#xD;点击数：183&#xD;发表时间：26年08月21日">2026年绍兴一中教育集团高一军训开营仪式方案及工作安排</a>[ 08-21 ]</div>
                         </div>
                     </div>
 

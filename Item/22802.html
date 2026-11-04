@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
 <head>
+    <link rel="icon" type="image/png" href="/Shaoxingyizhong/favicon.ico">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
@@ -25,7 +26,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
  -->
 
 <script type="text/javascript">
-    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.html',skinPath: '/Template/Default/Skin/'};
 </script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
@@ -42,8 +43,8 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.html" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.html" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.html" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -56,7 +57,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.html">登录</a>|<a href="/Shaoxingyizhong/User/Register.html" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -82,7 +83,7 @@ function CheckIsLogin1(){
 }
 
 function GetUserInfo1(response){
-    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.html>"+ jQuery(response).find('username').text() + "</a> | ";
     userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
     userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
     return userInfo;
@@ -113,7 +114,7 @@ function GetUserInfo1(response){
                     return;
                 } else {
 
-                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                    window.location = '/search/s.html?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
                 }
             }
             </script>
@@ -341,8 +342,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:none no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -401,14 +401,14 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年03月05日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22802"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.html?id=22802"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
     $.pe.ajax('admineditcheck',{params:{itemId:22802},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=22802";
+            var managedir = "/Common/GetContentEdit.html?itemId=22802";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -423,7 +423,7 @@ $(document).ready(function()
 </p><p style="font-family: 黑体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.29in;"><span style="font-family: 黑体;font-size: 10.5pt;margin: 0;padding: 0;">苔花如米，亦绽春山</span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.29in;"><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">学生代表</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">305班孙晟杰同学</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">以“接纳、专注、相信”为关键词，向全体高三同学发出倡议</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">：</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">要接纳自身的不完美与偶尔焦虑，将每一次练习视为新的起点，在有限时间内稳拿应得分数；要放下杂念、屏蔽干扰，专注于备考过程而非单一分数，以每日深耕换取水到渠成的结果；要相信三年积累与百日可能，以“苔花如米小，也学牡丹开”的信念全力以赴。最后，</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">他</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">以“追风赶月莫停留，平芜尽处是春山”与大家共勉</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;">
 </p><p style="font-family: 黑体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.29in;"><span style="font-family: 黑体;font-size: 10.5pt;margin: 0;padding: 0;">锚定变局，静心超越</span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">高三语文备课组长傅雅飞作为教师代表发言</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">她</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">以节气更迭与考试倒计时开篇，提醒同学们珍惜备考时光。面对AI技术迭代等外部变化，百日动员不仅是仪式，更是自我觉醒的契机，</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">她</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">呼吁大家回归内心，构建稳定的内在秩序。一是学会关门，屏蔽外界杂音，按自身节奏推进复习；二是积极行动，以“问题—解决”的逻辑拆解焦虑，用行动填充时间；三是相信百天大有可为，以更沉静的心态、更彻底的错改实现自我超越。在时代变局中锚定方向，以沉稳心态冲刺高考，不负韶华。</span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;">
 </p><p style="font-family: 黑体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.29in;"><span style="font-family: 黑体;font-size: 10.5pt;margin: 0;padding: 0;">精准坚韧，同心圆梦</span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">冯王亮副校长为学生指明百日备考方向，提出“精准、反思、坚韧”三大备考要求，并梳理了百日冲刺期间各类考试、报名及志愿填报的关键节点。</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">他</span><span style="font-family: 宋体;font-size: 10.5pt;margin: 0;padding: 0;">叮嘱学生兼顾学习与身心健康，规律作息、适度锻炼，以平常心面对备考。最后，他勉励全体师生同心协力，为学校130周年校庆书写精彩篇章。</span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;">
-</p><p style="font-family: Times New Roman Regular;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="color: #0F1115;font-family: 宋体;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;">百日虽短，却足以淬火成钢；征途虽艰，终将见星辰大海。愿2026届高三学子以此为序，锚定方向、静心深耕、科学奔赴，在最后的百日冲刺中全力以赴，以奋斗之名，赴青春之约，于六月考场挥笔生花，为自己书写无悔答卷</span><span style="color: #0F1115;font-family: 宋体;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;">。</span></p><p style="font-family: Times New Roman Regular;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050911516506.JPG" style="max-width: 100%; " title="202603050911516506.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050911530547.JPG" style="max-width: 100%; " title="202603050911530547.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050911509986.JPG" style="max-width: 100%; " title="202603050911509986.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912014954.JPG" style="max-width: 100%; " title="202603050912014954.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050911545492.JPG" style="max-width: 100%; " title="202603050911545492.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912000724.JPG" style="max-width: 100%; " title="202603050912000724.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912063602.JPG" style="max-width: 100%; " title="202603050912063602.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912062869.JPG" style="max-width: 100%; " title="202603050912062869.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912077969.JPG" style="max-width: 100%; " title="202603050912077969.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912202862.JPG" style="max-width: 100%; " title="202603050912202862.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912139395.JPG" style="max-width: 100%; " title="202603050912139395.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912165926.JPG" style="max-width: 100%; " title="202603050912165926.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912185171.JPG" style="max-width: 100%; " title="202603050912185171.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912253439.JPG" style="max-width: 100%; " title="202603050912253439.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912244040.JPG" style="max-width: 100%; " title="202603050912244040.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912358027.JPG" style="max-width: 100%; " title="202603050912358027.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912295841.JPG" style="max-width: 100%; " title="202603050912295841.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912357794.JPG" style="max-width: 100%; " title="202603050912357794.JPG" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603050912348595.JPG" style="max-width: 100%; " title="202603050912348595.JPG" /></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;">
+</p><p style="font-family: Times New Roman Regular;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p style="font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.29in;"><span style="color: #0F1115;font-family: 宋体;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;">百日虽短，却足以淬火成钢；征途虽艰，终将见星辰大海。愿2026届高三学子以此为序，锚定方向、静心深耕、科学奔赴，在最后的百日冲刺中全力以赴，以奋斗之名，赴青春之约，于六月考场挥笔生花，为自己书写无悔答卷</span><span style="color: #0F1115;font-family: 宋体;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;">。</span></p><p style="font-family: Times New Roman Regular;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050911516506.jpg" style="max-width: 100%; " title="202603050911516506.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050911530547.jpg" style="max-width: 100%; " title="202603050911530547.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050911509986.jpg" style="max-width: 100%; " title="202603050911509986.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912014954.jpg" style="max-width: 100%; " title="202603050912014954.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050911545492.jpg" style="max-width: 100%; " title="202603050911545492.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912000724.jpg" style="max-width: 100%; " title="202603050912000724.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912063602.jpg" style="max-width: 100%; " title="202603050912063602.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912062869.jpg" style="max-width: 100%; " title="202603050912062869.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912077969.jpg" style="max-width: 100%; " title="202603050912077969.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912202862.jpg" style="max-width: 100%; " title="202603050912202862.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912139395.jpg" style="max-width: 100%; " title="202603050912139395.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912165926.jpg" style="max-width: 100%; " title="202603050912165926.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912185171.jpg" style="max-width: 100%; " title="202603050912185171.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912253439.jpg" style="max-width: 100%; " title="202603050912253439.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912244040.jpg" style="max-width: 100%; " title="202603050912244040.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912358027.jpg" style="max-width: 100%; " title="202603050912358027.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912295841.jpg" style="max-width: 100%; " title="202603050912295841.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912357794.jpg" style="max-width: 100%; " title="202603050912357794.JPG" /></p><p><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603050912348595.jpg" style="max-width: 100%; " title="202603050912348595.JPG" /></p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: right;">
 </p>
     
     </div><!--endprint-->
@@ -434,7 +434,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22690.html" target="_self" title="标题：十八明志启新责，青春凌云赴鹏程  ——绍兴一中隆重举行 2026 届高三学生十八岁成人仪式&#xD;点击数：3&#xD;发表时间：26年01月23日">十八明志启新责，青春凌云赴鹏程  ——绍兴一中隆重举行 2026 …</a>[ 01-23 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/23525.html" target="_self" title="标题：博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年级休业式暨期末表彰大会圆满举行&#xD;点击数：0&#xD;发表时间：26年08月20日">博雅立身求真道，笃学立志启新程  ——2025学年第二学期高一年…</a>[ 08-20 ]</div>
                         </div>
                     </div>
 

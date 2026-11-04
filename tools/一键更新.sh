@@ -5,7 +5,7 @@ SCRIPT_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd -- "$SCRIPT_DIR/.." && pwd)"
 PROJECTS_ROOT="$(cd -- "$REPO_ROOT/.." && pwd)"
 UPDATE_SCRIPT="$SCRIPT_DIR/update_from_intranet.py"
-CRAWLER="$PROJECTS_ROOT/a.py"
+CRAWLER="$SCRIPT_DIR/intranet_crawler.py"
 PYTHON_BIN="${PYTHON_BIN:-python3}"
 
 if [[ ! -f "$UPDATE_SCRIPT" ]]; then
@@ -15,7 +15,7 @@ fi
 
 if [[ ! -f "$CRAWLER" ]]; then
     printf '错误：找不到爬虫文件：%s\n' "$CRAWLER" >&2
-    printf '请先把 a.py 放回 Projects 目录。\n' >&2
+    printf '请恢复 tools/intranet_crawler.py。\n' >&2
     exit 1
 fi
 

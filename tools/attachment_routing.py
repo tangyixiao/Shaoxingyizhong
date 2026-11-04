@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import fnmatch
+import html
 import json
 import re
 from dataclasses import dataclass
@@ -38,6 +39,7 @@ class RoutedImage:
     target_path: str
     raw_url: str
     transform: dict[str, object] | None = None
+    fallback_url: str | None = None
 
 
 @dataclass(frozen=True)
@@ -51,6 +53,12 @@ class RouteConfig:
         if data.get("version") != 1:
             raise RouteError("attachment route version must be 1")
         self.owner = str(data["owner"])
+        self.data = data
+        self.cdn_max_file_bytes = int(data.get("cdn_max_file_bytes", 20_000_000))
+        self.image_previews = {
+            str(source): dict(details)
+            for source, details in dict(data.get("image_previews", {})).items()
+        }
         self.branch = str(data["branch"])
         # Pin published URLs to immutable commits when a repository ref is
         # supplied.  This avoids stale or partially populated CDN caches for
@@ -74,6 +82,8 @@ class RouteConfig:
             for item in data["routes"]
         )
         self.fallback_repository = str(data["fallback_repository"])
+        self.preview_repository = str(data.get("preview_repository", self.fallback_repository))
+        self.preview_owner = str(data.get("preview_owner", self.owner))
         self.overrides = {
             str(source): dict(details)
             for source, details in dict(data.get("overrides", {})).items()
@@ -110,29 +120,55 @@ class RouteConfig:
             target_path = source_path
             transform = None
 
+        preview_target = ".cdn-preview." in PurePosixPath(target_path).name
+        if preview_target:
+            repository = self.preview_repository
+
         suffix = PurePosixPath(target_path).suffix
         if suffix:
             target_path = target_path[: -len(suffix)] + suffix.lower()
 
         raw_path = "/".join(quote(part, safe="") for part in target_path.split("/"))
-        owner = quote(self.owner, safe="")
+        owner = quote(self.preview_owner if preview_target else self.owner, safe="")
         repo = quote(repository, safe="")
         branch = quote(self.repository_refs.get(repository, self.branch), safe="")
+        raw_base = str(override.get("raw_base", self.raw_base)).rstrip("/") if override else self.raw_base
+        if preview_target:
+            raw_base = "https://cdn.jsdelivr.net/gh"
+        preview = self.image_previews.get(source_path)
+        if preview:
+            raw_base = "https://raw.githubusercontent.com"
         # jsDelivr's GitHub endpoint uses ``repo@version/path``; raw GitHub
         # endpoints use ``repo/version/path``. A literal ``main/`` segment
         # makes jsDelivr return 404 even when the GitHub file exists.
-        if self.raw_base.endswith("cdn.jsdelivr.net/gh"):
+        if raw_base.endswith("cdn.jsdelivr.net/gh"):
             repository_ref = f"{repo}@{branch}"
         else:
             repository_ref = f"{repo}/{branch}"
-        raw_url = f"{self.raw_base}/{owner}/{repository_ref}/{raw_path}"
+        raw_url = f"{raw_base}/{owner}/{repository_ref}/{raw_path}"
+        fallback_url = None
+        if preview:
+            fallback_path = "/".join(quote(part, safe="") for part in str(preview["target_path"]).split("/"))
+            preview_repo = str(preview.get("repository", self.preview_repository))
+            preview_ref = self.repository_refs.get(preview_repo, self.branch)
+            fallback_owner = quote(self.preview_owner, safe="")
+            fallback_url = f"https://cdn.jsdelivr.net/gh/{fallback_owner}/{quote(preview_repo, safe='')}@{quote(preview_ref, safe='')}/{fallback_path}"
         return RoutedImage(
             source_path=source_path,
             repository=repository,
             target_path=target_path,
             raw_url=raw_url,
             transform=transform,
+            fallback_url=fallback_url,
         )
+
+    def save(self, path: Path) -> None:
+        data = {**self.data, "overrides": self.overrides, "image_previews": self.image_previews, "repository_refs": self.repository_refs, "preview_owner": self.preview_owner}
+        content = json.dumps(data, ensure_ascii=False, indent=2) + "\n"
+        if path.read_text(encoding="utf-8") != content:
+            temporary = path.with_name(path.name + ".tmp")
+            temporary.write_text(content, encoding="utf-8")
+            temporary.replace(path)
 
     def route_inventory(self, paths: Iterable[str]) -> dict[str, list[RoutedImage]]:
         inventory: dict[str, list[RoutedImage]] = {}
@@ -151,6 +187,7 @@ def rewrite_attachment_urls(
 ) -> tuple[str, set[str]]:
     """Rewrite image attachment references and report unsafe image URLs."""
     unresolved: set[str] = set()
+    fallbacks: dict[str, str] = {}
 
     def replace(match: re.Match[str]) -> str:
         value = match.group("url")
@@ -165,10 +202,63 @@ def rewrite_attachment_urls(
             return match.group(0)
         if routed is None:
             return match.group(0)
+        if routed.fallback_url:
+            fallbacks[routed.raw_url] = routed.fallback_url
         return match.group("prefix") + routed.raw_url + match.group("suffix")
 
+    def image_tag(match: re.Match[str]) -> str:
+        tag = match.group(0)
+        if "data-cdn-fallback=" in tag.lower():
+            return tag
+        source = re.search(r'''\bsrc\s*=\s*["']([^"']+)["']''', tag, re.IGNORECASE)
+        if source:
+            try:
+                routed = routes.resolve(html.unescape(source.group(1)))
+            except RouteError:
+                return tag
+            if routed and routed.fallback_url:
+                return re.sub(r"\s*/?>$", lambda end: ' data-cdn-fallback="' + html.escape(routed.fallback_url, quote=True) + '"' + end.group(0), tag)
+        return tag
+
+    text = re.sub(r"<img\b[^>]*>", image_tag, text, flags=re.IGNORECASE)
     rewritten = ATTR_URL_RE.sub(replace, text)
-    rewritten = CSS_URL_RE.sub(replace, rewritten)
+    def css_replace(match: re.Match[str]) -> str:
+        original = replace(match)
+        try:
+            routed = routes.resolve(match.group("url"))
+        except RouteError:
+            return original
+        if routed and routed.fallback_url:
+            if rewritten[match.end():].startswith(',url("' + routed.fallback_url + '")'):
+                return original
+            return original + ',url("' + routed.fallback_url + '")'
+        return original
+
+    rewritten = CSS_URL_RE.sub(css_replace, rewritten)
+    if fallbacks and re.search(r"<(?:html|head|body|img|a)\b", rewritten, re.IGNORECASE) and 'id="archive-image-fallback"' not in rewritten:
+        mapping = json.dumps(fallbacks, ensure_ascii=True).replace("<", "\\u003c")
+        script = '''<script id="archive-image-fallback">
+(function () {
+  var fallbacks = MAPPING;
+  document.addEventListener('error', function (event) {
+    var image = event.target;
+    if (!image || image.tagName !== 'IMG') return;
+    var original = image.currentSrc || image.src;
+    var fallback = fallbacks[original] || image.getAttribute('data-cdn-fallback');
+    if (!fallback || original === fallback || image.getAttribute('data-cdn-fallback-used') === original) return;
+    event.stopImmediatePropagation();
+    image.setAttribute('data-cdn-fallback-used', original);
+    image.removeAttribute('srcset');
+    if (image.parentElement && image.parentElement.tagName === 'PICTURE') {
+      image.parentElement.querySelectorAll('source').forEach(function (source) { source.removeAttribute('srcset'); });
+    }
+    image.src = fallback;
+  }, true);
+}());
+</script>'''.replace("MAPPING", mapping)
+        head = re.search(r"<head\b[^>]*>", rewritten, re.IGNORECASE)
+        position = head.end() if head else 0
+        rewritten = rewritten[:position] + script + rewritten[position:]
     return rewritten, unresolved
 
 

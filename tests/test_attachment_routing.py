@@ -65,11 +65,31 @@ class AttachmentRoutingTests(unittest.TestCase):
         self.assertIsNone(self.routes.resolve("/UploadFiles/dw/2024/3/notice.pdf"))
         self.assertIsNone(self.routes.resolve("/Item/23550.aspx"))
 
+    def test_large_image_can_use_raw_github_without_changing_other_image_routes(self):
+        data = json.loads((ROOT / "attachment_routes.json").read_text(encoding="utf-8"))
+        path = "UploadFiles/jsfc/2026/9/large.jpg"
+        repository = data["fallback_repository"]
+        data["overrides"][path] = {
+            "repository": repository,
+            "target_path": path,
+            "raw_base": "https://raw.githubusercontent.com/",
+        }
+        routes = RouteConfig(data)
+
+        routed = routes.resolve("/" + path)
+
+        self.assertEqual(
+            routed.raw_url,
+            f"https://raw.githubusercontent.com/{data['owner']}/{repository}/"
+            f"{data['repository_refs'][repository]}/{path}",
+        )
+        self.assertTrue(routes.resolve("/UploadFiles/jsfc/2026/9/small.jpg").raw_url.startswith("https://cdn.jsdelivr.net/gh/"))
+
     def test_rejects_path_traversal(self):
         with self.assertRaisesRegex(RouteError, "traversal"):
             self.routes.resolve("/UploadFiles/xwzx/2026/../secret.jpg")
 
-    def test_oversized_png_routes_to_webp(self):
+    def test_oversized_png_keeps_a_full_resolution_webp_route(self):
         routed = self.routes.resolve(
             "/UploadFiles/xwzx/2026/4/202604081018322295.png"
         )
@@ -77,10 +97,6 @@ class AttachmentRoutingTests(unittest.TestCase):
         self.assertEqual(
             routed.target_path,
             "UploadFiles/xwzx/2026/4/202604081018322295.webp",
-        )
-        self.assertEqual(
-            routed.transform,
-            {"format": "webp", "quality": 90, "strip": True},
         )
 
     def test_rejects_overlapping_explicit_routes(self):

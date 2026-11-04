@@ -7,9 +7,9 @@
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
     <title>{PE.Field id="cone" fieldname="Title" /}--{PE.Label id="取得节点名称" nodeId="{PE.Field id="cone" fieldname="NodeID" /}"/}-绍兴市第一中学</title>
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -27,10 +27,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -38,7 +38,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 </head>
 {PE.Label id="网站顶部-定制" currentId="{PE.Field id="cone" fieldname="NodeID" /}"/}
     <div class="banner">        
-        <a href="{PE.Label id="取得栏目信息配置" nodeId="{PE.Field id="cone" fieldname="NodeID" /}" displayType="9" /}" style="background:url(/Shaoxingyizhong/{PE.Label id="取得栏目信息配置" nodeId="{PE.Field id="cone" fieldname="NodeID" /}" displayType="11" /}) no-repeat center;"></a>
+        <a href="{PE.Label id="取得栏目信息配置" nodeId="{PE.Field id="cone" fieldname="NodeID" /}" displayType="9" /}" style="background:url(/{PE.Label id="取得栏目信息配置" nodeId="{PE.Field id="cone" fieldname="NodeID" /}" displayType="11" /}) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -60,7 +60,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
         <div class="mainContent">
             <div class="mainBox">
                 <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; {PE.Label id="当前位置导航" nodeId="{PE.Field id="cone" fieldname="NodeID" /}" /}</div>
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; {PE.Label id="当前位置导航" nodeId="{PE.Field id="cone" fieldname="NodeID" /}" /}</div>
                     <h3>{PE.Label id="PE-取得节点名称" nodeId="{PE.Field id="cone" fieldname="NodeID" /}" /}</h3>
                 </div>
                 <div class="mBd">
@@ -111,25 +111,25 @@ $(document).ready(function()
 <div id="footer">
   <div class="siteWidth">
 
-      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+      <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
-      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
 
-      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
-      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
-      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Template/Default/Skin/erms/img/xcxewm.png" />
   </div>  
 </div>
 <!-- footer E -->

@@ -1,6 +1,8 @@
 import contextlib
+import hashlib
 import io
 import json
+import os
 import threading
 import shutil
 import subprocess
@@ -194,6 +196,44 @@ class ImageShardSyncTests(unittest.TestCase):
 
             self.assertEqual(digest.call_count, 1)
 
+    def test_inventory_reuses_hash_for_unchanged_source_file(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            workspace = Path(tmp) / "workspace"
+            cache = workspace / ".cache" / "source_hashes.json"
+            image = source / "UploadFiles/xwzx/2026/7/a.jpg"
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"image")
+
+            first = build_inventory(source, self.routes, workspace, hash_cache=cache)
+            with mock.patch(
+                "tools.sync_image_shards.sha256_file",
+                side_effect=AssertionError("unchanged file was rehashed"),
+            ):
+                second = build_inventory(source, self.routes, workspace, hash_cache=cache)
+
+            self.assertEqual(second, first)
+            self.assertTrue(cache.is_file())
+
+    def test_inventory_rehashes_same_size_file_after_replacement(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source"
+            workspace = Path(tmp) / "workspace"
+            cache = workspace / ".cache" / "source_hashes.json"
+            image = source / "UploadFiles/xwzx/2026/7/a.jpg"
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"image")
+            build_inventory(source, self.routes, workspace, hash_cache=cache)
+            original_mtime = image.stat().st_mtime_ns
+
+            replacement = image.with_name("replacement.jpg")
+            replacement.write_bytes(b"other")
+            replacement.replace(image)
+            os.utime(image, ns=(image.stat().st_atime_ns, original_mtime))
+
+            entries = build_inventory(source, self.routes, workspace, hash_cache=cache)
+            self.assertEqual(entries[0].source_sha256, hashlib.sha256(b"other").hexdigest())
+
     def test_batches_are_deterministic_and_never_exceed_limit(self):
         entries = [
             self._entry("b.jpg", 4),
@@ -259,6 +299,183 @@ class ImageShardSyncTests(unittest.TestCase):
             self.assertEqual(result["deleted_paths"], 0)
             self.assertTrue((repo / entries[0].target_path).exists())
             self.assertNotIn(entries[0].target_path, (repo / "deletions.tsv").read_text())
+
+    def test_missing_checkout_reuses_only_committed_partial_clone_images(self):
+        for partial, image_name in ((False, "a.jpg"), (True, "a.jpg"), (True, "照片.jpg")):
+            with self.subTest(partial=partial, image_name=image_name), tempfile.TemporaryDirectory() as tmp:
+                temp = Path(tmp)
+                source, workspace, repo = (temp / name for name in ("source", "workspace", "repo"))
+                image = source / "UploadFiles/xwzx/2026/7" / image_name
+                archived = image.with_name("archived.jpg")
+                image.parent.mkdir(parents=True)
+                image.write_bytes(b"image")
+                archived.write_bytes(b"old archive")
+                self._init_repo(repo)
+                entries = build_inventory(source, self.routes, workspace)
+                sync_repository(entries, repo, max_commit_bytes=100, push=False)
+                if partial:
+                    self._git(repo, "config", "remote.origin.promisor", "true")
+                before = self._git(repo, "rev-parse", "HEAD")
+                target_path = "UploadFiles/xwzx/2026/7/" + image_name
+                target = repo / target_path
+                old_target = repo / "UploadFiles/xwzx/2026/7/archived.jpg"
+                target.unlink()
+                old_target.unlink()
+                archived.unlink()
+
+                result = sync_repository(
+                    build_inventory(source, self.routes, workspace),
+                    repo, max_commit_bytes=100, push=False,
+                )
+
+                self.assertEqual(result["changed_files"], 0 if partial else 1)
+                self.assertEqual(result["commits"], 0)
+                self.assertEqual(result["deleted_paths"], 0)
+                self.assertEqual(target.exists(), not partial)
+                if not partial:
+                    self.assertEqual(target.read_bytes(), b"image")
+                self.assertFalse(old_target.exists())
+                self.assertEqual(self._git(repo, "rev-parse", "HEAD"), before)
+                self.assertEqual(self._git(repo, "show", "HEAD:UploadFiles/xwzx/2026/7/archived.jpg"), "old archive")
+                self.assertIn("UploadFiles/xwzx/2026/7/archived.jpg", (repo / "manifest.tsv").read_text())
+                self.assertEqual(self._git(repo, "ls-files", "-z", target_path), target_path + "\0")
+
+    def test_partial_sync_still_copies_new_and_changed_images(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            temp = Path(tmp)
+            source, workspace, repo = (temp / name for name in ("source", "workspace", "repo"))
+            image = source / "UploadFiles/xwzx/2026/7/a.jpg"
+            image.parent.mkdir(parents=True)
+            image.write_bytes(b"old image")
+            self._init_repo(repo)
+            sync_repository(build_inventory(source, self.routes, workspace), repo, 100, push=False)
+            self._git(repo, "config", "remote.origin.promisor", "true")
+            (repo / "UploadFiles/xwzx/2026/7/a.jpg").unlink()
+            image.write_bytes(b"updated image")
+            image.with_name("new.jpg").write_bytes(b"new image")
+
+            result = sync_repository(build_inventory(source, self.routes, workspace), repo, 100, push=False)
+
+            self.assertEqual(result["changed_files"], 2)
+            self.assertEqual(result["commits"], 1)
+            self.assertEqual((repo / "UploadFiles/xwzx/2026/7/a.jpg").read_bytes(), b"updated image")
+            self.assertEqual(self._git(repo, "show", "HEAD:UploadFiles/xwzx/2026/7/a.jpg"), "updated image")
+            self.assertEqual(self._git(repo, "show", "HEAD:UploadFiles/xwzx/2026/7/new.jpg"), "new image")
+
+    def test_partial_sync_does_not_trust_uncommitted_inventory_or_index(self):
+        for pending in ("manifest", "index", "changed_index"):
+            with self.subTest(pending=pending), tempfile.TemporaryDirectory() as tmp:
+                temp = Path(tmp)
+                source, workspace, repo = (temp / name for name in ("source", "workspace", "repo"))
+                image = source / "UploadFiles/xwzx/2026/7/a.jpg"
+                image.parent.mkdir(parents=True)
+                image.write_bytes(b"image")
+                self._init_repo(repo)
+                sync_repository(build_inventory(source, self.routes, workspace), repo, 100, push=False)
+                target = "UploadFiles/xwzx/2026/7/a.jpg"
+                if pending == "index":
+                    self._git(repo, "rm", "--cached", target)
+                    self._git(repo, "commit", "-m", "manifest before image recovery")
+                    self._git(repo, "add", target)
+                elif pending == "changed_index":
+                    (repo / target).write_bytes(b"uncommitted different image")
+                    self._git(repo, "add", target)
+                else:
+                    image.write_bytes(b"changed image")
+                entries = build_inventory(source, self.routes, workspace)
+                entry = entries[0]
+                if pending == "manifest":
+                    (repo / "manifest.tsv").write_text(
+                        "source_path\ttarget_path\tsize\tsha256\tsource_sha256\ttransform\n"
+                        f"{target}\t{target}\t{entry.size}\t{entry.sha256}\t{entry.source_sha256}\t\n"
+                    )
+                self._git(repo, "config", "remote.origin.promisor", "true")
+                (repo / target).unlink()
+
+                result = sync_repository(entries, repo, 100, push=False)
+
+                self.assertEqual(result["changed_files"], 1)
+                self.assertEqual(result["commits"], 0 if pending == "changed_index" else 1)
+                self.assertEqual((repo / target).read_bytes(), image.read_bytes())
+                self.assertEqual(self._git(repo, "show", "HEAD:" + target), image.read_text())
+
+    def test_sync_cli_can_skip_unavailable_external_images_and_retry_later(self):
+        requests = []
+        payload = [b"image"]
+
+        class ImageHandler(BaseHTTPRequestHandler):
+            def do_GET(self):
+                requests.append(self.path)
+                if self.path == "/a-missing.png":
+                    self.send_response(404)
+                    self.send_header("Content-Length", "0")
+                    self.end_headers()
+                    return
+                self.send_response(200)
+                self.send_header("Content-Type", "image/png")
+                self.send_header("Content-Length", str(len(payload[0])))
+                self.end_headers()
+                self.wfile.write(payload[0])
+
+            def log_message(self, *_args):
+                return
+
+        server = ThreadingHTTPServer(("127.0.0.1", 0), ImageHandler)
+        thread = threading.Thread(target=server.serve_forever, daemon=True)
+        thread.start()
+        try:
+            with tempfile.TemporaryDirectory() as tmp:
+                temp = Path(tmp)
+                source, workspace = temp / "source", temp / "workspace"
+                page = source / "Item/1.aspx"
+                page.parent.mkdir(parents=True)
+                base = f"http://127.0.0.1:{server.server_port}"
+                missing, valid = base + "/a-missing.png", base + "/z-valid.png"
+                page.write_text(f'<img src="{missing}"><img src="{valid}">')
+                with self.assertRaisesRegex(RuntimeError, "failed to mirror external image"):
+                    mirror_external_image_attachments(source, self.routes)
+
+                workspace.mkdir()
+                repo = workspace / self.routes.fallback_repository
+                self._init_repo(repo)
+                (repo / "README.md").write_text("fixture")
+                self._git(repo, "add", "README.md")
+                self._git(repo, "commit", "-m", "seed")
+                origin = temp / "origin.git"
+                subprocess.run(["git", "init", "--bare", str(origin)], check=True, capture_output=True)
+                self._git(repo, "remote", "add", "origin", str(origin))
+                self._git(repo, "push", "-u", "origin", "main")
+                output = io.StringIO()
+                with mock.patch("tools.sync_image_shards.bootstrap_repository", return_value=repo), self.assertLogs("tools.sync_image_shards", level="WARNING") as warnings, contextlib.redirect_stdout(output):
+                    exit_code = main([
+                        "sync", "--source", str(source), "--routes", str(ROOT / "attachment_routes.json"),
+                        "--workspace", str(workspace), "--repository", self.routes.fallback_repository,
+                        "--allow-missing-external-images",
+                    ])
+                self.assertEqual(exit_code, 0)
+                self.assertIn(missing, "\n".join(warnings.output))
+                target = self.routes.resolve(valid).source_path
+                self.assertEqual((source / target).read_bytes(), b"image")
+                self.assertEqual(self._git(origin, "show", "main:" + target), "image")
+                self.assertFalse((source / self.routes.resolve(missing).source_path).exists())
+
+                payload[0] = b"different upstream image"
+                with self.assertLogs("tools.sync_image_shards", level="WARNING"):
+                    self.assertEqual(mirror_external_image_attachments(source, self.routes, strict=False), 0)
+                self.assertEqual(requests.count("/a-missing.png"), 3)
+                self.assertEqual(requests.count("/z-valid.png"), 1)
+                self.assertEqual((source / target).read_bytes(), b"image")
+
+                fresh = temp / "fresh"
+                fresh.mkdir()
+                (fresh / "1.aspx").write_text(f'<img src="{valid}">')
+                with mock.patch("tools.sync_image_shards.MAX_EXTERNAL_IMAGE_BYTES", 3):
+                    with self.assertRaisesRegex(RuntimeError, "response exceeds 3 bytes"):
+                        mirror_external_image_attachments(fresh, self.routes, strict=False)
+        finally:
+            server.shutdown()
+            server.server_close()
+            thread.join(timeout=5)
 
     def test_sync_prunes_manifested_images_only_when_explicitly_requested(self):
         with tempfile.TemporaryDirectory() as tmp:
@@ -568,13 +785,50 @@ class ImageShardSyncTests(unittest.TestCase):
                 encoding="utf-8",
             )
             self._git(repo, "add", "README.md", ".gitattributes")
+            for relative in (".github/workflows/sync-organization-fork.yml", "docs/organization-fork-sync.md"):
+                path = repo / relative
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text("existing organization fork synchronization\n")
+                self._git(repo, "add", relative)
             self._git(repo, "commit", "-m", "initialize")
 
             with mock.patch("tools.sync_image_shards._run") as run:
                 result = bootstrap_repository(self.routes, name, workspace)
 
             self.assertEqual(result, repo)
+            self.assertEqual((repo / "docs/organization-fork-sync.md").read_text(), "existing organization fork synchronization\n")
             run.assert_not_called()
+
+    def test_clean_shard_skips_remote_push_but_pending_commit_is_uploaded(self):
+        from tools.sync_image_shards import push_pending_repository
+
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            origin = root / "origin.git"
+            subprocess.run(
+                ["git", "init", "--bare", str(origin)], check=True, capture_output=True
+            )
+            repo = root / "repo"
+            self._init_repo(repo)
+            (repo / "README.md").write_text("initial", encoding="utf-8")
+            self._git(repo, "add", "README.md")
+            self._git(repo, "commit", "-m", "initial")
+            self._git(repo, "remote", "add", "origin", str(origin))
+            self._git(repo, "push", "-u", "origin", "main")
+
+            disconnected = root / "disconnected.git"
+            origin.rename(disconnected)
+            self.assertFalse(push_pending_repository(repo))
+            disconnected.rename(origin)
+
+            (repo / "README.md").write_text("updated", encoding="utf-8")
+            self._git(repo, "add", "README.md")
+            self._git(repo, "commit", "-m", "updated")
+            self.assertTrue(push_pending_repository(repo))
+            self.assertEqual(
+                self._git(repo, "rev-parse", "HEAD"),
+                self._git(origin, "rev-parse", "refs/heads/main"),
+            )
 
     def test_bootstrap_repairs_clone_with_truncated_git_metadata(self):
         with tempfile.TemporaryDirectory() as tmp:

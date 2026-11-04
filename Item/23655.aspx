@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23674.aspx" target="_blank" title="标题：2026Csp考场布置及相关要求&#xD;点击数：43&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23675.aspx" target="_blank" title="标题：2026Csp考场布置及相关要求&#xD;点击数：41&#xD;发表时间：2026年09月17日">2026Csp考场布置及相关要求</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23660.aspx" target="_blank" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：209&#xD;发表时间：2026年09月15日">9月19日（本周六）csp监考安排</a><span class="dateRight">[09-15]</span></li><li><a href="/Item/23632.aspx" target="_blank" title="标题：2026年绍兴一中教育集团秋季运动会竞赛规程&#xD;点击数：490&#xD;发表时间：2026年09月11日">2026年绍兴一中教育集团秋季运动会竞赛规程</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23633.aspx" target="_blank" title="标题：网上报名操作说明&#xD;点击数：234&#xD;发表时间：2026年09月11日">网上报名操作说明</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li class="last"><a href="/Item/23643.aspx" target="_blank" title="标题：体育教研活动通知&#xD;点击数：147&#xD;发表时间：2026年09月14日">体育教研活动通知</a><span class="dateRight">[09-14]</span></li>
+            <li class="first"><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23812.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：180&#xD;发表时间：2026年10月19日">体育教研及体育课调整通知</a><span class="dateRight">[10-19]</span></li><li><a href="/Item/23811.aspx" target="_blank" title="标题：高三诊断性考试时间安排&#xD;点击数：166&#xD;发表时间：2026年10月19日">高三诊断性考试时间安排</a><span class="dateRight">[10-19]</span></li><li><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：80&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li><li class="last"><a href="/Item/23766.aspx" target="_blank" title="标题：学生证领取和注册通知&#xD;点击数：211&#xD;发表时间：2026年10月08日">学生证领取和注册通知</a><span class="dateRight">[10-08]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23643.aspx" target="_self" title="标题：体育教研活动通知&#xD;点击数：147&#xD;发表时间：26年09月14日">体育教研活动通知</a>[ 09-14 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23660.aspx" target="_self" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：209&#xD;发表时间：26年09月15日">9月19日（本周六）csp监考安排</a>[ 09-15 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23643.aspx" target="_self" title="标题：体育教研活动通知&#xD;点击数：151&#xD;发表时间：26年09月14日">体育教研活动通知</a>[ 09-14 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23660.aspx" target="_self" title="标题：9月19日（本周六）csp监考安排&#xD;点击数：234&#xD;发表时间：26年09月15日">9月19日（本周六）csp监考安排</a>[ 09-15 ]</div>
                         </div>
                     </div>
 

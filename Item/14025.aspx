@@ -7,9 +7,9 @@
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
     <title>【党史上的今天】9月26日--学习专栏-绍兴市第一中学</title>
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -27,10 +27,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -38,12 +38,12 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 </head>
 <div id="top">
 	<div class="siteWidth">
-		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Item/13310.aspx" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -53,10 +53,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div id="header">
     <div class="siteWidth">
 			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
-					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+					<a href="/"><img src="/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/User/index.aspx">登录</a>|<a href="/User/Register.aspx" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -125,167 +125,167 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Category_22/Index.aspx">工作安排</a></h4>
 </li>
 <li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Category_23/Index.aspx">校长专栏</a></h4>
 </li>
 <li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Category_24/Index.aspx">校务公开</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
 				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Category_112/Index.aspx">建校史略</a></h4>
 </li>
 <li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Category_113/Index.aspx">昔日校园</a></h4>
 </li>
 <li class="li2" id="liID376">
   <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
 </li>
 <li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
 <li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Category_45/Index.aspx">管理团队</a></h4>
 </li>
 <li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Category_49/Index.aspx">—中校歌</a></h4>
 </li>
 <li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Category_41/Index.aspx">校园风光</a></h4>
 </li>
 <li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Category_10/Index.aspx">奖教奖学</a></h4>
 </li>
 <li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Category_42/Index.aspx">学校荣誉</a></h4>
 </li>
 <li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
 				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Category_54/Index.aspx">清廉学校</a></h4>
 </li>
 <li class="li2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Category_55/Index.aspx">学习专栏</a></h4>
 </li>
 <li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Category_56/Index.aspx">先锋故事</a></h4>
 </li>
 <li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Category_58/Index.aspx">课余党校</a></h4>
 </li>
 <li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
 <li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Category_71/Index.aspx">名师工作室</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
 				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Category_381/Index.aspx">家校合力</a></h4>
 </li>
 <li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Category_386/Index.aspx">德育活动</a></h4>
 </li>
 <li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Category_102/Index.aspx">博雅讲座</a></h4>
 </li>
 <li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
 <li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Category_73/Index.aspx">数学竞赛</a></h4>
 </li>
 <li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Category_74/Index.aspx">物理竞赛</a></h4>
 </li>
 <li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
 <li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Category_373/Index.aspx">天文竞赛</a></h4>
 </li>
 <li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
 </li>
 <li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Category_387/Index.aspx">教科动态</a></h4>
 </li>
 <li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
 </li>
 <li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Category_100/Index.aspx">社团风采</a></h4>
 </li>
 <li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Category_103/Index.aspx">艺术教育</a></h4>
 </li>
 <li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Category_105/Index.aspx">校园安全</a></h4>
 </li>
 <li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Category_368/Index.aspx">实践学分</a></h4>
 </li>
 <li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Category_369/Index.aspx">饮水思源</a></h4>
 </li>
 <li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Category_388/Index.aspx">志愿活动</a></h4>
 </li>
 <li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Category_382/Index.aspx">校园活动</a></h4>
 </li>
 			</ul></li></ul><script type="text/javascript">
 			jQuery(function($){
@@ -350,16 +350,16 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h3>
+        <h3><a href="/Category_50/Index.aspx">党建引领</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></li>
-<li class="li2"><a href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></li>
-<li class="li3 on"><a href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></li>
-<li class="li5"><a href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></li>
-<li class="li6 last"><a href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></li>
+			<li class="li1 first"><a href="/Category_53/Index.aspx">组织架构</a></li>
+<li class="li2"><a href="/Category_54/Index.aspx">清廉学校</a></li>
+<li class="li3 on"><a href="/Category_55/Index.aspx">学习专栏</a></li>
+<li class="li4"><a href="/Category_56/Index.aspx">先锋故事</a></li>
+<li class="li5"><a href="/Category_58/Index.aspx">课余党校</a></li>
+<li class="li6 last"><a href="/Category_60/Index.aspx">党建网站</a></li>
 		</ul>
 	</div>
 </div>
@@ -374,7 +374,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Shaoxingyizhong/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Shaoxingyizhong/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Shaoxingyizhong/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Shaoxingyizhong/Item/23272.aspx" target="_blank" title="标题：每周一学（2026年5月25日-5月31日）新时代共产党人干事业、创政绩的科学指南&#xD;点击数：15&#xD;发表时间：2026年05月25日">每周一学（2026年5月25日-5月31日）新时代共产党人干事业…</a><span class="dateRight">[05-25]</span></li><li><a href="/Shaoxingyizhong/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Shaoxingyizhong/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23163.aspx" target="_blank" title="标题：每周一学（2026年5月4日-5月10日）着力提高防范应对自然灾害能力 切实维护人民群众生命财产安全&#xD;点击数：20&#xD;发表时间：2026年05月07日">每周一学（2026年5月4日-5月10日）着力提高防范应对自然…</a><span class="dateRight">[05-07]</span></li>
+            <li class="first"><a href="/Item/23442.aspx" target="_blank" title="标题：每周一学（2026年6月11日-6月18日）中组部召开基层党建工作重点任务推进会&#xD;点击数：7&#xD;发表时间：2026年06月11日">每周一学（2026年6月11日-6月18日）中组部召开基层党建工…</a><span class="dateRight">[06-11]</span></li><li><a href="/Item/23330.aspx" target="_blank" title="标题：每周一学（2026年6月1日-6月7日）义乌发展经验&#xD;点击数：13&#xD;发表时间：2026年06月01日">每周一学（2026年6月1日-6月7日）义乌发展经验</a><span class="dateRight">[06-01]</span></li><li><a href="/Item/23180.aspx" target="_blank" title="标题：每周一学（2026年5月11日-5月17日）以更大力度更实举措加强基础研究 进一步打牢科技强国建设根基&#xD;点击数：24&#xD;发表时间：2026年05月11日">每周一学（2026年5月11日-5月17日）以更大力度更实举措加…</a><span class="dateRight">[05-11]</span></li><li><a href="/Item/23443.aspx" target="_blank" title="标题：每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开展树立和践行正确政绩观学习教育&#xD;点击数：2&#xD;发表时间：2026年04月27日">每周一学（2026年4月27日-5月3日）认认真真、扎扎实实开…</a><span class="dateRight">[04-27]</span></li><li><a href="/Item/23440.aspx" target="_blank" title="标题：每周一学（2026年6月29日-7月5日）把党的政治建设作为党的根本性建设&#xD;点击数：12&#xD;发表时间：2026年06月29日">每周一学（2026年6月29日-7月5日）把党的政治建设作为党…</a><span class="dateRight">[06-29]</span></li><li><a href="/Item/23077.aspx" target="_blank" title="标题：每周一学（2026年4月20日-4月26日）习近平文化思想引领书香社会建设&#xD;点击数：30&#xD;发表时间：2026年04月21日">每周一学（2026年4月20日-4月26日）习近平文化思想引领书…</a><span class="dateRight">[04-21]</span></li><li class="last"><a href="/Item/23048.aspx" target="_blank" title="标题：每周一学（2026年4月13日-4月19日）全民国家安全教育日&#xD;点击数：16&#xD;发表时间：2026年04月15日">每周一学（2026年4月13日-4月19日）全民国家安全教育日</a><span class="dateRight">[04-15]</span></li>
           
                     </ul>
                 </div>
@@ -384,11 +384,11 @@ function GetUserInfo1(response){
         <div class="mainContent">
             <div class="mainBox">
                 <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Shaoxingyizhong/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
-    <a href="/Shaoxingyizhong/Category_55/Index.aspx" target="_self">学习专栏</a></div>
+    <a href="/Category_50/Index.aspx" target="_self">党建引领</a>&gt;
+    <a href="/Category_55/Index.aspx" target="_self">学习专栏</a></div>
                     <h3>学习专栏</h3>
                 </div>
                 <div class="mBd">
@@ -403,7 +403,7 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2021年09月26日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=14025"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=14025"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
@@ -418,7 +418,7 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style=";padding: 0;line-height: 24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 21px;background: rgb(255, 255, 255)"><span style="font-family:宋体">重要论述</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1977</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)"><span style="font-family:宋体">　　邓小平在会见欧洲核子研究中心总主任阿达姆斯等时指出：我国发展科学技术的目标是，在二十世纪末力求接近当时的世界先进水平，相当的部分赶上当时的世界先进水平，个别的超过。要达到以上目标，必须承认自己落后，这样才能向前迈进。我们要以现代世界先进水平为起点，老老实实地、虚心地学习一切先进的科学技术，并在学习中创新。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　<span style="font-family:Arial">1996</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)"><span style="font-family:宋体">　　江泽民在视察人民日报社时讲话就舆论导向问题指出：舆论导向正确，是党和人民之福；舆论导向错误，是党和人民之祸。党的新闻事业与党休戚与共，是党的生命的一部分。可以说，舆论工作就是思想政治工作，是党和国家的前途命运所系的工作。因此，我们党一贯强调，要把新闻舆论的领导权牢牢掌握在忠于马克思主义、忠于党、忠于人民的人手里；新闻舆论单位一定要把坚定正确的政治方向放在一切工作的首位，坚持正确的舆论导向；新闻舆论工作要紧紧围绕经济建设这个中心，服从和服务于全党全国工作的大局。这篇讲话的主要部分以《舆论导向正确是党和人民之福》为题，收入《江泽民文选》第一卷。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　<span style="font-family:Arial">2016</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)"><span style="font-family:宋体">　　习近平在火箭军机关视察时强调，火箭军是我国战略威慑的核心力量，是我国大国地位的战略支撑，是维护国家安全的重要基石。要以党在新形势下的强军目标为引领，贯彻新形势下军事战略方针，坚持政治建军、改革强军、依法治军，牢记历史使命，提升战略能力，努力建设一支强大的现代化火箭军。他强调，要在提升战略遏制能力上实现新突破，贯彻新形势下军事战略方针和军队建设发展</span><span style="font-family:Arial">“</span><span style="font-family:宋体">十三五</span><span style="font-family:Arial">”</span><span style="font-family:宋体">规划纲要总体部署，制定火箭军发展战略和建设规划计划，把火箭军力量结构和部队编成搞得更加科学，进一步解放和发展战斗力。要在提高备战实战化水平上实现新突破，锲而不舍、一丝不苟抓好实战化军事训练，深度融入全军联合作战指挥体系，保持常备不懈、随时能战的战备状态。要在加强战略运用上实现新突破，坚持抓建为战、以用促建，全面把握战略力量运用的特点和规律，确保发挥战略作用。</span></span></p><p style="margin: 22px 0 0;padding: 0;line-height: 24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 21px;background: rgb(255, 255, 255)"><span style="font-family:宋体">党史回眸</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1959</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 中央军委发出《关于军委组成人员的通知》，毛泽东为中央军委主席。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">1984<span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 中英两国政府关于香港问题的联合声明在北京人民大会堂草签。联合声明宣布，中国政府决定在</span><span style="font-family:Arial">1997</span><span style="font-family:宋体">年</span><span style="font-family:Arial">7</span><span style="font-family:宋体">月</span><span style="font-family:Arial">1</span><span style="font-family:宋体">日对香港恢复行使主权，英国将在同日把香港交还给中国。</span><span style="font-family:Arial">12</span><span style="font-family:宋体">月</span><span style="font-family:Arial">19</span><span style="font-family:宋体">日，这个联合声明在北京正式签署。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1986</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 中共中央、国务院发出《关于加强农村基层政权建设工作的通知》。《通知》指出，全国农村人民公社政社分开、建立乡政府的工作已经全部结束。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1988</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日－</span><span style="font-family:Arial">30</span><span style="font-family:宋体">日 中共十三届三中全会召开。全会提出治理经济环境、整顿经济秩序、全面深化改革的方针。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">2017</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 习近平出席国际刑警组织第</span><span style="font-family:Arial">86</span><span style="font-family:宋体">届全体大会开幕式并发表主旨演讲，强调中国愿同各国政府及其执法机构、各国际组织一道，高举合作、创新、法治、共赢的旗帜，共同构建普遍安全的人类命运共同体。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　<span style="font-family:Arial">2018</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 习近平在黑龙江考察时讲话指出，现在，国际上单边主义、贸易保护主义上升，我们必须坚持走自力更生的道路。中国要发展，最终要靠自己。</span></span></p><p style="margin: 22px 0 0;padding: 0;line-height: 24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 21px;background: rgb(255, 255, 255)"><span style="font-family:宋体">历史瞬间</span></span></strong></p><p style="margin-top: 36px; margin-left: 0px; text-indent: 0px; background: rgb(255, 255, 255); text-align: center;"><span style="font-family: Arial;letter-spacing: 0;font-size: 12px"><img src="/Shaoxingyizhong/UploadFiles/dw/2021/9/202109261616466993.jpeg" style="max-width: 100%; " title="202109261616466993.jpeg" /> </span></p><p style="margin-top:36px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1959</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日，在黑龙江肇州县大同镇附近的松基</span><span style="font-family:Arial">3</span><span style="font-family:宋体">号井喷出了工业油流，发现了大油田。因临近国庆</span><span style="font-family:Arial">10</span><span style="font-family:宋体">周年，被命名为大庆油田。</span></span></p><p>
+     <p style=";padding: 0;line-height: 24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 21px;background: rgb(255, 255, 255)"><span style="font-family:宋体">重要论述</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1977</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)"><span style="font-family:宋体">　　邓小平在会见欧洲核子研究中心总主任阿达姆斯等时指出：我国发展科学技术的目标是，在二十世纪末力求接近当时的世界先进水平，相当的部分赶上当时的世界先进水平，个别的超过。要达到以上目标，必须承认自己落后，这样才能向前迈进。我们要以现代世界先进水平为起点，老老实实地、虚心地学习一切先进的科学技术，并在学习中创新。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　<span style="font-family:Arial">1996</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)"><span style="font-family:宋体">　　江泽民在视察人民日报社时讲话就舆论导向问题指出：舆论导向正确，是党和人民之福；舆论导向错误，是党和人民之祸。党的新闻事业与党休戚与共，是党的生命的一部分。可以说，舆论工作就是思想政治工作，是党和国家的前途命运所系的工作。因此，我们党一贯强调，要把新闻舆论的领导权牢牢掌握在忠于马克思主义、忠于党、忠于人民的人手里；新闻舆论单位一定要把坚定正确的政治方向放在一切工作的首位，坚持正确的舆论导向；新闻舆论工作要紧紧围绕经济建设这个中心，服从和服务于全党全国工作的大局。这篇讲话的主要部分以《舆论导向正确是党和人民之福》为题，收入《江泽民文选》第一卷。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　<span style="font-family:Arial">2016</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)"><span style="font-family:宋体">　　习近平在火箭军机关视察时强调，火箭军是我国战略威慑的核心力量，是我国大国地位的战略支撑，是维护国家安全的重要基石。要以党在新形势下的强军目标为引领，贯彻新形势下军事战略方针，坚持政治建军、改革强军、依法治军，牢记历史使命，提升战略能力，努力建设一支强大的现代化火箭军。他强调，要在提升战略遏制能力上实现新突破，贯彻新形势下军事战略方针和军队建设发展</span><span style="font-family:Arial">“</span><span style="font-family:宋体">十三五</span><span style="font-family:Arial">”</span><span style="font-family:宋体">规划纲要总体部署，制定火箭军发展战略和建设规划计划，把火箭军力量结构和部队编成搞得更加科学，进一步解放和发展战斗力。要在提高备战实战化水平上实现新突破，锲而不舍、一丝不苟抓好实战化军事训练，深度融入全军联合作战指挥体系，保持常备不懈、随时能战的战备状态。要在加强战略运用上实现新突破，坚持抓建为战、以用促建，全面把握战略力量运用的特点和规律，确保发挥战略作用。</span></span></p><p style="margin: 22px 0 0;padding: 0;line-height: 24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 21px;background: rgb(255, 255, 255)"><span style="font-family:宋体">党史回眸</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1959</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 中央军委发出《关于军委组成人员的通知》，毛泽东为中央军委主席。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">1984<span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 中英两国政府关于香港问题的联合声明在北京人民大会堂草签。联合声明宣布，中国政府决定在</span><span style="font-family:Arial">1997</span><span style="font-family:宋体">年</span><span style="font-family:Arial">7</span><span style="font-family:宋体">月</span><span style="font-family:Arial">1</span><span style="font-family:宋体">日对香港恢复行使主权，英国将在同日把香港交还给中国。</span><span style="font-family:Arial">12</span><span style="font-family:宋体">月</span><span style="font-family:Arial">19</span><span style="font-family:宋体">日，这个联合声明在北京正式签署。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1986</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 中共中央、国务院发出《关于加强农村基层政权建设工作的通知》。《通知》指出，全国农村人民公社政社分开、建立乡政府的工作已经全部结束。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1988</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日－</span><span style="font-family:Arial">30</span><span style="font-family:宋体">日 中共十三届三中全会召开。全会提出治理经济环境、整顿经济秩序、全面深化改革的方针。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">2017</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 习近平出席国际刑警组织第</span><span style="font-family:Arial">86</span><span style="font-family:宋体">届全体大会开幕式并发表主旨演讲，强调中国愿同各国政府及其执法机构、各国际组织一道，高举合作、创新、法治、共赢的旗帜，共同构建普遍安全的人类命运共同体。</span></span></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　</span><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　<span style="font-family:Arial">2018</span><span style="font-family:宋体">年</span></span></strong></p><p style="margin-top:22px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日 习近平在黑龙江考察时讲话指出，现在，国际上单边主义、贸易保护主义上升，我们必须坚持走自力更生的道路。中国要发展，最终要靠自己。</span></span></p><p style="margin: 22px 0 0;padding: 0;line-height: 24px"><strong><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 21px;background: rgb(255, 255, 255)"><span style="font-family:宋体">历史瞬间</span></span></strong></p><p style="margin-top: 36px; margin-left: 0px; text-indent: 0px; background: rgb(255, 255, 255); text-align: center;"><span style="font-family: Arial;letter-spacing: 0;font-size: 12px"><img src="/UploadFiles/dw/2021/9/202109261616466993.jpeg" style="max-width: 100%; " title="202109261616466993.jpeg" /> </span></p><p style="margin-top:36px;margin-right:0;margin-bottom:0;margin-left:0;padding:0 0 0 0 ;line-height:24px"><span style="font-family: Arial;color: rgb(51, 51, 51);letter-spacing: 0;font-size: 16px;background: rgb(255, 255, 255)">　　<span style="font-family:Arial">1959</span><span style="font-family:宋体">年</span><span style="font-family:Arial">9</span><span style="font-family:宋体">月</span><span style="font-family:Arial">26</span><span style="font-family:宋体">日，在黑龙江肇州县大同镇附近的松基</span><span style="font-family:Arial">3</span><span style="font-family:宋体">号井喷出了工业油流，发现了大油田。因临近国庆</span><span style="font-family:Arial">10</span><span style="font-family:宋体">周年，被命名为大庆油田。</span></span></p><p>
 </p>
     
     </div><!--endprint-->
@@ -428,8 +428,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/14020.aspx" target="_self" title="标题：【党史上的今天】9月25日&#xD;点击数：212&#xD;发表时间：21年09月25日">【党史上的今天】9月25日</a>[ 09-25 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/14041.aspx" target="_self" title="标题：【党史上的今天】9月27日&#xD;点击数：236&#xD;发表时间：21年09月27日">【党史上的今天】9月27日</a>[ 09-27 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/14020.aspx" target="_self" title="标题：【党史上的今天】9月25日&#xD;点击数：212&#xD;发表时间：21年09月25日">【党史上的今天】9月25日</a>[ 09-25 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/14041.aspx" target="_self" title="标题：【党史上的今天】9月27日&#xD;点击数：236&#xD;发表时间：21年09月27日">【党史上的今天】9月27日</a>[ 09-27 ]</div>
                         </div>
                     </div>
 
@@ -446,25 +446,25 @@ $(document).ready(function()
 <div id="footer">
   <div class="siteWidth">
 
-      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+      <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
-      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
 
-      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
-      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
-      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Template/Default/Skin/erms/img/xcxewm.png" />
   </div>  
 </div>
 <!-- footer E -->

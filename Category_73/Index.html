@@ -115,7 +115,7 @@ function GetUserInfo1(response){
                     return;
                 } else {
 
-                    window.location = '/search/s.html?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                    window.location = '/Shaoxingyizhong/search.html?c=&f=title&wd=' + encodeURIComponent(keyword2) + '&o='+2;
                 }
             }
             </script>
@@ -401,7 +401,7 @@ function GetUserInfo1(response){
    <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
    <label> 
    <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/Shaoxingyizhong/search.html?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
+    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('input[onclick^=OnSearchCheckAndSubmit2]'));</script>
     <script language="javascript" type="text/javascript">
     function OnSearchCheckAndSubmit2(){
         var keyword = document.getElementById("keyword_PowerEasy").value;
@@ -414,7 +414,7 @@ function GetUserInfo1(response){
             var fieldOptionSel = document.getElementById("fieldOption");
             var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
             var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.html?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
+            window.location = "/Shaoxingyizhong/search.html?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + encodeURIComponent(keyword) + "&fieldOption=" + fieldOption;
         }
     }
     </script>
@@ -433,7 +433,7 @@ function GetUserInfo1(response){
                     <!-- 正文内容 S -->
                     <ul class="infoList">
                         
-            <li class="first"><span class="date">2023-06-02</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/18535.html" target="_self" title="标题：4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛浙江省预赛中创佳绩！&#xD;点击数：323&#xD;发表时间：2023年06月02日">4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛浙江省预赛中创佳绩！</a></li><li><span class="date">2020-11-19</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/16530.html" target="_self" title="标题：2020年全国高中数学联赛我校再创佳绩&#xD;点击数：338&#xD;发表时间：2020年11月19日">2020年全国高中数学联赛我校再创佳绩</a></li><li class="last"><span class="date">2020-10-16</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/12862.html" target="_self" title="标题：数学组近期捷报频传&#xD;点击数：705&#xD;发表时间：2020年10月16日">数学组近期捷报频传</a></li>
+            <li class="first"><span class="date">2023-06-02</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/18535.html" target="_self" title="标题：4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛浙江省预赛中创佳绩！&#xD;点击数：325&#xD;发表时间：2023年06月02日">4人一等奖！我校学子在2023年全国中学生数学奥林匹克竞赛浙江省预赛中创佳绩！</a></li><li><span class="date">2020-11-19</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/16530.html" target="_self" title="标题：2020年全国高中数学联赛我校再创佳绩&#xD;点击数：339&#xD;发表时间：2020年11月19日">2020年全国高中数学联赛我校再创佳绩</a></li><li class="last"><span class="date">2020-10-16</span><img src="/Shaoxingyizhong/images/ontop1.gif" alt="热门"><a href="/Shaoxingyizhong/Item/12862.html" target="_self" title="标题：数学组近期捷报频传&#xD;点击数：706&#xD;发表时间：2020年10月16日">数学组近期捷报频传</a></li>
           
                     </ul>
                     <div class="page"><span id="pe100_page_通用信息列表_普通式" class="pagecss"><!--{pe.begin.pagination}-->

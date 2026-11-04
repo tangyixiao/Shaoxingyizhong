@@ -401,9 +401,17 @@ function GetUserInfo1(response){
   </tr>
  
 <tr class="tableCont">
+    <td class="msgT"><a href="/Item/23816.aspx">潮哥</a></td>
+    <td>时间长</td>
+    <td>36</td>
+    <td>2026-10-20</td>
+    <td><span class="msg_wait">待回复</span></td>
+  </tr>
+ 
+<tr class="tableCont">
     <td class="msgT"><a href="/Item/23790.aspx">sjc的会议</a></td>
     <td>sjcnb</td>
-    <td>13</td>
+    <td>33</td>
     <td>2026-10-14</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -411,7 +419,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23789.aspx">论1014会议😶</a></td>
     <td>sjcnb</td>
-    <td>12</td>
+    <td>31</td>
     <td>2026-10-14</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -419,7 +427,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23786.aspx">$β世纪城</a></td>
     <td>sjcnb</td>
-    <td>13</td>
+    <td>30</td>
     <td>2026-10-13</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -427,7 +435,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23492.aspx">d#a$k#a$r#a,QjH@gKe!X</a></td>
     <td>AS</td>
-    <td>51</td>
+    <td>63</td>
     <td>2026-07-09</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -435,7 +443,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23491.aspx">XxeeeKkkkQqQsssssBBb</a></td>
     <td>AS</td>
-    <td>37</td>
+    <td>42</td>
     <td>2026-07-09</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -443,7 +451,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23460.aspx">鲁迅中学王朝了</a></td>
     <td>sjcnb</td>
-    <td>98</td>
+    <td>102</td>
     <td>2026-07-01</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -459,7 +467,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23420.aspx">高三创新班搬去越乔楼的若干弊端</a></td>
     <td>耐ln</td>
-    <td>91</td>
+    <td>93</td>
     <td>2026-06-23</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -467,7 +475,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23415.aspx">我不要一栋楼创新班的男的，我不要滂臭的厕所</a></td>
     <td>jing</td>
-    <td>84</td>
+    <td>91</td>
     <td>2026-06-22</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -475,7 +483,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23413.aspx">Ypqnmsl</a></td>
     <td>ypqnmsl</td>
-    <td>81</td>
+    <td>83</td>
     <td>2026-06-22</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -483,7 +491,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23306.aspx">关于4楼厕所又堵了的事实</a></td>
     <td>我要吃鸡脚筋</td>
-    <td>54</td>
+    <td>57</td>
     <td>2026-05-28</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -491,7 +499,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22895.aspx">一楼食堂部分食物明显缩小</a></td>
     <td>kouzi1001</td>
-    <td>90</td>
+    <td>93</td>
     <td>2026-03-20</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -499,7 +507,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22890.aspx">雷霆</a></td>
     <td>kouzi1001</td>
-    <td>113</td>
+    <td>115</td>
     <td>2026-03-19</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -507,7 +515,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22549.aspx">不是</a></td>
     <td>UK</td>
-    <td>110</td>
+    <td>111</td>
     <td>2025-12-24</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -515,7 +523,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22250.aspx">食堂吃到虫子</a></td>
     <td>kouzi1001</td>
-    <td>111</td>
+    <td>113</td>
     <td>2025-11-11</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -523,7 +531,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22242.aspx">老是有人故意在三楼男厕所外面拉屎</a></td>
     <td>kouzi1001</td>
-    <td>152</td>
+    <td>155</td>
     <td>2025-11-10</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -531,7 +539,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/21982.aspx">不承认第二十六届团学联主席团选举结果</a></td>
     <td>不承认第二十六届团学联主席团选举结果</td>
-    <td>174</td>
+    <td>179</td>
     <td>2025-09-26</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -539,7 +547,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/21981.aspx">请全体学生代表和广大师生监督（监督电话：13625754497）。</a></td>
     <td>LovelyFlorrie</td>
-    <td>113</td>
+    <td>116</td>
     <td>2025-09-26</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -547,16 +555,8 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/21980.aspx">等额选举并且公示意义何在</a></td>
     <td>LovelyFlorrie</td>
-    <td>129</td>
+    <td>132</td>
     <td>2025-09-25</td>
-    <td><span class="msg_wait">待回复</span></td>
-  </tr>
- 
-<tr class="tableCont">
-    <td class="msgT"><a href="/Item/21893.aspx">€</a></td>
-    <td>LovelyMayfly</td>
-    <td>53</td>
-    <td>2025-09-12</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
 

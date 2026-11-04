@@ -1,8 +1,8 @@
 # 内网爬虫增量同步
 
-`a.py` 运行在能访问 `10.176.17.2` 的内网机器上，GitHub Actions 无法直接访问这个地址。因此同步分为两段：
+`tools/intranet_crawler.py` 运行在能访问 `10.176.17.2` 的内网机器上，GitHub Actions 无法直接访问这个地址。因此同步分为两段：
 
-1. `a.py` 检查首页、分类页等枝干节点，并根据 `Item/数字.aspx` 的编号水位线只抓取新叶子节点。默认以 GitHub 仓库中最大的 Item 编号为基准，再回溯 20 个编号，避免少量临近旧页面漏更新。每个文件先计算 SHA-256，内容没有变化就保留原文件，变化时才原子替换。
+1. `tools/intranet_crawler.py` 检查首页、分类页等枝干节点，并根据 `Item/数字.aspx` 的编号水位线抓取新叶子节点。默认以 GitHub 仓库中最大的 Item 编号为基准，再回溯 20 个编号；目录引用但仓库缺少的文章也会补抓，不受回溯范围限制。下载内容按字节与本地文件比较；相同时不创建临时文件，有变化时原子替换。
 2. `tools/sync_image_shards.py` 把 `UploadFiles` 下的图片按分片仓库同步并校验。
 3. `tools/publish_crawl.py` 比较爬虫目录和仓库目录，复制内容变化的页面、脚本和非图片附件；非图片附件会从 `UploadFiles` 镜像到主仓库的 `downloads/`。每个发生变化的 `.aspx` 页面会同时刷新对应的已提交 `.html` 别名（根首页同步 `index.html`、`Default.html`、`default.html`），然后自动 commit 和 push。原始 `UploadFiles`、图片、爬虫状态和日志不会进入主仓库。
 4. push 后，GitHub Pages Action 仍会把完整 `.aspx` 页面树转换为部署用的 `.html`；仓库内的页面 HTML 与发布源同步，避免只更新 `.aspx` 而留下旧页面。
@@ -16,7 +16,7 @@ cd /home/tangyixiao/Projects/Shaoxingyizhong
 python3 tools/update_from_intranet.py
 ```
 
-它会运行相邻目录的 `/home/tangyixiao/Projects/a.py`，自动读取仓库中最大的 Item 编号，然后只检查新编号及其前 20 个页面；随后同步 `/home/tangyixiao/Projects/内网备份` 并推送到 `origin`。
+它会运行仓库内的 `tools/intranet_crawler.py`，自动读取仓库中最大的 Item 编号，然后只检查新编号及其前 20 个页面；随后同步 `/home/tangyixiao/Projects/内网备份` 并推送到 `origin`。
 
 如果上一次爬取被中断，可以继续未完成的队列：
 
@@ -36,6 +36,21 @@ python3 tools/update_from_intranet.py --full-crawl
 python3 tools/update_from_intranet.py --base-url http://10.176.17.2/
 ```
 
+增量抓取默认使用 16 个工作线程，不再固定等待；页面和附件处理可同时进行，避免并发过高导致内网站点连接超时。
+完整抓取默认保持单线程、每页等待 0.2 秒。可通过参数覆盖：
+
+```bash
+python3 tools/update_from_intranet.py --workers 16 --page-delay 0
+```
+
+`--workers` 是同时处理的页面数，附件下载计入相应页面的工作线程。
+同一附件仍只成功下载一次；Ctrl+C 会把尚未完成的页面保存回断点队列，
+下次使用 `--resume` 继续。
+
+终端默认每秒显示一次汇总进度和警告，逐文件明细仍写入 `crawl.log`。
+需要在终端查看全部明细时运行 `python3 tools/update_from_intranet.py --verbose`。
+爬虫代码随仓库版本管理，无需另行复制相邻目录的 `a.py`。页面或所需附件失败时会重试，重试后仍失败的地址保存在队列中，下一轮继续；首页、分类页或文章失败时本轮不会继续发布。发布前也会检查目录引用的文章是否已在仓库中或在本轮成功抓取。
+
 ## 重要行为
 
 - 正常运行不使用 `--resume`，每次都会重新检查页面；这保证旧页面发生变化时也能被发现。
@@ -43,6 +58,27 @@ python3 tools/update_from_intranet.py --base-url http://10.176.17.2/
 - 删除不会自动删除仓库中的历史文件，避免内网站点短暂异常造成误删；如确认需要删除，再手工删除并提交。
 - 运行前需要本机已经完成 GitHub 登录，且仓库工作副本没有未提交的人工修改。
 - 运行日志写在 `/home/tangyixiao/Projects/crawl.log`，爬取断点写在 `/home/tangyixiao/Projects/.crawl_state/`。
+
+### 增量更新耗时
+
+一键更新结束时会分别输出 `crawl_seconds`、`image_sync_seconds` 和
+`publish_seconds`，便于定位下一轮的耗时。爬虫在同一轮只下载一次成功获取的附件；
+请求失败的附件仍会在后续页面再次引用时重试。
+
+页面链接使用标准库 HTMLParser 单次流式提取，并复用本页已解析的 URL。
+导航、懒加载图片、内联样式、视频封面和目录链接均保留；原有 Python 文件、
+运行入口和链接提取辅助函数继续可用。内容未变的下载不再重复写入临时文件，
+发生变化时只复制已匹配的前缀并继续写入，下载中断仍保留原文件。
+
+图片同步把源文件哈希缓存在分片工作目录的 `.cache/source_hashes.json` 中，
+文件大小、修改时间、元数据变更时间或文件标识发生变化时重新计算哈希。
+首次运行需要建立缓存；`sync_image_shards.py plan` 仍会完整重新计算图片哈希。
+本地图片分片仓库没有待推送提交时，不再为它发起预先的 GitHub push；
+有新图片或上次留下未推送提交时仍会正常推送。
+
+发布流程用爬虫状态目录下的 `publish_state.txt` 记录上一次是否完整结束。
+首次运行或上次中断后会扫描仓库，找回已经复制但尚未提交的文件；正常完成的后续运行
+直接处理本轮变动文件，省去每次对整个仓库执行恢复扫描。
 
 ## 图片和下载附件同步
 

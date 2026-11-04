@@ -428,7 +428,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23693.aspx" target="_self" title="标题：每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作出重要指示&#xD;点击数：9&#xD;发表时间：26年09月21日">每周一学（2026年9月21日-9月27日）习近平就发展先进制造业作…</a>[ 09-21 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23779.aspx" target="_self" title="标题：每周一学（2026年10月12日-10月18日）习近平总书记引领健康中国建设&#xD;点击数：15&#xD;发表时间：26年10月12日">每周一学（2026年10月12日-10月18日）习近平总书记引领健康中…</a>[ 10-12 ]</div>
                         </div>
                     </div>
 

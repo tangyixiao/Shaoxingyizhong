@@ -26,11 +26,27 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Build browser-renderable Pages site
-        run: python3 tools/build_pages.py --source . --output _site --base-path /Shaoxingyizhong/ --attachment-routes attachment_routes.json --allow-unresolved-attachments
+        env:
+          ATTACHMENT_OWNER: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          routes = json.loads(Path("attachment_routes.json").read_text(encoding="utf-8"))
+          routes["owner"] = os.environ["ATTACHMENT_OWNER"]
+          output = Path(os.environ["RUNNER_TEMP"]) / "pages-attachment-routes.json"
+          output.write_text(json.dumps(routes, ensure_ascii=False), encoding="utf-8")
+          PY
+          python3 tools/build_pages.py --source . --output _site --base-path /Shaoxingyizhong/ --attachment-routes "$RUNNER_TEMP/pages-attachment-routes.json" --allow-unresolved-attachments
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
           path: _site
       - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}

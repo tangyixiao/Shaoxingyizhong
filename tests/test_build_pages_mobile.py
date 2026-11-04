@@ -49,7 +49,10 @@ class AddMobileTagsTests(unittest.TestCase):
             '<html><head><meta name="viewport" '
             'content="width=device-width"></head><body></body></html>'
         )
-        self.assertEqual(add_mobile_tags(text, 'Shaoxingyizhong'), text)
+        injected = add_mobile_tags(text, 'Shaoxingyizhong')
+        self.assertEqual(injected.count('viewport'), 1)
+        self.assertIn(MOBILE_CSS_TAG, injected)
+        self.assertIn(MOBILE_JS_TAG, injected)
 
     def test_skips_when_mobile_css_already_referenced(self):
         text = (
@@ -57,7 +60,10 @@ class AddMobileTagsTests(unittest.TestCase):
             'href="/Template/Default/Skin/erms/css/mobile.css">'
             '</head><body></body></html>'
         )
-        self.assertEqual(add_mobile_tags(text, 'Shaoxingyizhong'), text)
+        injected = add_mobile_tags(text, 'Shaoxingyizhong')
+        self.assertIn(VIEWPORT_TAG, injected)
+        self.assertIn(MOBILE_JS_TAG, injected)
+        self.assertEqual(injected.count('mobile.css'), 1)
 
     def test_normalizes_custom_base_path(self):
         text = '<html><head></head></html>'
@@ -162,8 +168,8 @@ class BuildSiteMobileInjectionTests(unittest.TestCase):
             build_site(source, output)
             rendered = (output / 'Item' / '1.html').read_text(encoding='utf-8')
             self.assertEqual(rendered.count('viewport'), 1)
-            self.assertNotIn(MOBILE_CSS_PATH, rendered)
-            self.assertNotIn(MOBILE_JS_PATH, rendered)
+            self.assertIn(MOBILE_CSS_PATH, rendered)
+            self.assertIn(MOBILE_JS_PATH, rendered)
 
 
 if __name__ == '__main__':

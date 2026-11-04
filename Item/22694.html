@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
 <head>
+    <link rel="icon" type="image/png" href="/Shaoxingyizhong/favicon.ico">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
@@ -25,7 +26,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
  -->
 
 <script type="text/javascript">
-    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.html',skinPath: '/Template/Default/Skin/'};
 </script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
@@ -42,8 +43,8 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.html" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.html" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.html" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -56,7 +57,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.html">登录</a>|<a href="/Shaoxingyizhong/User/Register.html" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -82,7 +83,7 @@ function CheckIsLogin1(){
 }
 
 function GetUserInfo1(response){
-    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.html>"+ jQuery(response).find('username').text() + "</a> | ";
     userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
     userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
     return userInfo;
@@ -113,7 +114,7 @@ function GetUserInfo1(response){
                     return;
                 } else {
 
-                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                    window.location = '/search/s.html?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
                 }
             }
             </script>
@@ -341,8 +342,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:none no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -401,14 +401,14 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年01月23日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22694"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.html?id=22694"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
     $.pe.ajax('admineditcheck',{params:{itemId:22694},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=22694";
+            var managedir = "/Common/GetContentEdit.html?itemId=22694";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -424,7 +424,7 @@ $(document).ready(function()
 </span><strong><span style=";font-family:宋体;font-size:16px">执掌北大：最长校长的坚守与革新</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">1930年至1945年，蒋梦麟担任北京大学校长，成为北大历史上任职时间最长的校长。这一时期，中国社会动荡不安，抗日战争全面爆发，北大先后南迁至长沙、昆明，与清华大学、南开大学合组西南联合大学。在极端困难条件下，蒋梦麟秉持“整饬纪律，发展群治，以补本校之不足”的理念，维系了中国高等教育的命脉。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">在北大，他推行了一系列改革：加强学科建设，推进学术研究，注重培养学生的</span><span style="font-family:Arial">“科学之精神”与“社会之自觉”。他主张大学教育不应仅是知识传授，更要培养学生的独立思考能力与社会责任感。这种教育理念，在抗战时期的特殊环境下，更显其深远意义。</span></span><span style=";font-family:宋体;font-size:16px">
 </span><strong><span style=";font-family:宋体;font-size:16px">教育理念：中西调和的文化自觉</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">蒋梦麟教育思想的核心在于</span><span style="font-family:Arial">“调和”二字。面对中西文化碰撞，他既反对全盘西化，也拒绝固步自封，而是主张“取中国之国粹，调和世界近世之精神”。他认为教育的根本任务是“定标准，立问题”——既要确立价值标准，又要培养学生发现和解决问题的能力。</span></span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">这种</span><span style="font-family:Arial">“调和”不是简单的折中，而是基于深刻文化自觉的创造性转化。在《西潮》《新潮》等著作中，他详细阐述了对中西文化的比较与思考，主张教育应当培养既能扎根中国土壤、又能面向世界的现代公民。他强调“科学之精神”与“社会之自觉”并重，既注重理性思维培养，又强调社会责任感塑造。</span></span></p><p><span style=";font-family:宋体;font-size:16px">
 </span><strong><span style=";font-family:宋体;font-size:16px">两岸分隔：晚年的思考与牵挂</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">1949年，蒋梦麟随国民政府赴台，从此与大陆相隔。在台湾，他继续关注教育发展，撰写回忆录与教育论著。1964年6月19日，蒋梦麟在台北逝世，结束了他从绍兴到北京再到台北的传奇人生。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">尽管身处海峡对岸，蒋梦麟晚年的思考始终未离开中国教育的前途。他的自传体作品《西潮》，以平实而深邃的笔触，记录了一个中国知识分子在时代巨变中的观察与思考，成为研究中国近现代教育史不可或缺的重要文献。</span><span style=";font-family:宋体;font-size:16px">
-</span><strong><span style=";font-family:宋体;font-size:16px">精神遗产：跨越时空的教育之光</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">今天，当我们纪念蒋梦麟先生</span>140周年诞辰，不仅是在缅怀一位杰出教育家，更是在重新审视他所代表的那种文化立场与教育理想。在全球化深入发展的当下，如何“取中国之国粹，调和世界近世之精神”，仍然是摆在中国教育面前的重要课题。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">绍兴一中校园里，或许仍有年轻学子走过当年蒋梦麟求学时的旧址。从这座江南古城走出的教育思想，历经百年沉淀，依然闪耀着智慧的光芒。蒋梦麟先生的一生告诉我们：真正的教育革新，从来不是简单的抛弃或模仿，而是在深刻理解自身传统的基础上，以开放胸怀吸收人类文明精华，培养能够担当民族复兴大任的现代人才。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 0;font-size: 16px">百四春秋如逝水，教育薪火永相传。在今日这个特殊的日子，我们纪念蒋梦麟，不仅是为了一位绍兴的骄傲、北大的功臣，更是为了那份超越时代的中西文化调和智慧，那种立足本土、面向世界的教育情怀。这份精神遗产，值得每一代教育工作者珍视与传承。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;background:rgb(255,255,255)"><span style="font-family: 微软雅黑;letter-spacing: 1px;font-size: 17px"> </span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:right;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 0;font-size: 16px">王卫列（绍兴一中校友会会长）</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:0;padding:0 0 0 0 ;text-align:right;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">  2026年1月20日</span></p><p><span style=";font-family:Calibri;font-size:14px"> <img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/1/202601230846250529.jpg" style="max-width: 100%; " title="202601230846250529.jpg" /></span></p><p>
+</span><strong><span style=";font-family:宋体;font-size:16px">精神遗产：跨越时空的教育之光</span></strong></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px"><span style="font-family:Arial">今天，当我们纪念蒋梦麟先生</span>140周年诞辰，不仅是在缅怀一位杰出教育家，更是在重新审视他所代表的那种文化立场与教育理想。在全球化深入发展的当下，如何“取中国之国粹，调和世界近世之精神”，仍然是摆在中国教育面前的重要课题。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">绍兴一中校园里，或许仍有年轻学子走过当年蒋梦麟求学时的旧址。从这座江南古城走出的教育思想，历经百年沉淀，依然闪耀着智慧的光芒。蒋梦麟先生的一生告诉我们：真正的教育革新，从来不是简单的抛弃或模仿，而是在深刻理解自身传统的基础上，以开放胸怀吸收人类文明精华，培养能够担当民族复兴大任的现代人才。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;line-height:25px;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 0;font-size: 16px">百四春秋如逝水，教育薪火永相传。在今日这个特殊的日子，我们纪念蒋梦麟，不仅是为了一位绍兴的骄傲、北大的功臣，更是为了那份超越时代的中西文化调和智慧，那种立足本土、面向世界的教育情怀。这份精神遗产，值得每一代教育工作者珍视与传承。</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:justify;text-justify:inter-ideograph;background:rgb(255,255,255)"><span style="font-family: 微软雅黑;letter-spacing: 1px;font-size: 17px"> </span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:26px;padding:0 0 0 0 ;text-align:right;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 0;font-size: 16px">王卫列（绍兴一中校友会会长）</span></p><p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-indent:0;padding:0 0 0 0 ;text-align:right;background:rgb(255,255,255)"><span style="font-family: Arial;color: rgb(53, 53, 53);letter-spacing: 1px;font-size: 16px">  2026年1月20日</span></p><p><span style=";font-family:Calibri;font-size:14px"> <img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/1/202601230846250529.jpg" style="max-width: 100%; " title="202601230846250529.jpg" /></span></p><p>
 </p>
     
     </div><!--endprint-->

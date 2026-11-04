@@ -429,7 +429,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/22912.aspx" target="_self" title="标题：绍兴一中陈奕帆以全省总分第一名的成绩进入浙江省队&#xD;点击数：30&#xD;发表时间：26年03月23日">绍兴一中陈奕帆以全省总分第一名的成绩进入浙江省队</a>[ 03-23 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/22912.aspx" target="_self" title="标题：绍兴一中陈奕帆以全省总分第一名的成绩进入浙江省队&#xD;点击数：51&#xD;发表时间：26年03月23日">绍兴一中陈奕帆以全省总分第一名的成绩进入浙江省队</a>[ 03-23 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>

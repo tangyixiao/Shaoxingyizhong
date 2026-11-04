@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="UTF-8">
 
 <head>
+    <link rel="icon" type="image/png" href="/Shaoxingyizhong/favicon.ico">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
@@ -25,7 +26,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
  -->
 
 <script type="text/javascript">
-    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
+    var siteSetup = {sitePath: '/',ajaxPath: '/ajax.html',skinPath: '/Template/Default/Skin/'};
 </script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
 <script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
@@ -42,8 +43,8 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.html" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Shaoxingyizhong/Item/1380.html" target="_blank">办公电话</a> | 
+                            <a href="/Shaoxingyizhong/Item/13310.html" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -56,7 +57,7 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.html">登录</a>|<a href="/Shaoxingyizhong/User/Register.html" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -82,7 +83,7 @@ function CheckIsLogin1(){
 }
 
 function GetUserInfo1(response){
-    var userInfo ="<a target='_balnk' class='name' href=/user/index.aspx>"+ jQuery(response).find('username').text() + "</a> | ";
+    var userInfo ="<a target='_balnk' class='name' href=/user/index.html>"+ jQuery(response).find('username').text() + "</a> | ";
     userInfo = userInfo + "<a target='_blank' href=\"/User/Default.aspx\"> 会员中心 </a>|";
     userInfo = userInfo + "<a class='logOut' href=\"/User/Logout.aspx\"> 退出 </a>";
     return userInfo;
@@ -113,7 +114,7 @@ function GetUserInfo1(response){
                     return;
                 } else {
 
-                    window.location = '/search/s.aspx?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                    window.location = '/search/s.html?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
                 }
             }
             </script>
@@ -341,8 +342,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(//images/nopic.gif
-) no-repeat center;"></a>
+        <a href="" style="background:none no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -404,14 +404,14 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年03月23日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=22912"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.html?id=22912"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
 {
     $.pe.ajax('admineditcheck',{params:{itemId:22912},success:function(s) {
         if ($(s).find('status').text() == 'OK') {
-            var managedir = "/Common/GetContentEdit.aspx?itemId=22912";
+            var managedir = "/Common/GetContentEdit.html?itemId=22912";
            $("#content_AdminEdit").html("【<a href='" + managedir + "' target='_blank'>进入后台编辑</a>】")
         }
     }});
@@ -420,7 +420,7 @@ $(document).ready(function()
                         <div class="conTxt"> 
       
      <p style="background: #ffffff;font-family: 宋体;font-size: 16pt;line-height: 108%;margin-bottom: 12pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: center;">
-</p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 12pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.33in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">近日，2026年全国青少年信息学奥林匹克竞赛（CCF NOI 2026）浙江省队选拔赛在杭州举行。经过两天紧张激烈的上机测试，并结合联赛成绩综合评定，绍兴市第一中学</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">陈奕帆</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">以</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">全省总分第一名的优异成绩</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">进入浙江省省队，再次证明了学校在信息学领域的深厚积淀与强劲实力。</span></p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 12pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.29in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">陈奕帆同学在今年七月将代表浙江省出征在山东青岛城阳第一高级中学举行的</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">第43届全国青少年信息学奥林匹克竞赛（CCF NOI 2026）</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，与全国顶尖选手同场竞技，争夺50个国家集训队名额。</span></p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.33in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">祝贺陈奕帆同学！也期待他在今年的全国赛中再传捷报！</span></p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.33in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><img src="/Shaoxingyizhong/UploadFiles/xwzx/2026/3/202603231543344903.jpg" style="max-width: 100%; " title="202603231543344903.jpg" /></span></p>
+</p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 12pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.33in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">近日，2026年全国青少年信息学奥林匹克竞赛（CCF NOI 2026）浙江省队选拔赛在杭州举行。经过两天紧张激烈的上机测试，并结合联赛成绩综合评定，绍兴市第一中学</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">陈奕帆</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">以</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">全省总分第一名的优异成绩</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">进入浙江省省队，再次证明了学校在信息学领域的深厚积淀与强劲实力。</span></p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 12pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.29in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">陈奕帆同学在今年七月将代表浙江省出征在山东青岛城阳第一高级中学举行的</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">第43届全国青少年信息学奥林匹克竞赛（CCF NOI 2026）</span><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">，与全国顶尖选手同场竞技，争夺50个国家集训队名额。</span></p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.33in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">祝贺陈奕帆同学！也期待他在今年的全国赛中再传捷报！</span></p><p style="background: #ffffff;font-family: 宋体;font-size: 12pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 12pt;text-align: left;text-indent: 0.33in;"><span style="color: #0f1115;font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@60de56a0063962a295d59f7a1468896a4197ef8b/UploadFiles/xwzx/2026/3/202603231543344903.jpg" style="max-width: 100%; " title="202603231543344903.jpg" /></span></p>
     
     </div><!--endprint-->
                         <div class="userControl">
@@ -429,8 +429,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22517.aspx" target="_self" title="标题：2025年全国青少年信息学奥林匹克联赛（NOIP）一等奖人数全省第一&#xD;点击数：27&#xD;发表时间：25年12月19日">2025年全国青少年信息学奥林匹克联赛（NOIP）一等奖人数全省第一</a>[ 12-19 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/22517.html" target="_self" title="标题：2025年全国青少年信息学奥林匹克联赛（NOIP）一等奖人数全省第一&#xD;点击数：41&#xD;发表时间：25年12月19日">2025年全国青少年信息学奥林匹克联赛（NOIP）一等奖人数全省第一</a>[ 12-19 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/23526.html" target="_self" title="标题：祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！&#xD;点击数：24&#xD;发表时间：26年08月20日">祝贺！绍兴一中信奥队在43届全国信奥竞赛摘金夺银，再创佳绩！</a>[ 08-20 ]</div>
                         </div>
                     </div>
 

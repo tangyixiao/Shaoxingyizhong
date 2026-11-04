@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23536.aspx" target="_blank" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：214&#xD;发表时间：2026年08月21日">关于2026学年第一学期师训平台选课开始的通知</a><span class="dateRight">[08-21]</span></li><li><a href="/Item/23488.aspx" target="_blank" title="标题：2026 年全市高中学校教师学科综合素养比武方案（转发）&#xD;点击数：189&#xD;发表时间：2026年07月07日">2026 年全市高中学校教师学科综合素养比武方案（转发）</a><span class="dateRight">[07-07]</span></li><li><a href="/Item/23533.aspx" target="_blank" title="标题：关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉公示&#xD;点击数：128&#xD;发表时间：2026年08月20日">关于2026年“名师激励”先进荣誉激励人员名单及所获荣誉…</a><span class="dateRight">[08-20]</span></li><li><a href="/Item/23506.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：186&#xD;发表时间：2026年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单…</a><span class="dateRight">[08-18]</span></li><li><a href="/Item/23505.aspx" target="_blank" title="标题：关于2026年“名师激励”岗位考核激励人员名单及结果公示&#xD;点击数：208&#xD;发表时间：2026年08月15日">关于2026年“名师激励”岗位考核激励人员名单及结果公示</a><span class="dateRight">[08-15]</span></li><li><a href="/Item/23035.aspx" target="_blank" title="标题：物理组外出参加培训活动的通知&#xD;点击数：121&#xD;发表时间：2026年04月14日">物理组外出参加培训活动的通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li>
+            <li class="first"><a href="/Item/23839.aspx" target="_blank" title="标题：青年教师会议&#xD;点击数：177&#xD;发表时间：2026年10月23日">青年教师会议</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/23823.aspx" target="_blank" title="标题：关于高三英语教研活动的通知&#xD;点击数：115&#xD;发表时间：2026年10月20日">关于高三英语教研活动的通知</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23810.aspx" target="_blank" title="标题：关于美术教研活动的通知&#xD;点击数：135&#xD;发表时间：2026年10月19日">关于美术教研活动的通知</a><span class="dateRight">[10-19]</span></li><li><a href="/Item/23783.aspx" target="_blank" title="标题：关于心理教研活动的通知&#xD;点击数：99&#xD;发表时间：2026年10月13日">关于心理教研活动的通知</a><span class="dateRight">[10-13]</span></li><li><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：172&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23487.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市教育技术论文征集的预通知&#xD;点击数：82&#xD;发表时间：2026年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市教育技术…</a><span class="dateRight">[07-07]</span></li><li class="last"><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li>
           
                     </ul>
                 </div>
@@ -438,8 +438,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23506.aspx" target="_self" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：186&#xD;发表时间：26年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果…</a>[ 08-18 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23536.aspx" target="_self" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：214&#xD;发表时间：26年08月21日">关于2026学年第一学期师训平台选课开始的通知</a>[ 08-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23506.aspx" target="_self" title="标题：关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果公示&#xD;点击数：200&#xD;发表时间：26年08月18日">关于2026年“名师激励”岗位考核激励资深班主任人员名单及结果…</a>[ 08-18 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23536.aspx" target="_self" title="标题：关于2026学年第一学期师训平台选课开始的通知&#xD;点击数：260&#xD;发表时间：26年08月21日">关于2026学年第一学期师训平台选课开始的通知</a>[ 08-21 ]</div>
                         </div>
                     </div>
 

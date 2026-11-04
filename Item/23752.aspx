@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23761.aspx" target="_blank" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：176&#xD;发表时间：2026年10月08日">关于开展2026年教师资格定期注册工作的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：194&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23651.aspx" target="_blank" title="标题：关于语文教研活动的通知&#xD;点击数：157&#xD;发表时间：2026年09月14日">关于语文教研活动的通知</a><span class="dateRight">[09-14]</span></li><li><a href="/Item/23615.aspx" target="_blank" title="标题：转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市教育科学2027年规划课题申报工作的通知》&#xD;点击数：154&#xD;发表时间：2026年09月08日">转发《绍兴市教育科学规划领导小组办公室关于做好绍兴市…</a><span class="dateRight">[09-08]</span></li><li><a href="/Item/23372.aspx" target="_blank" title="标题：关于阿克苏地区第二中学教师中学教师来访听课、调课的通知&#xD;点击数：223&#xD;发表时间：2026年06月12日">关于阿克苏地区第二中学教师中学教师来访听课、调课的通知</a><span class="dateRight">[06-12]</span></li><li><a href="/Item/23487.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2026年全市教育技术论文征集的预通知&#xD;点击数：82&#xD;发表时间：2026年07月07日">转发绍兴市教育技术中心关于组织开展2026年全市教育技术…</a><span class="dateRight">[07-07]</span></li><li class="last"><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li>
+            <li class="first"><a href="/Item/23839.aspx" target="_blank" title="标题：青年教师会议&#xD;点击数：205&#xD;发表时间：2026年10月23日">青年教师会议</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/23823.aspx" target="_blank" title="标题：关于高三英语教研活动的通知&#xD;点击数：115&#xD;发表时间：2026年10月20日">关于高三英语教研活动的通知</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23851.aspx" target="_blank" title="标题：关于生物教研活动的通知&#xD;点击数：5&#xD;发表时间：2026年10月26日">关于生物教研活动的通知</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23752.aspx" target="_blank" title="标题：研究院2026年10月份市直活动安排&#xD;点击数：220&#xD;发表时间：2026年10月07日">研究院2026年10月份市直活动安排</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/23445.aspx" target="_blank" title="标题：转发绍兴市教育教学研究院、绍兴市教育技术中心关于举行2026年绍兴市中小学生综合素养展示比赛的通知&#xD;点击数：264&#xD;发表时间：2026年06月29日">转发绍兴市教育教学研究院、绍兴市教育技术中心关于举行2…</a><span class="dateRight">[06-29]</span></li><li><a href="/Item/23783.aspx" target="_blank" title="标题：关于心理教研活动的通知&#xD;点击数：99&#xD;发表时间：2026年10月13日">关于心理教研活动的通知</a><span class="dateRight">[10-13]</span></li><li class="last"><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：172&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23683.aspx" target="_self" title="标题：关于市教研院来我校调研的通知&#xD;点击数：235&#xD;发表时间：26年09月18日">关于市教研院来我校调研的通知</a>[ 09-18 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23761.aspx" target="_self" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：176&#xD;发表时间：26年10月08日">关于开展2026年教师资格定期注册工作的通知</a>[ 10-08 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23761.aspx" target="_self" title="标题：关于开展2026年教师资格定期注册工作的通知&#xD;点击数：195&#xD;发表时间：26年10月08日">关于开展2026年教师资格定期注册工作的通知</a>[ 10-08 ]</div>
                         </div>
                     </div>
 

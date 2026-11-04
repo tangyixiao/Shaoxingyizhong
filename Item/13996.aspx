@@ -7,9 +7,9 @@
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
     <title>政治教研组--优秀教师-绍兴市第一中学</title>
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -27,10 +27,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -38,12 +38,12 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 </head>
 <div id="top">
 	<div class="siteWidth">
-		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Item/13310.aspx" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -53,10 +53,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div id="header">
     <div class="siteWidth">
 			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
-					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+					<a href="/"><img src="/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/User/index.aspx">登录</a>|<a href="/User/Register.aspx" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -125,167 +125,167 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Category_22/Index.aspx">工作安排</a></h4>
 </li>
 <li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Category_23/Index.aspx">校长专栏</a></h4>
 </li>
 <li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Category_24/Index.aspx">校务公开</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
 				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Category_112/Index.aspx">建校史略</a></h4>
 </li>
 <li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Category_113/Index.aspx">昔日校园</a></h4>
 </li>
 <li class="li2" id="liID376">
   <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
 </li>
 <li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
 <li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Category_45/Index.aspx">管理团队</a></h4>
 </li>
 <li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Category_49/Index.aspx">—中校歌</a></h4>
 </li>
 <li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Category_41/Index.aspx">校园风光</a></h4>
 </li>
 <li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Category_10/Index.aspx">奖教奖学</a></h4>
 </li>
 <li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Category_42/Index.aspx">学校荣誉</a></h4>
 </li>
 <li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
 				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Category_54/Index.aspx">清廉学校</a></h4>
 </li>
 <li class="li2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Category_55/Index.aspx">学习专栏</a></h4>
 </li>
 <li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Category_56/Index.aspx">先锋故事</a></h4>
 </li>
 <li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Category_58/Index.aspx">课余党校</a></h4>
 </li>
 <li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
 <li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Category_71/Index.aspx">名师工作室</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
 				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Category_381/Index.aspx">家校合力</a></h4>
 </li>
 <li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Category_386/Index.aspx">德育活动</a></h4>
 </li>
 <li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Category_102/Index.aspx">博雅讲座</a></h4>
 </li>
 <li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
 <li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Category_73/Index.aspx">数学竞赛</a></h4>
 </li>
 <li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Category_74/Index.aspx">物理竞赛</a></h4>
 </li>
 <li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
 <li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Category_373/Index.aspx">天文竞赛</a></h4>
 </li>
 <li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
 </li>
 <li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Category_387/Index.aspx">教科动态</a></h4>
 </li>
 <li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
 </li>
 <li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Category_100/Index.aspx">社团风采</a></h4>
 </li>
 <li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Category_103/Index.aspx">艺术教育</a></h4>
 </li>
 <li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Category_105/Index.aspx">校园安全</a></h4>
 </li>
 <li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Category_368/Index.aspx">实践学分</a></h4>
 </li>
 <li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Category_369/Index.aspx">饮水思源</a></h4>
 </li>
 <li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Category_388/Index.aspx">志愿活动</a></h4>
 </li>
 <li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Category_382/Index.aspx">校园活动</a></h4>
 </li>
 			</ul></li></ul><script type="text/javascript">
 			jQuery(function($){
@@ -350,14 +350,14 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h3>
+        <h3><a href="/Category_6/Index.aspx">教师风采</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first"><a href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></li>
-<li class="li2"><a href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></li>
-<li class="li3 on"><a href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></li>
-<li class="li4 last"><a href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></li>
+			<li class="li1 first"><a href="/Category_377/Index.aspx">荣誉报道</a></li>
+<li class="li2"><a href="/Category_68/Index.aspx">正高特级教师</a></li>
+<li class="li3 on"><a href="/Category_69/Index.aspx">优秀教师</a></li>
+<li class="li4 last"><a href="/Category_71/Index.aspx">名师工作室</a></li>
 		</ul>
 	</div>
 </div>
@@ -372,7 +372,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Shaoxingyizhong/Item/14000.aspx" target="_blank" title="标题：体艺组&#xD;点击数：3419&#xD;发表时间：2025年08月24日">体艺组</a><span class="dateRight">[08-24]</span></li><li><a href="/Shaoxingyizhong/Item/13986.aspx" target="_blank" title="标题：英语教研组&#xD;点击数：3307&#xD;发表时间：2026年03月05日">英语教研组</a><span class="dateRight">[03-05]</span></li><li><a href="/Shaoxingyizhong/Item/14001.aspx" target="_blank" title="标题：综合实践与心理组&#xD;点击数：1285&#xD;发表时间：2025年08月24日">综合实践与心理组</a><span class="dateRight">[08-24]</span></li><li><a href="/Shaoxingyizhong/Item/13999.aspx" target="_blank" title="标题：技术教研组&#xD;点击数：2340&#xD;发表时间：2025年09月05日">技术教研组</a><span class="dateRight">[09-05]</span></li><li><a href="/Shaoxingyizhong/Item/13998.aspx" target="_blank" title="标题：地理教研组&#xD;点击数：2444&#xD;发表时间：2025年09月17日">地理教研组</a><span class="dateRight">[09-17]</span></li><li><a href="/Shaoxingyizhong/Item/13997.aspx" target="_blank" title="标题：历史教研组&#xD;点击数：2156&#xD;发表时间：2025年09月05日">历史教研组</a><span class="dateRight">[09-05]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/13996.aspx" target="_blank" title="标题：政治教研组&#xD;点击数：2858&#xD;发表时间：2025年09月16日">政治教研组</a><span class="dateRight">[09-16]</span></li>
+            <li class="first"><a href="/Item/13998.aspx" target="_blank" title="标题：地理教研组&#xD;点击数：2560&#xD;发表时间：2026年09月02日">地理教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13997.aspx" target="_blank" title="标题：历史教研组&#xD;点击数：2246&#xD;发表时间：2026年09月02日">历史教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13995.aspx" target="_blank" title="标题：生物教研组&#xD;点击数：2234&#xD;发表时间：2024年09月06日">生物教研组</a><span class="dateRight">[09-06]</span></li><li><a href="/Item/13993.aspx" target="_blank" title="标题：物理教研组&#xD;点击数：3218&#xD;发表时间：2026年09月02日">物理教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/14001.aspx" target="_blank" title="标题：综合实践与心理组&#xD;点击数：1363&#xD;发表时间：2026年09月02日">综合实践与心理组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/14000.aspx" target="_blank" title="标题：体艺教研组&#xD;点击数：3516&#xD;发表时间：2026年09月02日">体艺教研组</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/13999.aspx" target="_blank" title="标题：技术教研组&#xD;点击数：2438&#xD;发表时间：2026年09月02日">技术教研组</a><span class="dateRight">[09-02]</span></li>
           
                     </ul>
                 </div>
@@ -382,11 +382,11 @@ function GetUserInfo1(response){
         <div class="mainContent">
             <div class="mainBox">
                 <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
-    <a href="/Shaoxingyizhong/Category_6/Index.aspx" target="_self">教师风采</a>&gt;
-    <a href="/Shaoxingyizhong/Category_69/Index.aspx" target="_self">优秀教师</a></div>
+    <a href="/Category_6/Index.aspx" target="_self">教师风采</a>&gt;
+    <a href="/Category_69/Index.aspx" target="_self">优秀教师</a></div>
                     <h3>优秀教师</h3>
                 </div>
                 <div class="mBd">
@@ -400,8 +400,8 @@ function GetUserInfo1(response){
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2025年09月16日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=13996"></script>
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年09月02日</span> <span>点击数：
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=13996"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
@@ -416,15 +416,9 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606139726.Jpeg" style="width: 3.645833in; height: 2.229167in" alt="202205301606131456.Jpeg" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>陈国成</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  高三复习优质课市属第一名，所带班级获市属级先进班级，市属优质课第一名。省级论文获二等奖，教学设计、教学论文、教学案例获市级一等奖，绍兴市研究者同盟和绍兴市政治教师研修班首届成员。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 12pt;line-height: 16.8pt;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606135704.Jpeg" style="width: 3.645833in; height: 2.229167in" alt="202205301606133892.Jpeg" /></span></p><p style="background: #FFFFFF;font-family: 等线;font-size: 14pt;line-height: 16.8pt;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>叶佩莉</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  中学思想政治高级教师，市属教师基本功比武一等奖，绍兴市优质课一等奖，浙江省论文二等奖、绍兴市一等奖，公开发表论文多篇，教案获绍兴市一等奖，多次被评为校先进，辅导学生撰写的政治小论文多次获奖，任政治组教研组长。</span></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;">
-</p><p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><span style="color: #333333;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2024/9/202409062355519859.png" style="max-width: 100%; width: 307px; height: 400px;" title="202409062355519859.png" width="307" height="400" alt="202409062355519859.png" /></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: Helvetica;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>黎小琴</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>   </strong></span><span style="font-size: 16px;"><span style="font-family: 宋体;">女，大学本科，</span>高级教师。被评为江西省高中政治学科骨干教师、萍乡市市高中政治骨干教师、芦溪县政治名师和政史名师工作室负责人，被评为绍兴市直优秀班主任、所带班级被评为绍兴市直优秀班集体；获得省优质课比赛一等奖，全国“一师一优课，一课一名师”比赛部级奖和省级一等奖；多次执教市级课示范课和思政示范课、获得市级优质课比赛和说课一等奖；发表论文<span style="font-family: Calibri;">6</span>篇，参与<span style="font-family: Calibri;">5</span>项省级课题，主持<span style="font-family: Calibri;">2</span>项市级课题，主编与参编教辅教参和学校校本资料<span style="font-family: Calibri;">20</span>余本；教学论文、教学设计及课件多次获得省市级一二奖，指导青年教师获得市优质课比赛一等奖、二等奖、指导学生参加小论文比赛和创新实践活动获得省市级一等奖、二等奖等。教育感言：做一个有信念、有情怀、有激情、有行动力的老师。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"></span>
-</p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="color: #333333;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606137336.Png" style="width: 3.447917in; height: 4.40625in" alt="202205301606131741.Png" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>王淑会</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;">   </span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">中共党员，高级教师、唐山市名师、河北科技大学客座教授，河北省政治优质课比赛一等奖、河北省班主任基本功大赛一等奖、河北省德育案例比赛一等奖、全国中小学电视公开课一等奖、唐山市五四奖章提名奖、唐山市青年岗位能手、市直教育系统优秀共产党员、双优十佳教师，担任《时事政治》一书的主编，并有二十余篇论文在全国核心刊物、省级优秀期刊发表，并参与国家级、省市级多项课题。</span></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="color: #333333;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 16.8pt;margin-bottom: 15pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606138964.Jpeg" style="width: 3.645833in; height: 2.229167in" alt="202205301606133416.Jpeg" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 22.4pt;margin-bottom: 15pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>许琪玫</strong><strong> </strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  优质课比赛绍兴市二等奖、市属一等奖。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 16.8pt;margin-bottom: 15pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2024/9/202409062345121102.jpg" style="max-width: 100%; width: 357px; height: 400px;" title="202409062345121102.jpg" width="357" height="400" alt="202409062345121102.jpg" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>彭爱波 </strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中学高级教师，毕业于华东师范大学教育学系，硕士研究生。在全国教育核心期刊发表论文近十篇，多篇论文在省、市教学论文评比中获奖。担任多年班主任工作，被评为市直优秀班主任，所带班级获得市直先进班级、先进团支部等称号，并获得绍兴市班主任基本功比武一等奖。连续多次获得市直教师综合素养比武优秀，两次受到市教育局、市工会表彰。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"></span>
-</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606137048.Jpeg" style="width: 4.166667in; height: 2.340972in" alt="202205301606131484.Jpeg" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>闫彦彦</strong><strong>   </strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">中共党员，硕士研究生，毕业于北京师范大学。在一中就职的几年间，多次获得市直基本功比武一等奖、校级先进工作者荣誉称号，多次参与校级及联考命题工作，有论文获得市级二等奖并在核心期刊发表。坚信“学为人师、行为世范”。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 12pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 等线;font-size: 12pt;line-height: 14.4pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2024/9/202409062341426742.jpg" style="max-width: 100%; width: 333px; height: 500px;" title="202409062341426742.jpg" width="333" height="500" alt="202409062341426742.jpg" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>金 笛</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中共党员，毕业于华东师范大学，一级教师。曾获市直“品质课堂”录像课一等奖、市直教育教学论文评比一等奖；获浙江省“成绩突出共青团干部”、绍兴市“青年岗位能手”、市直学校“德育优秀工作者”。获绍兴市青年理论宣讲大赛暨微型党课大赛一等奖，全国青少年模拟政协/模拟两会活动、全国中学生模拟联合国大会“优秀指导教师”；多次指导学生获绍兴市“国旗下讲话”征文一等奖、二等奖，绍兴市中小学生研究性学习活动成果评比二等奖、三等奖。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"></span>
-</p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="color: #333333;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 等线;font-size: 10.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2025/9/202509161340024166.JPG" style="max-width: 100%; " title="202509161340024166.JPG" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>王芳芳</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中共党员，中学政治一级教师。 获“省级优课”，市直“品质课堂”一等奖，市直优质课一等奖，市直微党课一等奖；在国家级核心期刊发表论文四篇，主持完成市级课题一项，参与省级课题一项；代表市直政治教师参加绍兴市基本功比武获一等奖，连续三年获市直基本功比武一等奖；指导学生参加全国模拟政协活动获“最佳团队”等奖项，本人获<span style="font-family: Calibri;">"</span>全国杰出指导老师”；指导多名学生获绍兴市小论文比赛一等奖、二等奖。曾获“绍兴市直优秀工作者”，多次被评为“校级优秀党员”、“先进工作者”称号。教育信条：教育是一棵树摇动另一棵树，一朵云推动另一朵云，一个灵魂唤醒另一个灵魂。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"></span>
-</p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">
-</span></p><p style="background: #FFFFFF;font-family: 等线;font-size: 10.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2024/9/202409062349156837.jpg" style="max-width: 100%; width: 400px; height: 267px;" title="202409062349156837.jpg" width="400" height="267" alt="202409062349156837.jpg" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>茹奕蓓</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中共党员，法学硕士研究生，毕业于中国人民大学思想政治教育专业。曾获市直优质课评比一等奖，教育教学论文评比一等奖，教育系统微党课一等奖，绍兴市“百年百节”优秀主题团课，获得“先进工作者”、“优秀共产党员”、“优秀共青团干部”等荣誉称号。所开发的学习案例获评浙江省项目学习优秀案例，所制作的高中思想政治微课程入选全省精品数字教育资源，在国家级核心期刊发表论文多篇，指导学生在绍兴市中小学生研究性学习活动中获得一等奖，多次获全国青少年模拟政协、中学生模拟两会活动“优秀指导老师”。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"></span>
-</p><p style="text-align:center"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2024/9/202409070027436651.jpg" style="max-width: 100%; width: 309px; height: 450px;" title="202409070027436651.jpg" width="309" height="450" alt="202409070027436651.jpg" /></p><p><strong><span style="font-family: 宋体; font-size: 18px;">王青 </span></strong><span style="font-family: 宋体; font-size: 16px;">中共党员，本科、硕士研究生毕业于华中师范大学，带队参加全国模拟联合国活动获“优秀组织奖”，绍兴市直教育系统微党课比赛二等奖。</span></p><p><span style="font-family: 宋体; font-size: 16px;"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2025/8/202508241517141796.jpg" style="max-width: 100%; " title="202508241517141796.jpg" /></span></p><p>
-</p><p><span style="font-size: 18px;"><strong><span style="font-family: 宋体;">郑清清</span></strong></span><span style=";font-family:宋体;font-size:14px">   <span style="font-family: 宋体; font-size: 16px;">中共党员，本科于重庆师范大学马克思主义学院就读思想政治与教育专业，硕士于厦门大学人文学院哲学系就读马克思主义哲学专业，博士于山东大学哲学与社会发展学院就读马克思主义哲学专业。大学期间，曾获得山东大学哲学与社会发展学院学年论文报告一等奖、山东大学哲学与社会发展学院一等奖学金、<span style="font-family: 宋体;">厦门大学“明德自强”奖学金。</span></span></span></p><p><span style="font-size: 16px; font-family: 宋体;"><img src="/Shaoxingyizhong/UploadFiles/jsfc/2025/8/202508241518402408.jpg" style="max-width: 100%; " title="202508241518402408.jpg" /></span></p><p><span style="font-size: 16px; font-family: 宋体;"></span></p><p><span style="font-size: 18px;"><strong><span style="font-family: 宋体;">胡智华</span></strong></span><strong><span style="font-family: 宋体;font-size: 14px">  </span></strong><span style="font-size: 16px; font-family: 宋体;">中学二级教师，曾获许昌市建安区第三高级中学优质课大赛特等奖。</span></p><p><span style="font-size: 16px; font-family: 宋体;"></span>
+     <p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 108%;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606139726.Jpeg" style="width: 3.645833in; height: 2.229167in" alt="202205301606131456.Jpeg" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 5pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>陈国成</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  高三复习优质课市属第一名，所带班级获市属级先进班级，市属优质课第一名。省级论文获二等奖，教学设计、教学论文、教学案例获市级一等奖，绍兴市研究者同盟和绍兴市政治教师研修班首届成员。</span><span style="color: rgb(51, 51, 51); font-size: 12pt; letter-spacing: 0px; text-indent: 0in;"> </span></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/UploadFiles/jsfc/2024/9/202409062355519859.png" style="max-width: 100%; width: 207px; height: 300px;" title="202409062355519859.png" width="207" height="300" alt="202409062355519859.png" /></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: Helvetica;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>黎小琴</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>   </strong></span><span style="font-size: 16px;"><span style="font-family: 宋体;">女，大学本科，</span>高级教师。被评为江西省高中政治学科骨干教师、萍乡市市高中政治骨干教师、芦溪县政治名师和政史名师工作室负责人，被评为绍兴市直优秀班主任、所带班级被评为绍兴市直优秀班集体；获得省优质课比赛一等奖，全国“一师一优课，一课一名师”比赛部级奖和省级一等奖；多次执教市级课示范课和思政示范课、获得市级优质课比赛和说课一等奖；发表论文<span style="font-family: Calibri;">6</span>篇，参与<span style="font-family: Calibri;">5</span>项省级课题，主持<span style="font-family: Calibri;">2</span>项市级课题，主编与参编教辅教参和学校校本资料<span style="font-family: Calibri;">20</span>余本；教学论文、教学设计及课件多次获得省市级一二奖，指导青年教师获得市优质课比赛一等奖、二等奖、指导学生参加小论文比赛和创新实践活动获得省市级一等奖、二等奖等。教育感言：做一个有信念、有情怀、有激情、有行动力的老师。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"></span>
+</p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="color: #333333;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606137336.Png" style="width: 3.447917in; height: 4.40625in" alt="202205301606131741.Png" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>王淑会</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;">   </span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">中共党员，高级教师、唐山市名师、河北科技大学客座教授，河北省政治优质课比赛一等奖、河北省班主任基本功大赛一等奖、河北省德育案例比赛一等奖、全国中小学电视公开课一等奖、唐山市五四奖章提名奖、唐山市青年岗位能手、市直教育系统优秀共产党员、双优十佳教师，担任《时事政治》一书的主编，并有二十余篇论文在全国核心刊物、省级优秀期刊发表，并参与国家级、省市级多项课题。</span></p><p style="background: #FFFFFF;font-family: Helvetica;font-size: 9.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: left;text-indent: 0.00in;"><span style="color: #333333;font-size: 9.5pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 16.8pt;margin-bottom: 15pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 10.5pt;letter-spacing: 0;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606138964.Jpeg" style="width: 3.645833in; height: 2.229167in" alt="202205301606133416.Jpeg" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 22.4pt;margin-bottom: 15pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: left;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>许琪玫</strong><strong> </strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  优质课比赛绍兴市二等奖、市属一等奖。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 10.5pt;line-height: 16.8pt;margin-bottom: 15pt;margin-left: 0;margin-right: 0;margin-top: 5pt;text-align: center;text-indent: 0.00in;"><img src="/UploadFiles/jsfc/2024/9/202409062345121102.jpg" style="max-width: 100%; width: 357px; height: 400px;" title="202409062345121102.jpg" width="357" height="400" alt="202409062345121102.jpg" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>彭爱波 </strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中学高级教师，毕业于华东师范大学教育学系，硕士研究生。在全国教育核心期刊发表论文近十篇，多篇论文在省、市教学论文评比中获奖。担任多年班主任工作，被评为市直优秀班主任，所带班级获得市直先进班级、先进团支部等称号，并获得绍兴市班主任基本功比武一等奖。连续多次获得市直教师综合素养比武优秀，两次受到市教育局、市工会表彰。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"></span>
+</p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"><img src="\UploadFiles\jsfc\2022\5\202205301606137048.Jpeg" style="width: 4.166667in; height: 2.340972in" alt="202205301606131484.Jpeg" /></span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>闫彦彦</strong><strong>   </strong></span><span style="font-family: 宋体;font-size: 12pt;margin: 0;padding: 0;">中共党员，硕士研究生，毕业于北京师范大学。在一中就职的几年间，多次获得市直基本功比武一等奖、校级先进工作者荣誉称号，多次参与校级及联考命题工作，有论文获得市级二等奖并在核心期刊发表。坚信“学为人师、行为世范”。</span></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 12pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;"> </span></p><p style="background: #FFFFFF;font-family: 等线;font-size: 12pt;line-height: 14.4pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/UploadFiles/jsfc/2024/9/202409062341426742.jpg" style="max-width: 100%; width: 233px; height: 350px;" title="202409062341426742.jpg" width="233" height="350" alt="202409062341426742.jpg" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 16.8pt;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>金 笛</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中共党员，毕业于华东师范大学，一级教师。曾获市直“品质课堂”录像课一等奖、市直教育教学论文评比一等奖；获浙江省“成绩突出共青团干部”、绍兴市“青年岗位能手”、市直学校“德育优秀工作者”。获绍兴市青年理论宣讲大赛暨微型党课大赛一等奖，全国青少年模拟政协/模拟两会活动、全国中学生模拟联合国大会“优秀指导教师”；多次指导学生获绍兴市“国旗下讲话”征文一等奖、二等奖，绍兴市中小学生研究性学习活动成果评比二等奖、三等奖。</span><span style="color: rgb(51, 51, 51); font-size: 14pt; letter-spacing: 0px; text-indent: 0in;"> </span></p><p style="background: #FFFFFF;font-family: 等线;font-size: 10.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/UploadFiles/jsfc/2025/9/202509161340024166.JPG" style="max-width: 100%; width: 300px; height: 418px;" title="202509161340024166.JPG" width="300" height="418" alt="202509161340024166.JPG" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>王芳芳</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中共党员，中学政治一级教师。 获“省级优课”，市直“品质课堂”一等奖，市直优质课一等奖，市直微党课一等奖；在国家级核心期刊发表论文四篇，主持完成市级课题一项，参与省级课题一项；代表市直政治教师参加绍兴市基本功比武获一等奖，连续三年获市直基本功比武一等奖；指导学生参加全国模拟政协活动获“最佳团队”等奖项，本人获<span style="font-family: Calibri;">"</span>全国杰出指导老师”；指导多名学生获绍兴市小论文比赛一等奖、二等奖。曾获“绍兴市直优秀工作者”，多次被评为“校级优秀党员”、“先进工作者”称号。教育信条：教育是一棵树摇动另一棵树，一朵云推动另一朵云，一个灵魂唤醒另一个灵魂。</span></p><p style="background: #FFFFFF;font-family: 等线;font-size: 10.5pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;text-indent: 0.00in;"><img src="/UploadFiles/jsfc/2024/9/202409062349156837.jpg" style="max-width: 100%; width: 400px; height: 267px;" title="202409062349156837.jpg" width="400" height="267" alt="202409062349156837.jpg" /></p><p style="background: #FFFFFF;font-family: 宋体;font-size: 14pt;line-height: 108%;margin-bottom: 0;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;text-indent: 0.00in;"><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 14pt;letter-spacing: 0;margin: 0;padding: 0;"><strong>茹奕蓓</strong></span><span style="background: #FFFFFF;color: #333333;font-family: 宋体;font-size: 12pt;letter-spacing: 0;margin: 0;padding: 0;">  </span><span style="font-size: 16px;">中共党员，法学硕士研究生，毕业于中国人民大学思想政治教育专业。曾获市直优质课评比一等奖，教育教学论文评比一等奖，教育系统微党课一等奖，绍兴市“百年百节”优秀主题团课，获得“先进工作者”、“优秀共产党员”、“优秀共青团干部”等荣誉称号。所开发的学习案例获评浙江省项目学习优秀案例，所制作的高中思想政治微课程入选全省精品数字教育资源，在国家级核心期刊发表论文多篇，指导学生在绍兴市中小学生研究性学习活动中获得一等奖，多次获全国青少年模拟政协、中学生模拟两会活动“优秀指导老师”。</span></p><p style="text-align:center"><img src="/UploadFiles/jsfc/2024/9/202409070027436651.jpg" style="max-width: 100%; width: 309px; height: 450px;" title="202409070027436651.jpg" width="309" height="450" alt="202409070027436651.jpg" /></p><p><strong><span style="font-family: 宋体; font-size: 18px;">王青 </span></strong><span style="font-family: 宋体; font-size: 16px;">中共党员，本科、硕士研究生毕业于华中师范大学，带队参加全国模拟联合国活动获“优秀组织奖”，绍兴市直教育系统微党课比赛二等奖。</span></p><p style="text-align:center"><span style="font-family: 宋体; font-size: 16px;"><img src="/UploadFiles/jsfc/2025/8/202508241517141796.jpg" style="max-width: 100%; width: 300px; height: 400px;" title="202508241517141796.jpg" width="300" height="400" alt="202508241517141796.jpg" /></span></p><p><span style="font-size: 18px;"><strong><span style="font-family: 宋体;">郑清清</span></strong></span><span style=";font-family:宋体;font-size:14px">   <span style="font-family: 宋体; font-size: 16px;">中共党员，本科于重庆师范大学马克思主义学院就读思想政治与教育专业，硕士于厦门大学人文学院哲学系就读马克思主义哲学专业，博士于山东大学哲学与社会发展学院就读马克思主义哲学专业。大学期间，曾获得山东大学哲学与社会发展学院学年论文报告一等奖、山东大学哲学与社会发展学院一等奖学金、<span style="font-family: 宋体;">厦门大学“明德自强”奖学金。</span></span></span></p><p style="text-align:center"><span style="font-size: 16px; font-family: 宋体;"><img src="/UploadFiles/jsfc/2025/8/202508241518402408.jpg" style="max-width: 100%; width: 300px; height: 415px;" title="202508241518402408.jpg" width="300" height="415" alt="202508241518402408.jpg" /></span></p><p><span style="font-size: 16px; font-family: 宋体;"></span></p><p><span style="font-size: 18px;"><strong><span style="font-family: 宋体;">胡智华</span></strong></span><strong><span style="font-family: 宋体;font-size: 14px">  </span></strong><span style="font-size: 16px; font-family: 宋体;">中学二级教师，曾获许昌市建安区第三高级中学优质课大赛特等奖。</span></p><p><span style="font-size: 16px; font-family: 宋体;"></span></p><p style="text-align:center"><img src="/UploadFiles/jsfc/2026/9/202609020858267313.jpg" style="max-width: 100%; width: 300px; height: 200px;" title="202609020858267313.jpg" width="300" height="200" alt="202609020858267313.jpg" /></p><p><strong style=""><span style="font-family: 宋体; text-indent: 37px;"><span style="font-size: 18px;">李丹青</span><span style="font-size: 19px;"> </span></span></strong><span style="font-family: 宋体; font-size: 19px; text-indent: 37px;"><span style="font-family: 宋体; text-indent: 37px; font-size: 14px;">中共党员，硕士毕业于南京大学思想政治教育专业。求学阶段勤奋钻研专业知识，夯实学科理论基础，积极参与教学实践、志愿服务等活动。多次斩获学业优秀奖学金、社会工作奖学金，曾获得校级优秀共青团员、优秀学生、优秀志愿者等荣誉。作为一名青年党员教师，对待教育工作满怀热忱，始终铭记教育初心，恪守教师职业道德，坚持立德树人。在今后工作中将继续虚心求教，深耕课堂，关注每一位学生的发展，努力成为学生喜爱、家长放心的人民教师。</span></span></p><p style="text-align:center"><img src="/UploadFiles/jsfc/2026/9/202609020858263850.jpg" style="max-width: 100%; width: 300px; height: 404px;" title="202609020858263850.jpg" width="300" height="404" alt="202609020858263850.jpg" /></p><p style="text-indent:32px;line-height:150%"><span style="font-size: 18px;"><strong><span style="line-height: 150%; font-family: 宋体;">姜文清 </span></strong></span><span style="font-size:16px;line-height:150%;font-family: 宋体">中共党员，毕业于西安电子科技大学马克思主义理论专业，硕士研究生学历。求学期间，不断夯实思政学科知识根基，研究生期间论文获得国家重点基金立项，积极参与红色宣讲、思政主题社会实践等各类实践活动，曾获评校级“三好学生”“优秀共青团员”“校级二等奖学金”“优秀实践队长”等荣誉，在理论与社会实践当中锻炼了表达与实践能力。我始终坚信，思政课堂不止是理论的讲授，更是理想信念的传递。教育从来都不是强求所有树叶同形同色，而是守护每一片叶子的独特，让每个孩子都绽放独属于自己的光彩。走上教师岗位之后，我将牢记立德树人的根本任务，虚心向前辈教师学习，在教学中尊重、倾听学生，努力成为学生成长成才的引路人。</span></p><p style="text-align:center"><img src="/UploadFiles/jsfc/2026/9/202609020858264879.png" style="max-width: 100%; width: 300px; height: 514px;" title="202609020858264879.png" width="300" height="514" alt="202609020858264879.png" /></p><p><span style="font-size: 16px; font-family: 宋体;"></span></p><p style="text-indent:21px"><a><strong><span style="font-size:21px;font-family:宋体">安相龙 </span></strong></a><span style="font-size:16px;font-family:宋体">共青团员，本科毕业于河海大学公共管理学院，后赴英国伦敦国王学院深造，于 2025 年取得马克思主义理论硕士学位。求学期间，他多次获得校级奖学金，获评优秀班干部，本科阶段斩获国家级学科竞赛奖项。2026 年入职龙山书院，担任思政教师。“师者，所以传道授业解惑也。” 在他看来，思政教学不仅是理论知识的传递，更是价值信仰的浸润与精神思想的启迪。课堂应当是师生双向求索、教学相长的场域。教育是一场温暖的修行，三尺讲台承载育人初心，他将永葆勤学求索的热忱，深耕课堂，勤于反思、精进不辍，力争做一名有温度、有担当，心中有爱、眼中有光的思政教育同行者。</span></p><p><span style="font-size: 16px; font-family: 宋体;"></span>
 </p><p><span style="font-family: 宋体; font-size: 16px;"></span>
 </p><p style="font-family: Calibri;font-size: 10.5pt;line-height: 108%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: justify;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p>
     
@@ -435,8 +429,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/13995.aspx" target="_self" title="标题：生物教研组&#xD;点击数：2171&#xD;发表时间：24年09月06日">生物教研组</a>[ 09-06 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/13997.aspx" target="_self" title="标题：历史教研组&#xD;点击数：2156&#xD;发表时间：25年09月05日">历史教研组</a>[ 09-05 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/13995.aspx" target="_self" title="标题：生物教研组&#xD;点击数：2234&#xD;发表时间：24年09月06日">生物教研组</a>[ 09-06 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/13997.aspx" target="_self" title="标题：历史教研组&#xD;点击数：2246&#xD;发表时间：26年09月02日">历史教研组</a>[ 09-02 ]</div>
                         </div>
                     </div>
 
@@ -453,25 +447,25 @@ $(document).ready(function()
 <div id="footer">
   <div class="siteWidth">
 
-      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+      <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
-      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
 
-      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
-      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
-      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Template/Default/Skin/erms/img/xcxewm.png" />
   </div>  
 </div>
 <!-- footer E -->

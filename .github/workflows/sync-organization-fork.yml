@@ -1,0 +1,53 @@
+name: Sync organization fork
+
+on:
+  push:
+    branches: ['**']
+    tags: ['**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: organization-fork-sync-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.repository == 'tangyixiao/Shaoxingyizhong' && github.event.deleted != true
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ github.token }}
+      DEPLOY_KEY: ${{ secrets.ORG_FORK_SYNC_DEPLOY_KEY }}
+      SOURCE_REPOSITORY: ${{ github.repository }}
+      TARGET_REPOSITORY: Shaoxing-No-1-High-School/Shaoxingyizhong
+      SYNC_REF: ${{ github.ref }}
+    steps:
+      - name: Push the updated ref to the organization fork
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -z "$DEPLOY_KEY" ]]; then
+            echo '::error::ORG_FORK_SYNC_DEPLOY_KEY is not configured in the upstream repository.'
+            exit 1
+          fi
+          key_dir="$(mktemp -d)"
+          trap 'rm -rf -- "$key_dir"' EXIT
+          chmod 700 "$key_dir"
+          printf '%s\n' "$DEPLOY_KEY" | tr -d '\r' > "$key_dir/id_ed25519"
+          chmod 600 "$key_dir/id_ed25519"
+          ssh-keygen -y -f "$key_dir/id_ed25519" > /dev/null
+          gh api meta --jq '.ssh_keys[] | "github.com " + .' > "$key_dir/known_hosts"
+          test -s "$key_dir/known_hosts"
+          export GIT_SSH_COMMAND="ssh -F /dev/null -i '$key_dir/id_ed25519' -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes -o UserKnownHostsFile='$key_dir/known_hosts'"
+          repository_dir="$RUNNER_TEMP/organization-fork-sync.git"
+          git init --bare "$repository_dir"
+          git -C "$repository_dir" remote add upstream "https://github.com/$SOURCE_REPOSITORY.git"
+          git -C "$repository_dir" config remote.upstream.promisor true
+          git -C "$repository_dir" config remote.upstream.partialclonefilter blob:none
+          git -C "$repository_dir" fetch --no-tags --filter=blob:none upstream "$SYNC_REF:$SYNC_REF"
+          git -C "$repository_dir" push "git@github.com:$TARGET_REPOSITORY.git" "$SYNC_REF:$SYNC_REF"
+          synced_sha="$(git -C "$repository_dir" rev-parse "$SYNC_REF")"
+          printf 'Synced `%s` at `%s` to `%s`.\n' "$SYNC_REF" "$synced_sha" "$TARGET_REPOSITORY" >> "$GITHUB_STEP_SUMMARY"

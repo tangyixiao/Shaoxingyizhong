@@ -6,11 +6,11 @@
     <meta content='绍兴市第一中学' name="Keywords" />
     <meta content='绍兴市第一中学' name="Description" />
     <title>绍兴市第一中学</title>
-    <link href="/Shaoxingyizhong/Template/Default/Skin/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/article.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/article.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-    <iframe src='/Shaoxingyizhong/Common/GetHits.aspx?id=12458'></iframe>
+    <iframe src='/Common/GetHits.aspx?id=12458'></iframe>
     <script language="javascript" type="text/javascript">
     window.location ="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm";
     </script>

@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23778.aspx" target="_blank" title="标题：高三晚自修（10.12-10.25）&#xD;点击数：76&#xD;发表时间：2026年10月12日">高三晚自修（10.12-10.25）</a><span class="dateRight">[10-12]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23745.aspx" target="_blank" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：102&#xD;发表时间：2026年09月30日">高三晚自修（10.4-10.11）</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23676.aspx" target="_blank" title="标题：高三晚自修（9.19-9.29）&#xD;点击数：108&#xD;发表时间：2026年09月17日">高三晚自修（9.19-9.29）</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23599.aspx" target="_blank" title="标题：高三晚自修（9.7-9.23）&#xD;点击数：147&#xD;发表时间：2026年09月04日">高三晚自修（9.7-9.23）</a><span class="dateRight">[09-04]</span></li><li><a href="/Item/23534.aspx" target="_blank" title="标题：高三晚自修（8.24-9.6）&#xD;点击数：186&#xD;发表时间：2026年08月21日">高三晚自修（8.24-9.6）</a><span class="dateRight">[08-21]</span></li><li class="last"><a href="/Item/23503.aspx" target="_blank" title="标题：8.14讲座通知&#xD;点击数：169&#xD;发表时间：2026年08月14日">8.14讲座通知</a><span class="dateRight">[08-14]</span></li>
+            <li class="first"><a href="/Item/23840.aspx" target="_blank" title="标题：高三晚自修（10.26-11.8）&#xD;点击数：46&#xD;发表时间：2026年10月23日">高三晚自修（10.26-11.8）</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23778.aspx" target="_blank" title="标题：高三晚自修（10.12-10.25）&#xD;点击数：106&#xD;发表时间：2026年10月12日">高三晚自修（10.12-10.25）</a><span class="dateRight">[10-12]</span></li><li><a href="/Item/23676.aspx" target="_blank" title="标题：高三晚自修（9.19-9.29）&#xD;点击数：110&#xD;发表时间：2026年09月17日">高三晚自修（9.19-9.29）</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23815.aspx" target="_blank" title="标题：高三年级表彰暨动员大会通知&#xD;点击数：199&#xD;发表时间：2026年10月20日">高三年级表彰暨动员大会通知</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23745.aspx" target="_blank" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：105&#xD;发表时间：2026年09月30日">高三晚自修（10.4-10.11）</a><span class="dateRight">[09-30]</span></li><li class="last"><a href="/Item/23599.aspx" target="_blank" title="标题：高三晚自修（9.7-9.23）&#xD;点击数：148&#xD;发表时间：2026年09月04日">高三晚自修（9.7-9.23）</a><span class="dateRight">[09-04]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23745.aspx" target="_self" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：102&#xD;发表时间：26年09月30日">高三晚自修（10.4-10.11）</a>[ 09-30 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23745.aspx" target="_self" title="标题：高三晚自修（10.4-10.11）&#xD;点击数：105&#xD;发表时间：26年09月30日">高三晚自修（10.4-10.11）</a>[ 09-30 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23815.aspx" target="_self" title="标题：高三年级表彰暨动员大会通知&#xD;点击数：199&#xD;发表时间：26年10月20日">高三年级表彰暨动员大会通知</a>[ 10-20 ]</div>
                         </div>
                     </div>
 

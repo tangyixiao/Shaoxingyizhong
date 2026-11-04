@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23729.aspx" target="_blank" title="标题：高二、高三大扫除通知&#xD;点击数：65&#xD;发表时间：2026年09月28日">高二、高三大扫除通知</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23725.aspx" target="_blank" title="标题：2026年绍兴一中教育集团运动会开、闭幕式工作方案&#xD;点击数：341&#xD;发表时间：2026年09月27日">2026年绍兴一中教育集团运动会开、闭幕式工作方案</a><span class="dateRight">[09-27]</span></li><li><a href="/Item/23698.aspx" target="_blank" title="标题：9.20班级一日考核&#xD;点击数：50&#xD;发表时间：2026年09月21日">9.20班级一日考核</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23720.aspx" target="_blank" title="标题：9.23班级一日考核&#xD;点击数：19&#xD;发表时间：2026年09月24日">9.23班级一日考核</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23732.aspx" target="_blank" title="标题：9月份“美丽寝室”表彰公告&#xD;点击数：61&#xD;发表时间：2026年09月28日">9月份“美丽寝室”表彰公告</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/23620.aspx" target="_blank" title="标题：大课间跑操考核员招募通知&#xD;点击数：121&#xD;发表时间：2026年09月09日">大课间跑操考核员招募通知</a><span class="dateRight">[09-09]</span></li>
+            <li class="first"><a href="/Item/23824.aspx" target="_blank" title="标题：10.20跑操量化考核反馈&#xD;点击数：75&#xD;发表时间：2026年10月20日">10.20跑操量化考核反馈</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23837.aspx" target="_blank" title="标题：绍兴一中教育集团“2026年家长开放日”暨第八届家委会成立活动方案&#xD;点击数：208&#xD;发表时间：2026年10月23日">绍兴一中教育集团“2026年家长开放日”暨第八届家委会成…</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23706.aspx" target="_self" title="标题：9.22跑操量化考核反馈&#xD;点击数：64&#xD;发表时间：26年09月22日">9.22跑操量化考核反馈</a>[ 09-22 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23715.aspx" target="_self" title="标题：9.22班级一日考核&#xD;点击数：55&#xD;发表时间：26年09月23日">9.22班级一日考核</a>[ 09-23 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23706.aspx" target="_self" title="标题：9.22跑操量化考核反馈&#xD;点击数：65&#xD;发表时间：26年09月22日">9.22跑操量化考核反馈</a>[ 09-22 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23715.aspx" target="_self" title="标题：9.22班级一日考核&#xD;点击数：59&#xD;发表时间：26年09月23日">9.22班级一日考核</a>[ 09-23 ]</div>
                         </div>
                     </div>
 

@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23681.aspx" target="_blank" title="标题：2026暑期社会实践团体奖公布及先进个人推选通知&#xD;点击数：138&#xD;发表时间：2026年09月18日">2026暑期社会实践团体奖公布及先进个人推选通知</a><span class="dateRight">[09-18]</span></li><li><a href="/Item/23662.aspx" target="_blank" title="标题：关于学代会筹备会议的通知&#xD;点击数：108&#xD;发表时间：2026年09月16日">关于学代会筹备会议的通知</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23606.aspx" target="_blank" title="标题：招贤令2：团学联干部、干事招聘启事&#xD;点击数：138&#xD;发表时间：2026年09月07日">招贤令2：团学联干部、干事招聘启事</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23664.aspx" target="_blank" title="标题：关于举行第27次学生代表大会暨第27届团学联主席团选举的通知&#xD;点击数：194&#xD;发表时间：2026年09月16日">关于举行第27次学生代表大会暨第27届团学联主席团选举的…</a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23607.aspx" target="_blank" title="标题：高一高二团支书开会通知&#xD;点击数：91&#xD;发表时间：2026年09月07日">高一高二团支书开会通知</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23279.aspx" target="_blank" title="标题：高考喊楼志愿者彩排通知&#xD;点击数：243&#xD;发表时间：2026年05月26日">高考喊楼志愿者彩排通知</a><span class="dateRight">[05-26]</span></li><li class="last"><a href="/Item/23265.aspx" target="_blank" title="标题：2026上半年新发展团员开会通知&#xD;点击数：150&#xD;发表时间：2026年05月25日">2026上半年新发展团员开会通知</a><span class="dateRight">[05-25]</span></li>
+            <li class="first"><a href="/Item/23825.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：148&#xD;发表时间：2026年10月21日">第十八期团校上课通知</a><span class="dateRight">[10-21]</span></li><li><a href="/Item/23769.aspx" target="_blank" title="标题：求真实验室招新考试&#xD;点击数：128&#xD;发表时间：2026年10月09日">求真实验室招新考试</a><span class="dateRight">[10-09]</span></li><li><a href="/Item/23247.aspx" target="_blank" title="标题：周六招生考试志愿者会议&#xD;点击数：207&#xD;发表时间：2026年05月20日">周六招生考试志愿者会议</a><span class="dateRight">[05-20]</span></li><li><a href="/Item/23243.aspx" target="_blank" title="标题：学术节｜考古知识竞赛&#xD;点击数：113&#xD;发表时间：2026年05月19日">学术节｜考古知识竞赛</a><span class="dateRight">[05-19]</span></li><li><a href="/Item/23192.aspx" target="_blank" title="标题：学术节｜绍兴一中文创产品设计方案征集&#xD;点击数：146&#xD;发表时间：2026年05月13日">学术节｜绍兴一中文创产品设计方案征集</a><span class="dateRight">[05-13]</span></li><li><a href="/Item/22878.aspx" target="_blank" title="标题：关于2026寒期社会实践交流评比的通知&#xD;点击数：122&#xD;发表时间：2026年03月17日">关于2026寒期社会实践交流评比的通知</a><span class="dateRight">[03-17]</span></li><li class="last"><a href="/Item/21976.aspx" target="_blank" title="标题：第二十六届团学联主席团选举结果公示&#xD;点击数：188&#xD;发表时间：2025年09月25日">第二十六届团学联主席团选举结果公示</a><span class="dateRight">[09-25]</span></li>
           
                     </ul>
                 </div>
@@ -456,8 +456,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23662.aspx" target="_self" title="标题：关于学代会筹备会议的通知&#xD;点击数：108&#xD;发表时间：26年09月16日">关于学代会筹备会议的通知</a>[ 09-16 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23680.aspx" target="_self" title="标题：CSP志愿者开会通知&#xD;点击数：90&#xD;发表时间：26年09月18日">CSP志愿者开会通知</a>[ 09-18 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23662.aspx" target="_self" title="标题：关于学代会筹备会议的通知&#xD;点击数：110&#xD;发表时间：26年09月16日">关于学代会筹备会议的通知</a>[ 09-16 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23680.aspx" target="_self" title="标题：CSP志愿者开会通知&#xD;点击数：105&#xD;发表时间：26年09月18日">CSP志愿者开会通知</a>[ 09-18 ]</div>
                         </div>
                     </div>
 

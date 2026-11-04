@@ -5,7 +5,7 @@ set "SCRIPT_DIR=%~dp0"
 for %%I in ("%SCRIPT_DIR%..") do set "REPO_ROOT=%%~fI"
 for %%I in ("%REPO_ROOT%\..") do set "PROJECTS_ROOT=%%~fI"
 set "UPDATE_SCRIPT=%SCRIPT_DIR%update_from_intranet.py"
-set "CRAWLER=%PROJECTS_ROOT%\a.py"
+set "CRAWLER=%SCRIPT_DIR%intranet_crawler.py"
 
 if not exist "%UPDATE_SCRIPT%" (
     echo 错误：找不到更新脚本：%UPDATE_SCRIPT%
@@ -15,7 +15,7 @@ if not exist "%UPDATE_SCRIPT%" (
 
 if not exist "%CRAWLER%" (
     echo 错误：找不到爬虫文件：%CRAWLER%
-    echo 请把 a.py 放在仓库上一级 Projects 目录中。
+    echo 请恢复 tools\intranet_crawler.py。
     pause
     exit /b 1
 )

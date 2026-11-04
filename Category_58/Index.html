@@ -115,7 +115,7 @@ function GetUserInfo1(response){
                     return;
                 } else {
 
-                    window.location = '/search/s.html?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                    window.location = '/Shaoxingyizhong/search.html?c=&f=title&wd=' + encodeURIComponent(keyword2) + '&o='+2;
                 }
             }
             </script>
@@ -400,7 +400,7 @@ function GetUserInfo1(response){
    <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
    <label> 
    <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/Shaoxingyizhong/search.html?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
+    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('input[onclick^=OnSearchCheckAndSubmit2]'));</script>
     <script language="javascript" type="text/javascript">
     function OnSearchCheckAndSubmit2(){
         var keyword = document.getElementById("keyword_PowerEasy").value;
@@ -413,7 +413,7 @@ function GetUserInfo1(response){
             var fieldOptionSel = document.getElementById("fieldOption");
             var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
             var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.html?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
+            window.location = "/Shaoxingyizhong/search.html?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + encodeURIComponent(keyword) + "&fieldOption=" + fieldOption;
         }
     }
     </script>

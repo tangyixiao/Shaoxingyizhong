@@ -23,30 +23,26 @@ class IncrementalSyncTests(unittest.TestCase):
 
         push.assert_called_once_with(Path("repo"))
 
-    def test_commit_reconciles_remote_commit_before_retrying_push(self):
+    def test_publish_reconciles_remote_commit_before_retrying_push(self):
+        from tools.publish_crawl import push_with_reconcile
+
         rejected = subprocess.CalledProcessError(
             1,
             ["git", "push"],
             stderr="错误：无法推送一些引用。提示：更新被拒绝，因为远程仓库包含您本地尚不存在的提交。",
         )
-        with mock.patch("tools.publish_crawl.add_paths"), mock.patch(
+        with mock.patch(
             "tools.publish_crawl.run_git",
-            side_effect=[None, rejected, None, None, None],
+            side_effect=[rejected, None, None, None],
         ) as git:
-            commit_changes(
-                Path("repo"),
-                ["page.html"],
-                "update page",
-                push=True,
-            )
+            push_with_reconcile(Path("repo"))
 
         self.assertEqual(
             [(call.args[1:], call.kwargs) for call in git.call_args_list],
             [
-                (("commit", "-m", "update page"), {}),
                 (("push",), {"capture_output": True}),
                 (("fetch", "--no-tags", "--filter=blob:none", "origin", "main"), {}),
-                (("merge", "--no-edit", "origin/main"), {}),
+                (("merge", "-X", "ours", "--no-edit", "origin/main"), {}),
                 (("push",), {}),
             ],
         )
@@ -82,7 +78,7 @@ class IncrementalSyncTests(unittest.TestCase):
             ).stdout
             self.assertEqual(tracked, "")
 
-    def test_image_sync_command_uses_existing_shard_workspace(self):
+    def test_image_sync_command_preserves_archives_in_existing_shard_workspace(self):
         self.assertEqual(
             image_sync_command(
                 Path("/project/repo"),
@@ -99,7 +95,7 @@ class IncrementalSyncTests(unittest.TestCase):
                 "/project/repo/attachment_routes.json",
                 "--workspace",
                 "/project/shards",
-                "--prune-missing",
+                "--allow-missing-external-images",
             ],
         )
     def test_selects_only_2026_or_newer_attachment_paths(self):

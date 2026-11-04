@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23566.aspx" target="_blank" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：92&#xD;发表时间：2026年08月31日">高二晚自修（8.30-9.4）</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/20257.aspx" target="_blank" title="标题：高二晚自修答疑值班安排（9.22-9.27）&#xD;点击数：209&#xD;发表时间：2024年09月20日">高二晚自修答疑值班安排（9.22-9.27）</a><span class="dateRight">[09-20]</span></li><li><a href="/Item/23550.aspx" target="_blank" title="标题：高二晚自修（8.23-8.25）&#xD;点击数：145&#xD;发表时间：2026年08月24日">高二晚自修（8.23-8.25）</a><span class="dateRight">[08-24]</span></li><li><a href="/Item/23436.aspx" target="_blank" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：163&#xD;发表时间：2026年06月26日">高二晚自修（6.29-7.10）</a><span class="dateRight">[06-26]</span></li><li><a href="/Item/23391.aspx" target="_blank" title="标题：高二晚自修（6.21-6.28）&#xD;点击数：102&#xD;发表时间：2026年06月18日">高二晚自修（6.21-6.28）</a><span class="dateRight">[06-18]</span></li><li><a href="/Item/23373.aspx" target="_blank" title="标题：高二晚自修值班（6.15-6.20）&#xD;点击数：72&#xD;发表时间：2026年06月12日">高二晚自修值班（6.15-6.20）</a><span class="dateRight">[06-12]</span></li><li class="last"><a href="/Item/23363.aspx" target="_blank" title="标题：高二6月学考模拟考监考安排和学生考场安排&#xD;点击数：326&#xD;发表时间：2026年06月11日">高二6月学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li>
+            <li class="first"><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：78&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23827.aspx" target="_blank" title="标题：高二晚自修（10.26-11.1）&#xD;点击数：65&#xD;发表时间：2026年10月21日">高二晚自修（10.26-11.1）</a><span class="dateRight">[10-21]</span></li><li><a href="/Item/23802.aspx" target="_blank" title="标题：高二晚自习(10.18-10.23、10.25)&#xD;点击数：117&#xD;发表时间：2026年10月16日">高二晚自习(10.18-10.23、10.25)</a><span class="dateRight">[10-16]</span></li><li><a href="/Item/23774.aspx" target="_blank" title="标题：高二晚自习(10.11-10.16)&#xD;点击数：73&#xD;发表时间：2026年10月12日">高二晚自习(10.11-10.16)</a><span class="dateRight">[10-12]</span></li><li><a href="/Item/23719.aspx" target="_blank" title="标题：高二晚自习(9.26-9.29)&#xD;点击数：88&#xD;发表时间：2026年09月24日">高二晚自习(9.26-9.29)</a><span class="dateRight">[09-24]</span></li><li><a href="/Item/23685.aspx" target="_blank" title="标题：高二晚自习(9.19-9.23)&#xD;点击数：83&#xD;发表时间：2026年09月18日">高二晚自习(9.19-9.23)</a><span class="dateRight">[09-18]</span></li><li class="last"><a href="/Item/23629.aspx" target="_blank" title="标题：高二晚自习(9.13-9.18)&#xD;点击数：216&#xD;发表时间：2026年09月14日">高二晚自习(9.13-9.18)</a><span class="dateRight">[09-14]</span></li>
           
                     </ul>
                 </div>
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23436.aspx" target="_self" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：163&#xD;发表时间：26年06月26日">高二晚自修（6.29-7.10）</a>[ 06-26 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23566.aspx" target="_self" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：92&#xD;发表时间：26年08月31日">高二晚自修（8.30-9.4）</a>[ 08-31 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23436.aspx" target="_self" title="标题：高二晚自修（6.29-7.10）&#xD;点击数：165&#xD;发表时间：26年06月26日">高二晚自修（6.29-7.10）</a>[ 06-26 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23566.aspx" target="_self" title="标题：高二晚自修（8.30-9.4）&#xD;点击数：153&#xD;发表时间：26年08月31日">高二晚自修（8.30-9.4）</a>[ 08-31 ]</div>
                         </div>
                     </div>
 

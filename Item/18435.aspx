@@ -7,9 +7,9 @@
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
     <title>叶军院士回访母校捐资一百万元设立奖学金--学校新闻-绍兴市第一中学</title>
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
-    <link href="/Shaoxingyizhong/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
+    <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
     <!-- 网站变灰
 <style>
 *{
@@ -27,10 +27,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <script type="text/javascript">
     var siteSetup = {sitePath: '/',ajaxPath: '/ajax.aspx',skinPath: '/Template/Default/Skin/'};
 </script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.pack.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/js/jquery.peex.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
-<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.pack.js"></script>
+<script language="javascript" type="text/javascript" src="/js/jquery.peex.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.SuperSlide.js"></script>
+<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/jquery.qrcode.min.js"></script>
 
 
 
@@ -38,12 +38,12 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 </head>
 <div id="top">
 	<div class="siteWidth">
-		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Shaoxingyizhong/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
-<div class="toplink"><a href="/Shaoxingyizhong/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
+		<div class="date">今天是<script language="javascript" type="text/javascript" src="/Template/Default/Skin/erms/js/show_date.js?type=1"></script></div>
+<div class="toplink"><a href="/Category_370/Index.aspx" target="_blank">公共文件夹</a> | 
                             <a href="http://220.187.224.238:20000/" target="_blank">智慧校园</a> | 
                             <a href="http://10.176.17.15:8443/portal" target="_blank">教学平台</a> | 
-                            <a href="/Shaoxingyizhong/Item/1380.aspx" target="_blank">办公电话</a> | 
-                            <a href="/Shaoxingyizhong/Item/13310.aspx" target="_blank">作息时间</a> | 
+                            <a href="/Item/1380.aspx" target="_blank">办公电话</a> | 
+                            <a href="/Item/13310.aspx" target="_blank">作息时间</a> | 
                             <a href="http://10.176.17.63/" target="_blank">图书馆</a> | 
                             <a href="ftp://10.176.17.3:2121" target="_blank">软件下载</a> | 
                             <a href="http://10.176.17.2:99/" target="_blank">网上报修</a></div>
@@ -53,10 +53,10 @@ filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 <div id="header">
     <div class="siteWidth">
 			<h1 class="logo" title="@CurrentSite.Instance.SiteTitle">
-					<a href="/Shaoxingyizhong/"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/logo.png" /></a>
+					<a href="/"><img src="/Template/Default/Skin/erms/img/logo.png" /></a>
 			</h1>
 			<div class="link">
-        <span id="topLoginFrom" style="display: none"><a href="/Shaoxingyizhong/User/index.aspx">登录</a>|<a href="/Shaoxingyizhong/User/Register.aspx" title="注册" class="reg">注册</a></span>
+        <span id="topLoginFrom" style="display: none"><a href="/User/index.aspx">登录</a>|<a href="/User/Register.aspx" title="注册" class="reg">注册</a></span>
 <span id="topLoginStatus">
 </span>
 <script language="javascript" type="text/javascript">
@@ -125,167 +125,167 @@ function GetUserInfo1(response){
 <!-- header E -->
 <div class="nav">
 	<div class="siteWidth">
-      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Shaoxingyizhong/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Shaoxingyizhong/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
+      <ul id="mainNav" class="mainNav"><li class="li1 first1" id="liID-2"><h4 class="h1" id="hID-2"><a target="_self" class="a1" id="aID-2" href="/Default.aspx">首页</a></h4></li><li class="li1 hasUl1" id="liID1"><h4 class="h1" id="hID1"><a target="_self" class="a1" id="aID1" href="/Category_1/Index.aspx">新闻中心</a></h4><ul class="ul1" id="ulID1">
 				<li class="li2 first2" id="liID20">
-  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Shaoxingyizhong/Category_20/Index.aspx">学校公告</a></h4>
+  <h4 class="h2" id="hID20"><a target="_self" class="a2" id="aID20" href="/Category_20/Index.aspx">学校公告</a></h4>
 </li>
 <li class="li2" id="liID21">
-  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h4>
+  <h4 class="h2" id="hID21"><a target="_self" class="a2" id="aID21" href="/Category_21/Index.aspx">一中新闻</a></h4>
 </li>
 <li class="li2" id="liID22">
-  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Shaoxingyizhong/Category_22/Index.aspx">工作安排</a></h4>
+  <h4 class="h2" id="hID22"><a target="_self" class="a2" id="aID22" href="/Category_22/Index.aspx">工作安排</a></h4>
 </li>
 <li class="li2" id="liID23">
-  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Shaoxingyizhong/Category_23/Index.aspx">校长专栏</a></h4>
+  <h4 class="h2" id="hID23"><a target="_self" class="a2" id="aID23" href="/Category_23/Index.aspx">校长专栏</a></h4>
 </li>
 <li class="li2 last2" id="liID24">
-  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Shaoxingyizhong/Category_24/Index.aspx">校务公开</a></h4>
+  <h4 class="h2" id="hID24"><a target="_self" class="a2" id="aID24" href="/Category_24/Index.aspx">校务公开</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Shaoxingyizhong/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
+			</ul></li><li class="li1 hasUl1" id="liID3"><h4 class="h1" id="hID3"><a target="_self" class="a1" id="aID3" href="/Category_3/Index.aspx">百年芳华</a></h4><ul class="ul1" id="ulID3">
 				<li class="li2 first2" id="liID112">
-  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Shaoxingyizhong/Category_112/Index.aspx">建校史略</a></h4>
+  <h4 class="h2" id="hID112"><a target="_self" class="a2" id="aID112" href="/Category_112/Index.aspx">建校史略</a></h4>
 </li>
 <li class="li2" id="liID113">
-  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Shaoxingyizhong/Category_113/Index.aspx">昔日校园</a></h4>
+  <h4 class="h2" id="hID113"><a target="_self" class="a2" id="aID113" href="/Category_113/Index.aspx">昔日校园</a></h4>
 </li>
 <li class="li2" id="liID376">
   <h4 class="h2" id="hID376"><a target="_blank" class="a2" id="aID376" href="http://10.176.17.2:8080/bnxs/mingrenlu/index.htm">—中骄傲</a></h4>
 </li>
 <li class="li2 last2" id="liID389">
-  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Shaoxingyizhong/Category_389/Index.aspx">校友之家</a></h4>
+  <h4 class="h2" id="hID389"><a target="_self" class="a2" id="aID389" href="/Category_389/Index.aspx">校友之家</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Shaoxingyizhong/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
+			</ul></li><li class="li1 hasUl1" id="liID4"><h4 class="h1" id="hID4"><a target="_self" class="a1" id="aID4" href="/Category_4/Index.aspx">走进一中</a></h4><ul class="ul1" id="ulID4">
 				<li class="li2 first2" id="liID43">
-  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Shaoxingyizhong/Category_43/Index.aspx">学校概览</a></h4>
+  <h4 class="h2" id="hID43"><a target="_self" class="a2" id="aID43" href="/Category_43/Index.aspx">学校概览</a></h4>
 </li>
 <li class="li2" id="liID44">
-  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Shaoxingyizhong/Category_44/Index.aspx">组织机构</a></h4>
+  <h4 class="h2" id="hID44"><a target="_self" class="a2" id="aID44" href="/Category_44/Index.aspx">组织机构</a></h4>
 </li>
 <li class="li2" id="liID45">
-  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Shaoxingyizhong/Category_45/Index.aspx">管理团队</a></h4>
+  <h4 class="h2" id="hID45"><a target="_self" class="a2" id="aID45" href="/Category_45/Index.aspx">管理团队</a></h4>
 </li>
 <li class="li2" id="liID49">
-  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Shaoxingyizhong/Category_49/Index.aspx">—中校歌</a></h4>
+  <h4 class="h2" id="hID49"><a target="_self" class="a2" id="aID49" href="/Category_49/Index.aspx">—中校歌</a></h4>
 </li>
 <li class="li2" id="liID41">
-  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Shaoxingyizhong/Category_41/Index.aspx">校园风光</a></h4>
+  <h4 class="h2" id="hID41"><a target="_self" class="a2" id="aID41" href="/Category_41/Index.aspx">校园风光</a></h4>
 </li>
 <li class="li2" id="liID10">
-  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Shaoxingyizhong/Category_10/Index.aspx">奖教奖学</a></h4>
+  <h4 class="h2" id="hID10"><a target="_self" class="a2" id="aID10" href="/Category_10/Index.aspx">奖教奖学</a></h4>
 </li>
 <li class="li2" id="liID42">
-  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Shaoxingyizhong/Category_42/Index.aspx">学校荣誉</a></h4>
+  <h4 class="h2" id="hID42"><a target="_self" class="a2" id="aID42" href="/Category_42/Index.aspx">学校荣誉</a></h4>
 </li>
 <li class="li2 last2" id="liID379">
-  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Shaoxingyizhong/Category_379/Index.aspx">领导关怀</a></h4>
+  <h4 class="h2" id="hID379"><a target="_self" class="a2" id="aID379" href="/Category_379/Index.aspx">领导关怀</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Shaoxingyizhong/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
+			</ul></li><li class="li1 hasUl1" id="liID50"><h4 class="h1" id="hID50"><a target="_self" class="a1" id="aID50" href="/Category_50/Index.aspx">党建引领</a></h4><ul class="ul1" id="ulID50">
 				<li class="li2 first2" id="liID53">
-  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Shaoxingyizhong/Category_53/Index.aspx">组织架构</a></h4>
+  <h4 class="h2" id="hID53"><a target="_self" class="a2" id="aID53" href="/Category_53/Index.aspx">组织架构</a></h4>
 </li>
 <li class="li2" id="liID54">
-  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Shaoxingyizhong/Category_54/Index.aspx">清廉学校</a></h4>
+  <h4 class="h2" id="hID54"><a target="_self" class="a2" id="aID54" href="/Category_54/Index.aspx">清廉学校</a></h4>
 </li>
 <li class="li2" id="liID55">
-  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Shaoxingyizhong/Category_55/Index.aspx">学习专栏</a></h4>
+  <h4 class="h2" id="hID55"><a target="_self" class="a2" id="aID55" href="/Category_55/Index.aspx">学习专栏</a></h4>
 </li>
 <li class="li2" id="liID56">
-  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Shaoxingyizhong/Category_56/Index.aspx">先锋故事</a></h4>
+  <h4 class="h2" id="hID56"><a target="_self" class="a2" id="aID56" href="/Category_56/Index.aspx">先锋故事</a></h4>
 </li>
 <li class="li2" id="liID58">
-  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Shaoxingyizhong/Category_58/Index.aspx">课余党校</a></h4>
+  <h4 class="h2" id="hID58"><a target="_self" class="a2" id="aID58" href="/Category_58/Index.aspx">课余党校</a></h4>
 </li>
 <li class="li2 last2" id="liID60">
-  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Shaoxingyizhong/Category_60/Index.aspx">党建网站</a></h4>
+  <h4 class="h2" id="hID60"><a target="_self" class="a2" id="aID60" href="/Category_60/Index.aspx">党建网站</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Shaoxingyizhong/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
+			</ul></li><li class="li1 hasUl1" id="liID6"><h4 class="h1" id="hID6"><a target="_self" class="a1" id="aID6" href="/Category_6/Index.aspx">教师风采</a></h4><ul class="ul1" id="ulID6">
 				<li class="li2 first2" id="liID377">
-  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Shaoxingyizhong/Category_377/Index.aspx">荣誉报道</a></h4>
+  <h4 class="h2" id="hID377"><a target="_self" class="a2" id="aID377" href="/Category_377/Index.aspx">荣誉报道</a></h4>
 </li>
 <li class="li2" id="liID68">
-  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Shaoxingyizhong/Category_68/Index.aspx">正高特级教师</a></h4>
+  <h4 class="h2" id="hID68"><a target="_self" class="a2" id="aID68" href="/Category_68/Index.aspx">正高特级教师</a></h4>
 </li>
 <li class="li2" id="liID69">
-  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Shaoxingyizhong/Category_69/Index.aspx">优秀教师</a></h4>
+  <h4 class="h2" id="hID69"><a target="_self" class="a2" id="aID69" href="/Category_69/Index.aspx">优秀教师</a></h4>
 </li>
 <li class="li2 last2" id="liID71">
-  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Shaoxingyizhong/Category_71/Index.aspx">名师工作室</a></h4>
+  <h4 class="h2" id="hID71"><a target="_self" class="a2" id="aID71" href="/Category_71/Index.aspx">名师工作室</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Shaoxingyizhong/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
+			</ul></li><li class="li1 hasUl1" id="liID385"><h4 class="h1" id="hID385"><a target="_self" class="a1" id="aID385" href="/Category_385/Index.aspx">德育之窗</a></h4><ul class="ul1" id="ulID385">
 				<li class="li2 first2" id="liID381">
-  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Shaoxingyizhong/Category_381/Index.aspx">家校合力</a></h4>
+  <h4 class="h2" id="hID381"><a target="_self" class="a2" id="aID381" href="/Category_381/Index.aspx">家校合力</a></h4>
 </li>
 <li class="li2" id="liID386">
-  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Shaoxingyizhong/Category_386/Index.aspx">德育活动</a></h4>
+  <h4 class="h2" id="hID386"><a target="_self" class="a2" id="aID386" href="/Category_386/Index.aspx">德育活动</a></h4>
 </li>
 <li class="li2" id="liID102">
-  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Shaoxingyizhong/Category_102/Index.aspx">博雅讲座</a></h4>
+  <h4 class="h2" id="hID102"><a target="_self" class="a2" id="aID102" href="/Category_102/Index.aspx">博雅讲座</a></h4>
 </li>
 <li class="li2 last2" id="liID104">
-  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Shaoxingyizhong/Category_104/Index.aspx">学缘心语</a></h4>
+  <h4 class="h2" id="hID104"><a target="_self" class="a2" id="aID104" href="/Category_104/Index.aspx">学缘心语</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Shaoxingyizhong/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
+			</ul></li><li class="li1 hasUl1" id="liID7"><h4 class="h1" id="hID7"><a target="_self" class="a1" id="aID7" href="/Category_7/Index.aspx">学科竞赛</a></h4><ul class="ul1" id="ulID7">
 				<li class="li2 first2" id="liID72">
-  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Shaoxingyizhong/Category_72/Index.aspx">信息学竞赛</a></h4>
+  <h4 class="h2" id="hID72"><a target="_self" class="a2" id="aID72" href="/Category_72/Index.aspx">信息学竞赛</a></h4>
 </li>
 <li class="li2" id="liID73">
-  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Shaoxingyizhong/Category_73/Index.aspx">数学竞赛</a></h4>
+  <h4 class="h2" id="hID73"><a target="_self" class="a2" id="aID73" href="/Category_73/Index.aspx">数学竞赛</a></h4>
 </li>
 <li class="li2" id="liID74">
-  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Shaoxingyizhong/Category_74/Index.aspx">物理竞赛</a></h4>
+  <h4 class="h2" id="hID74"><a target="_self" class="a2" id="aID74" href="/Category_74/Index.aspx">物理竞赛</a></h4>
 </li>
 <li class="li2" id="liID75">
-  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Shaoxingyizhong/Category_75/Index.aspx">化学竞赛</a></h4>
+  <h4 class="h2" id="hID75"><a target="_self" class="a2" id="aID75" href="/Category_75/Index.aspx">化学竞赛</a></h4>
 </li>
 <li class="li2" id="liID76">
-  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Shaoxingyizhong/Category_76/Index.aspx">生物竞赛</a></h4>
+  <h4 class="h2" id="hID76"><a target="_self" class="a2" id="aID76" href="/Category_76/Index.aspx">生物竞赛</a></h4>
 </li>
 <li class="li2" id="liID373">
-  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Shaoxingyizhong/Category_373/Index.aspx">天文竞赛</a></h4>
+  <h4 class="h2" id="hID373"><a target="_self" class="a2" id="aID373" href="/Category_373/Index.aspx">天文竞赛</a></h4>
 </li>
 <li class="li2 last2" id="liID378">
-  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Shaoxingyizhong/Category_378/Index.aspx">其他竞赛</a></h4>
+  <h4 class="h2" id="hID378"><a target="_self" class="a2" id="aID378" href="/Category_378/Index.aspx">其他竞赛</a></h4>
 </li>
-			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Shaoxingyizhong/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
+			</ul></li><li class="li1 hasUl1" id="liID8"><h4 class="h1" id="hID8"><a target="_self" class="a1" id="aID8" href="/Category_8/Index.aspx">教学科研</a></h4><ul class="ul1" id="ulID8">
 				<li class="li2 first2" id="liID77">
-  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Shaoxingyizhong/Category_77/Index.aspx">教研成果</a></h4>
+  <h4 class="h2" id="hID77"><a target="_self" class="a2" id="aID77" href="/Category_77/Index.aspx">教研成果</a></h4>
 </li>
 <li class="li2" id="liID383">
-  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Shaoxingyizhong/Category_383/Index.aspx">教师成长</a></h4>
+  <h4 class="h2" id="hID383"><a target="_self" class="a2" id="aID383" href="/Category_383/Index.aspx">教师成长</a></h4>
 </li>
 <li class="li2" id="liID387">
-  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Shaoxingyizhong/Category_387/Index.aspx">教科动态</a></h4>
+  <h4 class="h2" id="hID387"><a target="_self" class="a2" id="aID387" href="/Category_387/Index.aspx">教科动态</a></h4>
 </li>
 <li class="li2 last2" id="liID380">
-  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Shaoxingyizhong/Category_380/Index.aspx">校际交流</a></h4>
+  <h4 class="h2" id="hID380"><a target="_self" class="a2" id="aID380" href="/Category_380/Index.aspx">校际交流</a></h4>
 </li>
-			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Shaoxingyizhong/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
+			</ul></li><li class="li1 last1 hasUl1" id="liID9"><h4 class="h1" id="hID9"><a target="_self" class="a1" id="aID9" href="/Category_9/Index.aspx">莘莘学子</a></h4><ul class="ul1" id="ulID9">
 				<li class="li2 first2" id="liID98">
-  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Shaoxingyizhong/Category_98/Index.aspx">学生之星</a></h4>
+  <h4 class="h2" id="hID98"><a target="_self" class="a2" id="aID98" href="/Category_98/Index.aspx">学生之星</a></h4>
 </li>
 <li class="li2" id="liID99">
-  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Shaoxingyizhong/Category_99/Index.aspx">团学动态</a></h4>
+  <h4 class="h2" id="hID99"><a target="_self" class="a2" id="aID99" href="/Category_99/Index.aspx">团学动态</a></h4>
 </li>
 <li class="li2" id="liID100">
-  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Shaoxingyizhong/Category_100/Index.aspx">社团风采</a></h4>
+  <h4 class="h2" id="hID100"><a target="_self" class="a2" id="aID100" href="/Category_100/Index.aspx">社团风采</a></h4>
 </li>
 <li class="li2" id="liID103">
-  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Shaoxingyizhong/Category_103/Index.aspx">艺术教育</a></h4>
+  <h4 class="h2" id="hID103"><a target="_self" class="a2" id="aID103" href="/Category_103/Index.aspx">艺术教育</a></h4>
 </li>
 <li class="li2" id="liID105">
-  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Shaoxingyizhong/Category_105/Index.aspx">校园安全</a></h4>
+  <h4 class="h2" id="hID105"><a target="_self" class="a2" id="aID105" href="/Category_105/Index.aspx">校园安全</a></h4>
 </li>
 <li class="li2" id="liID368">
-  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Shaoxingyizhong/Category_368/Index.aspx">实践学分</a></h4>
+  <h4 class="h2" id="hID368"><a target="_self" class="a2" id="aID368" href="/Category_368/Index.aspx">实践学分</a></h4>
 </li>
 <li class="li2" id="liID369">
-  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Shaoxingyizhong/Category_369/Index.aspx">饮水思源</a></h4>
+  <h4 class="h2" id="hID369"><a target="_self" class="a2" id="aID369" href="/Category_369/Index.aspx">饮水思源</a></h4>
 </li>
 <li class="li2" id="liID388">
-  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Shaoxingyizhong/Category_388/Index.aspx">志愿活动</a></h4>
+  <h4 class="h2" id="hID388"><a target="_self" class="a2" id="aID388" href="/Category_388/Index.aspx">志愿活动</a></h4>
 </li>
 <li class="li2 last2" id="liID382">
-  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Shaoxingyizhong/Category_382/Index.aspx">校园活动</a></h4>
+  <h4 class="h2" id="hID382"><a target="_self" class="a2" id="aID382" href="/Category_382/Index.aspx">校园活动</a></h4>
 </li>
 			</ul></li></ul><script type="text/javascript">
 			jQuery(function($){
@@ -341,7 +341,7 @@ function GetUserInfo1(response){
 
 
     <div class="banner">        
-        <a href="" style="background:url(/Shaoxingyizhong/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
+        <a href="" style="background:url(/UploadFiles/202206251242160350.jpg) no-repeat center;"></a>
     </div>
 
 <div id="content">
@@ -349,12 +349,12 @@ function GetUserInfo1(response){
         <div class="side">
             <div id="sideMenu">
         <div class="hd">
-        <h3><a href="/Shaoxingyizhong/Category_21/Index.aspx">一中新闻</a></h3>
+        <h3><a href="/Category_21/Index.aspx">一中新闻</a></h3>
       </div>
 	<div class="bd">
 		<ul class="">
-			<li class="li1 first on"><a href="/Shaoxingyizhong/Category_37/Index.aspx">学校新闻</a></li>
-<li class="li2 last"><a href="/Shaoxingyizhong/Category_38/Index.aspx">媒体一中</a></li>
+			<li class="li1 first on"><a href="/Category_37/Index.aspx">学校新闻</a></li>
+<li class="li2 last"><a href="/Category_38/Index.aspx">媒体一中</a></li>
 		</ul>
 	</div>
 </div>
@@ -369,7 +369,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Shaoxingyizhong/Item/22098.aspx" target="_blank" title="标题：秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2025年秋季田径运动会开幕式隆重举行&#xD;点击数：189&#xD;发表时间：2025年10月20日">秋光潋滟迎盛会，青春飞扬启新程  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Shaoxingyizhong/Item/23489.aspx" target="_blank" title="标题：守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团开展师德师风专题培训&#xD;点击数：67&#xD;发表时间：2026年07月08日">守师德初心，存敬畏底线，育时代新人 —绍兴一中教育集团…</a><span class="dateRight">[07-08]</span></li><li><a href="/Shaoxingyizhong/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Shaoxingyizhong/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：163&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li><li><a href="/Shaoxingyizhong/Item/23383.aspx" target="_blank" title="标题：与心相逢，向阳生长｜我校举行心理健康月系列活动&#xD;点击数：86&#xD;发表时间：2026年06月15日">与心相逢，向阳生长｜我校举行心理健康月系列活动</a><span class="dateRight">[06-15]</span></li><li><a href="/Shaoxingyizhong/Item/23043.aspx" target="_blank" title="标题：夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷&#xD;点击数：76&#xD;发表时间：2026年04月15日">夺冠时刻！我校排球队用坚持与热爱，绘就冠军画卷</a><span class="dateRight">[04-15]</span></li><li class="last"><a href="/Shaoxingyizhong/Item/23042.aspx" target="_blank" title="标题：榜样力量｜十佳博雅少年风采录（三）&#xD;点击数：187&#xD;发表时间：2026年04月15日">榜样力量｜十佳博雅少年风采录（三）</a><span class="dateRight">[04-15]</span></li>
+            <li class="first"><a href="/Item/23820.aspx" target="_blank" title="标题：榜样领航，奋楫争先 | 绍兴一中创新班学部举行期中学生大会&#xD;点击数：88&#xD;发表时间：2026年10月20日">榜样领航，奋楫争先 | 绍兴一中创新班学部举行期中学生大会</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23756.aspx" target="_blank" title="标题：金秋赛场竞风流，运动精神永相传  ——我校2026年运动会圆满落幕&#xD;点击数：135&#xD;发表时间：2026年10月07日">金秋赛场竞风流，运动精神永相传  ——我校2026年运动会…</a><span class="dateRight">[10-07]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23819.aspx" target="_blank" title="标题：博雅启思促成长，养新笃行育芳华  ——绍兴一中教育集团2026学年“博雅·养新”班主任成长工作坊开班仪式暨专题培训&#xD;点击数：77&#xD;发表时间：2026年10月20日">博雅启思促成长，养新笃行育芳华  ——绍兴一中教育集团2…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23736.aspx" target="_blank" title="标题：无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教室”建设活动&#xD;点击数：48&#xD;发表时间：2026年09月28日">无声方寸境，有声育人情  ——绍兴一中教育集团“美丽教…</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：31&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li><li class="last"><a href="/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：165&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li>
           
                     </ul>
                 </div>
@@ -379,13 +379,13 @@ function GetUserInfo1(response){
         <div class="mainContent">
             <div class="mainBox">
                 <div class="mHd">
-                    <div class="path"><span>当前位置：</span><a href="/Shaoxingyizhong/">首页</a> &gt; 
+                    <div class="path"><span>当前位置：</span><a href="/">首页</a> &gt; 
     
     
     
-    <a href="/Shaoxingyizhong/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
-    <a href="/Shaoxingyizhong/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
-    <a href="/Shaoxingyizhong/Category_37/Index.aspx" target="_self">学校新闻</a></div>
+    <a href="/Category_1/Index.aspx" target="_self">新闻中心</a>&gt;
+    <a href="/Category_21/Index.aspx" target="_self">一中新闻</a>&gt;
+    <a href="/Category_37/Index.aspx" target="_self">学校新闻</a></div>
                     <h3>学校新闻</h3>
                 </div>
                 <div class="mBd">
@@ -400,7 +400,7 @@ function GetUserInfo1(response){
                         $(".Subheading span:empty").parent().hide()
                         </script>
                         <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2023年09月18日</span> <span>点击数：
-    <script language="JavaScript" type="text/JavaScript" src="/Shaoxingyizhong/Common/GetHits.aspx?id=18435"></script>
+    <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=18435"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
 $(document).ready(function()
@@ -416,7 +416,7 @@ $(document).ready(function()
                         <div class="conTxt"> 
       
      <p style="font-family: 宋体;font-size: 18pt;line-height: 150.0%;margin-bottom: .001pt;margin-left: 0;margin-right: 0;margin-top: 0;text-align: center;">
-</p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">2023年9月16日上午，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">我校1985届校友、世界著名物理学家</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">叶军院士回访母校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，并捐资一百万元人民币</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">设立</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">“叶军</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">奖学金</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">”，相关捐赠仪式</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在我校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">图书馆报告厅</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">隆重举行。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴市政协副主席徐泳</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，市委副秘书长、教育局党委书记、局长姚国海，市委</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">统战部常务副部长</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">黄浙平，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">市委统战部副部长、市侨联党组书记、副主席金海燕，绍兴市科协副主席袁承华，绍兴科技馆副馆长张寅刚</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，我校老领导</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">朱雯</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校长</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，叶军</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">高中时的班主任蒋为煐老师及部分任课</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">老师</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">和班级</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">同学，叶军父母亲友</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">等出席了本次仪式；</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">学校领导班子，相关处室成员</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">及在校师生代表近300人参加活动</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">捐赠仪式上，</span><span style="color: black;font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴市政协副主席徐泳</span><span style="color: black;font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在讲话中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">介绍了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">近年来</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴教育</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">发展改革</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">方面</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的突出成绩</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">并</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">对叶军院士情系桑梓</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">感恩母校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">设立奖学金</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的壮举</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">表示</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">诚挚的谢意</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">他希望</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">一中学子向叶军院士学习，用实际行动回馈母校，回</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">报</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">社会，担负起科技报国的使命</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">叶军院士</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">致母校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">感言</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">回忆了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">他</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">一中的学习</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">生活</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的美好</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">时光，表达了对一中老师</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">们</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">谆谆教导的感恩之心。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">他</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">从科学家的角度</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">阐述了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">时间的意义，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">谈了他对</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">人生价值</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的感悟</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">并寄语</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">一中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的学弟学妹们“在自己的时间里潜心专注地做事，可以让时间变慢”，“</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">把自己的时间奉献给</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">周围</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的人，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">可以让</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">你的生活更</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">有意义”</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校党委书记、校长</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">王琛</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">代表全校师生向各位领导和来宾表示热烈欢迎和衷心感谢。他向叶军院士报告了我校近年来在科技拔尖人才培养上取得的丰硕成果，并表示此次叶军院士回访母校并设立“叶军奖学金”必将极大激发在校师生积极进取的动力，进一步推动我校科技人才的创新培养，带动物理学科竞赛的再突破再提升</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">王琛校长与叶军院士签署捐赠协议</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">随后，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">王琛</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校长为叶军院士颁发</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">捐赠证书</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，并邀请叶军院士为母校绍兴一中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">题词寄语</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在校学生代表向叶军院士敬献鲜花。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">捐赠仪式前，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">叶军</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">院士和他的1985届高三（3）班的老师、同学们</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">参</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">观了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校园，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">并在养新书藏</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">图书馆</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">教工书吧座谈交流。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">师生相会，难忘师者恩德；同学聚首，共话同窗情谊。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">本次捐赠活动见证了校友们</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">浓浓的“一中情怀”。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">学校将充分用好</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">奖学金</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，加强创新人才培养，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">加快</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">学科建设，争创科技高中更高水平的发展。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;"><strong>人物名片：</strong></span></p><p style="font-family: 楷体; font-size: 14pt; line-height: 25pt; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军院士，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">世界著名</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">物理学家，1985年毕业于绍兴市第一中学，1989年获得上海交通大学应用物理学学士学位</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">1991年获得美国新墨西哥大学物理学硕士学位</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">1997年获得美国科罗拉多大学物理学博士学位</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">1999年起执教于科罗拉多大学物理系，2009年任正教授；2011年当选为美国国家科学院院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">2017年11月当选中国科学院外籍院士。</span></p><p style="font-family: 楷体; font-size: 14pt; line-height: 25pt; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">师从</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">著名物理学家、诺贝尔物理学奖获得者约翰·霍尔，主要从事超冷原子-分子、精密测量、多体量子物理、激光技术等领域研究。叶军</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">获得2020年度“</span><a href="https://baike.baidu.com/item/%E5%A2%A8%E5%AD%90%E9%87%8F%E5%AD%90%E5%A5%96/22767553?fromModule=lemma_inlink"><span style="color: black;font-size: 14pt;margin: 0;padding: 0;"><span style="color: black;font-size: 14pt;margin: 0;padding: 0;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">墨子量子奖</span><span style="color: black;font-size: 14pt;margin: 0;padding: 0;"></span></span></span></a><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">”</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">是当年获得此项殊荣的</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">全球</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">三位科学家之一，也是该奖项设立以来获奖的首位华人科学家。</span></p><p style="font-family: 楷体; font-size: 14pt; line-height: 25pt; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">“喝水不忘掘井人”，不忘初心，情系桑梓，感恩母校</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">为报答母校的培育之恩</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">将</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">获得“墨子量子奖”的奖金</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">100万元人民币</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">全部捐赠给母校</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，设</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">立</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">“</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军奖学金</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">”</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">以</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">激励母校的优秀学子们勇攀物理学高峰，努力探索与追寻自然科学之光。</span></p><p style="font-family: Calibri; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-size: 14pt;margin: 0;padding: 0;"> </span></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948544898.jpg" style="max-width: 100%; " title="202309180948544898.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948544827.jpg" style="max-width: 100%; " title="202309180948544827.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948546614.jpg" style="max-width: 100%; " title="202309180948546614.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948544668.jpg" style="max-width: 100%; " title="202309180948544668.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948547161.jpg" style="max-width: 100%; " title="202309180948547161.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948552047.jpg" style="max-width: 100%; " title="202309180948552047.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948554283.jpg" style="max-width: 100%; " title="202309180948554283.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948551396.jpg" style="max-width: 100%; " title="202309180948551396.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948556735.jpg" style="max-width: 100%; " title="202309180948556735.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948559965.jpg" style="max-width: 100%; " title="202309180948559965.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948553692.jpg" style="max-width: 100%; " title="202309180948553692.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948556437.jpg" style="max-width: 100%; " title="202309180948556437.jpg" /></p><p><img src="/Shaoxingyizhong/UploadFiles/xwzx/2023/9/202309180948552201.jpg" style="max-width: 100%; " title="202309180948552201.jpg" /></p><p style="font-family: Calibri; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-size: 14pt;margin: 0;padding: 0;"></span>
+</p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">2023年9月16日上午，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">我校1985届校友、世界著名物理学家</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">叶军院士回访母校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，并捐资一百万元人民币</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">设立</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">“叶军</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">奖学金</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">”，相关捐赠仪式</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在我校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">图书馆报告厅</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">隆重举行。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴市政协副主席徐泳</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，市委副秘书长、教育局党委书记、局长姚国海，市委</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">统战部常务副部长</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">黄浙平，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">市委统战部副部长、市侨联党组书记、副主席金海燕，绍兴市科协副主席袁承华，绍兴科技馆副馆长张寅刚</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，我校老领导</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">朱雯</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校长</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，叶军</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">高中时的班主任蒋为煐老师及部分任课</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">老师</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">和班级</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">同学，叶军父母亲友</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">等出席了本次仪式；</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">学校领导班子，相关处室成员</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">及在校师生代表近300人参加活动</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">捐赠仪式上，</span><span style="color: black;font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴市政协副主席徐泳</span><span style="color: black;font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在讲话中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">介绍了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">近年来</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴教育</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">发展改革</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">方面</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的突出成绩</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">并</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">对叶军院士情系桑梓</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">感恩母校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">设立奖学金</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的壮举</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">表示</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">诚挚的谢意</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">他希望</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">一中学子向叶军院士学习，用实际行动回馈母校，回</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">报</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">社会，担负起科技报国的使命</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">叶军院士</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">致母校</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">感言</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">回忆了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">他</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">绍兴</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">一中的学习</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">、</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">生活</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的美好</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">时光，表达了对一中老师</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">们</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">谆谆教导的感恩之心。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">他</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">从科学家的角度</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">阐述了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">时间的意义，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">谈了他对</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">人生价值</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的感悟</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">并寄语</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">一中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的学弟学妹们“在自己的时间里潜心专注地做事，可以让时间变慢”，“</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">把自己的时间奉献给</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">周围</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的人，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">可以让</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">你的生活更</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">有意义”</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校党委书记、校长</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">王琛</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">代表全校师生向各位领导和来宾表示热烈欢迎和衷心感谢。他向叶军院士报告了我校近年来在科技拔尖人才培养上取得的丰硕成果，并表示此次叶军院士回访母校并设立“叶军奖学金”必将极大激发在校师生积极进取的动力，进一步推动我校科技人才的创新培养，带动物理学科竞赛的再突破再提升</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">王琛校长与叶军院士签署捐赠协议</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">随后，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">王琛</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校长为叶军院士颁发</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">捐赠证书</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，并邀请叶军院士为母校绍兴一中</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">题词寄语</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">在校学生代表向叶军院士敬献鲜花。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">捐赠仪式前，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">叶军</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">院士和他的1985届高三（3）班的老师、同学们</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">参</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">观了</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">校园，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">并在养新书藏</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">图书馆</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">的</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">教工书吧座谈交流。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">师生相会，难忘师者恩德；同学聚首，共话同窗情谊。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">本次捐赠活动见证了校友们</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">浓浓的“一中情怀”。</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">学校将充分用好</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">奖学金</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">，加强创新人才培养，</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">加快</span><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;">学科建设，争创科技高中更高水平的发展。</span></p><p style="font-family: 宋体; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-family: 宋体;font-size: 14pt;margin: 0;padding: 0;"><strong>人物名片：</strong></span></p><p style="font-family: 楷体; font-size: 14pt; line-height: 25pt; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军院士，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">世界著名</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">物理学家，1985年毕业于绍兴市第一中学，1989年获得上海交通大学应用物理学学士学位</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">1991年获得美国新墨西哥大学物理学硕士学位</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">1997年获得美国科罗拉多大学物理学博士学位</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">1999年起执教于科罗拉多大学物理系，2009年任正教授；2011年当选为美国国家科学院院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">2017年11月当选中国科学院外籍院士。</span></p><p style="font-family: 楷体; font-size: 14pt; line-height: 25pt; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">师从</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">著名物理学家、诺贝尔物理学奖获得者约翰·霍尔，主要从事超冷原子-分子、精密测量、多体量子物理、激光技术等领域研究。叶军</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">获得2020年度“</span><a href="https://baike.baidu.com/item/%E5%A2%A8%E5%AD%90%E9%87%8F%E5%AD%90%E5%A5%96/22767553?fromModule=lemma_inlink"><span style="color: black;font-size: 14pt;margin: 0;padding: 0;"><span style="color: black;font-size: 14pt;margin: 0;padding: 0;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">墨子量子奖</span><span style="color: black;font-size: 14pt;margin: 0;padding: 0;"></span></span></span></a><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">”</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">是当年获得此项殊荣的</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">全球</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">三位科学家之一，也是该奖项设立以来获奖的首位华人科学家。</span></p><p style="font-family: 楷体; font-size: 14pt; line-height: 25pt; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">“喝水不忘掘井人”，不忘初心，情系桑梓，感恩母校</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">。</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">为报答母校的培育之恩</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军院士</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">将</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">获得“墨子量子奖”的奖金</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">100万元人民币</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">全部捐赠给母校</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，设</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">立</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">“</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">叶军奖学金</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">”</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">，</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">以</span><span style="color: black;font-family: 楷体;font-size: 14pt;margin: 0;padding: 0;">激励母校的优秀学子们勇攀物理学高峰，努力探索与追寻自然科学之光。</span></p><p style="font-family: Calibri; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-size: 14pt;margin: 0;padding: 0;"> </span></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948544898.jpg" style="max-width: 100%; " title="202309180948544898.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948544827.jpg" style="max-width: 100%; " title="202309180948544827.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948546614.jpg" style="max-width: 100%; " title="202309180948546614.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948544668.jpg" style="max-width: 100%; " title="202309180948544668.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948547161.jpg" style="max-width: 100%; " title="202309180948547161.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948552047.jpg" style="max-width: 100%; " title="202309180948552047.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948554283.jpg" style="max-width: 100%; " title="202309180948554283.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948551396.jpg" style="max-width: 100%; " title="202309180948551396.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948556735.jpg" style="max-width: 100%; " title="202309180948556735.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948559965.jpg" style="max-width: 100%; " title="202309180948559965.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948553692.jpg" style="max-width: 100%; " title="202309180948553692.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948556437.jpg" style="max-width: 100%; " title="202309180948556437.jpg" /></p><p><img src="/UploadFiles/xwzx/2023/9/202309180948552201.jpg" style="max-width: 100%; " title="202309180948552201.jpg" /></p><p style="font-family: Calibri; font-size: 14pt; line-height: 150%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-size: 14pt;margin: 0;padding: 0;"></span>
 </p><p style="font-family: Calibri; font-size: 10.5pt; line-height: 108%; margin: 0px 0px 0.001pt; text-align: left; text-indent: 2em;"><span style="font-size: 10.5pt;margin: 0;padding: 0;"> </span></p>
     
     </div><!--endprint-->
@@ -426,8 +426,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Shaoxingyizhong/Item/18392.aspx" target="_self" title="标题：今天，火炬传递！一起来看看与杭州亚运会关联的“一中身影”&#xD;点击数：283&#xD;发表时间：23年09月12日">今天，火炬传递！一起来看看与杭州亚运会关联的“一中身影”</a>[ 09-12 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Shaoxingyizhong/Item/18475.aspx" target="_self" title="标题：我校虞金龙老师做客直播间谈高中数学学习方法&#xD;点击数：278&#xD;发表时间：23年09月21日">我校虞金龙老师做客直播间谈高中数学学习方法</a>[ 09-21 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/18392.aspx" target="_self" title="标题：今天，火炬传递！一起来看看与杭州亚运会关联的“一中身影”&#xD;点击数：283&#xD;发表时间：23年09月12日">今天，火炬传递！一起来看看与杭州亚运会关联的“一中身影”</a>[ 09-12 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/18475.aspx" target="_self" title="标题：我校虞金龙老师做客直播间谈高中数学学习方法&#xD;点击数：278&#xD;发表时间：23年09月21日">我校虞金龙老师做客直播间谈高中数学学习方法</a>[ 09-21 ]</div>
                         </div>
                     </div>
 
@@ -444,25 +444,25 @@ $(document).ready(function()
 <div id="footer">
   <div class="siteWidth">
 
-      <div class="logo"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/footlogo.png" /></div>
+      <div class="logo"><img src="/Template/Default/Skin/erms/img/footlogo.png" /></div>
 
       <ul class="footerNav">
-        <li class="li1 first"><a href="/Shaoxingyizhong/Category_13/Index_1.aspx">网站地图</a></li>
+        <li class="li1 first"><a href="/Category_13/Index_1.aspx">网站地图</a></li>
 <li class="spe">|</li>
 <li class="li2"><a target="_blank" href="http://10.176.17.2:8080/">怀旧网站</a></li>
 <li class="spe">|</li>
 <li class="li3"><a target="_blank" href="http://www.sxyz.net/">学校外网</a></li>
 <li class="spe">|</li>
-<li class="li4"><a href="/Shaoxingyizhong/Category_109/Index.aspx">校长信箱</a></li>
+<li class="li4"><a href="/Category_109/Index.aspx">校长信箱</a></li>
 <li class="spe">|</li>
-<li class="li5 last"><a href="/Shaoxingyizhong/Category_110/Index.aspx">反馈意见</a></li>
+<li class="li5 last"><a href="/Category_110/Index.aspx">反馈意见</a></li>
       </ul>
 
-      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Shaoxingyizhong/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
+      <div class="copyRight"><p>绍兴市第一中学 版权所有 Copyright © SXYZ.NET All Rights Reserved.<br style="color: rgb(102, 102, 102); font-family: Arial, 宋体; font-size: 13.3333px; white-space: normal; background-color: rgb(255, 255, 255);">地址：绍兴市站前大道1898号 电话&amp;传真：0575-85173853</p><p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33060202000394" target="_blank"><img src="/Template/Default/Skin/images/ga.png" >浙公网安备 33060202000394号</a> ICP证：浙ICP备14042003号-1</p><p><br></p></div>
 
-      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Shaoxingyizhong/Template/Default/Skin/erms/img/blue.png" /></a>
-      <img class="wx" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/weixin.png" />
-      <img class="xcxewm" src="/Shaoxingyizhong/Template/Default/Skin/erms/img/xcxewm.png" />
+      <a class="dw" target="_blank" href="http://bszs.conac.cn/sitename?method=show&id=06F2CAD4909B067AE053012819AC8596"><img src="/Template/Default/Skin/erms/img/blue.png" /></a>
+      <img class="wx" src="/Template/Default/Skin/erms/img/weixin.png" />
+      <img class="xcxewm" src="/Template/Default/Skin/erms/img/xcxewm.png" />
   </div>  
 </div>
 <!-- footer E -->

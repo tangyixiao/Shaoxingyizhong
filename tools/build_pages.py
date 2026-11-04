@@ -10,6 +10,7 @@ import shutil
 from pathlib import Path
 
 try:
+    from tools.static_search import build_search_assets, rewrite_search_urls
     from tools.attachment_routing import (
         RouteConfig,
         RouteError,
@@ -17,6 +18,7 @@ try:
         rewrite_download_urls,
     )
 except ModuleNotFoundError:  # Support direct execution as tools/build_pages.py.
+    from static_search import build_search_assets, rewrite_search_urls
     from attachment_routing import (
         RouteConfig,
         RouteError,
@@ -55,20 +57,6 @@ ICON_LINK_RE = re.compile(
     r"<link\b[^>]*\brel\s*=\s*[\"'](?:shortcut\s+)?icon[\"'][^>]*>",
     re.IGNORECASE,
 )
-VIEWPORT_RE = re.compile(
-    r"<meta\b[^>]*\bname\s*=\s*[\"']viewport[\"'][^>]*>",
-    re.IGNORECASE,
-)
-MOBILE_CSS_RE = re.compile(
-    r"<link\b[^>]*\bhref\s*=\s*[\"'][^\"']*Mobile\.css[\"'][^>]*>",
-    re.IGNORECASE,
-)
-# Mobile adaptation tags injected before ``</head>`` on every rendered HTML
-# page (never on CSS text files, which share TEXT_SUFFIXES with HTML).
-HTML_SUFFIXES = {".aspx", ".html", ".htm"}
-MOBILE_CSS_PATH = "Template/Default/Skin/erms/css/mobile.css"
-MOBILE_JS_PATH = "Template/Default/Skin/erms/js/mobile.js"
-HEAD_CLOSE_RE = re.compile(r"</head\s*>", re.IGNORECASE)
 
 
 def rewrite_text(text: str, base_path: str) -> str:
@@ -87,6 +75,7 @@ def rewrite_text(text: str, base_path: str) -> str:
     text, _ = ROOT_URL_RE.subn(
         lambda match: match.group("prefix") + base + match.group("path"), text
     )
+    text = rewrite_search_urls(text, base_path)
     return ASPX_RE.sub(".html", text)
 
 
@@ -107,25 +96,28 @@ def add_favicon_link(text: str, base_path: str) -> str:
     )
 
 
+MOBILE_CSS_PATH = "Template/Default/Skin/erms/css/mobile.css"
+MOBILE_JS_PATH = "Template/Default/Skin/erms/js/mobile.js"
+
+
 def add_mobile_tags(text: str, base_path: str) -> str:
-    """Inject viewport meta and the mobile CSS/JS bundle before ``</head>``."""
-    match = HEAD_CLOSE_RE.search(text)
-    if match is None:
+    """Add missing mobile assets independently, preserving existing viewport settings."""
+    tags = []
+    if not re.search(r'<meta\b[^>]*\bname\s*=\s*["\']viewport["\']', text, re.I):
+        tags.append('<meta name="viewport" content="width=device-width, initial-scale=1">')
+    base = '/' + base_path.strip('/') + '/' if base_path.strip('/') else '/'
+    if not re.search(r'<link\b[^>]*\b(?:href)\s*=\s*["\'][^"\']*/mobile\.css(?:[?#][^"\']*)?["\']', text, re.I):
+        tags.append(f'<link rel="stylesheet" type="text/css" href="{base}{MOBILE_CSS_PATH}">')
+    if not re.search(r'<script\b[^>]*\bsrc\s*=\s*["\'][^"\']*/mobile\.js(?:[?#][^"\']*)?["\']', text, re.I):
+        tags.append(f'<script type="text/javascript" src="{base}{MOBILE_JS_PATH}"></script>')
+    if not tags:
         return text
-    if VIEWPORT_RE.search(text) or MOBILE_CSS_RE.search(text):
-        return text
-    base = "/" + base_path.strip("/") + "/"
-    tags = (
-        '<meta name="viewport" content="width=device-width, initial-scale=1">',
-        f'<link rel="stylesheet" type="text/css" href="{base}{MOBILE_CSS_PATH}">',
-        f'<script type="text/javascript" src="{base}{MOBILE_JS_PATH}"></script>',
-    )
-    injection = "\n    " + "\n    ".join(tags) + "\n"
-    return text[: match.start()] + injection + text[match.start() :]
+    return re.sub(r'</head\s*>', lambda m: '\n' + '\n'.join(tags) + '\n' + m.group(), text, count=1, flags=re.I)
 
 
 def should_skip(relative: Path) -> bool:
-    return any(part in EXCLUDED_DIRS for part in relative.parts)
+    excluded = EXCLUDED_DIRS - {"UploadFiles"} if relative.parts[:1] == ("downloads",) else EXCLUDED_DIRS
+    return any(part in excluded for part in relative.parts)
 
 
 def is_same_file(left: Path, right: Path) -> bool:
@@ -166,9 +158,7 @@ def render_text_file(
         unresolved.update(download_unresolved)
     rendered = rewrite_text(text, base_path)
     rendered = add_favicon_link(rendered, base_path)
-    if path.suffix.lower() in HTML_SUFFIXES:
-        # Only true HTML pages take head tags; CSS files sharing
-        # TEXT_SUFFIXES must stay plain text.
+    if path.suffix.lower() in {".aspx", ".html", ".htm"}:
         rendered = add_mobile_tags(rendered, base_path)
     return rendered, unresolved
 
@@ -260,6 +250,9 @@ def build_site(
         if fail_on_unresolved:
             raise RouteError(message)
         print(f"warning: {message}; see attachment-errors.json")
+
+    if (source / "search.aspx").is_file():
+        build_search_assets(source, output, base_path)
 
     return {"copied": copied, "converted_aspx": converted, "skipped": skipped}
 

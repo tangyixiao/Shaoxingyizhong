@@ -30,8 +30,7 @@
  * ══ 行为边界 ════════════════════════════════════════════════════════════
  *  · 仅 (max-width:1199px) 生效；桌面宽度所有增强函数直接 return，不改 DOM。
  *  · 不劫持浏览器返回、不用 history.pushState、不注册 service worker。
- *  · 不拦截任何链接默认跳转（父栏目文字=跳转）；仅两类搜索提交被拦截并就地提示
- *    （静态归档无检索后端：页头 /search/s.aspx 不存在，栏目 /search.aspx 为静态快照）。
+ *  · 保留现有站内搜索和所有链接跳转行为。
  *  · 原 #mainNav 的 jQuery hover 脚本保留不动（触屏 hover 无害）。
  *  · 幂等：<html> 与各增强元素均用 data-m-mobile 标记，重复执行不重复注入。
  */
@@ -137,78 +136,6 @@
         }
     }
 
-    /* ── 2) 搜索拦截（静态归档无检索后端：不跳往已知缺失地址，就地提示）。
-          页头 OnSearchCheckAndSubmit → /search/s.aspx（归档不存在）；
-          栏目 OnSearchCheckAndSubmit2  → /search.aspx?...（search.html 为静态快照）。
-          原函数是 body 内联 function 声明（晚于本脚本执行），故在 DOMContentLoaded 后
-          覆盖 window.OnSearchCheckAndSubmit / window.OnSearchCheckAndSubmit2：
-          onclick 属性与回车 keydown 都在调用时解析全局名，均命中新函数；
-          jQuery useKeypressSubmit(#keyword_PowerEasy→#Submit) 亦经此路径。
-          桌面宽度下调用回原函数，行为不变。 ── */
-    var NOTICE_TEXT = '归档版暂不支持关键词检索，请通过栏目浏览';
-
-    function showNotice(host, text) {
-        if (!host) { return; }
-        var node = firstByClass(host, 'div', 'm-search-notice');
-        if (!node) {
-            node = d.createElement('div');
-            node.className = 'm-search-notice';
-            node.setAttribute('aria-live', 'polite');
-            host.appendChild(node);
-        }
-        setText(node, text);
-        if (node._mTimer) { window.clearTimeout(node._mTimer); }
-        node._mTimer = window.setTimeout(function () {
-            if (node.parentNode) { node.parentNode.removeChild(node); }
-        }, 6000);
-    }
-
-    function interceptSearch(cfg) {
-        var input = d.getElementById(cfg.inputId);
-        if (!input) { return; }
-        if (input.getAttribute('data-m-mobile') !== '1') {
-            input.setAttribute('data-m-mobile', '1');
-            input.removeAttribute('onfocus'); /* 消除聚焦清空，保留输入内容 */
-        }
-        var current = window[cfg.fnName];
-        var original = (current && typeof current === 'function' && !current.__mMobile) ? current : null;
-        function mobileSubmit() {
-            if (!isNarrow()) { if (original) { return original(); } return; }
-            var raw = input.value || '';
-            var v = raw.replace(/^\s+|\s+$/g, '');
-            if (cfg.treatAsEmpty && v === cfg.treatAsEmpty) { v = ''; } /* 页头把提示文字当 value，空态需识别 */
-            if (!v) { window.alert(cfg.emptyAlert); return; }
-            showNotice(cfg.host(), NOTICE_TEXT); /* 非空：不跳转，就地一次性提示 */
-        }
-        mobileSubmit.__mMobile = true;
-        window[cfg.fnName] = mobileSubmit;
-    }
-
-    function initHeaderSearch() {
-        interceptSearch({
-            fnName: 'OnSearchCheckAndSubmit',
-            inputId: 'keyword2',
-            emptyAlert: '请输入关键词',
-            treatAsEmpty: '请输入关键词',
-            host: function () {
-                var input = d.getElementById('keyword2');
-                return (input && ancestorWithClass(input, 's-form')) || d.getElementById('header') || d.body;
-            }
-        });
-    }
-
-    function initColumnSearch() {
-        interceptSearch({
-            fnName: 'OnSearchCheckAndSubmit2',
-            inputId: 'keyword_PowerEasy',
-            emptyAlert: '请填写您想搜索的关键词', /* 沿用原栏目搜索空值文案 */
-            host: function () {
-                var input = d.getElementById('keyword_PowerEasy');
-                return (input && ancestorWithClass(input, 'colSreach')) || d.body;
-            }
-        });
-    }
-
     /* ── 3) 宽表格横滚：外包 .m-table-wrap + 前置 .m-table-hint。
           仅移动 table 节点本身，不改内部结构与合并单元格。 ── */
     function initWideTables() {
@@ -225,8 +152,6 @@
     }
 
     function wrapWideTable(tbl) {
-        if (tbl.getAttribute('data-m-mobile') === '1') { return; }
-        tbl.setAttribute('data-m-mobile', '1');
         var parent = tbl.parentNode;
         if (!parent || parent.nodeType !== 1) { return; }
         if (hasClass(parent, 'm-table-wrap')) { return; } /* 已包裹（幂等） */
@@ -323,8 +248,6 @@
     function initAll() {
         if (!isNarrow()) { return; } /* 1200px 及以上：不改 DOM */
         try { initNav(); } catch (e) { }
-        try { initHeaderSearch(); } catch (e) { }
-        try { initColumnSearch(); } catch (e) { }
         try { initWideTables(); } catch (e) { }
         try { initViewOrigin(); } catch (e) { }
         try { initTopToggle(); } catch (e) { }
@@ -337,10 +260,26 @@
         initAll();
     }
 
-    /* 可选监听：由宽转窄时补跑（全部函数幂等，安全）；转宽不回滚（刷新即原样）。 */
-    function onMqChange() { if (isNarrow()) { initAll(); } }
+    function teardown() {
+        var nodes = d.querySelectorAll('.m-nav-toggle, .m-top-toggle, .m-table-hint, .m-view-origin'), i, node;
+        for (i = nodes.length - 1; i >= 0; i--) { node = nodes[i]; if (node.parentNode) { node.parentNode.removeChild(node); } }
+        nodes = d.querySelectorAll('.m-table-wrap, .m-origin-group');
+        for (i = nodes.length - 1; i >= 0; i--) {
+            node = nodes[i];
+            if (node.parentNode) {
+                while (node.firstChild) { node.parentNode.insertBefore(node.firstChild, node); }
+                node.parentNode.removeChild(node);
+            }
+        }
+        nodes = d.querySelectorAll('.m-open, .m-top-collapsed');
+        for (i = 0; i < nodes.length; i++) { removeClass(nodes[i], 'm-open'); removeClass(nodes[i], 'm-top-collapsed'); }
+        nodes = d.querySelectorAll('img[data-m-mobile]');
+        for (i = 0; i < nodes.length; i++) { nodes[i].removeAttribute('data-m-mobile'); }
+    }
+    function onMqChange() { if (isNarrow()) { initAll(); } else { teardown(); } }
     if (mq) {
         if (mq.addEventListener) { mq.addEventListener('change', onMqChange); }
         else if (mq.addListener) { mq.addListener(onMqChange); }
     }
+    window.addEventListener('resize', function () { if (isNarrow()) { initWideTables(); } });
 }());

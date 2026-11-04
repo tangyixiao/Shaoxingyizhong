@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23553.aspx" target="_blank" title="标题：关于绍兴龙山书院学生奖学金获奖公示&#xD;点击数：201&#xD;发表时间：2026年08月26日">关于绍兴龙山书院学生奖学金获奖公示</a><span class="dateRight">[08-26]</span></li><li><a href="/Item/22753.aspx" target="_blank" title="标题：龙山书院2025学年第一学期“优秀寝室长”表彰通告&#xD;点击数：73&#xD;发表时间：2026年02月02日">龙山书院2025学年第一学期“优秀寝室长”表彰通告</a><span class="dateRight">[02-02]</span></li><li><a href="/Item/23473.aspx" target="_blank" title="标题：高二学生2025学年第二学期综合素质评价等第公示&#xD;点击数：33&#xD;发表时间：2026年07月03日">高二学生2025学年第二学期综合素质评价等第公示</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/23456.aspx" target="_blank" title="标题：2025学年第二学期团支部工作考核结果公示&#xD;点击数：76&#xD;发表时间：2026年07月01日">2025学年第二学期团支部工作考核结果公示</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23422.aspx" target="_blank" title="标题：高一学生2025学年第二学期综合素质评价等第公示&#xD;点击数：74&#xD;发表时间：2026年06月30日">高一学生2025学年第二学期综合素质评价等第公示</a><span class="dateRight">[06-30]</span></li><li><a href="/Item/23471.aspx" target="_blank" title="标题：高二学生2025学年第二学期期末先进名单&#xD;点击数：48&#xD;发表时间：2026年07月03日">高二学生2025学年第二学期期末先进名单</a><span class="dateRight">[07-03]</span></li><li class="last"><a href="/Item/23454.aspx" target="_blank" title="标题：高一学生2025学年第二学期期末先进名单&#xD;点击数：62&#xD;发表时间：2026年06月30日">高一学生2025学年第二学期期末先进名单</a><span class="dateRight">[06-30]</span></li>
+            <li class="first"><a href="/Item/23665.aspx" target="_blank" title="标题：2026 年暑期社会实践活动评比结果公示&#xD;点击数：127&#xD;发表时间：2026年09月16日"><font style="font-weight:bold;font-style:normal;;">2026 年暑期社会实践活动评比结果公示</font></a><span class="dateRight">[09-16]</span></li><li><a href="/Item/23553.aspx" target="_blank" title="标题：关于绍兴龙山书院学生奖学金获奖公示&#xD;点击数：214&#xD;发表时间：2026年08月26日">关于绍兴龙山书院学生奖学金获奖公示</a><span class="dateRight">[08-26]</span></li><li><a href="/Item/23473.aspx" target="_blank" title="标题：高二学生2025学年第二学期综合素质评价等第公示&#xD;点击数：36&#xD;发表时间：2026年07月03日">高二学生2025学年第二学期综合素质评价等第公示</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/23471.aspx" target="_blank" title="标题：高二学生2025学年第二学期期末先进名单&#xD;点击数：49&#xD;发表时间：2026年07月03日">高二学生2025学年第二学期期末先进名单</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/23456.aspx" target="_blank" title="标题：2025学年第二学期团支部工作考核结果公示&#xD;点击数：77&#xD;发表时间：2026年07月01日">2025学年第二学期团支部工作考核结果公示</a><span class="dateRight">[07-01]</span></li><li><a href="/Item/23454.aspx" target="_blank" title="标题：高一学生2025学年第二学期期末先进名单&#xD;点击数：62&#xD;发表时间：2026年06月30日">高一学生2025学年第二学期期末先进名单</a><span class="dateRight">[06-30]</span></li><li class="last"><a href="/Item/23422.aspx" target="_blank" title="标题：高一学生2025学年第二学期综合素质评价等第公示&#xD;点击数：75&#xD;发表时间：2026年06月30日">高一学生2025学年第二学期综合素质评价等第公示</a><span class="dateRight">[06-30]</span></li>
           
                     </ul>
                 </div>
@@ -440,8 +440,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23473.aspx" target="_self" title="标题：高二学生2025学年第二学期综合素质评价等第公示&#xD;点击数：33&#xD;发表时间：26年07月03日">高二学生2025学年第二学期综合素质评价等第公示</a>[ 07-03 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23473.aspx" target="_self" title="标题：高二学生2025学年第二学期综合素质评价等第公示&#xD;点击数：36&#xD;发表时间：26年07月03日">高二学生2025学年第二学期综合素质评价等第公示</a>[ 07-03 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23665.aspx" target="_self" title="标题：2026 年暑期社会实践活动评比结果公示&#xD;点击数：127&#xD;发表时间：26年09月16日">2026 年暑期社会实践活动评比结果公示</a>[ 09-16 ]</div>
                         </div>
                     </div>
 

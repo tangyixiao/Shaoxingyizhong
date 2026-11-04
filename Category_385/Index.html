@@ -115,7 +115,7 @@ function GetUserInfo1(response){
                     return;
                 } else {
 
-                    window.location = '/search/s.html?c=&f=title&wd=' + escape(keyword2) + '&o='+2;
+                    window.location = '/Shaoxingyizhong/search.html?c=&f=title&wd=' + encodeURIComponent(keyword2) + '&o='+2;
                 }
             }
             </script>
@@ -397,7 +397,7 @@ function GetUserInfo1(response){
    <label> <input id="Submit"  type="button"  class="input_button" value="搜索" name="Button" onclick="OnSearchCheckAndSubmit2();" /></label>
    <label> 
    <!--<input type="button" class="input_button" value="高级搜索" onclick="location.href='/Shaoxingyizhong/search.html?searchtype=2&ModelId=1'" />--></label>
-    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('#Submit'));</script>
+    <script type="text/javascript">$('#keyword_PowerEasy').useKeypressSubmit($('input[onclick^=OnSearchCheckAndSubmit2]'));</script>
     <script language="javascript" type="text/javascript">
     function OnSearchCheckAndSubmit2(){
         var keyword = document.getElementById("keyword_PowerEasy").value;
@@ -410,7 +410,7 @@ function GetUserInfo1(response){
             var fieldOptionSel = document.getElementById("fieldOption");
             var nodeId = nodeSel.options[nodeSel.options.selectedIndex].value;
             var fieldOption = fieldOptionSel.options[fieldOptionSel.options.selectedIndex].value;
-            window.location = "/search.html?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + escape(keyword) + "&fieldOption=" + fieldOption;
+            window.location = "/Shaoxingyizhong/search.html?searchtype=1&ModelId=1&nodeId=" + nodeId + "&Keyword=" + encodeURIComponent(keyword) + "&fieldOption=" + fieldOption;
         }
     }
     </script>
@@ -427,22 +427,22 @@ function GetUserInfo1(response){
 </ul>
 <ul class="slideCon">
   <li>
-    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22802.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@9474cd7c064bf776a1820fda4c8ec28aa777c106/UploadFiles/xwzx/2026/3/202603050912348595_600_340.jpg" alt="求真致远酬壮志，越水扬帆定乾坤——绍兴一中2026届高三首考表彰暨高考百日冲刺动员大会"></a></div>
+    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22802.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@e426feb7bc9d13d330b840001ddd98c00730a04e/UploadFiles/xwzx/2026/3/202603050912348595_600_340.jpg" alt="求真致远酬壮志，越水扬帆定乾坤——绍兴一中2026届高三首考表彰暨高考百日冲刺动员大会"></a></div>
     <p class="pe_u_thumb_title"><a href="/Shaoxingyizhong/Item/22802.html" target="_blank">求真致远酬壮志，越水扬帆定乾坤——绍兴一中2026届高三首考表彰暨高考百日冲刺动员大会</a></p>
     <p class="intro">
 为表彰先进、树立榜样，激励高三学子在高考百日冲刺阶段坚定信念、奋勇拼搏，2月26日下午，我校在图书馆报告厅隆重举行2026届…<a href="/Shaoxingyizhong/Item/22802.html" class="more">[详细]</a></p><span class="bg"></span></li>
   <li>
-    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22690.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@9474cd7c064bf776a1820fda4c8ec28aa777c106/UploadFiles/xwzx/2026/1/202601230832543494_600_340.jpg" alt="十八明志启新责，青春凌云赴鹏程  ——绍兴一中隆重举行 2026 届高三学生十八岁成人仪式"></a></div>
+    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22690.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2026-h1@e426feb7bc9d13d330b840001ddd98c00730a04e/UploadFiles/xwzx/2026/1/202601230832543494_600_340.jpg" alt="十八明志启新责，青春凌云赴鹏程  ——绍兴一中隆重举行 2026 届高三学生十八岁成人仪式"></a></div>
     <p class="pe_u_thumb_title"><a href="/Shaoxingyizhong/Item/22690.html" target="_blank">十八明志启新责，青春凌云赴鹏程  ——绍兴一中隆重举行 2026 届高三学生十八岁成人仪式</a></p>
     <p class="intro">
 青春飞扬，责任启航。2026 年 1 月 17 日下午，绍兴一中锡麟体育馆内暖意融融、气氛庄重，我校2026 届高三学生十八岁成人仪式…<a href="/Shaoxingyizhong/Item/22690.html" class="more">[详细]</a></p><span class="bg"></span></li>
   <li>
-    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22483.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec@af96cf853a4fefc480524d1fcb843876eecff684/UploadFiles/xwzx/2025/12/202512151031083012_600_340.jpg" alt="艺文流光燃青春，博雅争鸣绽韶华  ——绍兴一中教育集团艺术节开幕式暨十佳歌手决赛圆满举行"></a></div>
+    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22483.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec@2042f2dcf82b4124bfb1f142bb8aa61c92038e7f/UploadFiles/xwzx/2025/12/202512151031083012_600_340.jpg" alt="艺文流光燃青春，博雅争鸣绽韶华  ——绍兴一中教育集团艺术节开幕式暨十佳歌手决赛圆满举行"></a></div>
     <p class="pe_u_thumb_title"><a href="/Shaoxingyizhong/Item/22483.html" target="_blank">艺文流光燃青春，博雅争鸣绽韶华  ——绍兴一中教育集团艺术节开幕式暨十佳歌手决赛圆满举行</a></p>
     <p class="intro">
  为丰富学生的校园文化生活，提升提升学生的艺术修养，以艺载德，以艺促智，12月6日，2025年度绍兴一中教育集团文化艺术节开…<a href="/Shaoxingyizhong/Item/22483.html" class="more">[详细]</a></p><span class="bg"></span></li>
   <li>
-    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22432.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec@af96cf853a4fefc480524d1fcb843876eecff684/UploadFiles/xwzx/2025/12/202512080945103508_600_340.png" alt="精准分析明方向，科学规划启新程  ——我校高一、高二年级家长会顺利召开"></a></div>
+    <div class="pe_u_thumb"><a href="/Shaoxingyizhong/Item/22432.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec@2042f2dcf82b4124bfb1f142bb8aa61c92038e7f/UploadFiles/xwzx/2025/12/202512080945103508_600_340.png" alt="精准分析明方向，科学规划启新程  ——我校高一、高二年级家长会顺利召开"></a></div>
     <p class="pe_u_thumb_title"><a href="/Shaoxingyizhong/Item/22432.html" target="_blank">精准分析明方向，科学规划启新程  ——我校高一、高二年级家长会顺利召开</a></p>
     <p class="intro">
 为深化家校协同，凝聚育人合力，助力学生科学规划学业、平稳度过关键学年，11月下旬，我校分年级组织召开家长会。其中，高一…<a href="/Shaoxingyizhong/Item/22432.html" class="more">[详细]</a></p><span class="bg"></span></li>
