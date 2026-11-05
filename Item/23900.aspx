@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta content="绍兴市第一中学" name="Keywords" />
     <meta content="绍兴市第一中学" name="Description" />
-    <title>寻物启事三则（饭卡/冬装校服/政治书）--德育处-绍兴市第一中学</title>
+    <title>寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）--德育处-绍兴市第一中学</title>
     <link href="/Template/Default/Skin/erms/css/module.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/default.css" rel="stylesheet" type="text/css" />
     <link href="/Template/Default/Skin/erms/css/page.css" rel="stylesheet" type="text/css" />
@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23900.aspx" target="_blank" title="标题：寻物启事三则（饭卡/冬装校服/政治书）&#xD;点击数：60&#xD;发表时间：2026年11月04日">寻物启事三则（饭卡/冬装校服/政治书）</a><span class="dateRight">[11-04]</span></li><li><a href="/Item/23899.aspx" target="_blank" title="标题：11.2班级一日考核&#xD;点击数：63&#xD;发表时间：2026年11月03日">11.2班级一日考核</a><span class="dateRight">[11-03]</span></li><li><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：212&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23901.aspx" target="_blank" title="标题：11.3班级一日考核&#xD;点击数：18&#xD;发表时间：2026年11月04日">11.3班级一日考核</a><span class="dateRight">[11-04]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23896.aspx" target="_blank" title="标题：10.31班级一日考核&#xD;点击数：60&#xD;发表时间：2026年11月02日">10.31班级一日考核</a><span class="dateRight">[11-02]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
+            <li class="first"><a href="/Item/23900.aspx" target="_blank" title="标题：寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）&#xD;点击数：105&#xD;发表时间：2026年11月05日">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</a><span class="dateRight">[11-05]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23901.aspx" target="_blank" title="标题：11.3班级一日考核&#xD;点击数：38&#xD;发表时间：2026年11月04日">11.3班级一日考核</a><span class="dateRight">[11-04]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
           
                     </ul>
                 </div>
@@ -405,13 +405,13 @@ function GetUserInfo1(response){
                     <!--startprint-->
                     <div class="printArea">
                         <!-- 标题 -->
-                        <h2 class="title">寻物启事三则（饭卡/冬装校服/政治书）</h2>
+                        <h2 class="title">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</h2>
                         <!-- 副标题 -->
                         <h3 class="subTitle"><span></span></h3>
                         <script>
                         $(".Subheading span:empty").parent().hide()
                         </script>
-                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年11月04日</span> <span>点击数：
+                        <div class="property"> <span>文章来源：</span> <span>作者：</span> <span>发布时间：2026年11月05日</span> <span>点击数：
     <script language="JavaScript" type="text/JavaScript" src="/Common/GetHits.aspx?id=23900"></script>
     次</span>  <span><span id="content_AdminEdit"></span>
 <script type="text/javascript">
@@ -427,9 +427,9 @@ $(document).ready(function()
 </script></span> </div>
                         <div class="conTxt"> 
       
-     <p style="white-space: normal;"><span style="font-size: 18px;">       11月3日，高二（7）班金蒋轩同学在体育馆及沿途或教学楼走廊，不慎遗失一张饭卡。饭卡正面蓝色，背面有体检二维码，外有卡套，无挂绳。请拾到饭卡的同学及时送还至高二（7）班，谢谢！</span></p><p style="white-space: normal;"><span style="font-size: 18px;">       11月4日第四节课，高一（17）班倪晨溢同学在体育馆不慎遗失一件蓝色冬装校服，校服上的校徽号码为11615398。请拾到校服的同学及时送还至高一（17）班，谢谢！</span></p><p style="white-space: normal;"><span style="font-size: 18px;">       11月4日政治考试时，高三（7）班余佳颖同学在1214考场不慎遗失一本政治必修四和政治选修三。请拾到课本的同学及时送还至高三（7）班，谢谢！</span></p><p style="white-space: normal;">
+     <p style="white-space: normal;"><span style="font-size: 18px;">       <span style="font-size: 18px;">11月3日，高三（2）班陈煜坤同学在校园内不慎遗失一张临时饭卡，外有卡套（正面绍兴一中，反面有Hello Knight God&amp;Glory字样<span style="font-size: 18px;">）</span>。请拾到饭卡的同学及时送还至<span style="font-size: 18px;">高三（2）班</span>，谢谢！</span></span></p><p style="white-space: normal;"><span style="font-size: 18px;">       11月3日，高二（7）班金蒋轩同学在体育馆及沿途或教学楼走廊，不慎遗失一张饭卡。饭卡正面蓝色，背面有体检二维码，外有卡套，无挂绳。请拾到饭卡的同学及时送还至高二（7）班，谢谢！</span></p><p style="white-space: normal;"><span style="font-size: 18px;">       11月4日第四节课，高一（17）班倪晨溢同学在体育馆不慎遗失一件蓝色冬装校服，校服上的校徽号码为11615398。请拾到校服的同学及时送还至高一（17）班，谢谢！</span></p><p style="white-space: normal;"><span style="font-size: 18px;">       11月4日政治考试时，高三（7）班余佳颖同学在1214考场不慎遗失一本政治必修四和政治选修三。请拾到课本的同学及时送还至高三（7）班，谢谢！</span></p><p style="white-space: normal;"><span style="font-size: 18px;"><span style="font-size: 18px;">       11月4日上午第5节课，高一（5）班许哲楷同学在体育馆西北角羽毛球网下，不慎遗失一块极光羽毛球拍，球拍整体为蓝色，有绿色手胶。请拾到羽毛球拍的同学及时送还至<span style="font-size: 18px;">高一（5）</span>班，谢谢！</span></span></p><p style="white-space: normal;">
 </p><p style="white-space: normal;">
-</p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                                  </span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                               德育处</span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                   2026年11月04日</span></p><p>
+</p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                                  </span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                         德育处</span></p><p style="white-space: normal;"><span style="font-size: 18px;">                                                                                2026年11月04日</span></p><p>
 </p><p>
 </p>
     
@@ -440,8 +440,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23899.aspx" target="_self" title="标题：11.2班级一日考核&#xD;点击数：63&#xD;发表时间：26年11月03日">11.2班级一日考核</a>[ 11-03 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23901.aspx" target="_self" title="标题：11.3班级一日考核&#xD;点击数：18&#xD;发表时间：26年11月04日">11.3班级一日考核</a>[ 11-04 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23899.aspx" target="_self" title="标题：11.2班级一日考核&#xD;点击数：71&#xD;发表时间：26年11月03日">11.2班级一日考核</a>[ 11-03 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23901.aspx" target="_self" title="标题：11.3班级一日考核&#xD;点击数：38&#xD;发表时间：26年11月04日">11.3班级一日考核</a>[ 11-04 ]</div>
                         </div>
                     </div>
 
