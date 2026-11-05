@@ -350,21 +350,21 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-05</span><a href="/Item/23900.aspx" target="_blank" title="标题：寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）&#xD;点击数：121&#xD;发表时间：2026年11月05日">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</a></li>
+  <li><span class="date">2026-11-05</span><a href="/Item/23900.aspx" target="_blank" title="标题：寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）&#xD;点击数：124&#xD;发表时间：2026年11月05日">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</a></li>
 <li><span class="date">2026-11-04</span><a href="/Item/23902.aspx" target="_blank" title="标题：每周一学（2026年11月2日-11月8日）中国共产党第二十届中央委员会第五次全体会议公报&#xD;点击数：2&#xD;发表时间：2026年11月04日">每周一学（2026年11月2日-11月8日）中国共产党第二十届中央委员会第五次全体会议公报</a></li>
-<li><span class="date">2026-11-04</span><a href="/Item/23901.aspx" target="_blank" title="标题：11.3班级一日考核&#xD;点击数：42&#xD;发表时间：2026年11月04日">11.3班级一日考核</a></li>
-<li><span class="date">2026-11-03</span><a href="/Item/23899.aspx" target="_blank" title="标题：11.2班级一日考核&#xD;点击数：73&#xD;发表时间：2026年11月03日">11.2班级一日考核</a></li>
+<li><span class="date">2026-11-04</span><a href="/Item/23901.aspx" target="_blank" title="标题：11.3班级一日考核&#xD;点击数：44&#xD;发表时间：2026年11月04日">11.3班级一日考核</a></li>
+<li><span class="date">2026-11-03</span><a href="/Item/23899.aspx" target="_blank" title="标题：11.2班级一日考核&#xD;点击数：75&#xD;发表时间：2026年11月03日">11.2班级一日考核</a></li>
 <li><span class="date">2026-11-03</span><a href="/Item/23898.aspx" target="_blank" title="标题：寻物启事（篮球）&#xD;点击数：52&#xD;发表时间：2026年11月03日">寻物启事（篮球）</a></li>
 <li><span class="date">2026-11-03</span><a href="/Item/23897.aspx" target="_blank" title="标题：失物招领（手表）&#xD;点击数：47&#xD;发表时间：2026年11月03日">失物招领（手表）</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23896.aspx" target="_blank" title="标题：10.31班级一日考核&#xD;点击数：62&#xD;发表时间：2026年11月02日">10.31班级一日考核</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23895.aspx" target="_blank" title="标题：10.30班级一日考核&#xD;点击数：50&#xD;发表时间：2026年11月02日">10.30班级一日考核</a></li>
-<li><span class="date">2026-11-02</span><a href="/Item/23894.aspx" target="_blank" title="标题：关于第二十七届团学联干部干事培训会的通知&#xD;点击数：105&#xD;发表时间：2026年11月02日">关于第二十七届团学联干部干事培训会的通知</a></li>
+<li><span class="date">2026-11-02</span><a href="/Item/23894.aspx" target="_blank" title="标题：关于第二十七届团学联干部干事培训会的通知&#xD;点击数：106&#xD;发表时间：2026年11月02日">关于第二十七届团学联干部干事培训会的通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23893.aspx" target="_blank" title="标题：2026年正高级职称评审申报的通知&#xD;点击数：201&#xD;发表时间：2026年11月02日">2026年正高级职称评审申报的通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23892.aspx" target="_blank" title="标题：关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知&#xD;点击数：175&#xD;发表时间：2026年11月02日">关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：234&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23889.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：45&#xD;发表时间：2026年11月02日">大扫除通知</a></li>
-<li><span class="date">2026-11-02</span><a href="/Item/23888.aspx" target="_blank" title="标题：市田径比赛报名通知&#xD;点击数：125&#xD;发表时间：2026年11月02日">市田径比赛报名通知</a></li>
-<li><span class="date">2026-11-02</span><a href="/Item/23887.aspx" target="_blank" title="标题：期中考试考风考纪要求&#xD;点击数：125&#xD;发表时间：2026年11月02日">期中考试考风考纪要求</a></li>
+<li><span class="date">2026-11-02</span><a href="/Item/23888.aspx" target="_blank" title="标题：市田径比赛报名通知&#xD;点击数：126&#xD;发表时间：2026年11月02日">市田径比赛报名通知</a></li>
+<li><span class="date">2026-11-02</span><a href="/Item/23887.aspx" target="_blank" title="标题：期中考试考风考纪要求&#xD;点击数：126&#xD;发表时间：2026年11月02日">期中考试考风考纪要求</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23886.aspx" target="_blank" title="标题：室内升旗仪式通知&#xD;点击数：33&#xD;发表时间：2026年11月02日">室内升旗仪式通知</a></li>
 <li><span class="date">2026-10-31</span><a href="/Item/23885.aspx" target="_blank" title="标题：高三11.03诊断性考场布置及相关要求&#xD;点击数：96&#xD;发表时间：2026年10月31日">高三11.03诊断性考场布置及相关要求</a></li>
 <li><span class="date">2026-10-31</span><a href="/Item/23884.aspx" target="_blank" title="标题：高三11.03诊断性监考安排和学生考场安排&#xD;点击数：266&#xD;发表时间：2026年10月31日">高三11.03诊断性监考安排和学生考场安排</a></li>
@@ -372,21 +372,21 @@ function GetUserInfo1(response){
 <li><span class="date">2026-10-30</span><a href="/Item/23882.aspx" target="_blank" title="标题：研究院2026年11月份市直活动安排&#xD;点击数：196&#xD;发表时间：2026年10月30日">研究院2026年11月份市直活动安排</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23881.aspx" target="_blank" title="标题：10.30跑操量化考核反馈&#xD;点击数：42&#xD;发表时间：2026年10月30日">10.30跑操量化考核反馈</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23880.aspx" target="_blank" title="标题：10.29班级一日考核&#xD;点击数：30&#xD;发表时间：2026年10月30日">10.29班级一日考核</a></li>
-<li><span class="date">2026-10-30</span><a href="/Item/23879.aspx" target="_blank" title="标题：高一晚自修（11.1-11.6）&#xD;点击数：37&#xD;发表时间：2026年10月30日">高一晚自修（11.1-11.6）</a></li>
-<li><span class="date">2026-10-30</span><a href="/Item/23878.aspx" target="_blank" title="标题：周六社团课通知9则&#xD;点击数：136&#xD;发表时间：2026年10月30日">周六社团课通知9则</a></li>
+<li><span class="date">2026-10-30</span><a href="/Item/23879.aspx" target="_blank" title="标题：高一晚自修（11.1-11.6）&#xD;点击数：38&#xD;发表时间：2026年10月30日">高一晚自修（11.1-11.6）</a></li>
+<li><span class="date">2026-10-30</span><a href="/Item/23878.aspx" target="_blank" title="标题：周六社团课通知9则&#xD;点击数：137&#xD;发表时间：2026年10月30日">周六社团课通知9则</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23877.aspx" target="_blank" title="标题：热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩&#xD;点击数：96&#xD;发表时间：2026年10月30日">热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23876.aspx" target="_blank" title="标题：笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行&#xD;点击数：61&#xD;发表时间：2026年10月30日">笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行</a></li>
-<li><span class="date">2026-10-30</span><a href="/Item/23875.aspx" target="_blank" title="标题：高二晚自修（11.2-11.8）&#xD;点击数：61&#xD;发表时间：2026年10月30日">高二晚自修（11.2-11.8）</a></li>
+<li><span class="date">2026-10-30</span><a href="/Item/23875.aspx" target="_blank" title="标题：高二晚自修（11.2-11.8）&#xD;点击数：62&#xD;发表时间：2026年10月30日">高二晚自修（11.2-11.8）</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23874.aspx" target="_blank" title="标题：10月份“美丽寝室”表彰公告&#xD;点击数：91&#xD;发表时间：2026年10月30日">10月份“美丽寝室”表彰公告</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23873.aspx" target="_blank" title="标题：关于高三体测抽测同学的通知&#xD;点击数：107&#xD;发表时间：2026年10月30日">关于高三体测抽测同学的通知</a></li>
 <li><span class="date">2026-10-29</span><a href="/Item/23872.aspx" target="_blank" title="标题：10.29跑操量化考核反馈&#xD;点击数：69&#xD;发表时间：2026年10月29日">10.29跑操量化考核反馈</a></li>
 <li><span class="date">2026-10-29</span><a href="/Item/23871.aspx" target="_blank" title="标题：10.28班级一日考核&#xD;点击数：49&#xD;发表时间：2026年10月29日">10.28班级一日考核</a></li>
-<li><span class="date">2026-10-29</span><a href="/Item/23870.aspx" target="_blank" title="标题：创新班学部11月1日至11月13日晚自习安排&#xD;点击数：106&#xD;发表时间：2026年10月29日">创新班学部11月1日至11月13日晚自习安排</a></li>
+<li><span class="date">2026-10-29</span><a href="/Item/23870.aspx" target="_blank" title="标题：创新班学部11月1日至11月13日晚自习安排&#xD;点击数：108&#xD;发表时间：2026年10月29日">创新班学部11月1日至11月13日晚自习安排</a></li>
 <li><span class="date">2026-10-29</span><a href="/Item/23869.aspx" target="_blank" title="标题：团课地点更改通知&#xD;点击数：81&#xD;发表时间：2026年10月29日">团课地点更改通知</a></li>
 <li><span class="date">2026-10-28</span><a href="/Item/23868.aspx" target="_blank" title="标题：10.28跑操量化考核反馈&#xD;点击数：65&#xD;发表时间：2026年10月28日">10.28跑操量化考核反馈</a></li>
 <li><span class="date">2026-10-28</span><a href="/Item/23867.aspx" target="_blank" title="标题：10.27班级一日考核&#xD;点击数：65&#xD;发表时间：2026年10月28日">10.27班级一日考核</a></li>
 <li><span class="date">2026-10-28</span><a href="/Item/23866.aspx" target="_blank" title="标题：关于家长开放日穿校服的通知&#xD;点击数：235&#xD;发表时间：2026年10月28日">关于家长开放日穿校服的通知</a></li>
-<li><span class="date">2026-10-28</span><a href="/Item/23865.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：109&#xD;发表时间：2026年10月28日">第十八期团校上课通知</a></li>
+<li><span class="date">2026-10-28</span><a href="/Item/23865.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：111&#xD;发表时间：2026年10月28日">第十八期团校上课通知</a></li>
 <li><span class="date">2026-10-27</span><a href="/Item/23864.aspx" target="_blank" title="标题：高考报名工作相关通知（两则）&#xD;点击数：166&#xD;发表时间：2026年10月27日">高考报名工作相关通知（两则）</a></li>
 <li><span class="date">2026-10-27</span><a href="/Item/23863.aspx" target="_blank" title="标题：10.26班级一日考核&#xD;点击数：66&#xD;发表时间：2026年10月27日">10.26班级一日考核</a></li>
 <li><span class="date">2026-10-27</span><a href="/Item/23862.aspx" target="_blank" title="标题：10.27跑操量化考核反馈&#xD;点击数：60&#xD;发表时间：2026年10月27日">10.27跑操量化考核反馈</a></li>
