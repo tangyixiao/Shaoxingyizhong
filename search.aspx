@@ -350,9 +350,9 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-06</span><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：2&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a></li>
-<li><span class="date">2026-11-05</span><a href="/Item/23906.aspx" target="_blank" title="标题：高一晚自修（11.8-11.13）&#xD;点击数：18&#xD;发表时间：2026年11月05日">高一晚自修（11.8-11.13）</a></li>
-<li><span class="date">2026-11-05</span><a href="/Item/23905.aspx" target="_blank" title="标题：11.4班级一日考核&#xD;点击数：43&#xD;发表时间：2026年11月05日">11.4班级一日考核</a></li>
+  <li><span class="date">2026-11-06</span><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：11&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a></li>
+<li><span class="date">2026-11-05</span><a href="/Item/23906.aspx" target="_blank" title="标题：高一晚自修（11.8-11.13）&#xD;点击数：20&#xD;发表时间：2026年11月05日">高一晚自修（11.8-11.13）</a></li>
+<li><span class="date">2026-11-05</span><a href="/Item/23905.aspx" target="_blank" title="标题：11.4班级一日考核&#xD;点击数：44&#xD;发表时间：2026年11月05日">11.4班级一日考核</a></li>
 <li><span class="date">2026-11-05</span><a href="/Item/23904.aspx" target="_blank" title="标题：关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知&#xD;点击数：113&#xD;发表时间：2026年11月05日">关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知</a></li>
 <li><span class="date">2026-11-05</span><a href="/Item/23903.aspx" target="_blank" title="标题：高一、高二航模队临时训练通知&#xD;点击数：94&#xD;发表时间：2026年11月05日">高一、高二航模队临时训练通知</a></li>
 <li><span class="date">2026-11-05</span><a href="/Item/23900.aspx" target="_blank" title="标题：寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）&#xD;点击数：167&#xD;发表时间：2026年11月05日">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</a></li>
@@ -366,7 +366,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-11-02</span><a href="/Item/23894.aspx" target="_blank" title="标题：关于第二十七届团学联干部干事培训会的通知&#xD;点击数：112&#xD;发表时间：2026年11月02日">关于第二十七届团学联干部干事培训会的通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23893.aspx" target="_blank" title="标题：2026年正高级职称评审申报的通知&#xD;点击数：208&#xD;发表时间：2026年11月02日">2026年正高级职称评审申报的通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23892.aspx" target="_blank" title="标题：关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知&#xD;点击数：180&#xD;发表时间：2026年11月02日">关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知</a></li>
-<li><span class="date">2026-11-02</span><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：263&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a></li>
+<li><span class="date">2026-11-02</span><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：265&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23889.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：45&#xD;发表时间：2026年11月02日">大扫除通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23888.aspx" target="_blank" title="标题：市田径比赛报名通知&#xD;点击数：131&#xD;发表时间：2026年11月02日">市田径比赛报名通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23887.aspx" target="_blank" title="标题：期中考试考风考纪要求&#xD;点击数：130&#xD;发表时间：2026年11月02日">期中考试考风考纪要求</a></li>
