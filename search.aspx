@@ -350,12 +350,13 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-06</span><a href="/Item/23908.aspx" target="_blank" title="标题：失物招领（冬装校服）&#xD;点击数：14&#xD;发表时间：2026年11月06日">失物招领（冬装校服）</a></li>
-<li><span class="date">2026-11-06</span><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：25&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a></li>
-<li><span class="date">2026-11-05</span><a href="/Item/23906.aspx" target="_blank" title="标题：高一晚自修（11.8-11.13）&#xD;点击数：27&#xD;发表时间：2026年11月05日">高一晚自修（11.8-11.13）</a></li>
-<li><span class="date">2026-11-05</span><a href="/Item/23905.aspx" target="_blank" title="标题：11.4班级一日考核&#xD;点击数：50&#xD;发表时间：2026年11月05日">11.4班级一日考核</a></li>
-<li><span class="date">2026-11-05</span><a href="/Item/23904.aspx" target="_blank" title="标题：关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知&#xD;点击数：118&#xD;发表时间：2026年11月05日">关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知</a></li>
-<li><span class="date">2026-11-05</span><a href="/Item/23903.aspx" target="_blank" title="标题：高一、高二航模队临时训练通知&#xD;点击数：98&#xD;发表时间：2026年11月05日">高一、高二航模队临时训练通知</a></li>
+  <li><span class="date">2026-11-06</span><a href="/Item/23909.aspx" target="_blank" title="标题：周六社团课通知4则&#xD;点击数：4&#xD;发表时间：2026年11月06日">周六社团课通知4则</a></li>
+<li><span class="date">2026-11-06</span><a href="/Item/23908.aspx" target="_blank" title="标题：失物招领（冬装校服）&#xD;点击数：19&#xD;发表时间：2026年11月06日">失物招领（冬装校服）</a></li>
+<li><span class="date">2026-11-06</span><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：26&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a></li>
+<li><span class="date">2026-11-05</span><a href="/Item/23906.aspx" target="_blank" title="标题：高一晚自修（11.8-11.13）&#xD;点击数：29&#xD;发表时间：2026年11月05日">高一晚自修（11.8-11.13）</a></li>
+<li><span class="date">2026-11-05</span><a href="/Item/23905.aspx" target="_blank" title="标题：11.4班级一日考核&#xD;点击数：51&#xD;发表时间：2026年11月05日">11.4班级一日考核</a></li>
+<li><span class="date">2026-11-05</span><a href="/Item/23904.aspx" target="_blank" title="标题：关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知&#xD;点击数：119&#xD;发表时间：2026年11月05日">关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知</a></li>
+<li><span class="date">2026-11-05</span><a href="/Item/23903.aspx" target="_blank" title="标题：高一、高二航模队临时训练通知&#xD;点击数：99&#xD;发表时间：2026年11月05日">高一、高二航模队临时训练通知</a></li>
 <li><span class="date">2026-11-05</span><a href="/Item/23900.aspx" target="_blank" title="标题：寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）&#xD;点击数：170&#xD;发表时间：2026年11月05日">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</a></li>
 <li><span class="date">2026-11-04</span><a href="/Item/23902.aspx" target="_blank" title="标题：每周一学（2026年11月2日-11月8日）中国共产党第二十届中央委员会第五次全体会议公报&#xD;点击数：7&#xD;发表时间：2026年11月04日">每周一学（2026年11月2日-11月8日）中国共产党第二十届中央委员会第五次全体会议公报</a></li>
 <li><span class="date">2026-11-04</span><a href="/Item/23901.aspx" target="_blank" title="标题：11.3班级一日考核&#xD;点击数：58&#xD;发表时间：2026年11月04日">11.3班级一日考核</a></li>
@@ -379,7 +380,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-10-30</span><a href="/Item/23881.aspx" target="_blank" title="标题：10.30跑操量化考核反馈&#xD;点击数：42&#xD;发表时间：2026年10月30日">10.30跑操量化考核反馈</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23880.aspx" target="_blank" title="标题：10.29班级一日考核&#xD;点击数：31&#xD;发表时间：2026年10月30日">10.29班级一日考核</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23879.aspx" target="_blank" title="标题：高一晚自修（11.1-11.6）&#xD;点击数：43&#xD;发表时间：2026年10月30日">高一晚自修（11.1-11.6）</a></li>
-<li><span class="date">2026-10-30</span><a href="/Item/23878.aspx" target="_blank" title="标题：周六社团课通知9则&#xD;点击数：141&#xD;发表时间：2026年10月30日">周六社团课通知9则</a></li>
+<li><span class="date">2026-10-30</span><a href="/Item/23878.aspx" target="_blank" title="标题：周六社团课通知9则&#xD;点击数：142&#xD;发表时间：2026年10月30日">周六社团课通知9则</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23877.aspx" target="_blank" title="标题：热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩&#xD;点击数：106&#xD;发表时间：2026年10月30日">热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23876.aspx" target="_blank" title="标题：笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行&#xD;点击数：65&#xD;发表时间：2026年10月30日">笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行</a></li>
 <li><span class="date">2026-10-30</span><a href="/Item/23875.aspx" target="_blank" title="标题：高二晚自修（11.2-11.8）&#xD;点击数：69&#xD;发表时间：2026年10月30日">高二晚自修（11.2-11.8）</a></li>
@@ -399,7 +400,6 @@ function GetUserInfo1(response){
 <li><span class="date">2026-10-27</span><a href="/Item/23861.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十期）&#xD;点击数：158&#xD;发表时间：2026年10月27日">博雅育人| 德育名师风采录（第十期）</a></li>
 <li><span class="date">2026-10-27</span><a href="/Item/23860.aspx" target="_blank" title="标题：聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学美术学科专项评价活动在我校圆满举行&#xD;点击数：100&#xD;发表时间：2026年10月27日">聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学美术学科专项评价活动在我校圆满举行</a></li>
 <li><span class="date">2026-10-26</span><a href="/Item/23859.aspx" target="_blank" title="标题：高三2026体质健康抽测名单&#xD;点击数：206&#xD;发表时间：2026年10月26日">高三2026体质健康抽测名单</a></li>
-<li><span class="date">2026-10-26</span><a href="/Item/23858.aspx" target="_blank" title="标题：10.24班级一日考核&#xD;点击数：62&#xD;发表时间：2026年10月26日">10.24班级一日考核</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
