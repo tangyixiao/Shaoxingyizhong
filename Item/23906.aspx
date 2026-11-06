@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23906.aspx" target="_blank" title="标题：高一晚自修（11.8-11.13）&#xD;点击数：32&#xD;发表时间：2026年11月05日">高一晚自修（11.8-11.13）</a><span class="dateRight">[11-05]</span></li><li><a href="/Item/23879.aspx" target="_blank" title="标题：高一晚自修（11.1-11.6）&#xD;点击数：43&#xD;发表时间：2026年10月30日">高一晚自修（11.1-11.6）</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23111.aspx" target="_blank" title="标题：高一家长会注意事项及晚自习安排&#xD;点击数：188&#xD;发表时间：2026年04月28日">高一家长会注意事项及晚自习安排</a><span class="dateRight">[04-28]</span></li><li><a href="/Item/22977.aspx" target="_blank" title="标题：高一晚自修值班（4.6-4.17）&#xD;点击数：107&#xD;发表时间：2026年04月02日">高一晚自修值班（4.6-4.17）</a><span class="dateRight">[04-02]</span></li><li><a href="/Item/22335.aspx" target="_blank" title="标题：高一家长会注意事项及晚自修安排&#xD;点击数：174&#xD;发表时间：2025年11月25日">高一家长会注意事项及晚自修安排</a><span class="dateRight">[11-25]</span></li><li><a href="/Item/20955.aspx" target="_blank" title="标题：高一晚自修值班安排（2.17-2.28）&#xD;点击数：161&#xD;发表时间：2025年02月21日">高一晚自修值班安排（2.17-2.28）</a><span class="dateRight">[02-21]</span></li><li class="last"><a href="/Item/20911.aspx" target="_blank" title="标题：高一晚自修值班安排（2.12-2.16）&#xD;点击数：146&#xD;发表时间：2025年02月12日">高一晚自修值班安排（2.12-2.16）</a><span class="dateRight">[02-12]</span></li>
+            <li class="first"><a href="/Item/23906.aspx" target="_blank" title="标题：高一晚自修（11.8-11.13）&#xD;点击数：35&#xD;发表时间：2026年11月05日">高一晚自修（11.8-11.13）</a><span class="dateRight">[11-05]</span></li><li><a href="/Item/23879.aspx" target="_blank" title="标题：高一晚自修（11.1-11.6）&#xD;点击数：45&#xD;发表时间：2026年10月30日">高一晚自修（11.1-11.6）</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23111.aspx" target="_blank" title="标题：高一家长会注意事项及晚自习安排&#xD;点击数：188&#xD;发表时间：2026年04月28日">高一家长会注意事项及晚自习安排</a><span class="dateRight">[04-28]</span></li><li><a href="/Item/22977.aspx" target="_blank" title="标题：高一晚自修值班（4.6-4.17）&#xD;点击数：107&#xD;发表时间：2026年04月02日">高一晚自修值班（4.6-4.17）</a><span class="dateRight">[04-02]</span></li><li><a href="/Item/22335.aspx" target="_blank" title="标题：高一家长会注意事项及晚自修安排&#xD;点击数：174&#xD;发表时间：2025年11月25日">高一家长会注意事项及晚自修安排</a><span class="dateRight">[11-25]</span></li><li><a href="/Item/20955.aspx" target="_blank" title="标题：高一晚自修值班安排（2.17-2.28）&#xD;点击数：161&#xD;发表时间：2025年02月21日">高一晚自修值班安排（2.17-2.28）</a><span class="dateRight">[02-21]</span></li><li class="last"><a href="/Item/20911.aspx" target="_blank" title="标题：高一晚自修值班安排（2.12-2.16）&#xD;点击数：146&#xD;发表时间：2025年02月12日">高一晚自修值班安排（2.12-2.16）</a><span class="dateRight">[02-12]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23879.aspx" target="_self" title="标题：高一晚自修（11.1-11.6）&#xD;点击数：43&#xD;发表时间：26年10月30日">高一晚自修（11.1-11.6）</a>[ 10-30 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23879.aspx" target="_self" title="标题：高一晚自修（11.1-11.6）&#xD;点击数：45&#xD;发表时间：26年10月30日">高一晚自修（11.1-11.6）</a>[ 10-30 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
