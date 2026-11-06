@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23905.aspx" target="_blank" title="标题：11.4班级一日考核&#xD;点击数：46&#xD;发表时间：2026年11月05日">11.4班级一日考核</a><span class="dateRight">[11-05]</span></li><li><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：266&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23901.aspx" target="_blank" title="标题：11.3班级一日考核&#xD;点击数：57&#xD;发表时间：2026年11月04日">11.3班级一日考核</a><span class="dateRight">[11-04]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li class="last"><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li>
+            <li class="first"><a href="/Item/23905.aspx" target="_blank" title="标题：11.4班级一日考核&#xD;点击数：46&#xD;发表时间：2026年11月05日">11.4班级一日考核</a><span class="dateRight">[11-05]</span></li><li><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：268&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23901.aspx" target="_blank" title="标题：11.3班级一日考核&#xD;点击数：57&#xD;发表时间：2026年11月04日">11.3班级一日考核</a><span class="dateRight">[11-04]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li class="last"><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23898.aspx" target="_self" title="标题：寻物启事（篮球）&#xD;点击数：55&#xD;发表时间：26年11月03日">寻物启事（篮球）</a>[ 11-03 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23900.aspx" target="_self" title="标题：寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）&#xD;点击数：167&#xD;发表时间：26年11月05日">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</a>[ 11-05 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23900.aspx" target="_self" title="标题：寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）&#xD;点击数：168&#xD;发表时间：26年11月05日">寻物启事五则（饭卡2/冬装校服/政治书/羽毛球拍）</a>[ 11-05 ]</div>
                         </div>
                     </div>
 
