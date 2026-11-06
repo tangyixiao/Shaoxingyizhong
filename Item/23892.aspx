@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23892.aspx" target="_blank" title="标题：关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知&#xD;点击数：179&#xD;发表时间：2026年11月02日">关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/22102.aspx" target="_blank" title="标题：校秋季运动会暨教职工绕“8”字跳长绳接力比赛成绩公告&#xD;点击数：224&#xD;发表时间：2025年10月20日">校秋季运动会暨教职工绕“8”字跳长绳接力比赛成绩公告</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23832.aspx" target="_blank" title="标题：文明办公室检查反馈&#xD;点击数：136&#xD;发表时间：2026年10月23日">文明办公室检查反馈</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/23807.aspx" target="_blank" title="标题：文明办公室检查通知&#xD;点击数：113&#xD;发表时间：2026年10月19日">文明办公室检查通知</a><span class="dateRight">[10-19]</span></li><li><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：310&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23608.aspx" target="_blank" title="标题：文明办公室检查反馈&#xD;点击数：180&#xD;发表时间：2026年09月07日">文明办公室检查反馈</a><span class="dateRight">[09-07]</span></li><li class="last"><a href="/Item/23573.aspx" target="_blank" title="标题：关于文明办公室检查的通知&#xD;点击数：103&#xD;发表时间：2026年09月01日">关于文明办公室检查的通知</a><span class="dateRight">[09-01]</span></li>
+            <li class="first"><a href="/Item/23892.aspx" target="_blank" title="标题：关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知&#xD;点击数：180&#xD;发表时间：2026年11月02日">关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知</a><span class="dateRight">[11-02]</span></li><li><a href="/Item/23832.aspx" target="_blank" title="标题：文明办公室检查反馈&#xD;点击数：136&#xD;发表时间：2026年10月23日">文明办公室检查反馈</a><span class="dateRight">[10-23]</span></li><li><a href="/Item/23807.aspx" target="_blank" title="标题：文明办公室检查通知&#xD;点击数：113&#xD;发表时间：2026年10月19日">文明办公室检查通知</a><span class="dateRight">[10-19]</span></li><li><a href="/Item/23695.aspx" target="_blank" title="标题：关于举办绍兴一中集团教工趣味地滚球接力比赛的通知&#xD;点击数：310&#xD;发表时间：2026年09月21日">关于举办绍兴一中集团教工趣味地滚球接力比赛的通知</a><span class="dateRight">[09-21]</span></li><li><a href="/Item/23608.aspx" target="_blank" title="标题：文明办公室检查反馈&#xD;点击数：180&#xD;发表时间：2026年09月07日">文明办公室检查反馈</a><span class="dateRight">[09-07]</span></li><li><a href="/Item/23573.aspx" target="_blank" title="标题：关于文明办公室检查的通知&#xD;点击数：103&#xD;发表时间：2026年09月01日">关于文明办公室检查的通知</a><span class="dateRight">[09-01]</span></li><li class="last"><a href="/Item/23358.aspx" target="_blank" title="标题：关于开展“粽叶飘香·情暖校园”端午节包粽子活动的通知&#xD;点击数：144&#xD;发表时间：2026年06月11日">关于开展“粽叶飘香·情暖校园”端午节包粽子活动的通知</a><span class="dateRight">[06-11]</span></li>
           
                     </ul>
                 </div>
@@ -440,7 +440,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23891.aspx" target="_self" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：257&#xD;发表时间：26年10月07日">教工趣味地滚球接力比赛成绩公告</a>[ 10-07 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23891.aspx" target="_self" title="标题：教工趣味地滚球接力比赛成绩公告&#xD;点击数：258&#xD;发表时间：26年10月07日">教工趣味地滚球接力比赛成绩公告</a>[ 10-07 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
