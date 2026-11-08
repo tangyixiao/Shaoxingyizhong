@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23908.aspx" target="_self" title="标题：失物招领（冬装校服）&#xD;点击数：34&#xD;发表时间：26年11月06日">失物招领（冬装校服）</a>[ 11-06 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23913.aspx" target="_self" title="标题：高三秋季研学活动具体安排&#xD;点击数：101&#xD;发表时间：26年11月06日">高三秋季研学活动具体安排</a>[ 11-06 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23913.aspx" target="_self" title="标题：高三秋季研学活动具体安排&#xD;点击数：102&#xD;发表时间：26年11月06日">高三秋季研学活动具体安排</a>[ 11-06 ]</div>
                         </div>
                     </div>
 
