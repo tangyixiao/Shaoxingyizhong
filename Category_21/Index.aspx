@@ -369,7 +369,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/23846.aspx" target="_blank" title="标题：携手聚力育人，研思共启新篇  ——绍兴一中与仙居中学政治教研组联合教研&#xD;点击数：152&#xD;发表时间：2026年10月26日">携手聚力育人，研思共启新篇  ——绍兴一中与仙居中学政…</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23877.aspx" target="_blank" title="标题：热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩&#xD;点击数：113&#xD;发表时间：2026年10月30日">热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮…</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23876.aspx" target="_blank" title="标题：笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行&#xD;点击数：67&#xD;发表时间：2026年10月30日">笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利…</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23860.aspx" target="_blank" title="标题：聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学美术学科专项评价活动在我校圆满举行&#xD;点击数：105&#xD;发表时间：2026年10月27日">聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学…</a><span class="dateRight">[10-27]</span></li><li><a href="/Item/23845.aspx" target="_blank" title="标题：金秋叙芳华 重阳映初心——我校举行离退休教职工重阳节活动暨离退休党支部主题党日活动&#xD;点击数：76&#xD;发表时间：2026年10月26日">金秋叙芳华 重阳映初心——我校举行离退休教职工重阳节活…</a><span class="dateRight">[10-26]</span></li><li class="last"><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：31&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li>
+            <li class="first"><a href="/Item/23918.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：27&#xD;发表时间：2026年11月09日">博雅育人| 德育名师风采录（第十一期）</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23917.aspx" target="_blank" title="标题：求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动&#xD;点击数：14&#xD;发表时间：2026年11月09日">求真同行，博雅共育  ——绍兴一中教育集团举行2026年家…</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23916.aspx" target="_blank" title="标题：聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科市直主题研修活动在我校举行&#xD;点击数：14&#xD;发表时间：2026年11月09日">聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科…</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/18671.aspx" target="_blank" title="标题：“青春筑梦心相融，科技报国向未来”——2023年绍兴一中秋季田径运动会成功举行&#xD;点击数：263&#xD;发表时间：2023年10月24日">“青春筑梦心相融，科技报国向未来”——2023年绍兴一中…</a><span class="dateRight">[10-24]</span></li><li><a href="/Item/23876.aspx" target="_blank" title="标题：笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行&#xD;点击数：69&#xD;发表时间：2026年10月30日">笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利…</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23860.aspx" target="_blank" title="标题：聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学美术学科专项评价活动在我校圆满举行&#xD;点击数：105&#xD;发表时间：2026年10月27日">聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学…</a><span class="dateRight">[10-27]</span></li><li class="last"><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：31&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li>
           
 		</ul>
 	</div>
@@ -424,6 +424,17 @@ function GetUserInfo1(response){
 </ul>
 <ul class="slideCon">
   <li>
+    <div class="pe_u_thumb"><a href="/Item/23918.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/11/202611090952076040_600_340.jpg" alt="博雅育人| 德育名师风采录（第十一期）"></a></div>
+    <p class="pe_u_thumb_title"><a href="/Item/23918.aspx" target="_blank">博雅育人| 德育名师风采录（第十一期）</a></p>
+    <p class="intro">
+编者按：在成长的漫长岁月中，总有一些微光在暗处默默照亮前路：他们既是知识殿堂的执灯者，更是学生灵魂深处的摆渡人。本期…<a href="/Item/23918.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
+  <li>
+    <div class="pe_u_thumb"><a href="/Item/23917.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/11/202611090947461324_600_340.jpeg" alt="求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动"></a></div>
+    <p class="pe_u_thumb_title"><a href="/Item/23917.aspx" target="_blank">求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动</a></p>
+    <p class="intro">
+
+10月29日，绍兴一中教育集团以“求真同行，博雅共育”为主题，成功举行2026年家长开放日暨第八届家委会成立活动。三百余名家…<a href="/Item/23917.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
+  <li>
     <div class="pe_u_thumb"><a href="/Item/23877.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/10/202610301018484171_600_340.JPG" alt="热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩"></a></div>
     <p class="pe_u_thumb_title"><a href="/Item/23877.aspx" target="_blank">热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩</a></p>
     <p class="intro">
@@ -433,16 +444,6 @@ function GetUserInfo1(response){
     <p class="pe_u_thumb_title"><a href="/Item/23861.aspx" target="_blank">博雅育人| 德育名师风采录（第十期）</a></p>
     <p class="intro">
 编者按：在教育的沃土上，总有一些身影默默耕耘、静待花开：他们既是课堂上的引路人，更是学生心灵成长的守护者与引航人。黄…<a href="/Item/23861.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23860.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/10/202610270825244637_600_340.jpg" alt="聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学美术学科专项评价活动在我校圆满举行"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23860.aspx" target="_blank">聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学美术学科专项评价活动在我校圆满举行</a></p>
-    <p class="intro">
-2026年10月22日，绍兴市中小学美术学科专项评价活动暨市直美术学科90学时研训活动在绍兴市第一中学顺利举办。本次活动由绍兴…<a href="/Item/23860.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23847.aspx" target="_blank"><img src="/UploadFiles/xwzx/2026/10/202610261056158490_600_340.JPG" alt="榜样领航明方向 奋楫争先迎诊断  ——2026学年第一学期高三年级学生表彰暨市诊断性测试动员大会举行"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23847.aspx" target="_blank">榜样领航明方向 奋楫争先迎诊断  ——2026学年第一学期高三年级学生表彰暨市诊断性测试动员大会举行</a></p>
-    <p class="intro">
-10月20日下午，2026学年第一学期高三年级学生表彰暨市诊断性测试动员大会在图书馆三楼报告厅举行。大会由高三年管会副主任谢…<a href="/Item/23847.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
 </ul>
           
         </div>
@@ -472,7 +473,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">10-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23877.aspx" target="_blank" title="标题：热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩&#xD;点击数：113&#xD;发表时间：2026年10月30日">热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮…</a></li><li><span class="date">10-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23876.aspx" target="_blank" title="标题：笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行&#xD;点击数：67&#xD;发表时间：2026年10月30日">笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利…</a></li><li><span class="date">10-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23861.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十期）&#xD;点击数：164&#xD;发表时间：2026年10月27日">博雅育人| 德育名师风采录（第十期）</a></li><li><span class="date">10-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23860.aspx" target="_blank" title="标题：聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学美术学科专项评价活动在我校圆满举行&#xD;点击数：105&#xD;发表时间：2026年10月27日">聚焦教学评一致性，聚力研思共促成长  ——绍兴市中小学…</a></li><li><span class="date">10-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23847.aspx" target="_blank" title="标题：榜样领航明方向 奋楫争先迎诊断  ——2026学年第一学期高三年级学生表彰暨市诊断性测试动员大会举行&#xD;点击数：106&#xD;发表时间：2026年10月26日">榜样领航明方向 奋楫争先迎诊断  ——2026学年第一学期高…</a></li><li class="last"><span class="date">10-26</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23846.aspx" target="_blank" title="标题：携手聚力育人，研思共启新篇  ——绍兴一中与仙居中学政治教研组联合教研&#xD;点击数：152&#xD;发表时间：2026年10月26日">携手聚力育人，研思共启新篇  ——绍兴一中与仙居中学政…</a></li>
+            <li class="first"><span class="date">11-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23918.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：27&#xD;发表时间：2026年11月09日">博雅育人| 德育名师风采录（第十一期）</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">11-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23917.aspx" target="_blank" title="标题：求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动&#xD;点击数：14&#xD;发表时间：2026年11月09日">求真同行，博雅共育  ——绍兴一中教育集团举行2026年家…</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">11-09</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23916.aspx" target="_blank" title="标题：聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科市直主题研修活动在我校举行&#xD;点击数：14&#xD;发表时间：2026年11月09日">聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科…</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">10-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23877.aspx" target="_blank" title="标题：热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮球赛中双双斩获佳绩&#xD;点击数：114&#xD;发表时间：2026年10月30日">热血篮途，双喜临门！我校男女篮在2026年市直属高中生篮…</a></li><li><span class="date">10-30</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23876.aspx" target="_blank" title="标题：笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利举行&#xD;点击数：69&#xD;发表时间：2026年10月30日">笃行反思 精进赋能  ——青年教师第三期业务提升培训顺利…</a></li><li class="last"><span class="date">10-27</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23861.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十期）&#xD;点击数：165&#xD;发表时间：2026年10月27日">博雅育人| 德育名师风采录（第十期）</a></li>
           
                             </ul>
                         </div>

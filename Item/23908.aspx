@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li><li><a href="/Item/22177.aspx" target="_blank" title="标题：10.30班级一日考核&#xD;点击数：45&#xD;发表时间：2025年10月31日">10.30班级一日考核</a><span class="dateRight">[10-31]</span></li><li class="last"><a href="/Item/23602.aspx" target="_blank" title="标题：关于升旗仪式的进退场、站位及相关要求的通知&#xD;点击数：120&#xD;发表时间：2026年09月07日">关于升旗仪式的进退场、站位及相关要求的通知</a><span class="dateRight">[09-07]</span></li>
+            <li class="first"><a href="/Item/23913.aspx" target="_blank" title="标题：高三秋季研学活动具体安排&#xD;点击数：129&#xD;发表时间：2026年11月06日">高三秋季研学活动具体安排</a><span class="dateRight">[11-06]</span></li><li><a href="/Item/23914.aspx" target="_blank" title="标题：室内升旗仪式通知&#xD;点击数：18&#xD;发表时间：2026年11月09日">室内升旗仪式通知</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23919.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：10&#xD;发表时间：2026年11月09日">大扫除通知</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23912.aspx" target="_blank" title="标题：11.5班级一日考核&#xD;点击数：61&#xD;发表时间：2026年11月06日">11.5班级一日考核</a><span class="dateRight">[11-06]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li>
           
                     </ul>
                 </div>
@@ -440,7 +440,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23905.aspx" target="_self" title="标题：11.4班级一日考核&#xD;点击数：59&#xD;发表时间：26年11月05日">11.4班级一日考核</a>[ 11-05 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23912.aspx" target="_self" title="标题：11.5班级一日考核&#xD;点击数：55&#xD;发表时间：26年11月06日">11.5班级一日考核</a>[ 11-06 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23912.aspx" target="_self" title="标题：11.5班级一日考核&#xD;点击数：61&#xD;发表时间：26年11月06日">11.5班级一日考核</a>[ 11-06 ]</div>
                         </div>
                     </div>
 
