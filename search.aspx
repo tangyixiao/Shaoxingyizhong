@@ -350,23 +350,23 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-10</span><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：37&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知</a></li>
-<li><span class="date">2026-11-10</span><a href="/Item/23930.aspx" target="_blank" title="标题：第27届团学联主席团、部长、副部长宣传照拍摄通知&#xD;点击数：38&#xD;发表时间：2026年11月10日">第27届团学联主席团、部长、副部长宣传照拍摄通知</a></li>
-<li><span class="date">2026-11-10</span><a href="/Item/23929.aspx" target="_blank" title="标题：跑操考核员开会通知&#xD;点击数：46&#xD;发表时间：2026年11月10日">跑操考核员开会通知</a></li>
-<li><span class="date">2026-11-10</span><a href="/Item/23928.aspx" target="_blank" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：132&#xD;发表时间：2026年11月10日">关于本周开展全校课桌舞活动的通知</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23927.aspx" target="_blank" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：110&#xD;发表时间：2026年11月09日">绍兴一中与山东潍坊教师团队交流安排</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23926.aspx" target="_blank" title="标题：绍兴一中与遂昌育才高中高三团队交流安排&#xD;点击数：105&#xD;发表时间：2026年11月09日">绍兴一中与遂昌育才高中高三团队交流安排</a></li>
+  <li><span class="date">2026-11-10</span><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：47&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知</a></li>
+<li><span class="date">2026-11-10</span><a href="/Item/23930.aspx" target="_blank" title="标题：第27届团学联主席团、部长、副部长宣传照拍摄通知&#xD;点击数：46&#xD;发表时间：2026年11月10日">第27届团学联主席团、部长、副部长宣传照拍摄通知</a></li>
+<li><span class="date">2026-11-10</span><a href="/Item/23929.aspx" target="_blank" title="标题：跑操考核员开会通知&#xD;点击数：56&#xD;发表时间：2026年11月10日">跑操考核员开会通知</a></li>
+<li><span class="date">2026-11-10</span><a href="/Item/23928.aspx" target="_blank" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：142&#xD;发表时间：2026年11月10日">关于本周开展全校课桌舞活动的通知</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23927.aspx" target="_blank" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：111&#xD;发表时间：2026年11月09日">绍兴一中与山东潍坊教师团队交流安排</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23926.aspx" target="_blank" title="标题：绍兴一中与遂昌育才高中高三团队交流安排&#xD;点击数：106&#xD;发表时间：2026年11月09日">绍兴一中与遂昌育才高中高三团队交流安排</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23925.aspx" target="_blank" title="标题：11.7班级一日考核&#xD;点击数：41&#xD;发表时间：2026年11月09日">11.7班级一日考核</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：36&#xD;发表时间：2026年11月09日">11.6班级一日考核</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：133&#xD;发表时间：2026年11月09日">体育教研及体育课调整通知</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23921.aspx" target="_blank" title="标题：寻物启事（饭卡）&#xD;点击数：34&#xD;发表时间：2026年11月09日">寻物启事（饭卡）</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23920.aspx" target="_blank" title="标题：2026暑期社会实践先进个人名单公示&#xD;点击数：120&#xD;发表时间：2026年11月09日">2026暑期社会实践先进个人名单公示</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23919.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：35&#xD;发表时间：2026年11月09日">大扫除通知</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：136&#xD;发表时间：2026年11月09日">体育教研及体育课调整通知</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23921.aspx" target="_blank" title="标题：寻物启事（饭卡）&#xD;点击数：35&#xD;发表时间：2026年11月09日">寻物启事（饭卡）</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23920.aspx" target="_blank" title="标题：2026暑期社会实践先进个人名单公示&#xD;点击数：122&#xD;发表时间：2026年11月09日">2026暑期社会实践先进个人名单公示</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23919.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：36&#xD;发表时间：2026年11月09日">大扫除通知</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23918.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：94&#xD;发表时间：2026年11月09日">博雅育人| 德育名师风采录（第十一期）</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23917.aspx" target="_blank" title="标题：求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动&#xD;点击数：52&#xD;发表时间：2026年11月09日">求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23916.aspx" target="_blank" title="标题：聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科市直主题研修活动在我校举行&#xD;点击数：39&#xD;发表时间：2026年11月09日">聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科市直主题研修活动在我校举行</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23915.aspx" target="_blank" title="标题：每周一学（2026年11月9日-11月15日）中共中央发出通知 部署党的二十一大代表选举工作&#xD;点击数：2&#xD;发表时间：2026年11月09日">每周一学（2026年11月9日-11月15日）中共中央发出通知 部署党的二十一大代表选举工作</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23914.aspx" target="_blank" title="标题：室内升旗仪式通知&#xD;点击数：26&#xD;发表时间：2026年11月09日">室内升旗仪式通知</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23914.aspx" target="_blank" title="标题：室内升旗仪式通知&#xD;点击数：27&#xD;发表时间：2026年11月09日">室内升旗仪式通知</a></li>
 <li><span class="date">2026-11-06</span><a href="/Item/23913.aspx" target="_blank" title="标题：高三秋季研学活动具体安排&#xD;点击数：140&#xD;发表时间：2026年11月06日">高三秋季研学活动具体安排</a></li>
 <li><span class="date">2026-11-06</span><a href="/Item/23912.aspx" target="_blank" title="标题：11.5班级一日考核&#xD;点击数：68&#xD;发表时间：2026年11月06日">11.5班级一日考核</a></li>
 <li><span class="date">2026-11-06</span><a href="/Item/23911.aspx" target="_blank" title="标题：高二晚自修（11.9-11.15）&#xD;点击数：39&#xD;发表时间：2026年11月06日">高二晚自修（11.9-11.15）</a></li>
