@@ -350,15 +350,15 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-10</span><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：13&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知</a></li>
+  <li><span class="date">2026-11-10</span><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：14&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23930.aspx" target="_blank" title="标题：第27届团学联主席团、部长、副部长宣传照拍摄通知&#xD;点击数：17&#xD;发表时间：2026年11月10日">第27届团学联主席团、部长、副部长宣传照拍摄通知</a></li>
-<li><span class="date">2026-11-10</span><a href="/Item/23929.aspx" target="_blank" title="标题：跑操考核员开会通知&#xD;点击数：27&#xD;发表时间：2026年11月10日">跑操考核员开会通知</a></li>
-<li><span class="date">2026-11-10</span><a href="/Item/23928.aspx" target="_blank" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：105&#xD;发表时间：2026年11月10日">关于本周开展全校课桌舞活动的通知</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23927.aspx" target="_blank" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：101&#xD;发表时间：2026年11月09日">绍兴一中与山东潍坊教师团队交流安排</a></li>
+<li><span class="date">2026-11-10</span><a href="/Item/23929.aspx" target="_blank" title="标题：跑操考核员开会通知&#xD;点击数：28&#xD;发表时间：2026年11月10日">跑操考核员开会通知</a></li>
+<li><span class="date">2026-11-10</span><a href="/Item/23928.aspx" target="_blank" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：107&#xD;发表时间：2026年11月10日">关于本周开展全校课桌舞活动的通知</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23927.aspx" target="_blank" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：102&#xD;发表时间：2026年11月09日">绍兴一中与山东潍坊教师团队交流安排</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23926.aspx" target="_blank" title="标题：绍兴一中与遂昌育才高中高三团队交流安排&#xD;点击数：96&#xD;发表时间：2026年11月09日">绍兴一中与遂昌育才高中高三团队交流安排</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23925.aspx" target="_blank" title="标题：11.7班级一日考核&#xD;点击数：41&#xD;发表时间：2026年11月09日">11.7班级一日考核</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：36&#xD;发表时间：2026年11月09日">11.6班级一日考核</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：126&#xD;发表时间：2026年11月09日">体育教研及体育课调整通知</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：127&#xD;发表时间：2026年11月09日">体育教研及体育课调整通知</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23921.aspx" target="_blank" title="标题：寻物启事（饭卡）&#xD;点击数：34&#xD;发表时间：2026年11月09日">寻物启事（饭卡）</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23920.aspx" target="_blank" title="标题：2026暑期社会实践先进个人名单公示&#xD;点击数：119&#xD;发表时间：2026年11月09日">2026暑期社会实践先进个人名单公示</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23919.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：35&#xD;发表时间：2026年11月09日">大扫除通知</a></li>
