@@ -427,7 +427,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22896.aspx">一楼食堂部分食物明显缩小</a></td>
     <td>kouzi1001</td>
-    <td>25</td>
+    <td>26</td>
     <td>2026-03-20</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
