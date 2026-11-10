@@ -371,7 +371,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/13999.aspx" target="_blank" title="标题：技术教研组&#xD;点击数：2449&#xD;发表时间：2026年09月02日">技术教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13997.aspx" target="_blank" title="标题：历史教研组&#xD;点击数：2271&#xD;发表时间：2026年09月02日">历史教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13996.aspx" target="_blank" title="标题：政治教研组&#xD;点击数：2961&#xD;发表时间：2026年09月02日">政治教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13995.aspx" target="_blank" title="标题：生物教研组&#xD;点击数：2249&#xD;发表时间：2024年09月06日">生物教研组</a><span class="dateRight">[09-06]</span></li><li><a href="/Item/13986.aspx" target="_blank" title="标题：英语教研组&#xD;点击数：3483&#xD;发表时间：2026年09月02日">英语教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13985.aspx" target="_blank" title="标题：数学教研组&#xD;点击数：4023&#xD;发表时间：2026年09月02日">数学教研组</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/18035.aspx" target="_blank" title="标题：特级教师&#xD;点击数：1622&#xD;发表时间：2025年09月12日">特级教师</a><span class="dateRight">[09-12]</span></li>
+            <li class="first"><a href="/Item/13999.aspx" target="_blank" title="标题：技术教研组&#xD;点击数：2449&#xD;发表时间：2026年09月02日">技术教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13997.aspx" target="_blank" title="标题：历史教研组&#xD;点击数：2271&#xD;发表时间：2026年09月02日">历史教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13996.aspx" target="_blank" title="标题：政治教研组&#xD;点击数：2961&#xD;发表时间：2026年09月02日">政治教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13995.aspx" target="_blank" title="标题：生物教研组&#xD;点击数：2249&#xD;发表时间：2024年09月06日">生物教研组</a><span class="dateRight">[09-06]</span></li><li><a href="/Item/13986.aspx" target="_blank" title="标题：英语教研组&#xD;点击数：3483&#xD;发表时间：2026年09月02日">英语教研组</a><span class="dateRight">[09-02]</span></li><li><a href="/Item/13985.aspx" target="_blank" title="标题：数学教研组&#xD;点击数：4023&#xD;发表时间：2026年09月02日">数学教研组</a><span class="dateRight">[09-02]</span></li><li class="last"><a href="/Item/18035.aspx" target="_blank" title="标题：特级教师&#xD;点击数：1623&#xD;发表时间：2025年09月12日">特级教师</a><span class="dateRight">[09-12]</span></li>
           
 		</ul>
 	</div>
@@ -485,7 +485,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">09-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18035.aspx" target="_blank" title="标题：特级教师&#xD;点击数：1622&#xD;发表时间：2025年09月12日">特级教师</a></li><li class="last"><span class="date">11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/623.aspx" target="_blank" title="标题：特级教师&#xD;点击数：33904&#xD;发表时间：2009年11月24日">特级教师</a></li>
+            <li class="first"><span class="date">09-12</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/18035.aspx" target="_blank" title="标题：特级教师&#xD;点击数：1623&#xD;发表时间：2025年09月12日">特级教师</a></li><li class="last"><span class="date">11-24</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/623.aspx" target="_blank" title="标题：特级教师&#xD;点击数：33905&#xD;发表时间：2009年11月24日">特级教师</a></li>
           
                             </ul>
                         </div>
