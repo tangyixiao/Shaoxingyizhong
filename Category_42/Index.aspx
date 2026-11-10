@@ -376,7 +376,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/982.aspx" target="_blank" title="标题：领导关怀&#xD;点击数：56926&#xD;发表时间：2009年12月08日"><font style=";">领导关怀</font></a><span class="dateRight">[12-08]</span></li><li><a href="/Item/722.aspx" target="_blank" title="标题：创新成果&#xD;点击数：26241&#xD;发表时间：2009年11月30日"><font style=";">创新成果</font></a><span class="dateRight">[11-30]</span></li><li class="last"><a href="/Item/721.aspx" target="_blank" title="标题：高考情况&#xD;点击数：183050&#xD;发表时间：2009年11月30日"><font style=";">高考情况</font></a><span class="dateRight">[11-30]</span></li>
+            <li class="first"><a href="/Item/982.aspx" target="_blank" title="标题：领导关怀&#xD;点击数：56926&#xD;发表时间：2009年12月08日"><font style=";">领导关怀</font></a><span class="dateRight">[12-08]</span></li><li><a href="/Item/722.aspx" target="_blank" title="标题：创新成果&#xD;点击数：26242&#xD;发表时间：2009年11月30日"><font style=";">创新成果</font></a><span class="dateRight">[11-30]</span></li><li class="last"><a href="/Item/721.aspx" target="_blank" title="标题：高考情况&#xD;点击数：183050&#xD;发表时间：2009年11月30日"><font style=";">高考情况</font></a><span class="dateRight">[11-30]</span></li>
           
 		</ul>
 	</div>
