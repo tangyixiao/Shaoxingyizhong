@@ -350,11 +350,11 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-11</span><a href="/Item/23937.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：31&#xD;发表时间：2026年11月11日">第十八期团校上课通知</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23936.aspx" target="_blank" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：67&#xD;发表时间：2026年11月11日">高三诊断性考试成绩分析会通知</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23935.aspx" target="_blank" title="标题：窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生赴上虞瓷源文化小镇开展秋季研学&#xD;点击数：26&#xD;发表时间：2026年11月11日">窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生赴上虞瓷源文化小镇开展秋季研学</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23921.aspx" target="_blank" title="标题：寻物启事（饭卡3）&#xD;点击数：90&#xD;发表时间：2026年11月11日">寻物启事（饭卡3）</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：225&#xD;发表时间：2026年11月11日">体育教研及体育课调整通知</a></li>
+  <li><span class="date">2026-11-11</span><a href="/Item/23937.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：34&#xD;发表时间：2026年11月11日">第十八期团校上课通知</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23936.aspx" target="_blank" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：70&#xD;发表时间：2026年11月11日">高三诊断性考试成绩分析会通知</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23935.aspx" target="_blank" title="标题：窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生赴上虞瓷源文化小镇开展秋季研学&#xD;点击数：27&#xD;发表时间：2026年11月11日">窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生赴上虞瓷源文化小镇开展秋季研学</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23921.aspx" target="_blank" title="标题：寻物启事（饭卡3）&#xD;点击数：91&#xD;发表时间：2026年11月11日">寻物启事（饭卡3）</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：226&#xD;发表时间：2026年11月11日">体育教研及体育课调整通知</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23934.aspx" target="_blank" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：81&#xD;发表时间：2026年11月11日">高三家长会注意事项及晚自修安排</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23933.aspx" target="_blank" title="标题：11.9班级一日考核&#xD;点击数：38&#xD;发表时间：2026年11月10日">11.9班级一日考核</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23932.aspx" target="_blank" title="标题：失物招领（现金）&#xD;点击数：34&#xD;发表时间：2026年11月10日">失物招领（现金）</a></li>
@@ -378,7 +378,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-11-06</span><a href="/Item/23910.aspx" target="_blank" title="标题：2026年绍兴一中教育集团（镜湖校区）消防应急疏散演练方案&#xD;点击数：168&#xD;发表时间：2026年11月06日">2026年绍兴一中教育集团（镜湖校区）消防应急疏散演练方案</a></li>
 <li><span class="date">2026-11-06</span><a href="/Item/23909.aspx" target="_blank" title="标题：周六社团课通知5则&#xD;点击数：100&#xD;发表时间：2026年11月06日">周六社团课通知5则</a></li>
 <li><span class="date">2026-11-06</span><a href="/Item/23908.aspx" target="_blank" title="标题：失物招领（冬装校服）&#xD;点击数：37&#xD;发表时间：2026年11月06日">失物招领（冬装校服）</a></li>
-<li><span class="date">2026-11-06</span><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：63&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a></li>
+<li><span class="date">2026-11-06</span><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：64&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a></li>
 <li><span class="date">2026-11-05</span><a href="/Item/23906.aspx" target="_blank" title="标题：高一晚自修（11.8-11.13）&#xD;点击数：52&#xD;发表时间：2026年11月05日">高一晚自修（11.8-11.13）</a></li>
 <li><span class="date">2026-11-05</span><a href="/Item/23905.aspx" target="_blank" title="标题：11.4班级一日考核&#xD;点击数：61&#xD;发表时间：2026年11月05日">11.4班级一日考核</a></li>
 <li><span class="date">2026-11-05</span><a href="/Item/23904.aspx" target="_blank" title="标题：关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知&#xD;点击数：139&#xD;发表时间：2026年11月05日">关于开展2026年全市教育技术（信息化）课题研究成果鉴定的通知</a></li>
