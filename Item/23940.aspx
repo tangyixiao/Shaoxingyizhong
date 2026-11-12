@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23940.aspx" target="_blank" title="标题：关于每周四校排球队室内排球馆训练的通知&#xD;点击数：83&#xD;发表时间：2026年11月12日">关于每周四校排球队室内排球馆训练的通知</a><span class="dateRight">[11-12]</span></li><li><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：274&#xD;发表时间：2026年11月11日">体育教研及体育课调整通知</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23804.aspx" target="_blank" title="标题：高一、高二期中考时间和考试范围&#xD;点击数：374&#xD;发表时间：2026年10月16日">高一、高二期中考时间和考试范围</a><span class="dateRight">[10-16]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：80&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li class="last"><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li>
+            <li class="first"><a href="/Item/23940.aspx" target="_blank" title="标题：关于每周四校排球队室内排球馆训练的通知&#xD;点击数：88&#xD;发表时间：2026年11月12日">关于每周四校排球队室内排球馆训练的通知</a><span class="dateRight">[11-12]</span></li><li><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：277&#xD;发表时间：2026年11月11日">体育教研及体育课调整通知</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23804.aspx" target="_blank" title="标题：高一、高二期中考时间和考试范围&#xD;点击数：374&#xD;发表时间：2026年10月16日">高一、高二期中考时间和考试范围</a><span class="dateRight">[10-16]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23748.aspx" target="_blank" title="标题：高三10.08联盟考试考场布置及相关要求&#xD;点击数：80&#xD;发表时间：2026年10月06日">高三10.08联盟考试考场布置及相关要求</a><span class="dateRight">[10-06]</span></li><li><a href="/Item/22786.aspx" target="_blank" title="标题：03.04高三协作体考场布置及相关要求&#xD;点击数：45&#xD;发表时间：2026年03月01日">03.04高三协作体考场布置及相关要求</a><span class="dateRight">[03-01]</span></li><li class="last"><a href="/Item/21589.aspx" target="_blank" title="标题：06.14高一学考模拟考监考安排和学生考场安排&#xD;点击数：400&#xD;发表时间：2025年06月11日">06.14高一学考模拟考监考安排和学生考场安排</a><span class="dateRight">[06-11]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23922.aspx" target="_self" title="标题：体育教研及体育课调整通知&#xD;点击数：274&#xD;发表时间：26年11月11日">体育教研及体育课调整通知</a>[ 11-11 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23922.aspx" target="_self" title="标题：体育教研及体育课调整通知&#xD;点击数：277&#xD;发表时间：26年11月11日">体育教研及体育课调整通知</a>[ 11-11 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
