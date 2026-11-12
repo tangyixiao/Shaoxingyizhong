@@ -350,21 +350,23 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-12</span><a href="/Item/23940.aspx" target="_blank" title="标题：关于每周四校排球队室内排球馆训练的通知&#xD;点击数：88&#xD;发表时间：2026年11月12日">关于每周四校排球队室内排球馆训练的通知</a></li>
+  <li><span class="date">2026-11-12</span><a href="/Item/23942.aspx" target="_blank" title="标题：关于开展教职工生日蛋糕卡采购单位投票表决的通知&#xD;点击数：16&#xD;发表时间：2026年11月12日">关于开展教职工生日蛋糕卡采购单位投票表决的通知</a></li>
+<li><span class="date">2026-11-12</span><a href="/Item/23941.aspx" target="_blank" title="标题：11.11一日考核&#xD;点击数：7&#xD;发表时间：2026年11月12日">11.11一日考核</a></li>
+<li><span class="date">2026-11-12</span><a href="/Item/23940.aspx" target="_blank" title="标题：关于每周四校排球队室内排球馆训练的通知&#xD;点击数：93&#xD;发表时间：2026年11月12日">关于每周四校排球队室内排球馆训练的通知</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23939.aspx" target="_blank" title="标题：11.10班级一日考核&#xD;点击数：58&#xD;发表时间：2026年11月11日">11.10班级一日考核</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：160&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：163&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23937.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：81&#xD;发表时间：2026年11月11日">第十八期团校上课通知</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23936.aspx" target="_blank" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：133&#xD;发表时间：2026年11月11日">高三诊断性考试成绩分析会通知</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23936.aspx" target="_blank" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：135&#xD;发表时间：2026年11月11日">高三诊断性考试成绩分析会通知</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23935.aspx" target="_blank" title="标题：窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生赴上虞瓷源文化小镇开展秋季研学&#xD;点击数：63&#xD;发表时间：2026年11月11日">窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生赴上虞瓷源文化小镇开展秋季研学</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23921.aspx" target="_blank" title="标题：寻物启事（饭卡3）&#xD;点击数：111&#xD;发表时间：2026年11月11日">寻物启事（饭卡3）</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23922.aspx" target="_blank" title="标题：体育教研及体育课调整通知&#xD;点击数：277&#xD;发表时间：2026年11月11日">体育教研及体育课调整通知</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23934.aspx" target="_blank" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：155&#xD;发表时间：2026年11月11日">高三家长会注意事项及晚自修安排</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23934.aspx" target="_blank" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：160&#xD;发表时间：2026年11月11日">高三家长会注意事项及晚自修安排</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23933.aspx" target="_blank" title="标题：11.9班级一日考核&#xD;点击数：44&#xD;发表时间：2026年11月10日">11.9班级一日考核</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23932.aspx" target="_blank" title="标题：失物招领（现金）&#xD;点击数：39&#xD;发表时间：2026年11月10日">失物招领（现金）</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：113&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23930.aspx" target="_blank" title="标题：第27届团学联主席团、部长、副部长宣传照拍摄通知&#xD;点击数：103&#xD;发表时间：2026年11月10日">第27届团学联主席团、部长、副部长宣传照拍摄通知</a></li>
 <li><span class="date">2026-11-10</span><a href="/Item/23929.aspx" target="_blank" title="标题：跑操考核员开会通知&#xD;点击数：78&#xD;发表时间：2026年11月10日">跑操考核员开会通知</a></li>
-<li><span class="date">2026-11-10</span><a href="/Item/23928.aspx" target="_blank" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：227&#xD;发表时间：2026年11月10日">关于本周开展全校课桌舞活动的通知</a></li>
+<li><span class="date">2026-11-10</span><a href="/Item/23928.aspx" target="_blank" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：228&#xD;发表时间：2026年11月10日">关于本周开展全校课桌舞活动的通知</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23927.aspx" target="_blank" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：164&#xD;发表时间：2026年11月09日">绍兴一中与山东潍坊教师团队交流安排</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23925.aspx" target="_blank" title="标题：11.7班级一日考核&#xD;点击数：44&#xD;发表时间：2026年11月09日">11.7班级一日考核</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：37&#xD;发表时间：2026年11月09日">11.6班级一日考核</a></li>
@@ -395,11 +397,9 @@ function GetUserInfo1(response){
 <li><span class="date">2026-11-02</span><a href="/Item/23896.aspx" target="_blank" title="标题：10.31班级一日考核&#xD;点击数：64&#xD;发表时间：2026年11月02日">10.31班级一日考核</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23895.aspx" target="_blank" title="标题：10.30班级一日考核&#xD;点击数：52&#xD;发表时间：2026年11月02日">10.30班级一日考核</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23894.aspx" target="_blank" title="标题：关于第二十七届团学联干部干事培训会的通知&#xD;点击数：113&#xD;发表时间：2026年11月02日">关于第二十七届团学联干部干事培训会的通知</a></li>
-<li><span class="date">2026-11-02</span><a href="/Item/23893.aspx" target="_blank" title="标题：2026年正高级职称评审申报的通知&#xD;点击数：214&#xD;发表时间：2026年11月02日">2026年正高级职称评审申报的通知</a></li>
+<li><span class="date">2026-11-02</span><a href="/Item/23893.aspx" target="_blank" title="标题：2026年正高级职称评审申报的通知&#xD;点击数：215&#xD;发表时间：2026年11月02日">2026年正高级职称评审申报的通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23892.aspx" target="_blank" title="标题：关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知&#xD;点击数：181&#xD;发表时间：2026年11月02日">关于举办绍兴一中教育集团工会教职工篮球投篮比赛的通知</a></li>
 <li><span class="date">2026-11-02</span><a href="/Item/23890.aspx" target="_blank" title="标题：高三：窑火淬匠心，少年逐梦行&#xD;点击数：299&#xD;发表时间：2026年11月02日">高三：窑火淬匠心，少年逐梦行</a></li>
-<li><span class="date">2026-11-02</span><a href="/Item/23889.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：45&#xD;发表时间：2026年11月02日">大扫除通知</a></li>
-<li><span class="date">2026-11-02</span><a href="/Item/23888.aspx" target="_blank" title="标题：市田径比赛报名通知&#xD;点击数：136&#xD;发表时间：2026年11月02日">市田径比赛报名通知</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>

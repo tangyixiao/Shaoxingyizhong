@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23939.aspx" target="_blank" title="标题：11.10班级一日考核&#xD;点击数：58&#xD;发表时间：2026年11月11日">11.10班级一日考核</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：37&#xD;发表时间：2026年11月09日">11.6班级一日考核</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li><li><a href="/Item/22667.aspx" target="_blank" title="标题：1.16班级一日考核&#xD;点击数：39&#xD;发表时间：2026年01月19日">1.16班级一日考核</a><span class="dateRight">[01-19]</span></li><li class="last"><a href="/Item/22320.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：46&#xD;发表时间：2025年11月24日">大扫除通知</a><span class="dateRight">[11-24]</span></li>
+            <li class="first"><a href="/Item/23939.aspx" target="_blank" title="标题：11.10班级一日考核&#xD;点击数：58&#xD;发表时间：2026年11月11日">11.10班级一日考核</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：37&#xD;发表时间：2026年11月09日">11.6班级一日考核</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23941.aspx" target="_blank" title="标题：11.11一日考核&#xD;点击数：7&#xD;发表时间：2026年11月12日">11.11一日考核</a><span class="dateRight">[11-12]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23928.aspx" target="_blank" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：228&#xD;发表时间：2026年11月10日">关于本周开展全校课桌舞活动的通知</a><span class="dateRight">[11-10]</span></li><li><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li><li class="last"><a href="/Item/22964.aspx" target="_blank" title="标题：3.30班级一日考核&#xD;点击数：40&#xD;发表时间：2026年03月31日">3.30班级一日考核</a><span class="dateRight">[03-31]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23924.aspx" target="_self" title="标题：11.6班级一日考核&#xD;点击数：37&#xD;发表时间：26年11月09日">11.6班级一日考核</a>[ 11-09 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23928.aspx" target="_self" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：227&#xD;发表时间：26年11月10日">关于本周开展全校课桌舞活动的通知</a>[ 11-10 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23928.aspx" target="_self" title="标题：关于本周开展全校课桌舞活动的通知&#xD;点击数：228&#xD;发表时间：26年11月10日">关于本周开展全校课桌舞活动的通知</a>[ 11-10 ]</div>
                         </div>
                     </div>
 
