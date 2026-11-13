@@ -371,7 +371,7 @@ function GetUserInfo1(response){
 	<div class="bd">
 		<ul class="sideinfoList">
 			
-            <li class="first"><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：79&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a><span class="dateRight">[08-28]</span></li><li><a href="/Item/22425.aspx" target="_blank" title="标题：2025年绍兴市高中生涯规划活动评比获奖结果&#xD;点击数：23&#xD;发表时间：2025年12月08日">2025年绍兴市高中生涯规划活动评比获奖结果</a><span class="dateRight">[12-08]</span></li><li><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：84&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a><span class="dateRight">[08-11]</span></li><li><a href="/Item/23494.aspx" target="_blank" title="标题：2026年绍兴市教师命题能力职业技能竞赛我校获奖名单&#xD;点击数：68&#xD;发表时间：2026年07月14日">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a><span class="dateRight">[07-14]</span></li><li><a href="/Item/23472.aspx" target="_blank" title="标题：2025年绍兴市教科规划课题优秀成果我校获奖名单&#xD;点击数：54&#xD;发表时间：2026年07月03日">2025年绍兴市教科规划课题优秀成果我校获奖名单</a><span class="dateRight">[07-03]</span></li><li><a href="/Item/23458.aspx" target="_blank" title="标题：2026年绍兴市直高中教学活动评审获奖名单&#xD;点击数：64&#xD;发表时间：2026年07月01日">2026年绍兴市直高中教学活动评审获奖名单</a><span class="dateRight">[07-01]</span></li><li class="last"><a href="/Item/23014.aspx" target="_blank" title="标题：2025年绍兴市直教师专业阅读活动读后感评比获奖结果&#xD;点击数：74&#xD;发表时间：2026年04月10日">2025年绍兴市直教师专业阅读活动读后感评比获奖结果</a><span class="dateRight">[04-10]</span></li>
+            <li class="first"><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：79&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a><span class="dateRight">[08-28]</span></li><li><a href="/Item/22425.aspx" target="_blank" title="标题：2025年绍兴市高中生涯规划活动评比获奖结果&#xD;点击数：23&#xD;发表时间：2025年12月08日">2025年绍兴市高中生涯规划活动评比获奖结果</a><span class="dateRight">[12-08]</span></li><li><a href="/Item/23947.aspx" target="_blank" title="标题：我校老师获绍兴市思政教育一体化建设专项比赛一等奖&#xD;点击数：1&#xD;发表时间：2026年11月13日">我校老师获绍兴市思政教育一体化建设专项比赛一等奖</a><span class="dateRight">[11-13]</span></li><li><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：84&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a><span class="dateRight">[08-11]</span></li><li><a href="/Item/23494.aspx" target="_blank" title="标题：2026年绍兴市教师命题能力职业技能竞赛我校获奖名单&#xD;点击数：68&#xD;发表时间：2026年07月14日">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a><span class="dateRight">[07-14]</span></li><li><a href="/Item/23472.aspx" target="_blank" title="标题：2025年绍兴市教科规划课题优秀成果我校获奖名单&#xD;点击数：54&#xD;发表时间：2026年07月03日">2025年绍兴市教科规划课题优秀成果我校获奖名单</a><span class="dateRight">[07-03]</span></li><li class="last"><a href="/Item/23458.aspx" target="_blank" title="标题：2026年绍兴市直高中教学活动评审获奖名单&#xD;点击数：64&#xD;发表时间：2026年07月01日">2026年绍兴市直高中教学活动评审获奖名单</a><span class="dateRight">[07-01]</span></li>
           
 		</ul>
 	</div>
@@ -426,6 +426,11 @@ function GetUserInfo1(response){
 </ul>
 <ul class="slideCon">
   <li>
+    <div class="pe_u_thumb"><a href="/Item/23947.aspx" target="_blank"><img src="/UploadFiles/jxky/2026/11/202611131458390387_600_340.png" alt="我校老师获绍兴市思政教育一体化建设专项比赛一等奖"></a></div>
+    <p class="pe_u_thumb_title"><a href="/Item/23947.aspx" target="_blank">我校老师获绍兴市思政教育一体化建设专项比赛一等奖</a></p>
+    <p class="intro">在刚刚公示的2026 年绍兴市思政教育一体化建设专项比赛结果中，我校方建平老师获“我眼中的中国式现代化研学”评比一等奖。
+<a href="/Item/23947.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
+  <li>
     <div class="pe_u_thumb"><a href="/Item/23558.aspx" target="_blank"><img src="/UploadFiles/jxky/2026/8/202608281003260195_600_340.png" alt="2026年绍兴市教学论文评比我校获奖名单"></a></div>
     <p class="pe_u_thumb_title"><a href="/Item/23558.aspx" target="_blank">2026年绍兴市教学论文评比我校获奖名单</a></p>
     <p class="intro">     2026年绍兴市教育教学论文评比已经结束，我校参赛教师共获得6个一等奖，4个二等奖，4个三等奖，祝贺以下获奖教师和相…<a href="/Item/23558.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
@@ -437,10 +442,6 @@ function GetUserInfo1(response){
     <div class="pe_u_thumb"><a href="/Item/23494.aspx" target="_blank"><img src="/UploadFiles/jxky/2026/7/202607141634084528_600_340.png" alt="2026年绍兴市教师命题能力职业技能竞赛我校获奖名单"></a></div>
     <p class="pe_u_thumb_title"><a href="/Item/23494.aspx" target="_blank">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a></p>
     <p class="intro">  2026年绍兴市教师命题能力职业技能竞赛获奖名单已于日前公示。我校老师共获奖13个，其中一等奖6个，二等奖6个，三等奖1个，…<a href="/Item/23494.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
-  <li>
-    <div class="pe_u_thumb"><a href="/Item/23472.aspx" target="_blank"><img src="/UploadFiles/jxky/2026/7/202607031102190920_600_340.png" alt="2025年绍兴市教科规划课题优秀成果我校获奖名单"></a></div>
-    <p class="pe_u_thumb_title"><a href="/Item/23472.aspx" target="_blank">2025年绍兴市教科规划课题优秀成果我校获奖名单</a></p>
-    <p class="intro">2025年绍兴市教科规划课题优秀成果已于日前公示。我校老师共获奖7个，其中一等奖1个，二等奖3个，三等奖3个，具体名单如下，并…<a href="/Item/23472.aspx" class="more">[详细]</a></p><span class="bg"></span></li>
 </ul>
           
         </div>
@@ -470,7 +471,7 @@ $("#pageSlide span:contains('还没有任何项目！')").hide( function()
                         <div class="bd" style="height:190px">
                             <ul class="infoList a14">
                                 
-            <li class="first"><span class="date">08-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：79&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a></li><li><span class="date">08-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：84&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a></li><li><span class="date">07-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23494.aspx" target="_blank" title="标题：2026年绍兴市教师命题能力职业技能竞赛我校获奖名单&#xD;点击数：68&#xD;发表时间：2026年07月14日">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a></li><li><span class="date">07-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23472.aspx" target="_blank" title="标题：2025年绍兴市教科规划课题优秀成果我校获奖名单&#xD;点击数：54&#xD;发表时间：2026年07月03日">2025年绍兴市教科规划课题优秀成果我校获奖名单</a></li><li><span class="date">07-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23458.aspx" target="_blank" title="标题：2026年绍兴市直高中教学活动评审获奖名单&#xD;点击数：64&#xD;发表时间：2026年07月01日">2026年绍兴市直高中教学活动评审获奖名单</a></li><li class="last"><span class="date">04-10</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23014.aspx" target="_blank" title="标题：2025年绍兴市直教师专业阅读活动读后感评比获奖结果&#xD;点击数：74&#xD;发表时间：2026年04月10日">2025年绍兴市直教师专业阅读活动读后感评比获奖结果</a></li>
+            <li class="first"><span class="date">11-13</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23947.aspx" target="_blank" title="标题：我校老师获绍兴市思政教育一体化建设专项比赛一等奖&#xD;点击数：1&#xD;发表时间：2026年11月13日">我校老师获绍兴市思政教育一体化建设专项比赛一等奖</a>&nbsp;<img src="/images/new.gif" alt="最新内容"></li><li><span class="date">08-28</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23558.aspx" target="_blank" title="标题：2026年绍兴市教学论文评比我校获奖名单&#xD;点击数：79&#xD;发表时间：2026年08月28日">2026年绍兴市教学论文评比我校获奖名单</a></li><li><span class="date">08-11</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23495.aspx" target="_blank" title="标题：2026年绍兴市直论文评比我校获奖名单&#xD;点击数：84&#xD;发表时间：2026年08月11日">2026年绍兴市直论文评比我校获奖名单</a></li><li><span class="date">07-14</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23494.aspx" target="_blank" title="标题：2026年绍兴市教师命题能力职业技能竞赛我校获奖名单&#xD;点击数：68&#xD;发表时间：2026年07月14日">2026年绍兴市教师命题能力职业技能竞赛我校获奖名单</a></li><li><span class="date">07-03</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23472.aspx" target="_blank" title="标题：2025年绍兴市教科规划课题优秀成果我校获奖名单&#xD;点击数：54&#xD;发表时间：2026年07月03日">2025年绍兴市教科规划课题优秀成果我校获奖名单</a></li><li class="last"><span class="date">07-01</span><img src="/images/ontop1.gif" alt="热门"><a href="/Item/23458.aspx" target="_blank" title="标题：2026年绍兴市直高中教学活动评审获奖名单&#xD;点击数：64&#xD;发表时间：2026年07月01日">2026年绍兴市直高中教学活动评审获奖名单</a></li>
           
                             </ul>
                         </div>
