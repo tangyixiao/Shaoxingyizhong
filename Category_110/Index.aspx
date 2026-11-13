@@ -403,7 +403,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23739.aspx">Mortis</a></td>
     <td>若叶睦</td>
-    <td>22</td>
+    <td>23</td>
     <td>2026-09-28</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -411,7 +411,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23312.aspx">如题</a></td>
     <td>JM天堂</td>
-    <td>60</td>
+    <td>61</td>
     <td>2026-05-29</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -419,7 +419,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/23242.aspx">止战之殇</a></td>
     <td>kouzi1001</td>
-    <td>70</td>
+    <td>71</td>
     <td>2026-05-19</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -435,7 +435,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22556.aspx">🥵😡😨😰😱😭</a></td>
     <td>高松灯</td>
-    <td>54</td>
+    <td>55</td>
     <td>2025-12-26</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
@@ -443,7 +443,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22555.aspx">组乐队!!!</a></td>
     <td>高松灯</td>
-    <td>56</td>
+    <td>57</td>
     <td>2025-12-26</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>

@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：163&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的…</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23927.aspx" target="_blank" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：164&#xD;发表时间：2026年11月09日">绍兴一中与山东潍坊教师团队交流安排</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23855.aspx" target="_blank" title="标题：关于开展2027年浙江省教育科学规划课题申报工作的通知&#xD;点击数：156&#xD;发表时间：2026年10月26日">关于开展2027年浙江省教育科学规划课题申报工作的通知</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23821.aspx" target="_blank" title="标题：绍兴市（直）“杰出教师培育库（教学能手）” 校内评议结果公示&#xD;点击数：264&#xD;发表时间：2026年10月20日">绍兴市（直）“杰出教师培育库（教学能手）” 校内评议结…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23797.aspx" target="_blank" title="标题：绍兴一中教育集团关于开展2026年绍兴市 “杰出教师培育库（教学能手）” 校内遴选推荐工作的通知&#xD;点击数：370&#xD;发表时间：2026年10月15日">绍兴一中教育集团关于开展2026年绍兴市 “杰出教师培育库…</a><span class="dateRight">[10-15]</span></li><li><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：113&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术…</a><span class="dateRight">[11-10]</span></li><li class="last"><a href="/Item/23883.aspx" target="_blank" title="标题：关于信息技术组外出培训的通知&#xD;点击数：82&#xD;发表时间：2026年10月31日">关于信息技术组外出培训的通知</a><span class="dateRight">[10-31]</span></li>
+            <li class="first"><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：180&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的…</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：117&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术…</a><span class="dateRight">[11-10]</span></li><li><a href="/Item/23821.aspx" target="_blank" title="标题：绍兴市（直）“杰出教师培育库（教学能手）” 校内评议结果公示&#xD;点击数：266&#xD;发表时间：2026年10月20日">绍兴市（直）“杰出教师培育库（教学能手）” 校内评议结…</a><span class="dateRight">[10-20]</span></li><li><a href="/Item/23670.aspx" target="_blank" title="标题：关于英语教研活动的通知&#xD;点击数：172&#xD;发表时间：2026年09月17日">关于英语教研活动的通知</a><span class="dateRight">[09-17]</span></li><li><a href="/Item/23168.aspx" target="_blank" title="标题：关于历史教研活动的通知&#xD;点击数：111&#xD;发表时间：2026年05月08日">关于历史教研活动的通知</a><span class="dateRight">[05-08]</span></li><li><a href="/Item/23030.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：139&#xD;发表时间：2026年04月14日">英语教研活动通知</a><span class="dateRight">[04-14]</span></li><li class="last"><a href="/Item/22845.aspx" target="_blank" title="标题：转发绍兴市教育教学研究院关于做好2026年浙江省教研课题市级初审工作的通知&#xD;点击数：153&#xD;发表时间：2026年03月12日">转发绍兴市教育教学研究院关于做好2026年浙江省教研课题…</a><span class="dateRight">[03-12]</span></li>
           
                     </ul>
                 </div>
@@ -440,8 +440,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23927.aspx" target="_self" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：164&#xD;发表时间：26年11月09日">绍兴一中与山东潍坊教师团队交流安排</a>[ 11-09 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23938.aspx" target="_self" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：163&#xD;发表时间：26年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知</a>[ 11-11 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23927.aspx" target="_self" title="标题：绍兴一中与山东潍坊教师团队交流安排&#xD;点击数：169&#xD;发表时间：26年11月09日">绍兴一中与山东潍坊教师团队交流安排</a>[ 11-09 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23938.aspx" target="_self" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：180&#xD;发表时间：26年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知</a>[ 11-11 ]</div>
                         </div>
                     </div>
 

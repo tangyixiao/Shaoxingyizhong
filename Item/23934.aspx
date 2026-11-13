@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23934.aspx" target="_blank" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：168&#xD;发表时间：2026年11月11日">高三家长会注意事项及晚自修安排</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23936.aspx" target="_blank" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：136&#xD;发表时间：2026年11月11日">高三诊断性考试成绩分析会通知</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：67&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a><span class="dateRight">[11-06]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23028.aspx" target="_blank" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：204&#xD;发表时间：2026年04月14日">高三家长会注意事项及晚自修安排</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23840.aspx" target="_blank" title="标题：高三晚自修（10.26-11.8）&#xD;点击数：99&#xD;发表时间：2026年10月23日">高三晚自修（10.26-11.8）</a><span class="dateRight">[10-23]</span></li><li class="last"><a href="/Item/23815.aspx" target="_blank" title="标题：高三年级表彰暨动员大会通知&#xD;点击数：205&#xD;发表时间：2026年10月20日">高三年级表彰暨动员大会通知</a><span class="dateRight">[10-20]</span></li>
+            <li class="first"><a href="/Item/23934.aspx" target="_blank" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：184&#xD;发表时间：2026年11月11日">高三家长会注意事项及晚自修安排</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/21883.aspx" target="_blank" title="标题：高三晚自修+答疑管理安排（9.14-9.19）&#xD;点击数：119&#xD;发表时间：2025年09月11日">高三晚自修+答疑管理安排（9.14-9.19）</a><span class="dateRight">[09-11]</span></li><li><a href="/Item/23028.aspx" target="_blank" title="标题：高三家长会注意事项及晚自修安排&#xD;点击数：204&#xD;发表时间：2026年04月14日">高三家长会注意事项及晚自修安排</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23936.aspx" target="_blank" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：141&#xD;发表时间：2026年11月11日">高三诊断性考试成绩分析会通知</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23907.aspx" target="_blank" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：68&#xD;发表时间：2026年11月06日">高三晚自修（11.9—11.22）</a><span class="dateRight">[11-06]</span></li><li><a href="/Item/23840.aspx" target="_blank" title="标题：高三晚自修（10.26-11.8）&#xD;点击数：99&#xD;发表时间：2026年10月23日">高三晚自修（10.26-11.8）</a><span class="dateRight">[10-23]</span></li><li class="last"><a href="/Item/23815.aspx" target="_blank" title="标题：高三年级表彰暨动员大会通知&#xD;点击数：205&#xD;发表时间：2026年10月20日">高三年级表彰暨动员大会通知</a><span class="dateRight">[10-20]</span></li>
           
                     </ul>
                 </div>
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23907.aspx" target="_self" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：67&#xD;发表时间：26年11月06日">高三晚自修（11.9—11.22）</a>[ 11-06 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23936.aspx" target="_self" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：136&#xD;发表时间：26年11月11日">高三诊断性考试成绩分析会通知</a>[ 11-11 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23907.aspx" target="_self" title="标题：高三晚自修（11.9—11.22）&#xD;点击数：68&#xD;发表时间：26年11月06日">高三晚自修（11.9—11.22）</a>[ 11-06 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23936.aspx" target="_self" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：141&#xD;发表时间：26年11月11日">高三诊断性考试成绩分析会通知</a>[ 11-11 ]</div>
                         </div>
                     </div>
 
