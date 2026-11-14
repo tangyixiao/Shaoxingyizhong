@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23944.aspx" target="_blank" title="标题：高二晚自修（11.16-11.22）&#xD;点击数：54&#xD;发表时间：2026年11月13日">高二晚自修（11.16-11.22）</a><span class="dateRight">[11-13]</span></li><li><a href="/Item/23911.aspx" target="_blank" title="标题：高二晚自修（11.9-11.15）&#xD;点击数：56&#xD;发表时间：2026年11月06日">高二晚自修（11.9-11.15）</a><span class="dateRight">[11-06]</span></li><li><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：78&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23875.aspx" target="_blank" title="标题：高二晚自修（11.2-11.8）&#xD;点击数：77&#xD;发表时间：2026年10月30日">高二晚自修（11.2-11.8）</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23827.aspx" target="_blank" title="标题：高二晚自修（10.26-11.1）&#xD;点击数：97&#xD;发表时间：2026年10月21日">高二晚自修（10.26-11.1）</a><span class="dateRight">[10-21]</span></li><li><a href="/Item/23802.aspx" target="_blank" title="标题：高二晚自习(10.18-10.23、10.25)&#xD;点击数：119&#xD;发表时间：2026年10月16日">高二晚自习(10.18-10.23、10.25)</a><span class="dateRight">[10-16]</span></li><li class="last"><a href="/Item/23774.aspx" target="_blank" title="标题：高二晚自习(10.11-10.16)&#xD;点击数：73&#xD;发表时间：2026年10月12日">高二晚自习(10.11-10.16)</a><span class="dateRight">[10-12]</span></li>
+            <li class="first"><a href="/Item/23944.aspx" target="_blank" title="标题：高二晚自修（11.16-11.22）&#xD;点击数：67&#xD;发表时间：2026年11月13日">高二晚自修（11.16-11.22）</a><span class="dateRight">[11-13]</span></li><li><a href="/Item/23747.aspx" target="_blank" title="标题：高二晚自习(10.6-10.9)&#xD;点击数：78&#xD;发表时间：2026年09月30日">高二晚自习(10.6-10.9)</a><span class="dateRight">[09-30]</span></li><li><a href="/Item/23911.aspx" target="_blank" title="标题：高二晚自修（11.9-11.15）&#xD;点击数：58&#xD;发表时间：2026年11月06日">高二晚自修（11.9-11.15）</a><span class="dateRight">[11-06]</span></li><li><a href="/Item/23875.aspx" target="_blank" title="标题：高二晚自修（11.2-11.8）&#xD;点击数：77&#xD;发表时间：2026年10月30日">高二晚自修（11.2-11.8）</a><span class="dateRight">[10-30]</span></li><li><a href="/Item/23827.aspx" target="_blank" title="标题：高二晚自修（10.26-11.1）&#xD;点击数：97&#xD;发表时间：2026年10月21日">高二晚自修（10.26-11.1）</a><span class="dateRight">[10-21]</span></li><li><a href="/Item/23802.aspx" target="_blank" title="标题：高二晚自习(10.18-10.23、10.25)&#xD;点击数：119&#xD;发表时间：2026年10月16日">高二晚自习(10.18-10.23、10.25)</a><span class="dateRight">[10-16]</span></li><li class="last"><a href="/Item/23774.aspx" target="_blank" title="标题：高二晚自习(10.11-10.16)&#xD;点击数：73&#xD;发表时间：2026年10月12日">高二晚自习(10.11-10.16)</a><span class="dateRight">[10-12]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23911.aspx" target="_self" title="标题：高二晚自修（11.9-11.15）&#xD;点击数：56&#xD;发表时间：26年11月06日">高二晚自修（11.9-11.15）</a>[ 11-06 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23911.aspx" target="_self" title="标题：高二晚自修（11.9-11.15）&#xD;点击数：58&#xD;发表时间：26年11月06日">高二晚自修（11.9-11.15）</a>[ 11-06 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
