@@ -350,7 +350,7 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-14</span><a href="/Item/23950.aspx" target="_blank" title="标题：关于开展11月支部主题党日活动的通知&#xD;点击数：28&#xD;发表时间：2026年11月14日">关于开展11月支部主题党日活动的通知</a></li>
+  <li><span class="date">2026-11-14</span><a href="/Item/23950.aspx" target="_blank" title="标题：关于开展11月支部主题党日活动的通知&#xD;点击数：29&#xD;发表时间：2026年11月14日">关于开展11月支部主题党日活动的通知</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23949.aspx" target="_blank" title="标题：通用技术老师汇报课&#xD;点击数：75&#xD;发表时间：2026年11月13日">通用技术老师汇报课</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23948.aspx" target="_blank" title="标题：11.12一日考核&#xD;点击数：45&#xD;发表时间：2026年11月13日">11.12一日考核</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23947.aspx" target="_blank" title="标题：我校老师获绍兴市思政教育一体化建设专项比赛一等奖&#xD;点击数：4&#xD;发表时间：2026年11月13日">我校老师获绍兴市思政教育一体化建设专项比赛一等奖</a></li>
