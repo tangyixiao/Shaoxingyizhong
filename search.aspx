@@ -350,11 +350,11 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-14</span><a href="/Item/23950.aspx" target="_blank" title="标题：关于开展11月支部主题党日活动的通知&#xD;点击数：40&#xD;发表时间：2026年11月14日">关于开展11月支部主题党日活动的通知</a></li>
-<li><span class="date">2026-11-13</span><a href="/Item/23949.aspx" target="_blank" title="标题：通用技术老师汇报课&#xD;点击数：80&#xD;发表时间：2026年11月13日">通用技术老师汇报课</a></li>
+  <li><span class="date">2026-11-14</span><a href="/Item/23950.aspx" target="_blank" title="标题：关于开展11月支部主题党日活动的通知&#xD;点击数：45&#xD;发表时间：2026年11月14日">关于开展11月支部主题党日活动的通知</a></li>
+<li><span class="date">2026-11-13</span><a href="/Item/23949.aspx" target="_blank" title="标题：通用技术老师汇报课&#xD;点击数：82&#xD;发表时间：2026年11月13日">通用技术老师汇报课</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23948.aspx" target="_blank" title="标题：11.12一日考核&#xD;点击数：47&#xD;发表时间：2026年11月13日">11.12一日考核</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23947.aspx" target="_blank" title="标题：我校老师获绍兴市思政教育一体化建设专项比赛一等奖&#xD;点击数：4&#xD;发表时间：2026年11月13日">我校老师获绍兴市思政教育一体化建设专项比赛一等奖</a></li>
-<li><span class="date">2026-11-13</span><a href="/Item/23946.aspx" target="_blank" title="标题：2026年度正高级教师申报拟推荐参评对象公示&#xD;点击数：154&#xD;发表时间：2026年11月13日">2026年度正高级教师申报拟推荐参评对象公示</a></li>
+<li><span class="date">2026-11-13</span><a href="/Item/23946.aspx" target="_blank" title="标题：2026年度正高级教师申报拟推荐参评对象公示&#xD;点击数：155&#xD;发表时间：2026年11月13日">2026年度正高级教师申报拟推荐参评对象公示</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23945.aspx" target="_blank" title="标题：创新学部11月15日至11月27日晚自习安排&#xD;点击数：68&#xD;发表时间：2026年11月13日">创新学部11月15日至11月27日晚自习安排</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23944.aspx" target="_blank" title="标题：高二晚自修（11.16-11.22）&#xD;点击数：67&#xD;发表时间：2026年11月13日">高二晚自修（11.16-11.22）</a></li>
 <li><span class="date">2026-11-12</span><a href="/Item/23943.aspx" target="_blank" title="标题：高一晚自修（11.15-11.20）&#xD;点击数：48&#xD;发表时间：2026年11月12日">高一晚自修（11.15-11.20）</a></li>
@@ -380,7 +380,7 @@ function GetUserInfo1(response){
 <li><span class="date">2026-11-09</span><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：37&#xD;发表时间：2026年11月09日">11.6班级一日考核</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23920.aspx" target="_blank" title="标题：2026暑期社会实践先进个人名单公示&#xD;点击数：134&#xD;发表时间：2026年11月09日">2026暑期社会实践先进个人名单公示</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23919.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：40&#xD;发表时间：2026年11月09日">大扫除通知</a></li>
-<li><span class="date">2026-11-09</span><a href="/Item/23918.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：146&#xD;发表时间：2026年11月09日">博雅育人| 德育名师风采录（第十一期）</a></li>
+<li><span class="date">2026-11-09</span><a href="/Item/23918.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：147&#xD;发表时间：2026年11月09日">博雅育人| 德育名师风采录（第十一期）</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23917.aspx" target="_blank" title="标题：求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动&#xD;点击数：65&#xD;发表时间：2026年11月09日">求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23916.aspx" target="_blank" title="标题：聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科市直主题研修活动在我校举行&#xD;点击数：50&#xD;发表时间：2026年11月09日">聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科市直主题研修活动在我校举行</a></li>
 <li><span class="date">2026-11-09</span><a href="/Item/23915.aspx" target="_blank" title="标题：每周一学（2026年11月9日-11月15日）中共中央发出通知 部署党的二十一大代表选举工作&#xD;点击数：8&#xD;发表时间：2026年11月09日">每周一学（2026年11月9日-11月15日）中共中央发出通知 部署党的二十一大代表选举工作</a></li>

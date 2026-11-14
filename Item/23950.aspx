@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23950.aspx" target="_blank" title="标题：关于开展11月支部主题党日活动的通知&#xD;点击数：40&#xD;发表时间：2026年11月14日">关于开展11月支部主题党日活动的通知</a><span class="dateRight">[11-14]</span></li><li><a href="/Item/23946.aspx" target="_blank" title="标题：2026年度正高级教师申报拟推荐参评对象公示&#xD;点击数：154&#xD;发表时间：2026年11月13日">2026年度正高级教师申报拟推荐参评对象公示</a><span class="dateRight">[11-13]</span></li><li><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：333&#xD;发表时间：2026年08月12日">教学楼办公室调整公告(有修改)</a><span class="dateRight">[08-12]</span></li><li><a href="/Item/22024.aspx" target="_blank" title="标题：2025年正高级职称评审申报的通知&#xD;点击数：255&#xD;发表时间：2025年10月08日">2025年正高级职称评审申报的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23826.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于马丹娜等同志职务任免的通知&#xD;点击数：307&#xD;发表时间：2026年10月21日">中共绍兴市第一中学委员会关于马丹娜等同志职务任免的通知</a><span class="dateRight">[10-21]</span></li><li class="last"><a href="/Item/23579.aspx" target="_blank" title="标题：绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法&#xD;点击数：157&#xD;发表时间：2026年09月02日">绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法</a><span class="dateRight">[09-02]</span></li>
+            <li class="first"><a href="/Item/23950.aspx" target="_blank" title="标题：关于开展11月支部主题党日活动的通知&#xD;点击数：45&#xD;发表时间：2026年11月14日">关于开展11月支部主题党日活动的通知</a><span class="dateRight">[11-14]</span></li><li><a href="/Item/23946.aspx" target="_blank" title="标题：2026年度正高级教师申报拟推荐参评对象公示&#xD;点击数：155&#xD;发表时间：2026年11月13日">2026年度正高级教师申报拟推荐参评对象公示</a><span class="dateRight">[11-13]</span></li><li><a href="/Item/23500.aspx" target="_blank" title="标题：教学楼办公室调整公告(有修改)&#xD;点击数：333&#xD;发表时间：2026年08月12日">教学楼办公室调整公告(有修改)</a><span class="dateRight">[08-12]</span></li><li><a href="/Item/22024.aspx" target="_blank" title="标题：2025年正高级职称评审申报的通知&#xD;点击数：255&#xD;发表时间：2025年10月08日">2025年正高级职称评审申报的通知</a><span class="dateRight">[10-08]</span></li><li><a href="/Item/21245.aspx" target="_blank" title="标题：关于开展支部4月主题党日活动的通知&#xD;点击数：93&#xD;发表时间：2025年04月14日">关于开展支部4月主题党日活动的通知</a><span class="dateRight">[04-14]</span></li><li><a href="/Item/23826.aspx" target="_blank" title="标题：中共绍兴市第一中学委员会关于马丹娜等同志职务任免的通知&#xD;点击数：307&#xD;发表时间：2026年10月21日">中共绍兴市第一中学委员会关于马丹娜等同志职务任免的通知</a><span class="dateRight">[10-21]</span></li><li class="last"><a href="/Item/23579.aspx" target="_blank" title="标题：绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法&#xD;点击数：157&#xD;发表时间：2026年09月02日">绍兴一中教育集团学习优秀学生奖励表彰实施暂行办法</a><span class="dateRight">[09-02]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23946.aspx" target="_self" title="标题：2026年度正高级教师申报拟推荐参评对象公示&#xD;点击数：154&#xD;发表时间：26年11月13日">2026年度正高级教师申报拟推荐参评对象公示</a>[ 11-13 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23946.aspx" target="_self" title="标题：2026年度正高级教师申报拟推荐参评对象公示&#xD;点击数：155&#xD;发表时间：26年11月13日">2026年度正高级教师申报拟推荐参评对象公示</a>[ 11-13 ]</div>
                             <div class="next"><span>下一篇：没有了！</span></div>
                         </div>
                     </div>
