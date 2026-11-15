@@ -1,6 +1,6 @@
 # Parallel incremental crawling
 
-The user requested shorter incremental delays and much higher concurrency.
+Reduce incremental delays and increase crawler concurrency.
 Default incremental updates use 128 workers and zero page delay; full crawls
 keep one worker and a 0.2 second delay unless explicitly overridden.
 Expose both controls through the existing Python entrypoint.
