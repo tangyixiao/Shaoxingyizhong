@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23957.aspx" target="_blank" title="标题：高一：寻秋古道行 毅起向未来&#xD;点击数：105&#xD;发表时间：2026年11月16日">高一：寻秋古道行 毅起向未来</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23958.aspx" target="_blank" title="标题：高二：寻梦浙大启新程·励志笃行向未来&#xD;点击数：104&#xD;发表时间：2026年11月16日">高二：寻梦浙大启新程·励志笃行向未来</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23952.aspx" target="_blank" title="标题：期中考试考风考纪要求&#xD;点击数：71&#xD;发表时间：2026年11月16日">期中考试考风考纪要求</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23959.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：24&#xD;发表时间：2026年11月16日">大扫除通知</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23961.aspx" target="_blank" title="标题：11.14班级一日考核&#xD;点击数：18&#xD;发表时间：2026年11月16日">11.14班级一日考核</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23960.aspx" target="_blank" title="标题：11.13班级一日考核&#xD;点击数：16&#xD;发表时间：2026年11月16日">11.13班级一日考核</a><span class="dateRight">[11-16]</span></li><li class="last"><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：37&#xD;发表时间：2026年11月09日">11.6班级一日考核</a><span class="dateRight">[11-09]</span></li>
+            <li class="first"><a href="/Item/23958.aspx" target="_blank" title="标题：高二：寻梦浙大启新程·励志笃行向未来&#xD;点击数：117&#xD;发表时间：2026年11月16日">高二：寻梦浙大启新程·励志笃行向未来</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23957.aspx" target="_blank" title="标题：高一：寻秋古道行 毅起向未来&#xD;点击数：115&#xD;发表时间：2026年11月16日">高一：寻秋古道行 毅起向未来</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23952.aspx" target="_blank" title="标题：期中考试考风考纪要求&#xD;点击数：77&#xD;发表时间：2026年11月16日">期中考试考风考纪要求</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23959.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：30&#xD;发表时间：2026年11月16日">大扫除通知</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23961.aspx" target="_blank" title="标题：11.14班级一日考核&#xD;点击数：26&#xD;发表时间：2026年11月16日">11.14班级一日考核</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23960.aspx" target="_blank" title="标题：11.13班级一日考核&#xD;点击数：23&#xD;发表时间：2026年11月16日">11.13班级一日考核</a><span class="dateRight">[11-16]</span></li><li class="last"><a href="/Item/23924.aspx" target="_blank" title="标题：11.6班级一日考核&#xD;点击数：37&#xD;发表时间：2026年11月09日">11.6班级一日考核</a><span class="dateRight">[11-09]</span></li>
           
                     </ul>
                 </div>
@@ -436,8 +436,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23959.aspx" target="_self" title="标题：大扫除通知&#xD;点击数：24&#xD;发表时间：26年11月16日">大扫除通知</a>[ 11-16 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23961.aspx" target="_self" title="标题：11.14班级一日考核&#xD;点击数：18&#xD;发表时间：26年11月16日">11.14班级一日考核</a>[ 11-16 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23959.aspx" target="_self" title="标题：大扫除通知&#xD;点击数：30&#xD;发表时间：26年11月16日">大扫除通知</a>[ 11-16 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23961.aspx" target="_self" title="标题：11.14班级一日考核&#xD;点击数：26&#xD;发表时间：26年11月16日">11.14班级一日考核</a>[ 11-16 ]</div>
                         </div>
                     </div>
 
