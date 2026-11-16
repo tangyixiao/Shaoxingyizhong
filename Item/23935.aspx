@@ -369,7 +369,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23918.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：147&#xD;发表时间：2026年11月09日">博雅育人| 德育名师风采录（第十一期）</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23916.aspx" target="_blank" title="标题：聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科市直主题研修活动在我校举行&#xD;点击数：50&#xD;发表时间：2026年11月09日">聚焦教学评一致性  AI赋能思维型课堂  ——高中生物学科…</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23861.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十期）&#xD;点击数：175&#xD;发表时间：2026年10月27日">博雅育人| 德育名师风采录（第十期）</a><span class="dateRight">[10-27]</span></li><li><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：31&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：165&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li><li><a href="/Item/23042.aspx" target="_blank" title="标题：榜样力量｜十佳博雅少年风采录（三）&#xD;点击数：187&#xD;发表时间：2026年04月15日">榜样力量｜十佳博雅少年风采录（三）</a><span class="dateRight">[04-15]</span></li><li class="last"><a href="/Item/23041.aspx" target="_blank" title="标题：深耕文本教研，赋能素养成长  —— 绍兴一中英语教研组主题教研暨校际交流活动圆满举行&#xD;点击数：82&#xD;发表时间：2026年04月15日">深耕文本教研，赋能素养成长  —— 绍兴一中英语教研组主…</a><span class="dateRight">[04-15]</span></li>
+            <li class="first"><a href="/Item/23918.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：151&#xD;发表时间：2026年11月09日">博雅育人| 德育名师风采录（第十一期）</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23935.aspx" target="_blank" title="标题：窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生赴上虞瓷源文化小镇开展秋季研学&#xD;点击数：83&#xD;发表时间：2026年11月11日">窑火淬匠心，少年逐梦行  ——绍兴一中教育集团高三师生…</a><span class="dateRight">[11-11]</span></li><li><a href="/Item/23917.aspx" target="_blank" title="标题：求真同行，博雅共育  ——绍兴一中教育集团举行2026年家长开放日暨第八届家委会成立活动&#xD;点击数：67&#xD;发表时间：2026年11月09日">求真同行，博雅共育  ——绍兴一中教育集团举行2026年家…</a><span class="dateRight">[11-09]</span></li><li><a href="/Item/23861.aspx" target="_blank" title="标题：博雅育人| 德育名师风采录（第十期）&#xD;点击数：177&#xD;发表时间：2026年10月27日">博雅育人| 德育名师风采录（第十期）</a><span class="dateRight">[10-27]</span></li><li><a href="/Item/23734.aspx" target="_blank" title="标题：绍兴市教育教学研究院来我校开展教学调研&#xD;点击数：31&#xD;发表时间：2026年09月28日">绍兴市教育教学研究院来我校开展教学调研</a><span class="dateRight">[09-28]</span></li><li><a href="/Item/23403.aspx" target="_blank" title="标题：忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温情举行&#xD;点击数：165&#xD;发表时间：2026年06月21日">忆母校岁月，筹百卅盛典  ——绍兴一中上海校友会活动温…</a><span class="dateRight">[06-21]</span></li><li class="last"><a href="/Item/23042.aspx" target="_blank" title="标题：榜样力量｜十佳博雅少年风采录（三）&#xD;点击数：187&#xD;发表时间：2026年04月15日">榜样力量｜十佳博雅少年风采录（三）</a><span class="dateRight">[04-15]</span></li>
           
                     </ul>
                 </div>
@@ -426,8 +426,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23918.aspx" target="_self" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：147&#xD;发表时间：26年11月09日">博雅育人| 德育名师风采录（第十一期）</a>[ 11-09 ]</div>
-                            <div class="next"><span>下一篇：没有了！</span></div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23918.aspx" target="_self" title="标题：博雅育人| 德育名师风采录（第十一期）&#xD;点击数：151&#xD;发表时间：26年11月09日">博雅育人| 德育名师风采录（第十一期）</a>[ 11-09 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23955.aspx" target="_self" title="标题：全民消防、生命至上——绍兴一中2026年消防宣传月活动&#xD;点击数：0&#xD;发表时间：26年11月16日">全民消防、生命至上——绍兴一中2026年消防宣传月活动</a>[ 11-16 ]</div>
                         </div>
                     </div>
 
