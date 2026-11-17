@@ -531,7 +531,7 @@ function GetUserInfo1(response){
 <tr class="tableCont">
     <td class="msgT"><a href="/Item/22242.aspx">老是有人故意在三楼男厕所外面拉屎</a></td>
     <td>kouzi1001</td>
-    <td>155</td>
+    <td>156</td>
     <td>2025-11-10</td>
     <td><span class="msg_wait">待回复</span></td>
   </tr>
