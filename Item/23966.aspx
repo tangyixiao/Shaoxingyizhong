@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23969.aspx" target="_blank" title="标题：高一106-119班期中考监考安排和学生考场安排&#xD;点击数：92&#xD;发表时间：2026年11月17日">高一106-119班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：87&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23964.aspx" target="_blank" title="标题：高一101班期中考监考安排和学生考场安排&#xD;点击数：66&#xD;发表时间：2026年11月17日">高一101班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23966.aspx" target="_blank" title="标题：高一102-105班期中考监考安排和学生考场安排&#xD;点击数：65&#xD;发表时间：2026年11月17日">高一102-105班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：56&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23970.aspx" target="_blank" title="标题：高一106-119班期中考考场布置及相关要求&#xD;点击数：49&#xD;发表时间：2026年11月17日">高一106-119班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li><li class="last"><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：40&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li>
+            <li class="first"><a href="/Item/23969.aspx" target="_blank" title="标题：高一106-119班期中考监考安排和学生考场安排&#xD;点击数：103&#xD;发表时间：2026年11月17日">高一106-119班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：100&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23966.aspx" target="_blank" title="标题：高一102-105班期中考监考安排和学生考场安排&#xD;点击数：73&#xD;发表时间：2026年11月17日">高一102-105班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23964.aspx" target="_blank" title="标题：高一101班期中考监考安排和学生考场安排&#xD;点击数：70&#xD;发表时间：2026年11月17日">高一101班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：63&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23970.aspx" target="_blank" title="标题：高一106-119班期中考考场布置及相关要求&#xD;点击数：56&#xD;发表时间：2026年11月17日">高一106-119班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li><li class="last"><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：48&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li>
           
                     </ul>
                 </div>
@@ -437,8 +437,8 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23965.aspx" target="_self" title="标题：高一102-105班期中考考场布置及相关要求&#xD;点击数：27&#xD;发表时间：26年11月17日">高一102-105班期中考考场布置及相关要求</a>[ 11-17 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23967.aspx" target="_self" title="标题：高二201-203班期中考考场布置及相关要求&#xD;点击数：29&#xD;发表时间：26年11月17日">高二201-203班期中考考场布置及相关要求</a>[ 11-17 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23965.aspx" target="_self" title="标题：高一102-105班期中考考场布置及相关要求&#xD;点击数：30&#xD;发表时间：26年11月17日">高一102-105班期中考考场布置及相关要求</a>[ 11-17 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23967.aspx" target="_self" title="标题：高二201-203班期中考考场布置及相关要求&#xD;点击数：34&#xD;发表时间：26年11月17日">高二201-203班期中考考场布置及相关要求</a>[ 11-17 ]</div>
                         </div>
                     </div>
 
