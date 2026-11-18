@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23978.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：68&#xD;发表时间：2026年11月18日">英语教研活动通知</a><span class="dateRight">[11-18]</span></li><li><a href="/Item/23976.aspx" target="_blank" title="标题：物理教研活动通知&#xD;点击数：98&#xD;发表时间：2026年11月17日">物理教研活动通知</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：183&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23969.aspx" target="_blank" title="标题：高一106-119班期中考监考安排和学生考场安排&#xD;点击数：182&#xD;发表时间：2026年11月17日">高一106-119班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：115&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23966.aspx" target="_blank" title="标题：高一102-105班期中考监考安排和学生考场安排&#xD;点击数：125&#xD;发表时间：2026年11月17日">高一102-105班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li class="last"><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：101&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li>
+            <li class="first"><a href="/Item/23978.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：74&#xD;发表时间：2026年11月18日">英语教研活动通知</a><span class="dateRight">[11-18]</span></li><li><a href="/Item/23976.aspx" target="_blank" title="标题：物理教研活动通知&#xD;点击数：99&#xD;发表时间：2026年11月17日">物理教研活动通知</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：183&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23969.aspx" target="_blank" title="标题：高一106-119班期中考监考安排和学生考场安排&#xD;点击数：183&#xD;发表时间：2026年11月17日">高一106-119班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：115&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23966.aspx" target="_blank" title="标题：高一102-105班期中考监考安排和学生考场安排&#xD;点击数：125&#xD;发表时间：2026年11月17日">高一102-105班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li class="last"><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：101&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23971.aspx" target="_self" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：183&#xD;发表时间：26年11月17日">高二204-215班期中考监考安排和学生考场安排</a>[ 11-17 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23976.aspx" target="_self" title="标题：物理教研活动通知&#xD;点击数：98&#xD;发表时间：26年11月17日">物理教研活动通知</a>[ 11-17 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23976.aspx" target="_self" title="标题：物理教研活动通知&#xD;点击数：99&#xD;发表时间：26年11月17日">物理教研活动通知</a>[ 11-17 ]</div>
                         </div>
                     </div>
 
