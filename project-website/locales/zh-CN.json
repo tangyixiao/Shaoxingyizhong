@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "description": "从栏目进入归档文章，按旧站的导航查看新闻和资料。文章保留原来的链接关系，配图与下载附件各有对应的归档位置。"
+  },
+  "pages": {
+    "home": {
+      "title": "浏览绍兴一中旧站 · {project}"
+    },
+    "features": {
+      "title": "项目特点 · {project}",
+      "description": "从栏目进入归档文章，按旧站的导航查看新闻和资料。文章保留原来的链接关系，配图与下载附件各有对应的归档位置。"
+    },
+    "download": {
+      "title": "开始使用 · {project}",
+      "description": "打开归档网站，选择感兴趣的栏目，再进入文章页。"
+    },
+    "community": {
+      "title": "参与项目 · {project}",
+      "description": "从这里找到使用说明、已有讨论和项目变更。"
+    }
+  },
+  "nav": {
+    "home": "首页",
+    "features": "项目特点",
+    "download": "开始使用",
+    "community": "参与项目"
+  },
+  "ui": {
+    "skip_link": "跳转到主要内容",
+    "navigation": "主导航",
+    "open_navigation": "打开导航",
+    "close_navigation": "关闭导航",
+    "language": "选择语言",
+    "theme": "选择主题",
+    "light": "浅色",
+    "dark": "深色",
+    "system": "跟随系统",
+    "platforms": "支持的平台",
+    "github": "GitHub",
+    "view_image": "查看完整演示图",
+    "feature_more": "查看详情",
+    "download": "进入学校网站归档",
+    "release_notes": "仓库源代码",
+    "documentation": "使用文档",
+    "source": "仓库源代码",
+    "illustration": "使用路径",
+    "license": "Apache-2.0（原创归档工具）"
+  },
+  "hero": {
+    "title": [
+      "浏览绍兴一中旧站"
+    ],
+    "description": [
+      "从栏目进入归档文章，按旧站的导航查看新闻和资料。文章保留原来的链接关系，配图与下载附件各有对应的归档位置。"
+    ],
+    "primary_action": "进入学校网站归档",
+    "secondary_action": "查看详情"
+  },
+  "preview": {
+    "caption": "使用路径",
+    "tabs": [
+      {
+        "label": "开始使用",
+        "icon": "book"
+      }
+    ],
+    "items": [
+      {
+        "title": "进入归档首页",
+        "description": "打开归档网站，选择感兴趣的栏目，再进入文章页。",
+        "icon": "book"
+      },
+      {
+        "title": "定位一份附件",
+        "description": "需要核对旧文件时，打开附件索引并按原始相对路径查找对应分卷。",
+        "icon": "link"
+      }
+    ]
+  },
+  "features": {
+    "title": "项目特点",
+    "groups": [
+      {
+        "title": "从栏目读到原文",
+        "description": "站内保留栏目页、文章页和网页模板，可沿着原来的导航查找内容。",
+        "detail": "",
+        "icon": "layers"
+      },
+      {
+        "title": "找回文章附件",
+        "description": "图片按历史路径分卷保存，文档等附件可以从文章链接或附件归档清单查找。",
+        "detail": "",
+        "icon": "book"
+      }
+    ]
+  },
+  "getting_started": {
+    "title": "开始使用 · {project}",
+    "steps": [
+      {
+        "title": "进入归档首页",
+        "description": "打开归档网站，选择感兴趣的栏目，再进入文章页。",
+        "icon": "book"
+      },
+      {
+        "title": "定位一份附件",
+        "description": "需要核对旧文件时，打开附件索引并按原始相对路径查找对应分卷。",
+        "icon": "link"
+      }
+    ]
+  },
+  "community": {
+    "title": "参与 · {project}",
+    "description": "从这里找到使用说明、已有讨论和项目变更。",
+    "links": [
+      {
+        "label": "帮助与反馈",
+        "description": "查看已报告的问题，或描述复现步骤。",
+        "icon": "book"
+      },
+      {
+        "label": "参与讨论",
+        "description": "查看已有话题，分享使用方法或改进建议。",
+        "icon": "link"
+      },
+      {
+        "label": "查看项目变更",
+        "description": "查看已有拉取请求或准备贡献。",
+        "icon": "code"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "{copyright}"
+  }
+}

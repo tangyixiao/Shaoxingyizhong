@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "description": "Read archived news and reference material from Shaoxing No. 1 High School through the original site navigation. Article images and downloads retain links to their archived locations."
+  },
+  "pages": {
+    "home": {
+      "title": "Browse the school website archive · {project}"
+    },
+    "features": {
+      "title": "Features · {project}",
+      "description": "Read archived news and reference material from Shaoxing No. 1 High School through the original site navigation. Article images and downloads retain links to their archived locations."
+    },
+    "download": {
+      "title": "Get started · {project}",
+      "description": "Pick a section on the archived homepage and open an article."
+    },
+    "community": {
+      "title": "Community · {project}",
+      "description": "Find usage guidance, follow discussions and review changes to this project."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Get started",
+    "community": "Community"
+  },
+  "ui": {
+    "skip_link": "Skip to main content",
+    "navigation": "Main navigation",
+    "open_navigation": "Open navigation",
+    "close_navigation": "Close navigation",
+    "language": "Choose language",
+    "theme": "Choose theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "platforms": "Supported platforms",
+    "github": "GitHub",
+    "view_image": "View full illustration",
+    "feature_more": "Explore features",
+    "download": "Open the school archive",
+    "release_notes": "Source repository",
+    "documentation": "Documentation",
+    "source": "Source repository",
+    "illustration": "First steps",
+    "license": "Apache-2.0 (original archive tools)"
+  },
+  "hero": {
+    "title": [
+      "Browse the school website archive"
+    ],
+    "description": [
+      "Read archived news and reference material from Shaoxing No. 1 High School through the original site navigation. Article images and downloads retain links to their archived locations."
+    ],
+    "primary_action": "Open the school archive",
+    "secondary_action": "Explore features"
+  },
+  "preview": {
+    "caption": "First steps",
+    "tabs": [
+      {
+        "label": "Get started",
+        "icon": "book"
+      }
+    ],
+    "items": [
+      {
+        "title": "Open the archive",
+        "description": "Pick a section on the archived homepage and open an article.",
+        "icon": "book"
+      },
+      {
+        "title": "Locate an attachment",
+        "description": "Use the original relative path to find the corresponding package in the attachment index.",
+        "icon": "link"
+      }
+    ]
+  },
+  "features": {
+    "title": "Project features",
+    "groups": [
+      {
+        "title": "Follow the original sections",
+        "description": "Browse the preserved category and article pages along the routes used on the old site.",
+        "detail": "",
+        "icon": "layers"
+      },
+      {
+        "title": "Trace an attachment",
+        "description": "Images are grouped by historical upload path. Other attachments can be located through articles or the archive manifest.",
+        "detail": "",
+        "icon": "book"
+      }
+    ]
+  },
+  "getting_started": {
+    "title": "Get started · {project}",
+    "steps": [
+      {
+        "title": "Open the archive",
+        "description": "Pick a section on the archived homepage and open an article.",
+        "icon": "book"
+      },
+      {
+        "title": "Locate an attachment",
+        "description": "Use the original relative path to find the corresponding package in the attachment index.",
+        "icon": "link"
+      }
+    ]
+  },
+  "community": {
+    "title": "Community · {project}",
+    "description": "Find usage guidance, follow discussions and review changes to this project.",
+    "links": [
+      {
+        "label": "Help and feedback",
+        "description": "Browse existing reports or describe a reproducible problem.",
+        "icon": "book"
+      },
+      {
+        "label": "Join the discussion",
+        "description": "Read existing topics or share questions and ideas.",
+        "icon": "link"
+      },
+      {
+        "label": "Review changes",
+        "description": "Review open pull requests or prepare a contribution.",
+        "icon": "code"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "{copyright}"
+  }
+}

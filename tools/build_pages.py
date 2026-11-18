@@ -180,6 +180,15 @@ def build_site(
         if not path.is_file():
             continue
         relative = path.relative_to(source)
+        if relative.parts[:1] == ("project-website",):
+            if relative.parts[:2] == ("project-website", "site"):
+                destination = output / relative
+                destination.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(path, destination)
+                copied += 1
+            else:
+                skipped += 1
+            continue
         if should_skip(relative):
             skipped += 1
             continue
@@ -230,6 +239,9 @@ def build_site(
                 rendered = add_mobile_tags(rendered, base_path)
             if unresolved:
                 unresolved_by_file[relative.as_posix()] = sorted(unresolved)
+            if destination == output / "index.html" and (source / "project-website/site/index.html").is_file():
+                guide = '<aside aria-label="镜像归档"><a href="project-website/site/index.html">镜像项目指南</a></aside>'
+                rendered = re.sub(r"</body>", lambda match: guide + match.group(), rendered, count=1, flags=re.I)
             destination.write_text(rendered, encoding="utf-8", newline="")
             if destination == output / "index.html":
                 (output / "Default.html").write_text(
