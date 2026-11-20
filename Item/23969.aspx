@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：253&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23969.aspx" target="_blank" title="标题：高一106-119班期中考监考安排和学生考场安排&#xD;点击数：236&#xD;发表时间：2026年11月17日">高一106-119班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：159&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23982.aspx" target="_blank" title="标题：市田径比赛通知&#xD;点击数：107&#xD;发表时间：2026年11月19日">市田径比赛通知</a><span class="dateRight">[11-19]</span></li><li><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：124&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li><li class="last"><a href="/Item/23953.aspx" target="_blank" title="标题：化学教研活动通知&#xD;点击数：137&#xD;发表时间：2026年11月16日">化学教研活动通知</a><span class="dateRight">[11-16]</span></li>
+            <li class="first"><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：255&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23969.aspx" target="_blank" title="标题：高一106-119班期中考监考安排和学生考场安排&#xD;点击数：236&#xD;发表时间：2026年11月17日">高一106-119班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：160&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a><span class="dateRight">[11-17]</span></li><li><a href="/Item/23565.aspx" target="_blank" title="标题：高三09.01协作体考场布置及相关要求&#xD;点击数：104&#xD;发表时间：2026年08月31日">高三09.01协作体考场布置及相关要求</a><span class="dateRight">[08-31]</span></li><li><a href="/Item/23982.aspx" target="_blank" title="标题：市田径比赛通知&#xD;点击数：107&#xD;发表时间：2026年11月19日">市田径比赛通知</a><span class="dateRight">[11-19]</span></li><li><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：124&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a><span class="dateRight">[11-17]</span></li><li class="last"><a href="/Item/23953.aspx" target="_blank" title="标题：化学教研活动通知&#xD;点击数：137&#xD;发表时间：2026年11月16日">化学教研活动通知</a><span class="dateRight">[11-16]</span></li>
           
                     </ul>
                 </div>
@@ -437,7 +437,7 @@ $(document).ready(function()
                         </div>
 
                         <div class="others">
-                            <div class="prev"><span>上一篇：</span><a href="/Item/23968.aspx" target="_self" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：159&#xD;发表时间：26年11月17日">高二201-203班期中考监考安排和学生考场安排</a>[ 11-17 ]</div>
+                            <div class="prev"><span>上一篇：</span><a href="/Item/23968.aspx" target="_self" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：160&#xD;发表时间：26年11月17日">高二201-203班期中考监考安排和学生考场安排</a>[ 11-17 ]</div>
                             <div class="next"><span>下一篇：</span><a href="/Item/23970.aspx" target="_self" title="标题：高一106-119班期中考考场布置及相关要求&#xD;点击数：125&#xD;发表时间：26年11月17日">高一106-119班期中考考场布置及相关要求</a>[ 11-17 ]</div>
                         </div>
                     </div>
