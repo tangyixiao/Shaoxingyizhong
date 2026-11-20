@@ -350,24 +350,25 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-20</span><a href="/Item/23985.aspx" target="_blank" title="标题：高三晚自修（11.23-12.6）&#xD;点击数：24&#xD;发表时间：2026年11月20日">高三晚自修（11.23-12.6）</a></li>
+  <li><span class="date">2026-11-20</span><a href="/Item/23986.aspx" target="_blank" title="标题：关于生物教研活动的通知&#xD;点击数：24&#xD;发表时间：2026年11月20日">关于生物教研活动的通知</a></li>
+<li><span class="date">2026-11-20</span><a href="/Item/23985.aspx" target="_blank" title="标题：高三晚自修（11.23-12.6）&#xD;点击数：30&#xD;发表时间：2026年11月20日">高三晚自修（11.23-12.6）</a></li>
 <li><span class="date">2026-11-19</span><a href="/Item/23984.aspx" target="_blank" title="标题：11.18班级一日考核&#xD;点击数：44&#xD;发表时间：2026年11月19日">11.18班级一日考核</a></li>
 <li><span class="date">2026-11-19</span><a href="/Item/23983.aspx" target="_blank" title="标题：寻物启事（数学课本/作业本/练习簿）&#xD;点击数：53&#xD;发表时间：2026年11月19日">寻物启事（数学课本/作业本/练习簿）</a></li>
-<li><span class="date">2026-11-19</span><a href="/Item/23982.aspx" target="_blank" title="标题：市田径比赛通知&#xD;点击数：106&#xD;发表时间：2026年11月19日">市田径比赛通知</a></li>
-<li><span class="date">2026-11-19</span><a href="/Item/23981.aspx" target="_blank" title="标题：2026年中高级职称评聘岗位核定数公告及申报事项通知&#xD;点击数：248&#xD;发表时间：2026年11月19日">2026年中高级职称评聘岗位核定数公告及申报事项通知</a></li>
+<li><span class="date">2026-11-19</span><a href="/Item/23982.aspx" target="_blank" title="标题：市田径比赛通知&#xD;点击数：107&#xD;发表时间：2026年11月19日">市田径比赛通知</a></li>
+<li><span class="date">2026-11-19</span><a href="/Item/23981.aspx" target="_blank" title="标题：2026年中高级职称评聘岗位核定数公告及申报事项通知&#xD;点击数：252&#xD;发表时间：2026年11月19日">2026年中高级职称评聘岗位核定数公告及申报事项通知</a></li>
 <li><span class="date">2026-11-18</span><a href="/Item/23980.aspx" target="_blank" title="标题：11.17班级一日考核&#xD;点击数：57&#xD;发表时间：2026年11月18日">11.17班级一日考核</a></li>
 <li><span class="date">2026-11-18</span><a href="/Item/23973.aspx" target="_blank" title="标题：寻物启事（篮球/饭卡）&#xD;点击数：77&#xD;发表时间：2026年11月18日">寻物启事（篮球/饭卡）</a></li>
-<li><span class="date">2026-11-18</span><a href="/Item/23979.aspx" target="_blank" title="标题：关于教室广播设备使用提醒&#xD;点击数：91&#xD;发表时间：2026年11月18日">关于教室广播设备使用提醒</a></li>
+<li><span class="date">2026-11-18</span><a href="/Item/23979.aspx" target="_blank" title="标题：关于教室广播设备使用提醒&#xD;点击数：92&#xD;发表时间：2026年11月18日">关于教室广播设备使用提醒</a></li>
 <li><span class="date">2026-11-18</span><a href="/Item/23978.aspx" target="_blank" title="标题：英语教研活动通知&#xD;点击数：129&#xD;发表时间：2026年11月18日">英语教研活动通知</a></li>
-<li><span class="date">2026-11-17</span><a href="/Item/23977.aspx" target="_blank" title="标题：凝心聚力备首考 家校同心促成长  ——我校高三年级召开家长会&#xD;点击数：37&#xD;发表时间：2026年11月17日">凝心聚力备首考 家校同心促成长  ——我校高三年级召开家长会</a></li>
+<li><span class="date">2026-11-17</span><a href="/Item/23977.aspx" target="_blank" title="标题：凝心聚力备首考 家校同心促成长  ——我校高三年级召开家长会&#xD;点击数：38&#xD;发表时间：2026年11月17日">凝心聚力备首考 家校同心促成长  ——我校高三年级召开家长会</a></li>
 <li><span class="date">2026-11-17</span><a href="/Item/23976.aspx" target="_blank" title="标题：物理教研活动通知&#xD;点击数：136&#xD;发表时间：2026年11月17日">物理教研活动通知</a></li>
 <li><span class="date">2026-11-17</span><a href="/Item/23975.aspx" target="_blank" title="标题：11.16班级一日考核&#xD;点击数：58&#xD;发表时间：2026年11月17日">11.16班级一日考核</a></li>
-<li><span class="date">2026-11-17</span><a href="/Item/23974.aspx" target="_blank" title="标题：关于召开高三任课教师团队协作会议的通知&#xD;点击数：182&#xD;发表时间：2026年11月17日">关于召开高三任课教师团队协作会议的通知</a></li>
-<li><span class="date">2026-11-17</span><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：121&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a></li>
-<li><span class="date">2026-11-17</span><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：246&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a></li>
+<li><span class="date">2026-11-17</span><a href="/Item/23974.aspx" target="_blank" title="标题：关于召开高三任课教师团队协作会议的通知&#xD;点击数：183&#xD;发表时间：2026年11月17日">关于召开高三任课教师团队协作会议的通知</a></li>
+<li><span class="date">2026-11-17</span><a href="/Item/23972.aspx" target="_blank" title="标题：高二204-215班期中考考场布置及相关要求&#xD;点击数：122&#xD;发表时间：2026年11月17日">高二204-215班期中考考场布置及相关要求</a></li>
+<li><span class="date">2026-11-17</span><a href="/Item/23971.aspx" target="_blank" title="标题：高二204-215班期中考监考安排和学生考场安排&#xD;点击数：248&#xD;发表时间：2026年11月17日">高二204-215班期中考监考安排和学生考场安排</a></li>
 <li><span class="date">2026-11-17</span><a href="/Item/23970.aspx" target="_blank" title="标题：高一106-119班期中考考场布置及相关要求&#xD;点击数：125&#xD;发表时间：2026年11月17日">高一106-119班期中考考场布置及相关要求</a></li>
 <li><span class="date">2026-11-17</span><a href="/Item/23969.aspx" target="_blank" title="标题：高一106-119班期中考监考安排和学生考场安排&#xD;点击数：234&#xD;发表时间：2026年11月17日">高一106-119班期中考监考安排和学生考场安排</a></li>
-<li><span class="date">2026-11-17</span><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：157&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a></li>
+<li><span class="date">2026-11-17</span><a href="/Item/23968.aspx" target="_blank" title="标题：高二201-203班期中考监考安排和学生考场安排&#xD;点击数：158&#xD;发表时间：2026年11月17日">高二201-203班期中考监考安排和学生考场安排</a></li>
 <li><span class="date">2026-11-17</span><a href="/Item/23967.aspx" target="_blank" title="标题：高二201-203班期中考考场布置及相关要求&#xD;点击数：68&#xD;发表时间：2026年11月17日">高二201-203班期中考考场布置及相关要求</a></li>
 <li><span class="date">2026-11-17</span><a href="/Item/23966.aspx" target="_blank" title="标题：高一102-105班期中考监考安排和学生考场安排&#xD;点击数：149&#xD;发表时间：2026年11月17日">高一102-105班期中考监考安排和学生考场安排</a></li>
 <li><span class="date">2026-11-17</span><a href="/Item/23965.aspx" target="_blank" title="标题：高一102-105班期中考考场布置及相关要求&#xD;点击数：61&#xD;发表时间：2026年11月17日">高一102-105班期中考考场布置及相关要求</a></li>
@@ -377,9 +378,9 @@ function GetUserInfo1(response){
 <li><span class="date">2026-11-16</span><a href="/Item/23961.aspx" target="_blank" title="标题：11.14班级一日考核&#xD;点击数：54&#xD;发表时间：2026年11月16日">11.14班级一日考核</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23960.aspx" target="_blank" title="标题：11.13班级一日考核&#xD;点击数：49&#xD;发表时间：2026年11月16日">11.13班级一日考核</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23959.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：40&#xD;发表时间：2026年11月16日">大扫除通知</a></li>
-<li><span class="date">2026-11-16</span><a href="/Item/23958.aspx" target="_blank" title="标题：高二：寻梦浙大启新程·励志笃行向未来&#xD;点击数：182&#xD;发表时间：2026年11月16日">高二：寻梦浙大启新程·励志笃行向未来</a></li>
-<li><span class="date">2026-11-16</span><a href="/Item/23957.aspx" target="_blank" title="标题：高一：寻秋古道行 毅起向未来&#xD;点击数：182&#xD;发表时间：2026年11月16日">高一：寻秋古道行 毅起向未来</a></li>
-<li><span class="date">2026-11-16</span><a href="/Item/23954.aspx" target="_blank" title="标题：绍兴一中教育集团教科节活动方案&#xD;点击数：192&#xD;发表时间：2026年11月16日">绍兴一中教育集团教科节活动方案</a></li>
+<li><span class="date">2026-11-16</span><a href="/Item/23958.aspx" target="_blank" title="标题：高二：寻梦浙大启新程·励志笃行向未来&#xD;点击数：186&#xD;发表时间：2026年11月16日">高二：寻梦浙大启新程·励志笃行向未来</a></li>
+<li><span class="date">2026-11-16</span><a href="/Item/23957.aspx" target="_blank" title="标题：高一：寻秋古道行 毅起向未来&#xD;点击数：184&#xD;发表时间：2026年11月16日">高一：寻秋古道行 毅起向未来</a></li>
+<li><span class="date">2026-11-16</span><a href="/Item/23954.aspx" target="_blank" title="标题：绍兴一中教育集团教科节活动方案&#xD;点击数：193&#xD;发表时间：2026年11月16日">绍兴一中教育集团教科节活动方案</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23956.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：99&#xD;发表时间：2026年11月16日">信息技术教研活动通知</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23955.aspx" target="_blank" title="标题：全民消防、生命至上——绍兴一中2026年消防宣传月活动&#xD;点击数：44&#xD;发表时间：2026年11月16日">全民消防、生命至上——绍兴一中2026年消防宣传月活动</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23953.aspx" target="_blank" title="标题：化学教研活动通知&#xD;点击数：137&#xD;发表时间：2026年11月16日">化学教研活动通知</a></li>
@@ -391,15 +392,14 @@ function GetUserInfo1(response){
 <li><span class="date">2026-11-13</span><a href="/Item/23947.aspx" target="_blank" title="标题：我校老师获绍兴市思政教育一体化建设专项比赛一等奖&#xD;点击数：15&#xD;发表时间：2026年11月13日">我校老师获绍兴市思政教育一体化建设专项比赛一等奖</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23946.aspx" target="_blank" title="标题：2026年度正高级教师申报拟推荐参评对象公示&#xD;点击数：218&#xD;发表时间：2026年11月13日">2026年度正高级教师申报拟推荐参评对象公示</a></li>
 <li><span class="date">2026-11-13</span><a href="/Item/23945.aspx" target="_blank" title="标题：创新学部11月15日至11月27日晚自习安排&#xD;点击数：102&#xD;发表时间：2026年11月13日">创新学部11月15日至11月27日晚自习安排</a></li>
-<li><span class="date">2026-11-13</span><a href="/Item/23944.aspx" target="_blank" title="标题：高二晚自修（11.16-11.22）&#xD;点击数：104&#xD;发表时间：2026年11月13日">高二晚自修（11.16-11.22）</a></li>
-<li><span class="date">2026-11-12</span><a href="/Item/23943.aspx" target="_blank" title="标题：高一晚自修（11.15-11.20）&#xD;点击数：75&#xD;发表时间：2026年11月12日">高一晚自修（11.15-11.20）</a></li>
+<li><span class="date">2026-11-13</span><a href="/Item/23944.aspx" target="_blank" title="标题：高二晚自修（11.16-11.22）&#xD;点击数：105&#xD;发表时间：2026年11月13日">高二晚自修（11.16-11.22）</a></li>
+<li><span class="date">2026-11-12</span><a href="/Item/23943.aspx" target="_blank" title="标题：高一晚自修（11.15-11.20）&#xD;点击数：76&#xD;发表时间：2026年11月12日">高一晚自修（11.15-11.20）</a></li>
 <li><span class="date">2026-11-12</span><a href="/Item/23942.aspx" target="_blank" title="标题：关于开展教职工生日蛋糕卡采购单位投票表决的通知&#xD;点击数：224&#xD;发表时间：2026年11月12日">关于开展教职工生日蛋糕卡采购单位投票表决的通知</a></li>
 <li><span class="date">2026-11-12</span><a href="/Item/23941.aspx" target="_blank" title="标题：11.11一日考核&#xD;点击数：70&#xD;发表时间：2026年11月12日">11.11一日考核</a></li>
 <li><span class="date">2026-11-12</span><a href="/Item/23940.aspx" target="_blank" title="标题：关于每周四校排球队室内排球馆训练的通知&#xD;点击数：137&#xD;发表时间：2026年11月12日">关于每周四校排球队室内排球馆训练的通知</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23939.aspx" target="_blank" title="标题：11.10班级一日考核&#xD;点击数：74&#xD;发表时间：2026年11月11日">11.10班级一日考核</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：263&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知</a></li>
+<li><span class="date">2026-11-11</span><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：264&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知</a></li>
 <li><span class="date">2026-11-11</span><a href="/Item/23937.aspx" target="_blank" title="标题：第十八期团校上课通知&#xD;点击数：86&#xD;发表时间：2026年11月11日">第十八期团校上课通知</a></li>
-<li><span class="date">2026-11-11</span><a href="/Item/23936.aspx" target="_blank" title="标题：高三诊断性考试成绩分析会通知&#xD;点击数：147&#xD;发表时间：2026年11月11日">高三诊断性考试成绩分析会通知</a></li>
   </div>
                         <div class="page"><span id="pe100_page_全站搜索按标题_普通式" class="pagecss"><!--{pe.begin.pagination}-->
  <a href="search.aspx">首页</a>
