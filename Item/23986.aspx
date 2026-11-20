@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23986.aspx" target="_blank" title="标题：关于生物教研活动的通知&#xD;点击数：72&#xD;发表时间：2026年11月20日">关于生物教研活动的通知</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23987.aspx" target="_blank" title="标题：英语老师汇报课&#xD;点击数：64&#xD;发表时间：2026年11月20日">英语老师汇报课</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：134&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术…</a><span class="dateRight">[11-10]</span></li><li><a href="/Item/23954.aspx" target="_blank" title="标题：绍兴一中教育集团教科节活动方案&#xD;点击数：193&#xD;发表时间：2026年11月16日">绍兴一中教育集团教科节活动方案</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23855.aspx" target="_blank" title="标题：关于开展2027年浙江省教育科学规划课题申报工作的通知&#xD;点击数：166&#xD;发表时间：2026年10月26日">关于开展2027年浙江省教育科学规划课题申报工作的通知</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：264&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的…</a><span class="dateRight">[11-11]</span></li><li class="last"><a href="/Item/23882.aspx" target="_blank" title="标题：研究院2026年11月份市直活动安排&#xD;点击数：244&#xD;发表时间：2026年10月30日">研究院2026年11月份市直活动安排</a><span class="dateRight">[10-30]</span></li>
+            <li class="first"><a href="/Item/23986.aspx" target="_blank" title="标题：关于生物教研活动的通知&#xD;点击数：74&#xD;发表时间：2026年11月20日">关于生物教研活动的通知</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23987.aspx" target="_blank" title="标题：英语老师汇报课&#xD;点击数：68&#xD;发表时间：2026年11月20日">英语老师汇报课</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23931.aspx" target="_blank" title="标题：转发绍兴市教育技术中心关于组织开展2027年全市教育技术（信息化）课题申报的通知&#xD;点击数：134&#xD;发表时间：2026年11月10日">转发绍兴市教育技术中心关于组织开展2027年全市教育技术…</a><span class="dateRight">[11-10]</span></li><li><a href="/Item/23954.aspx" target="_blank" title="标题：绍兴一中教育集团教科节活动方案&#xD;点击数：193&#xD;发表时间：2026年11月16日">绍兴一中教育集团教科节活动方案</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/23855.aspx" target="_blank" title="标题：关于开展2027年浙江省教育科学规划课题申报工作的通知&#xD;点击数：166&#xD;发表时间：2026年10月26日">关于开展2027年浙江省教育科学规划课题申报工作的通知</a><span class="dateRight">[10-26]</span></li><li><a href="/Item/23938.aspx" target="_blank" title="标题：关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的通知&#xD;点击数：264&#xD;发表时间：2026年11月11日">关于绍兴市（市直）杰出教师培育库（B类人才）校内遴选的…</a><span class="dateRight">[11-11]</span></li><li class="last"><a href="/Item/23882.aspx" target="_blank" title="标题：研究院2026年11月份市直活动安排&#xD;点击数：244&#xD;发表时间：2026年10月30日">研究院2026年11月份市直活动安排</a><span class="dateRight">[10-30]</span></li>
           
                     </ul>
                 </div>
@@ -438,7 +438,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23954.aspx" target="_self" title="标题：绍兴一中教育集团教科节活动方案&#xD;点击数：193&#xD;发表时间：26年11月16日">绍兴一中教育集团教科节活动方案</a>[ 11-16 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23987.aspx" target="_self" title="标题：英语老师汇报课&#xD;点击数：64&#xD;发表时间：26年11月20日">英语老师汇报课</a>[ 11-20 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23987.aspx" target="_self" title="标题：英语老师汇报课&#xD;点击数：68&#xD;发表时间：26年11月20日">英语老师汇报课</a>[ 11-20 ]</div>
                         </div>
                     </div>
 
