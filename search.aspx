@@ -350,7 +350,7 @@ function GetUserInfo1(response){
                     <h1 class="title"><b>关键词 "<i></i>"</b></h1>
                     <div class="con">
                         <div class="infoList a14" style="margin-bottom: 30px;"> 
-  <li><span class="date">2026-11-21</span><a href="/Item/23986.aspx" target="_blank" title="标题：关于生物教研活动的通知(有更新)&#xD;点击数：109&#xD;发表时间：2026年11月21日">关于生物教研活动的通知(有更新)</a></li>
+  <li><span class="date">2026-11-21</span><a href="/Item/23986.aspx" target="_blank" title="标题：关于生物教研活动的通知(有更新)&#xD;点击数：111&#xD;发表时间：2026年11月21日">关于生物教研活动的通知(有更新)</a></li>
 <li><span class="date">2026-11-20</span><a href="/Item/23993.aspx" target="_blank" title="标题：11.19班级一日考核&#xD;点击数：33&#xD;发表时间：2026年11月20日">11.19班级一日考核</a></li>
 <li><span class="date">2026-11-20</span><a href="/Item/23992.aspx" target="_blank" title="标题：高二2025秋季研学活动具体安排&#xD;点击数：102&#xD;发表时间：2026年11月20日">高二2025秋季研学活动具体安排</a></li>
 <li><span class="date">2026-11-20</span><a href="/Item/23991.aspx" target="_blank" title="标题：高一2026秋季研学活动具体安排&#xD;点击数：121&#xD;发表时间：2026年11月20日">高一2026秋季研学活动具体安排</a></li>
@@ -385,8 +385,8 @@ function GetUserInfo1(response){
 <li><span class="date">2026-11-16</span><a href="/Item/23961.aspx" target="_blank" title="标题：11.14班级一日考核&#xD;点击数：54&#xD;发表时间：2026年11月16日">11.14班级一日考核</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23960.aspx" target="_blank" title="标题：11.13班级一日考核&#xD;点击数：49&#xD;发表时间：2026年11月16日">11.13班级一日考核</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23959.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：40&#xD;发表时间：2026年11月16日">大扫除通知</a></li>
-<li><span class="date">2026-11-16</span><a href="/Item/23958.aspx" target="_blank" title="标题：高二：寻梦浙大启新程·励志笃行向未来&#xD;点击数：198&#xD;发表时间：2026年11月16日">高二：寻梦浙大启新程·励志笃行向未来</a></li>
-<li><span class="date">2026-11-16</span><a href="/Item/23957.aspx" target="_blank" title="标题：高一：寻秋古道行 毅起向未来&#xD;点击数：194&#xD;发表时间：2026年11月16日">高一：寻秋古道行 毅起向未来</a></li>
+<li><span class="date">2026-11-16</span><a href="/Item/23958.aspx" target="_blank" title="标题：高二：寻梦浙大启新程·励志笃行向未来&#xD;点击数：199&#xD;发表时间：2026年11月16日">高二：寻梦浙大启新程·励志笃行向未来</a></li>
+<li><span class="date">2026-11-16</span><a href="/Item/23957.aspx" target="_blank" title="标题：高一：寻秋古道行 毅起向未来&#xD;点击数：195&#xD;发表时间：2026年11月16日">高一：寻秋古道行 毅起向未来</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23954.aspx" target="_blank" title="标题：绍兴一中教育集团教科节活动方案&#xD;点击数：195&#xD;发表时间：2026年11月16日">绍兴一中教育集团教科节活动方案</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23956.aspx" target="_blank" title="标题：信息技术教研活动通知&#xD;点击数：99&#xD;发表时间：2026年11月16日">信息技术教研活动通知</a></li>
 <li><span class="date">2026-11-16</span><a href="/Item/23955.aspx" target="_blank" title="标题：全民消防、生命至上——绍兴一中2026年消防宣传月活动&#xD;点击数：46&#xD;发表时间：2026年11月16日">全民消防、生命至上——绍兴一中2026年消防宣传月活动</a></li>
