@@ -381,7 +381,7 @@ function GetUserInfo1(response){
                 <div class="bd">
                     <ul class="sideinfoList">
                         
-            <li class="first"><a href="/Item/23991.aspx" target="_blank" title="标题：高一2026秋季研学活动具体安排&#xD;点击数：122&#xD;发表时间：2026年11月20日">高一2026秋季研学活动具体安排</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23992.aspx" target="_blank" title="标题：高二2025秋季研学活动具体安排&#xD;点击数：102&#xD;发表时间：2026年11月20日">高二2025秋季研学活动具体安排</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23984.aspx" target="_blank" title="标题：11.18班级一日考核&#xD;点击数：52&#xD;发表时间：2026年11月19日">11.18班级一日考核</a><span class="dateRight">[11-19]</span></li><li><a href="/Item/23959.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：40&#xD;发表时间：2026年11月16日">大扫除通知</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23993.aspx" target="_blank" title="标题：11.19班级一日考核&#xD;点击数：33&#xD;发表时间：2026年11月20日">11.19班级一日考核</a><span class="dateRight">[11-20]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
+            <li class="first"><a href="/Item/23991.aspx" target="_blank" title="标题：高一2026秋季研学活动具体安排&#xD;点击数：123&#xD;发表时间：2026年11月20日">高一2026秋季研学活动具体安排</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23992.aspx" target="_blank" title="标题：高二2025秋季研学活动具体安排&#xD;点击数：104&#xD;发表时间：2026年11月20日">高二2025秋季研学活动具体安排</a><span class="dateRight">[11-20]</span></li><li><a href="/Item/23984.aspx" target="_blank" title="标题：11.18班级一日考核&#xD;点击数：52&#xD;发表时间：2026年11月19日">11.18班级一日考核</a><span class="dateRight">[11-19]</span></li><li><a href="/Item/23959.aspx" target="_blank" title="标题：大扫除通知&#xD;点击数：40&#xD;发表时间：2026年11月16日">大扫除通知</a><span class="dateRight">[11-16]</span></li><li><a href="/Item/22444.aspx" target="_blank" title="标题：12.8班级一日考核&#xD;点击数：44&#xD;发表时间：2025年12月09日">12.8班级一日考核</a><span class="dateRight">[12-09]</span></li><li><a href="/Item/23993.aspx" target="_blank" title="标题：11.19班级一日考核&#xD;点击数：33&#xD;发表时间：2026年11月20日">11.19班级一日考核</a><span class="dateRight">[11-20]</span></li><li class="last"><a href="/Item/23013.aspx" target="_blank" title="标题：4.9班级一日考核&#xD;点击数：36&#xD;发表时间：2026年04月10日">4.9班级一日考核</a><span class="dateRight">[04-10]</span></li>
           
                     </ul>
                 </div>
@@ -440,7 +440,7 @@ $(document).ready(function()
 
                         <div class="others">
                             <div class="prev"><span>上一篇：</span><a href="/Item/23984.aspx" target="_self" title="标题：11.18班级一日考核&#xD;点击数：52&#xD;发表时间：26年11月19日">11.18班级一日考核</a>[ 11-19 ]</div>
-                            <div class="next"><span>下一篇：</span><a href="/Item/23992.aspx" target="_self" title="标题：高二2025秋季研学活动具体安排&#xD;点击数：102&#xD;发表时间：26年11月20日">高二2025秋季研学活动具体安排</a>[ 11-20 ]</div>
+                            <div class="next"><span>下一篇：</span><a href="/Item/23992.aspx" target="_self" title="标题：高二2025秋季研学活动具体安排&#xD;点击数：104&#xD;发表时间：26年11月20日">高二2025秋季研学活动具体安排</a>[ 11-20 ]</div>
                         </div>
                     </div>
 
